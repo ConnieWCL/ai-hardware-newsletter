@@ -1,0 +1,47 @@
+# 信源清单：priority 为来源权威度(1-10)，参与相关性打分与去重代表条目选择
+# 维护原则：宁缺毋滥；连续 3 天产出为零的源考虑移除（数据在 data/archive/*.json 可查）
+# 2026-08-31 修订：国内求职导向，中文源为主力；已剔除解析失败的源
+# （机器之心/36氪/智东西 XML 损坏，Reddit 被墙，Wareable 格式异常）
+
+# ---- 中文源（国内动态主力，求职导向必备）----
+- name: ithome
+  url: https://www.ithome.com/rss/
+  priority: 8        # 国内消费电子/智能硬件覆盖最全，华为/小米/OPPO 等官宣必发
+- name: ifanr
+  url: https://www.ifanr.com/feed
+  priority: 7        # 新品深度体验与行业分析
+- name: geekpark
+  url: https://www.geekpark.net/rss
+  priority: 7        # 极客公园：AI 产品与前沿硬件
+- name: leikeji
+  url: https://www.leikeji.com/rss
+  priority: 6        # 雷科技：消费电子与 AI 硬件
+- name: leiphone
+  url: https://www.leiphone.com/feed
+  priority: 6        # 雷峰网：AI 与硬科技产业
+- name: sspai
+  url: https://sspai.com/feed
+  priority: 5        # 少数派：智能设备与效率工具
+
+# ---- 英文源（国际动态，与中文源互补）----
+- name: the-verge
+  url: https://www.theverge.com/rss/index.xml
+  priority: 9
+- name: techcrunch
+  url: https://techcrunch.com/feed/
+  priority: 9
+- name: arstechnica
+  url: https://arstechnica.com/feed/
+  priority: 8
+- name: 9to5google
+  url: https://9to5google.com/feed/
+  priority: 8
+- name: engadget
+  url: https://www.engadget.com/rss.xml
+  priority: 7
+- name: roadtovr
+  url: https://www.roadtovr.com/feed/
+  priority: 7
+- name: uploadvr
+  url: https://www.uploadvr.com/feed/
+  priority: 6

@@ -1,0 +1,13 @@
+# 密钥与本地环境
+.env
+*.env
+
+# 运行产物
+out/
+site/            # 公开存档站构建产物，由 scripts/build_site.py 生成并发布到 gh-pages 分支
+__pycache__/
+*.pyc
+.venv/
+
+# 系统
+.DS_Store

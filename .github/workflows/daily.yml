@@ -1,0 +1,66 @@
+name: daily-digest
+
+permissions:
+  contents: write       # 用于把日报存档 push 回仓库
+
+on:
+  schedule:
+    - cron: "30 0 * * *"   # UTC 00:30 = 北京时间 08:30
+  workflow_dispatch:        # 支持手动触发，便于调试
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python main.py
+        env:
+          # LLM：默认 Groq 免费层（见 config/config.yaml）。
+          # 换提供商时无需改代码：在 Settings → Secrets and variables → Actions
+          # → Variables 里加 LLM_BASE_URL / LLM_MODEL 即可整体切换。
+          LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
+          LLM_BASE_URL: ${{ vars.LLM_BASE_URL }}
+          LLM_MODEL: ${{ vars.LLM_MODEL }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          DIGEST_TO: ${{ secrets.DIGEST_TO }}
+          SMTP_HOST: smtp.163.com
+          SMTP_PORT: "465"
+
+      # 存档随仓库提交，周报汇总与信源健康度分析都从这里取数
+      # 方案 A 可能通过 API 同时推送 data/plan_a/，需 rebase 避免冲突
+      - run: |
+          git config user.name "digest-bot"
+          git config user.email "actions@github.com"
+          git add data/archive/ data/plan_a/ || true
+          git commit -m "digest: $(date -u +%F)" || echo "nothing to commit"
+          git pull --rebase origin main || true
+          git push || echo "push failed, archive saved in workflow run"
+
+      # ── 公开存档站：从存档生成静态站点，发布到 gh-pages 分支 ──
+      # 站点与邮件共用同一套渲染模板，不引入第二套前端，零构建工具
+      - name: 生成公开存档站
+        run: python scripts/build_site.py
+
+      - name: 部署到 gh-pages 分支
+        run: |
+          mv site /tmp/site
+          git config user.name "digest-bot"
+          git config user.email "actions@github.com"
+          git checkout --orphan gh-pages
+          git rm -rf . || true
+          rm -rf .github src config tests scripts main.py requirements.txt .env.example data out 2>/dev/null || true
+          cp -r /tmp/site/. .
+          touch .nojekyll
+          git add -A
+          git commit -m "site: $(date -u +%F)" || echo "nothing to commit"
+          git push -f origin gh-pages

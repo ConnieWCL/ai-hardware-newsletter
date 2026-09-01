@@ -1,0 +1,42 @@
+# 关键词体系：双层结构（2026-08-31 修订）
+#
+# strong（核心词）：条目必须至少命中一个核心词才有资格进入候选池。
+#   解决的问题：旧版 launch/review/release 等泛化词单独命中即可入选，
+#   导致"太空望远镜发射""Chess.com 上线扑克站"等无关内容混入日报。
+# weak（泛化词）：仅参与加分，不构成入选资格。
+#
+# 命中规则：英文词按整词匹配（\b 词边界，避免 mate 命中 climate、soc 命中 social），
+# 中文词按子串匹配。
+
+strong:
+  glasses:   # 主线一：AI 眼镜与可穿戴显示
+    [smart glasses, ray-ban, rayban, xreal, rokid, rayneo, even realities, vuzix,
+     雷鸟, 雷朋, 智能眼镜, ar眼镜, ai眼镜, 眼镜]
+  wearable:  # 主线二：AI 耳机、挂件与随身硬件
+    [wearable, pendant, limitless, plaud, ai pin, smart ring, smart jewelry,
+     earbuds, earbuds pro, ai recorder, ai necklace,
+     挂件, 录音笔, 耳机, 吊坠, 戒指, 项链, ai玩具, 智能玩具, 陪伴机器人]
+  devices:   # 主线三：新发布 AI 产品与消费电子（国内厂商为主力）
+    [foldable, tri-fold, flip, huawei, xiaomi, oppo, vivo, honor, oneplus,
+     iphone, apple, samsung, galaxy, vision pro, quest, pixel, macbook, ipad,
+     robot, humanoid, smartwatch, robotaxi,
+     华为, 小米, oppo, vivo, 荣耀, 一加, 苹果, 三星, 折叠, 三折叠, 直板,
+     机器人, 人形机器人, 智能手表, 手环, 平板, 发布会, 新机, 旗舰机]
+  funding:   # 主线四：重大发布与融资动态
+    [raise, raises, funding, series a, series b, seed round, valuation,
+     acquisition, acquisit, ipo, layoffs,
+     融资, 收购, 估值, 轮融, 裁员, 招聘, 扩招]  # 注：不用"上市"，产品上市与公司上市歧义太大
+  chips:     # 主线五：端侧芯片与 SoC
+    [snapdragon, soc, chipset, npu, mediatek, dimensity, qualcomm, rockchip,
+     unisoc, kirin, tensor, on-device, edge ai, copilot+,
+     骁龙, 天玑, 麒麟, 芯片, 端侧, 算力, 大模型, 智能体, agent]
+
+weak: [launch, launches, launched, unveil, unveils, announce, announces,
+       announced, release, releases, released, hands-on, review, first look,
+       发布, 上手, 评测, 开售, 众筹, kickstarter, indiegogo,
+       智能硬件, ai硬件, 硬件]
+
+# 负面词黑名单：命中即整体丢弃（一票否决，优先级最高）。
+# 教训案例：太空望远镜新闻因"After funding struggles"命中 funding 混入候选池。
+negative: [telescope, observatory, casino, poker, chess, lottery,
+           望远镜, 天文, 棋牌, 彩票, 明星代言, 品牌形象大使, 综艺]

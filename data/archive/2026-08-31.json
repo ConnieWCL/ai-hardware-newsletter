@@ -1,0 +1,71 @@
+{
+  "date": "2026-08-31",
+  "mode": "llm",
+  "candidates": 30,
+  "items": [
+    {
+      "title": "华为Pura X View阔直板手机线下展出",
+      "summary": "华为在门店展示阔直板手机，搭载麒麟9030S处理器，计划9月7日正式发布，定位高端商务折叠形态。",
+      "link": "https://www.ithome.com/0/996/468.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "海信发布行业首个家庭智能伴侣级AIOS——JUOS",
+      "summary": "海信在AI战略发布会上推出JUOS系统，实现从指令驱动到意图驱动的全场景AI交互，面向智能电视与家居。",
+      "link": "https://www.ithome.com/0/996/499.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "一加16屏幕核心新特性曝光",
+      "summary": "采用BOE独家定制发光材料X4，行业首个全局165Hz超高刷，配备自研显示芯片，主打流畅视觉体验。",
+      "link": "https://www.ithome.com/0/996/390.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "vivo海外新机T5官宣",
+      "summary": "9月2日将在印度发布，配备6.83英寸曲面AMOLED屏和7050mAh大电池，定位中高端市场。",
+      "link": "https://www.ithome.com/0/996/501.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "小米穿戴8月更新概览",
+      "summary": "小米手环9/10、Redmi Watch 5等多款可穿戴设备推OTA，提升健康监测与交互功能。",
+      "link": "https://www.ithome.com/0/996/412.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "兆易创新加入Zephyr开源RTOS项目",
+      "summary": "成为Zephyr银牌会员，助力其MCU产品在实时操作系统生态中的兼容与优化。",
+      "link": "https://www.ithome.com/0/996/470.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "OpenAI Jalapeño芯片跑分公布",
+      "summary": "在Hot Chips大会上，OpenAI展示首款专为大模型设计的Jalapeño芯片，性能显著提升，标志AI专用芯片时代到来。",
+      "link": "http://www.geekpark.net/news/369555",
+      "comment": "",
+      "source": "geekpark"
+    },
+    {
+      "title": "腾讯混元Hy4 preview调用激增，WorkBuddy紧急扩容",
+      "summary": "自8月28日上线后，混元Hy4在WorkBuddy中使用量大涨，腾讯已启动扩容招聘，暗示AI平台人才需求上升。",
+      "link": "https://www.ithome.com/0/996/414.htm",
+      "comment": "",
+      "source": "ithome"
+    },
+    {
+      "title": "折叠屏的尽头，是不折叠：华为Pura X View体验",
+      "summary": "阔直板设计被视为用户对折叠形态的投票，兼顾大屏与便携，预示折叠手机新方向。",
+      "link": "http://www.geekpark.net/news/369558",
+      "comment": "对AI硬件研发者而言，显示模组与软硬件协同优化是关键突破点。",
+      "source": "geekpark"
+    }
+  ],
+  "elapsed_sec": 23.4
+}

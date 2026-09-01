@@ -1,0 +1,142 @@
+{
+  "date": "2026-09-01",
+  "mode": "llm",
+  "candidates": 30,
+  "overview": [
+    "华为、小米、荣耀等国产手机集体涨价，背后是关键元件成本上升。",
+    "科大讯飞发布端侧百万 Token 大模型，开启移动 AI 推理新里程碑。",
+    "燧原从单卡到万卡集群，展示 AI 计算规模化趋势。"
+  ],
+  "sections": [
+    {
+      "name": "今日速览",
+      "items": [
+        {
+          "title": "国产手机集体涨价",
+          "summary": "华为、小米、荣耀等品牌因关键元件成本上调，今日多机型提价，价格涨幅视机型而定。",
+          "link": "https://www.ithome.com/0/996/815.htm",
+          "comment": "成本压力或促使供应链加速国产化。",
+          "source": "ithome"
+        },
+        {
+          "title": "华为新平板 Air OLED 亮相",
+          "summary": "华为新平板 Air 将采用 12 英寸 2.8K 144Hz OLED 屏，搭载麒麟 T93 处理器，配 10100mAh 大电池。",
+          "link": "https://www.ithome.com/0/996/890.htm",
+          "comment": "OLED 进军平板，提升高端用户体验。",
+          "source": "ithome"
+        },
+        {
+          "title": "科大讯飞端侧百万 Token 大模型开源",
+          "summary": "科大讯飞发布星火 X2.5-4B 与 X2.5-1.7B 两款模型，原生支持 100 万 Token 上下文窗口，是端侧唯一此量级模型。",
+          "link": "https://www.ithome.com/0/996/855.htm",
+          "comment": "为移动 AI 应用提供更长上下文能力。",
+          "source": "ithome"
+        }
+      ]
+    },
+    {
+      "name": "新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 18 Fold 定价破万元",
+          "summary": "小米 18 Fold 全版本预计起售价约 12,000 元，成为小米首款起价破万元的折叠手机，定位高端旗舰。",
+          "link": "https://www.ithome.com/0/996/761.htm",
+          "comment": "价格提升显示小米折叠业务进入利润率更高区间。",
+          "source": "ithome"
+        },
+        {
+          "title": "iQOO 16 外观前瞻",
+          "summary": "iQOO 16 采用全新方形 Deco+ 大 R 角设计，背板使用独家新工艺，三摄串联布局提升机械感。",
+          "link": "https://www.ithome.com/0/996/856.htm",
+          "comment": "外观差异化是 iQOO 抢占中高端市场的关键。",
+          "source": "ithome"
+        },
+        {
+          "title": "一加 16 影像方案曝光",
+          "summary": "一加 16 将搭载 200MP 1/1.4\" 主摄，配 50MP 3X 1/1.95\" 潜望长焦和全新 50MP 超广角，提升影像竞争力。",
+          "link": "https://www.ithome.com/0/996/794.htm",
+          "comment": "高像素主摄是“一加”在高端影像市场的差异化卖点。",
+          "source": "ithome"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "燧原算力长跑：从单卡到万卡集群",
+          "summary": "燧原公司历经八年，从单卡算力提升到万卡集群，重点布局大模型训练与推理的 MoE 与 Age 技术。",
+          "link": "https://www.leiphone.com/category/chipdesign/MKHeALfWYSjLwG6X.html",
+          "comment": "算力规模化为国产 AI 芯片提供新增长点。",
+          "source": "leiphone"
+        },
+        {
+          "title": "国产移动 OS AI 整合趋势",
+          "summary": "华为、小米、OPPO、Vivo、Apple、Honor 均在加速 AI 功能落地，核心思路相同但体验差异化明显。",
+          "link": "http://www.leikeji.com/article/79095",
+          "comment": "竞争焦点在系统层面的 AI 能效与生态。",
+          "source": "leikeji"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "国产手机集体涨价",
+      "summary": "华为、小米、荣耀等品牌因关键元件成本上调，今日多机型提价，价格涨幅视机型而定。",
+      "link": "https://www.ithome.com/0/996/815.htm",
+      "comment": "成本压力或促使供应链加速国产化。",
+      "source": "ithome"
+    },
+    {
+      "title": "华为新平板 Air OLED 亮相",
+      "summary": "华为新平板 Air 将采用 12 英寸 2.8K 144Hz OLED 屏，搭载麒麟 T93 处理器，配 10100mAh 大电池。",
+      "link": "https://www.ithome.com/0/996/890.htm",
+      "comment": "OLED 进军平板，提升高端用户体验。",
+      "source": "ithome"
+    },
+    {
+      "title": "科大讯飞端侧百万 Token 大模型开源",
+      "summary": "科大讯飞发布星火 X2.5-4B 与 X2.5-1.7B 两款模型，原生支持 100 万 Token 上下文窗口，是端侧唯一此量级模型。",
+      "link": "https://www.ithome.com/0/996/855.htm",
+      "comment": "为移动 AI 应用提供更长上下文能力。",
+      "source": "ithome"
+    },
+    {
+      "title": "小米 18 Fold 定价破万元",
+      "summary": "小米 18 Fold 全版本预计起售价约 12,000 元，成为小米首款起价破万元的折叠手机，定位高端旗舰。",
+      "link": "https://www.ithome.com/0/996/761.htm",
+      "comment": "价格提升显示小米折叠业务进入利润率更高区间。",
+      "source": "ithome"
+    },
+    {
+      "title": "iQOO 16 外观前瞻",
+      "summary": "iQOO 16 采用全新方形 Deco+ 大 R 角设计，背板使用独家新工艺，三摄串联布局提升机械感。",
+      "link": "https://www.ithome.com/0/996/856.htm",
+      "comment": "外观差异化是 iQOO 抢占中高端市场的关键。",
+      "source": "ithome"
+    },
+    {
+      "title": "一加 16 影像方案曝光",
+      "summary": "一加 16 将搭载 200MP 1/1.4\" 主摄，配 50MP 3X 1/1.95\" 潜望长焦和全新 50MP 超广角，提升影像竞争力。",
+      "link": "https://www.ithome.com/0/996/794.htm",
+      "comment": "高像素主摄是“一加”在高端影像市场的差异化卖点。",
+      "source": "ithome"
+    },
+    {
+      "title": "燧原算力长跑：从单卡到万卡集群",
+      "summary": "燧原公司历经八年，从单卡算力提升到万卡集群，重点布局大模型训练与推理的 MoE 与 Age 技术。",
+      "link": "https://www.leiphone.com/category/chipdesign/MKHeALfWYSjLwG6X.html",
+      "comment": "算力规模化为国产 AI 芯片提供新增长点。",
+      "source": "leiphone"
+    },
+    {
+      "title": "国产移动 OS AI 整合趋势",
+      "summary": "华为、小米、OPPO、Vivo、Apple、Honor 均在加速 AI 功能落地，核心思路相同但体验差异化明显。",
+      "link": "http://www.leikeji.com/article/79095",
+      "comment": "竞争焦点在系统层面的 AI 能效与生态。",
+      "source": "leikeji"
+    }
+  ],
+  "elapsed_sec": 17.4
+}

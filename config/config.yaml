@@ -1,0 +1,36 @@
+llm:
+  # GitHub Models 已于 2026-07-30 退役，默认使用 Groq 免费层（OpenAI 兼容）
+  # 免费额度：1000 请求/天，对本项目（每天 1 次）绰绰有余
+  base_url: https://api.groq.com/openai/v1
+  model: openai/gpt-oss-120b
+  # 也可用环境变量整体切换提供商：LLM_BASE_URL / LLM_MODEL（如 OpenRouter、DeepSeek）
+  #
+  # ── 免费层速查（2026-08，均为 OpenAI 兼容接口，无需信用卡）────────────
+  # Groq        api.groq.com/openai/v1            1000 请求/天 · 30 RPM · 推理最快
+  # Gemini      generativelanguage.googleapis.com  1500 请求/天(Flash-Lite) · 注意:开通计费后免费层即失效
+  # OpenRouter  openrouter.ai/api/v1              50 请求/天(免费模型) · 充$10一次升至1000/天
+  # Cerebras    api.cerebras.ai/v1                100 万 token/天 · 30 RPM
+  # 智谱GLM     open.bigmodel.cn/api/paas/v4      GLM-4-Flash 永久免费 · 中文摘要质量好 · 国内直连
+  # 硅基流动    api.siliconflow.cn/v1             新用户 2000 万 token 永久有效
+  # ─────────────────────────────────────────────────────────────────────
+  temperature: 0.2
+  # 推理模型（gpt-oss）会先消耗 token 思考，输出给太少会导致 JSON 被截断
+  max_output_tokens: 4000
+  reasoning_effort: low      # 仅 gpt-oss 系列生效
+  # 若持续 429 限流：在仓库 Variables 里设 LLM_MODEL=openai/gpt-oss-20b（更快、额度更宽裕），无需改代码
+
+budget:
+  # 月度 token 预算护栏：本月已用 + 本次预估 > 阈值时，跳过 LLM 走降级版（有版式的标题列表）
+  # 台账存于 data/usage.json，按月分桶。当前用量 ~1 万 token/天，此阈值为正常量的 15 倍，仅作保险丝
+  monthly_tokens: 150000
+
+digest:
+  max_items: 16          # 单日条目上限（国内/国外分栏后扩容）
+  max_age_hours: 36      # 时效窗口
+  language: zh
+
+email:
+  subject_prefix: "AI硬件情报日报"
+  smtp_host: smtp.163.com
+  smtp_port: 465
+  from_name: "AI Hardware Digest"

@@ -1,0 +1,253 @@
+"""把 data/archive/*.json 构建成可发布的静态存档站（输出到 site/）.
+
+设计取舍：
+- 每期页面直接复用邮件渲染器 renderer.render()，保证网页与邮件版式完全一致，
+  不引入第二套模板（避免"邮件好看、网页走形"的维护负担）；
+- 索引页手写，承载项目说明与统计，这个页面是给访客（面试官）看的第一屏；
+- 输出纯静态 HTML + 内联样式，零构建工具、零依赖，GitHub Pages 直接托管。
+"""
+
+from __future__ import annotations
+
+import json
+from datetime import datetime
+from pathlib import Path
+
+import sys
+
+sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))
+
+from digest.config_loader import Digest, DigestItem  # noqa: E402
+from digest.renderer import render  # noqa: E402
+
+ROOT = Path(__file__).resolve().parents[1]
+ARCHIVE_DIR = ROOT / "data" / "archive"    # 方案 B 存档（GitHub Actions 流水线）
+PLAN_A_DIR = ROOT / "data" / "plan_a"      # 方案 A 存档（平台自动化任务上传）
+SITE_DIR = ROOT / "site"
+DIGEST_DIR = SITE_DIR / "digest"
+
+REPO_URL = "https://github.com/ConnieWCL/ai-hardware-newsletter"
+
+# 自定义域名：GitHub Pages 读取发布分支根目录的 CNAME 文件自动绑定。
+# 必须由 build 生成（而非手工放置），因为部署脚本每次 orphan 全量重建 gh-pages。
+# 腾讯云 DNS 需配 CNAME 记录：<子域名> -> conniewcl.github.io
+CUSTOM_DOMAIN = "aihardware-newsletter.hiconnie.com"
+
+CSS = """
+*{box-sizing:border-box;}
+body{margin:0;padding:32px 16px 64px;background:#F5F4F0;color:#3D3A35;
+  font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;
+  -webkit-font-smoothing:antialiased;}
+.wrap{max-width:640px;margin:0 auto;background:#FFFFFF;border:1px solid #E8E4DD;}
+.inner{padding:40px 44px 36px;}
+.mast{border-bottom:2px solid #211E1B;padding-bottom:20px;margin-bottom:22px;}
+.kicker{font-size:11px;letter-spacing:.32em;color:#A85638;font-weight:600;margin-bottom:10px;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;}
+h1{font-size:23px;font-weight:700;letter-spacing:.02em;color:#211E1B;margin:0 0 8px;}
+.sub{font-size:12.5px;color:#8B857C;letter-spacing:.04em;}
+.lede{font-size:13.5px;line-height:1.85;color:#5C5850;margin-bottom:20px;}
+.lede b{color:#211E1B;font-weight:600;}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 26px;}
+.stat{flex:1;min-width:120px;border:1px solid #E8E4DD;padding:14px 16px;}
+.stat .n{font-size:20px;font-weight:700;color:#211E1B;font-family:ui-monospace,'SF Mono',Menlo,monospace;}
+.stat .l{font-size:11px;color:#8B857C;letter-spacing:.06em;margin-top:6px;}
+.sec-t{font-size:11px;letter-spacing:.28em;color:#8B857C;margin:0 0 14px;}
+.latest{display:block;border:1px solid #211E1B;padding:20px 22px;text-decoration:none;margin-bottom:10px;}
+.latest:hover{background:#FAF9F6;}
+.latest .d{font-size:11px;letter-spacing:.14em;color:#A85638;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;margin-bottom:8px;}
+.latest .t{font-size:15px;font-weight:600;color:#211E1B;line-height:1.6;margin-bottom:8px;}
+.latest .m{font-size:12px;color:#8B857C;}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px;
+  padding:15px 0;border-bottom:1px solid #E8E4DD;text-decoration:none;flex-wrap:wrap;}
+.row:hover .rd{color:#A85638;}
+.row:last-child{border-bottom:none;}
+.rd{font-size:13.5px;color:#211E1B;font-family:ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:.03em;}
+.rm{font-size:11.5px;color:#8B857C;}
+.tag{display:inline-block;font-size:10px;letter-spacing:.1em;padding:2px 7px;border:1px solid #D8D4CB;color:#8B857C;}
+.tag.llm{border-color:#D8B7A5;color:#A85638;}
+.tag.pa{border-color:#A85638;background:#A85638;color:#FFF;}
+.foot{margin-top:26px;border-top:2px solid #211E1B;padding-top:18px;
+  font-size:11.5px;line-height:1.9;color:#8B857C;}
+.foot a{color:#A85638;text-decoration:none;border-bottom:1px solid #D8B7A5;}
+@media only screen and (max-width:520px){
+  .inner{padding:28px 22px 24px;}
+  body{padding:16px 8px 40px;}
+}
+"""
+
+BACK_NAV = (
+    '<div style="max-width:600px;margin:0 auto;padding:0 0 12px;font-size:12px;">'
+    '<a href="../index.html" style="color:#A85638;text-decoration:none;'
+    'font-family:ui-monospace,\'SF Mono\',Menlo,monospace;letter-spacing:.04em;">'
+    '← 返回存档目录</a></div>'
+)
+
+
+def _digest_from_json(data: dict) -> Digest:
+    """从存档 JSON 还原 Digest；兼容只有扁平 items 的旧存档."""
+    sections = data.get("sections") or []
+    if not sections and data.get("items"):
+        sections = [{"name": "今日情报", "items": data["items"]}]
+    return Digest(
+        date=data.get("date", ""),
+        overview=data.get("overview", []),
+        sections=[
+            {
+                "name": s.get("name", ""),
+                "items": [
+                    DigestItem(
+                        title=i.get("title", ""),
+                        summary=i.get("summary", ""),
+                        link=i.get("link", ""),
+                        comment=i.get("comment", ""),
+                        source=i.get("source", ""),
+                        region=i.get("region", ""),
+                    )
+                    for i in s.get("items", [])
+                ],
+            }
+            for s in sections
+        ],
+    )
+
+
+def _fmt_date(date_str: str) -> str:
+    try:
+        d = datetime.strptime(date_str, "%Y-%m-%d")
+    except ValueError:
+        return date_str
+    return f"{d.year} 年 {d.month} 月 {d.day} 日"
+
+
+def _index_html(entries: list[dict], stats: dict) -> str:
+    rows = []
+    for e in entries:
+        mode_tag = ('<span class="tag llm">完整版</span>' if e["mode"] == "llm"
+                    else '<span class="tag pa">方案A</span>' if e["mode"] == "plan_a"
+                    else '<span class="tag">速览版</span>')
+        rows.append(
+            f'<a class="row" href="digest/{e["date"]}.html">'
+            f'<span class="rd">{_fmt_date(e["date"])}　{e["issue"]}</span>'
+            f'<span class="rm">{e["count"]} 条　{mode_tag}</span>'
+            f"</a>"
+        )
+
+    latest = entries[0]
+    latest_titles = "、".join(t["title"][:22] for t in latest["items"][:3])
+
+    return f"""<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI 硬件情报日报 · 公开存档</title>
+<meta name="description" content="每日 AI 硬件 / 智能硬件情报日报的公开存档，由个人 Agent 流水线自动生成。">
+<style>{CSS}</style></head><body><div class="wrap"><div class="inner">
+
+<div class="mast">
+  <div class="kicker">AI HARDWARE DIGEST</div>
+  <h1>AI 硬件情报日报 · 公开存档</h1>
+  <div class="sub">每日 08:30 自动生成　·　国内动态优先　·　全部条目附溯源链接</div>
+</div>
+
+<div class="lede">
+双轨采集：<b>方案 A</b>（平台自动化 · WebSearch 全网检索）与<b>方案 B</b>（自建流水线 · 13 个中英文 RSS 信源 + 双层关键词过滤 + LLM 摘要）。
+每日按<b>六个栏目</b>（今日速览 / 国内新品 / 国外新品 / 技术与芯片 / 融资与招聘 / 一句话点评）结构化输出，<b>国内/国外分栏</b>确保国际动态不被国内新闻挤占。
+设计原则：<b>规则负责确定性环节（采集 / 去重 / 事实校验），LLM 只负责判断与表达</b>。
+</div>
+
+<div class="stats">
+  <div class="stat"><div class="n">{stats["days"]}</div><div class="l">累计期数</div></div>
+  <div class="stat"><div class="n">{stats["items"]}</div><div class="l">累计情报条目</div></div>
+  <div class="stat"><div class="n">¥0</div><div class="l">日均成本</div></div>
+</div>
+
+<div class="sec-t">最新一期&ensp;/&ensp;LATEST</div>
+<a class="latest" href="digest/{latest["date"]}.html">
+  <div class="d">{_fmt_date(latest["date"])}　{latest["issue"]}</div>
+  <div class="t">{latest_titles}{"…" if len(latest["items"]) > 3 else ""}</div>
+  <div class="m">共 {latest["count"]} 条　·　点击查看完整日报 →</div>
+</a>
+
+<div class="sec-t" style="margin-top:30px;">历史存档&ensp;/&ensp;ARCHIVE</div>
+{chr(10).join(rows)}
+
+<div class="foot">
+本存档由个人 Agent 流水线自动生成，所有条目均附溯源链接，未作人工编辑。<br>
+技术实现、架构决策与局限说明见 <a href="{REPO_URL}">GitHub 仓库</a>。
+</div>
+
+</div></div></body></html>"""
+
+
+def build() -> dict:
+    # 扫描两个存档目录：方案 B（archive/）+ 方案 A（plan_a/）
+    dirs = [d for d in [ARCHIVE_DIR, PLAN_A_DIR] if d.exists()]
+    if not dirs:
+        raise SystemExit("存档目录不存在")
+    files: list[Path] = []
+    for d in dirs:
+        files.extend(d.glob("*.json"))
+    if not files:
+        raise SystemExit("存档目录为空，无内容可构建")
+
+    DIGEST_DIR.mkdir(parents=True, exist_ok=True)
+
+    # 先载入并过滤空档（调试运行可能产出零条目存档），再编排期号：
+    # 最早一期为 No.001，最新一期号最大
+    loaded: list[dict] = []
+    for path in files:
+        data = json.loads(path.read_text(encoding="utf-8"))
+        if not data.get("items"):
+            continue
+        data["_date"] = data.get("date") or path.stem
+        loaded.append(data)
+    loaded.sort(key=lambda d: d["_date"])
+
+    # 日期去重：plan_a 和 plan_b 可能产出同日存档，优先保留 plan_b（mode=llm），
+    # 因为 plan_b 有完整的栏目结构和来源标注
+    seen_dates: dict[str, dict] = {}
+    for data in loaded:
+        d = data["_date"]
+        if d not in seen_dates:
+            seen_dates[d] = data
+        elif data.get("mode") in ("llm", "fallback") and seen_dates[d].get("mode") == "plan_a":
+            seen_dates[d] = data  # plan_b 优先
+    loaded = list(seen_dates.values())
+    loaded.sort(key=lambda d: d["_date"])
+
+    entries: list[dict] = []
+    for idx, data in enumerate(loaded, 1):
+        date_str = data["_date"]
+        issue_no = f"No.{idx:03d}"
+
+        digest = _digest_from_json(data)
+        page = render(digest, issue_no=issue_no)
+        # 注入返回导航（复用邮件模板，不改动渲染器本身）
+        page = page.replace("<body>", "<body>" + BACK_NAV, 1)
+        (DIGEST_DIR / f"{date_str}.html").write_text(page, encoding="utf-8")
+
+        entries.append({
+            "date": date_str,
+            "issue": issue_no,
+            "mode": data.get("mode", "llm"),
+            "count": len(data["items"]),
+            "items": data["items"],
+        })
+
+    entries.reverse()   # 索引页按日期倒序展示
+
+    stats = {
+        "days": len(entries),
+        "items": sum(e["count"] for e in entries),
+    }
+    (SITE_DIR / "index.html").write_text(_index_html(entries, stats), encoding="utf-8")
+    (SITE_DIR / ".nojekyll").write_text("", encoding="utf-8")
+    # 自定义域名绑定：GitHub Pages 自动读取该文件并签发 HTTPS 证书
+    (SITE_DIR / "CNAME").write_text(CUSTOM_DOMAIN + "\n", encoding="utf-8")
+
+    return {"days": stats["days"], "items": stats["items"], "latest": entries[0]["date"]}
+
+
+if __name__ == "__main__":
+    result = build()
+    print(f"构建完成：{result['days']} 期 / {result['items']} 条 / 最新 {result['latest']}")
+    print(f"输出目录：{SITE_DIR}")

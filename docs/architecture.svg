@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 442" width="100%" role="img" aria-labelledby="title desc">
+<title id="title">AI 硬件情报 Agent · 流水线与关键决策</title>
+<desc id="desc">从采集、双层过滤、两级去重、LLM 摘要、防幻觉校验、渲染发送到存档建站的八阶段流水线，标注每阶段的核心决策与三条降级链路。</desc>
+<defs>
+  <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="context-stroke" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+
+<text x="40" y="34" font-family="-apple-system, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif" font-size="14" font-weight="500" fill="#211E1B">AI 硬件情报 Agent · 流水线与关键决策</text>
+
+<g>
+  <rect x="40" y="56" width="180" height="56" rx="8" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+  <text x="130" y="76" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">采集</text>
+  <text x="130" y="94" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">13 源 · 单源失败跳过</text>
+</g>
+<path d="M226 84 L 268 84" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="276" y="56" width="180" height="56" rx="8" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+  <text x="366" y="76" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">双层过滤</text>
+  <text x="366" y="94" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">strong 资格 · weak 加分</text>
+</g>
+<path d="M462 84 L 504 84" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="512" y="56" width="128" height="56" rx="8" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+  <text x="576" y="76" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">两级去重</text>
+  <text x="576" y="94" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">URL + Jaccard</text>
+</g>
+<path d="M576 118 L 576 140 L 130 140 L 130 168" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="40" y="172" width="180" height="56" rx="8" fill="#FBF3EF" stroke="#A85638" stroke-width="0.5"/>
+  <text x="130" y="192" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">LLM 摘要</text>
+  <text x="130" y="210" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#A85638" text-anchor="middle" dominant-baseline="central">JSON Schema · 中文输出</text>
+</g>
+<path d="M226 200 L 268 200" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="276" y="172" width="180" height="56" rx="8" fill="#FCF0EE" stroke="#A32D2D" stroke-width="0.5"/>
+  <text x="366" y="192" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">防幻觉校验</text>
+  <text x="366" y="210" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#A32D2D" text-anchor="middle" dominant-baseline="central">link 白名单 · 丢弃编造</text>
+</g>
+<path d="M462 200 L 504 200" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="512" y="172" width="128" height="56" rx="8" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+  <text x="576" y="192" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">渲染发送</text>
+  <text x="576" y="210" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">V3-Refined 版式</text>
+</g>
+<path d="M576 234 L 576 256 L 366 256 L 366 284" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="256" y="288" width="220" height="56" rx="8" fill="#FFFFFF" stroke="#D3D1C7" stroke-width="0.5"/>
+  <text x="366" y="308" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="14" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">存档回写仓库</text>
+  <text x="366" y="326" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="12" fill="#5F5E5A" text-anchor="middle" dominant-baseline="central">可审计 · 支撑周报与复盘</text>
+</g>
+<path d="M366 350 L 366 372" fill="none" stroke="#888780" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<g>
+  <rect x="246" y="378" width="240" height="44" rx="8" fill="#FFFFFF" stroke="#A85638" stroke-width="0.5"/>
+  <text x="366" y="400" font-family="-apple-system, 'PingFang SC', sans-serif" font-size="13" font-weight="500" fill="#211E1B" text-anchor="middle" dominant-baseline="central">静态存档站 · GitHub Pages 公开访问</text>
+</g>
+
+</svg>
