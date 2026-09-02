@@ -1,0 +1,138 @@
+{
+  "date": "2026-09-02",
+  "mode": "plan_a",
+  "overview": [
+    "[国内] 华为 Mate XT 2 非凡大师 9/7 发布：G 型双内折、3.5mm 超薄机身、首创硬件级灵盾防窥屏 + HarmonyOS 7，预订秒空。",
+    "[国内] 小米 18 Fold 同台对垒：首发玄戒 O3（3nm）+ 长鑫 LPDDR6，安兔兔 522 万跑分首破 500 万。",
+    "[国外] 苹果 9/9 特别活动：新任 CEO 特努斯上任首秀，iPhone 18 Pro 系列 + 首款折叠屏 iPhone Ultra 同台。",
+    "[国外] Sonos 发布 Sonos 27 系统 + Beam Ultra 回音壁（$699）+ Ace Ultra 耳机（$449）：可接入 ChatGPT、Gemini 等多 AI 模型。"
+  ],
+  "sections": [
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate XT 2 非凡大师：从 Z 型到 G 型，硬件级防窥屏是最大突破",
+          "summary": "展翼 G 型双内折架构——左右两屏向内收拢把柔性屏完全包裹，3.5mm 机身内容纳 10.2 英寸内屏 + 6.4 英寸独立外屏。核心突破是\"灵盾防窥屏\"：通过面板底层光学改造实现硬件级防窥，双击外屏开启，正面亮度几乎无损失、侧视变暗隐身。首发 HarmonyOS 7 + 麒麟 9030 Pro，全系 16GB 运存提供 512GB/1TB/2TB，顶配 2TB 锦紫版标配 M-Pen 手写笔。8 月 31 日预订全版本秒空，起售价预计 19999–21999 元。",
+          "link": "https://k.sina.com.cn/article_7879996426_1d5af340a06801j8s4.html",
+          "source": "新浪",
+          "region": "国内",
+          "comment": "硬件级防窥屏通过面板底层光学改造（类似电控百叶窗），不是贴膜；正看透亮、侧看看不见，无亮度损失。"
+        },
+        {
+          "title": "小米 18 Fold + 玄戒 O3 + 长鑫 LPDDR6：自研 SoC 与国产内存首次端侧合体",
+          "summary": "阔比例内折 + 6.4 英寸外屏。玄戒 O3：台积电 3nm、240 亿晶体管、十核全大核，安兔兔 522 万分（行业首个突破 500 万），GeekBench 6.5 多核 15221 分官方称超越苹果 A19 Pro。GPU 首发 G2-Ultra NX 16 核（性能 +85%、功耗 -64%）。全球首发支持长鑫 LPDDR6 内存，带宽 113.8GB/s、访存延迟 82ns——自研 SoC + 国产内存首次在端侧 AI 推理场景跑通。澎湃 OS + 自研 MiMo 端侧大模型。京东挂牌 59999 元（待 9/7 揭晓官方价）。",
+          "link": "https://news.qq.com/rain/a/20260902A04DYM00",
+          "source": "腾讯 IT 之家",
+          "region": "国内",
+          "comment": "国产\"自研 SoC + 国产内存\"组合首次在端侧 AI 推理场景跑通。"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果 9/9 特别活动前瞻：特努斯上任首秀 + 三款 iPhone 同台",
+          "summary": "新任 CEO 约翰·特努斯首场发布会打\"三 iPhone\"组合：iPhone 18 Pro / Pro Max + 折叠屏 iPhone Ultra（或命名 iPhone Fold），均搭载 A20 Pro 芯片（台积电首款 2nm 手机芯片）。Ultra 采用书本式内折，5.5 英寸外屏 + 7.8 英寸内屏，液态金属铰链，定位最贵 iPhone。Pro Max 或首发机械式可变光圈主摄，并搭载自研 C2 基带。同期登场：Apple Watch Series 12、Watch Ultra 4、AirPods 5。标准版 iPhone 18 与 iPhone Air 2 可能延后至 2027 年春季——苹果首次打破\"九月份全系齐发\"惯例。",
+          "link": "https://vietnamnet.vn/en/iphone-18-pro-arrives-september-9-but-one-model-may-be-missing-2551239.html",
+          "source": "VietnamNet / 9to5Mac",
+          "region": "国外",
+          "comment": "苹果首次打破\"九月份全系齐发\"惯例，标准版 iPhone 18 / iPhone Air 2 延后至 2027 春。"
+        },
+        {
+          "title": "Sonos 27 + Beam Ultra 回音壁 + Ace Ultra 耳机：家庭音频的\"操作系统级\"AI 升级",
+          "summary": "Sonos 自 2024 年 App 改版翻车以来最大规模集中发布。Sonos 27 操作系统内置 27voice 语音助手，核心是 27mcp 标准接口：可接入 ChatGPT、Gemini 等第三方 AI 模型，用户能创建最多 10 个自定义 Agent 并定制声音（2027 年全面上线）。Ace Ultra 头戴耳机（$449）：自研 40mm 单元 + 10 麦阵列、降噪深度翻倍、续航 35 小时，支持耳机-音箱间一键切换音频。Beam Ultra 回音壁（$699）：5.0 声道升级到 7.1.2，加入双向上发声单元与 4 档 AI 语音增强。9/8 推送系统更新，9/29 硬件发货。",
+          "link": "https://on.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+          "source": "The Verge",
+          "region": "国外",
+          "comment": "The Verge 编辑初听评价\"impressed\"，但保留 home 测试判断。"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "国产手机集体涨价千元 + 高通全产品线调价落地",
+          "summary": "9 月 1 日华为 Mate 80/80 Pro/Pro Max（顶配 9999 元，已逼近万元关口）+ 小米 17 系列 + 荣耀 Magic8/Power2 全线调价 200–1000 元；REDMI K90 至尊版、Tubro 5 Max 同步跟涨。同一时段高通全产品线芯片涨价正式生效（旗舰主控涨幅最高 15%）。核心传导链条：AI 算力需求 → HBM/DDR5 产能虹吸 → 消费级 DRAM/NAND 涨价 300%+ → BOM 飙 15–25% → 终端售价上调。Counterpoint 预测 2026 年全球手机出货量同比下降 14.3%，2028 年才有望恢复增长——手机\"低价内卷时代\"基本结束。",
+          "link": "https://k.sina.com.cn/article_7879923041_1d5ae156106801kcmm.html",
+          "source": "新浪财经",
+          "region": "国内",
+          "comment": "AI 算力需求虹吸 HBM/DDR5 产能，消费级存储一年内涨三倍多，是本轮涨价的根因。"
+        },
+        {
+          "title": "合见工软发布 UniVista 3DIC Designer：国产首款三维芯片物理设计工具",
+          "summary": "9 月 2 日国内 EDA 企业合见工软推出 UniVista 3DIC Designer，采用自研真三维布局算法，支持 2-die/3-die 逻辑折叠与异构堆叠，为 AI 算力芯片提供自主可控三维设计底座。在 HBM/CPO/3D 封装日益复杂的趋势下，国产 EDA 工具链首次覆盖 3DIC 物理设计环节，与 Cadence 3DInnovus、Synopsys 3DIC Compiler 形成对位。",
+          "link": "https://new.qq.com/rain/a/20260902A03N0S00",
+          "source": "腾讯 IT 时代网",
+          "region": "国内",
+          "comment": "填补国产 EDA 在 3DIC 物理设计环节的空白。"
+        },
+        {
+          "title": "高通第六代骁龙 8 至尊版定档 9/22 首发：2nm 制程 + 5.01GHz 主频",
+          "summary": "移动 CPU 主频首次突破 5.0GHz。CPU 架构升级 2+3+3 双层全大核（2 颗 5.01GHz 超大核 + 3 颗 4.03GHz + 3 颗 3.74GHz），Adreno 850 GPU 频率突破 1.5GHz + 独立高速 HPM 缓存，硬件级光追升级。NPU 全面强化端侧大模型与 AI 智能体运算。首批机型集中在 9 月发布，但同代小米 18 Fold 已抢下\"首个 3nm+长鑫 LPDDR6\"先发节奏，骁龙 9 芯片的 2nm 工艺价值更体现在绝对性能与能效。",
+          "link": "https://www.toutiao.com/article/7680604890112033320/",
+          "source": "今日头条",
+          "region": "国外",
+          "comment": "移动 CPU 主频首次突破 5.0GHz，但与小米玄戒 O3 的\"3nm+LPDDR6 国产组合\"卖点错位竞争。"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "联合影像完成数亿元级融资：具身机器人视觉的\"隐形巨头\"浮出水面",
+          "summary": "9 月 2 日具身机器人视觉头部厂商联合影像完成新一轮数亿元级融资（敦鸿资产、杭州具身智能产业基金、富阳产投、智平方联合投资），年营收已迈过 20 亿元。客户名单覆盖宇树、智平方、自变量、Rokid、Pico 等几乎所有国内头部具身机器人厂商，同时也在推进杭州十亿元级智能视觉产业项目。团队从手机摄像头模组起家，2018 年切扫地机器人视觉，2021 年布局具身智能——典型的\"上一波红利养下一波赛道\"模式。",
+          "link": "https://www.163.com/dy/article/L5QFK1HJ05198R3E.html",
+          "source": "网易 投资界",
+          "region": "国内",
+          "comment": "营收 20 亿的\"水下限巨头\"——联合影像已是国内具身视觉供应链的关键节点。"
+        },
+        {
+          "title": "玄创机器人完成数千万元 A1 轮：特种工业具身智能跑通\"国内+海外\"双交付",
+          "summary": "9 月 1 日哈工大系特种工业具身机器人公司玄创机器人完成 A1 轮（前三轮老股东前海方舟、西湖科创投均跟投，光洋股份入局）。XBOT-AEGIS 架构三层解耦：上层任务决策、中层动作规划、底层毫秒级安全冗余（拦截异常指令）。已在中石油、万华化学等特危化客户现场交付，并获得南苏丹、马来西亚海外订单。B 端特种工业是具身智能\"先于 C 端跑通 ROI\"的现实路径，与 Figure AI 在物流仓储的路径形成对照。",
+          "link": "https://caifuhao.eastmoney.com/news/20260902082647069288300",
+          "source": "东方财富 潮涌AI",
+          "region": "国内",
+          "comment": "B 端特种工业是具身智能先于 C 端跑通 ROI 的现实路径。"
+        },
+        {
+          "title": "OpenAI CEO 奥尔特曼明确\"不碰智能眼镜\"：Sweet Pea AI 硬件延续分形态推进",
+          "summary": "当地时间 9 月 1 日，奥尔特曼在 Alex Heath《Sources Podcast》采访中明确表态：\"跟戴着摄像机和灯光装置的人交谈让我不舒服。\" 他将未来硬件分为桌面 / 口袋 / 穿戴三类，暗示 OpenAI×Jony Ive 的 AI 设备（代号 Sweet Pea）不太可能走眼镜形态，定位为更\"peaceful and calm\"的 AI 语音设备。背景是 2026 年 Q2 美国因智能眼镜引发的隐私投诉同比激增 340%，Meta Reality Labs 同期营收 4.31 亿美元正猛增——AI 硬件的\"眼镜 vs 非眼镜\"形态之争将被分化竞争。",
+          "link": "https://www.toutiao.com/article/7680727024016671258",
+          "source": "今日头条 IT之家",
+          "region": "国外",
+          "comment": "OpenAI 放弃眼镜形态，AI 硬件形态之争走向分化。"
+        }
+      ]
+    },
+    {
+      "name": "一句话点评",
+      "items": [
+        {
+          "title": "9 月开局是\"国产三折叠 + 国产 3nm SoC\"对垒\"苹果折叠屏 + 高通 2nm\"的正面战",
+          "summary": "华为 Mate XT 2 灵盾防窥屏、小米 18 Fold 玄戒 O3+长鑫 LPDDR6 国产组合，与 A20 Pro 2nm、骁龙 8 Elite Gen 5 在 9/7-9/22 九天里密集交手。但底层更值得警惕的是：AI 算力虹吸 HBM/DRAM 产能 → 终端 BOM 涨幅 15-25% → 国产旗舰顶配全线冲破万元，Counterpoint 已经把 2026 全球手机出货预测下调 14.3%——下一轮 AI 硬件的胜负，将取决于谁能\"在涨价潮中守住换机意愿\"与\"在端侧 AI 中跑出真实场景\"两条线。",
+          "link": "https://www.toutiao.com/article/7680235369270411782",
+          "source": "北京日报",
+          "region": "",
+          "comment": "下一轮 AI 硬件的胜负，取决于\"涨价潮中守住换机意愿\"与\"端侧 AI 中跑出真实场景\"两条线。"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {"title": "华为 Mate XT 2 非凡大师：从 Z 型到 G 型，硬件级防窥屏是最大突破", "summary": "展翼 G 型双内折架构，3.5mm 机身内容纳 10.2 英寸内屏 + 6.4 英寸独立外屏。灵盾防窥屏通过面板底层光学改造实现硬件级防窥。首发 HarmonyOS 7 + 麒麟 9030 Pro，全系 16GB 运存 512GB/1TB/2TB。8 月 31 日预订秒空，起售预计 19999–21999 元。", "link": "https://k.sina.com.cn/article_7879996426_1d5af340a06801j8s4.html", "source": "新浪", "region": "国内", "comment": "硬件级防窥屏不是贴膜，是面板底层光学改造。"},
+    {"title": "小米 18 Fold + 玄戒 O3 + 长鑫 LPDDR6：自研 SoC 与国产内存首次端侧合体", "summary": "阔比例内折。玄戒 O3：3nm、十核全大核、安兔兔 522 万分（首破 500 万）、多核 15221 称超 A19 Pro。GPU G2-Ultra NX 16 核（+85%/-64%）。首发长鑫 LPDDR6 内存 113.8GB/s 带宽。澎湃 OS + MiMo 端侧大模型。京东挂牌 59999 元。", "link": "https://news.qq.com/rain/a/20260902A04DYM00", "source": "腾讯 IT 之家", "region": "国内", "comment": "国产\"自研 SoC + 国产内存\"组合首次端侧跑通。"},
+    {"title": "苹果 9/9 特别活动前瞻：特努斯上任首秀 + 三款 iPhone 同台", "summary": "iPhone 18 Pro / Pro Max + 折叠屏 iPhone Ultra，均搭载 A20 Pro（2nm）。Ultra 书本式内折 5.5/7.8 英寸，液态金属铰链。Pro Max 或首发机械式可变光圈。同期 Watch 12/Ultra 4、AirPods 5。标准版 iPhone 18 / iPhone Air 2 延后至 2027 春。", "link": "https://vietnamnet.vn/en/iphone-18-pro-arrives-september-9-but-one-model-may-be-missing-2551239.html", "source": "VietnamNet / 9to5Mac", "region": "国外", "comment": "苹果首次打破\"九月份全系齐发\"惯例。"},
+    {"title": "Sonos 27 + Beam Ultra 回音壁 + Ace Ultra 耳机：家庭音频的\"操作系统级\"AI 升级", "summary": "Sonos 27 系统内置 27voice 与 27mcp 接入 ChatGPT/Gemini，最多 10 个自定义 Agent（2027 上线）。Ace Ultra 头戴 $449、35 小时续航；Beam Ultra 回音壁 $699、5.0 升级到 7.1.2 声道。9/8 系统推送，9/29 发货。", "link": "https://on.theverge.com/tech/987574/sonos-beam-ultra-first-listen", "source": "The Verge", "region": "国外", "comment": "Sonos 自 2024 年 App 改版翻车以来最大规模集中发布。"},
+    {"title": "国产手机集体涨价千元 + 高通全产品线调价落地", "summary": "9/1 华为 Mate 80/Pro/Pro Max（顶配 9999 元）+ 小米 17 系列 + 荣耀 Magic8/Power2 全线调价 200–1000 元；REDMI K90 至尊版同步跟涨。高通全芯片涨价生效（旗舰主控 +15%）。AI 算力虹吸 HBM/DDR5 → DRAM/NAND 涨价 300%+ → BOM +15-25%。", "link": "https://k.sina.com.cn/article_7879923041_1d5ae156106801kcmm.html", "source": "新浪财经", "region": "国内", "comment": "AI 算力虹吸 HBM/DDR5 产能，是本轮涨价根因。"},
+    {"title": "合见工软发布 UniVista 3DIC Designer：国产首款三维芯片物理设计工具", "summary": "9/2 合见工软推出 UniVista 3DIC Designer，自研真三维布局算法，支持 2/3-die 异构堆叠。国产 EDA 首次覆盖 3DIC 物理设计环节，与 Cadence 3DInnovus、Synopsys 3DIC Compiler 形成对位。", "link": "https://new.qq.com/rain/a/20260902A03N0S00", "source": "腾讯 IT 时代网", "region": "国内", "comment": "填补国产 EDA 在 3DIC 物理设计环节空白。"},
+    {"title": "高通第六代骁龙 8 至尊版定档 9/22 首发：2nm 制程 + 5.01GHz 主频", "summary": "CPU 2+3+3 全大核，2 颗 5.01GHz 超大核（移动 CPU 首破 5GHz）。Adreno 850 GPU、独立 HPM 缓存。NPU 强化端侧大模型与 AI 智能体。首批机型 9 月发布，但与小米玄戒 O3 的\"3nm+LPDDR6 国产组合\"卖点错位竞争。", "link": "https://www.toutiao.com/article/7680604890112033320/", "source": "今日头条", "region": "国外", "comment": "移动 CPU 主频首破 5GHz，与玄戒 O3 国产组合形成错位竞争。"},
+    {"title": "联合影像完成数亿元级融资：具身机器人视觉的\"隐形巨头\"浮出水面", "summary": "9/2 联合影像完成数亿元级融资（敦鸿资产、杭州具身智能产业基金等），年营收 20 亿元。客户覆盖宇树、智平方、自变量、Rokid、Pico 等具身头部厂商。推进杭州十亿元级智能视觉产业项目。", "link": "https://www.163.com/dy/article/L5QFK1HJ05198R3E.html", "source": "网易 投资界", "region": "国内", "comment": "营收 20 亿的水下限巨头——具身视觉供应链关键节点。"},
+    {"title": "玄创机器人完成数千万元 A1 轮：特种工业具身智能跑通\"国内+海外\"双交付", "summary": "9/1 哈工大系玄创机器人 A1 轮（前海方舟/西湖科创投跟投+光洋股份入局）。XBOT-AEGIS 三层解耦架构。中石油、万华化学等已交付，南苏丹、马来西亚获订单。B 端特种工业先于 C 端跑通 ROI。", "link": "https://caifuhao.eastmoney.com/news/20260902082647069288300", "source": "东方财富 潮涌AI", "region": "国内", "comment": "B 端特种工业是具身智能先于 C 端跑通 ROI 的现实路径。"},
+    {"title": "OpenAI CEO 奥尔特曼明确\"不碰智能眼镜\"：Sweet Pea AI 硬件延续分形态推进", "summary": "9/1 Altman 在 Health 播客表态\"不喜欢智能眼镜\"，并把未来硬件分为桌面/口袋/穿戴三类。Sweet Pea（OpenAI×Jony Ive AI 设备）不太可能走眼镜形态。背景：美国 2026 Q2 智能眼镜隐私投诉同比 +340%。", "link": "https://www.toutiao.com/article/7680727024016671258", "source": "今日头条 IT之家", "region": "国外", "comment": "OpenAI 放弃眼镜形态，AI 硬件形态之争走向分化。"},
+    {"title": "9 月开局是\"国产三折叠 + 国产 3nm SoC\"对垒\"苹果折叠屏 + 高通 2nm\"的正面战", "summary": "Mate XT 2 灵盾防窥屏、小米 18 Fold 玄戒 O3+长鑫 LPDDR6，对位 A20 Pro 2nm、骁龙 8 Elite Gen 5。底层变量：AI 算力虹吸 HBM/DRAM 产能 → 终端 BOM +15-25% → 国产旗舰顶配全线冲破万元。", "link": "https://www.toutiao.com/article/7680235369270411782", "source": "北京日报", "region": "", "comment": "下一轮 AI 硬件胜负取决于\"涨价潮中守住换机意愿\"与\"端侧 AI 中跑出真实场景\"两条线。"}
+  ]
+}
