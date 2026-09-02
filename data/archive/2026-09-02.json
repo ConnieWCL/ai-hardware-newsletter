@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-02",
+  "mode": "llm",
+  "candidates": 30,
+  "overview": [
+    "[国内] 小米将在9月7日发布全新折叠屏旗舰18 Fold及澎程系列新车，抢占秋季旗舰高端市场。",
+    "[国内] 华为9月7日同步发布Mate XT 2、全新MatePad Air平板及WATCH Ultimate 2智能手表，布局全场景AI硬件。",
+    "[国外] 苹果新任CEO约翰·特努斯上任，预计将推动AI芯片与折叠屏iPhone研发。",
+    "[国外] Samsung Galaxy Z Fold 8需求旺盛，已提前调配零部件以满足产能。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米秋季旗舰发布会定档9月7日：18 Fold折叠屏手机、澎程N系列新车",
+          "summary": "小米将在9月7日晚7点发布18 Fold全新折叠屏旗舰，搭载首发玄戒O3芯片；同时推出澎程N70 Pro/Max、N90 Max三款新车，均配1.5T增程器。",
+          "link": "https://www.ithome.com/0/997/228.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为Mate XT 2发布暨全场景新品亮相：MatePad Air平板与WATCH Ultimate 2智能手表",
+          "summary": "华为9月7日发布Mate XT 2旗舰手机，配合全新MatePad Air（OLED云晰柔光屏、支持M‑Pencil Pro）及WATCH Ultimate 2（非凡探索）实现全场景AI生态。",
+          "link": "https://www.ithome.com/0/997/224.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple计划在下周发布首款折叠iPhone，CEO约翰·特努斯暗示AI加持",
+          "summary": "新任CEO约翰·特努斯在内部备忘录中透露，下周将举办iPhone发布会，可能推出首款折叠屏机型并强化AI功能。",
+          "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8需求爆棚，提前调配零部件以提升产能",
+          "summary": "受市场热捧，Samsung将从下一代手机调配零件，确保Z Fold 8的供应链能够满足持续增长的订单。",
+          "link": "https://9to5google.com/2026/08/31/samsung-galaxy-z-fold-8-demand-2027-parts-report/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "AfterQuery完成3.2亿美元融资，成为Y Combinator史上最快独角兽",
+          "summary": "AI模型训练平台AfterQuery获数轮融资，总估值3.2亿美元，暗示其将快速扩张研发与招聘团队。",
+          "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Google Android更新聚焦运动病、无障碍等功能",
+          "summary": "最新Android系统加入防止运动病的视觉优化、无障碍改进等新特性，提升用户体验。",
+          "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung One UI 9 beta基于Android 17扩展至多款Galaxy手机",
+          "summary": "One UI 9 beta已在多款Galaxy机型上推送，带来更流畅的系统体验和新AI功能。",
+          "link": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "小米发布玄戒O100高带宽AI加速芯片，采用6nm工艺与3D堆叠",
+          "summary": "玄戒O100实现1.22TB/s存算一体带宽，标志小米在AI芯片产业化进入关键阶段。",
+          "link": "https://www.leiphone.com/category/chips/xtIydm5BXbGcQCfI.html",
+          "comment": "对AI硬件研发岗位需求将显著提升。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO联合高校推出端侧AI记忆评测基准MobileMem",
+          "summary": "MobileMem用于衡量移动端AI模型的内存占用，帮助芯片与算法协同优化。",
+          "link": "https://www.ithome.com/0/997/251.htm",
+          "comment": "显示OPPO在AI算力评测生态布局。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "小米秋季旗舰发布会定档9月7日：18 Fold折叠屏手机、澎程N系列新车",
+      "summary": "小米将在9月7日晚7点发布18 Fold全新折叠屏旗舰，搭载首发玄戒O3芯片；同时推出澎程N70 Pro/Max、N90 Max三款新车，均配1.5T增程器。",
+      "link": "https://www.ithome.com/0/997/228.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为Mate XT 2发布暨全场景新品亮相：MatePad Air平板与WATCH Ultimate 2智能手表",
+      "summary": "华为9月7日发布Mate XT 2旗舰手机，配合全新MatePad Air（OLED云晰柔光屏、支持M‑Pencil Pro）及WATCH Ultimate 2（非凡探索）实现全场景AI生态。",
+      "link": "https://www.ithome.com/0/997/224.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple计划在下周发布首款折叠iPhone，CEO约翰·特努斯暗示AI加持",
+      "summary": "新任CEO约翰·特努斯在内部备忘录中透露，下周将举办iPhone发布会，可能推出首款折叠屏机型并强化AI功能。",
+      "link": "https://techcrunch.com/2026/09/01/john-ternus-hypes-huge-launch-next-week-in-first-memo-as-apple-ceo/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8需求爆棚，提前调配零部件以提升产能",
+      "summary": "受市场热捧，Samsung将从下一代手机调配零件，确保Z Fold 8的供应链能够满足持续增长的订单。",
+      "link": "https://9to5google.com/2026/08/31/samsung-galaxy-z-fold-8-demand-2027-parts-report/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "AfterQuery完成3.2亿美元融资，成为Y Combinator史上最快独角兽",
+      "summary": "AI模型训练平台AfterQuery获数轮融资，总估值3.2亿美元，暗示其将快速扩张研发与招聘团队。",
+      "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Google Android更新聚焦运动病、无障碍等功能",
+      "summary": "最新Android系统加入防止运动病的视觉优化、无障碍改进等新特性，提升用户体验。",
+      "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung One UI 9 beta基于Android 17扩展至多款Galaxy手机",
+      "summary": "One UI 9 beta已在多款Galaxy机型上推送，带来更流畅的系统体验和新AI功能。",
+      "link": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "小米发布玄戒O100高带宽AI加速芯片，采用6nm工艺与3D堆叠",
+      "summary": "玄戒O100实现1.22TB/s存算一体带宽，标志小米在AI芯片产业化进入关键阶段。",
+      "link": "https://www.leiphone.com/category/chips/xtIydm5BXbGcQCfI.html",
+      "comment": "对AI硬件研发岗位需求将显著提升。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO联合高校推出端侧AI记忆评测基准MobileMem",
+      "summary": "MobileMem用于衡量移动端AI模型的内存占用，帮助芯片与算法协同优化。",
+      "link": "https://www.ithome.com/0/997/251.htm",
+      "comment": "显示OPPO在AI算力评测生态布局。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 20.2
+}
