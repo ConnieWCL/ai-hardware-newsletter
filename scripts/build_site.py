@@ -145,7 +145,7 @@ def _index_html(entries: list[dict], stats: dict) -> str:
 <div class="mast">
   <div class="kicker">AI HARDWARE DIGEST</div>
   <h1>AI 硬件情报日报 · 公开存档</h1>
-  <div class="sub">每日 08:30 自动生成　·　国内动态优先　·　全部条目附溯源链接</div>
+  <div class="sub">每日上午 10 点自动生成　·　国内动态优先　·　全部条目附溯源链接</div>
 </div>
 
 <div class="lede">

@@ -1,6 +1,6 @@
 # AI Hardware Digest — 多源 AI 硬件情报日报 Agent
 
-个人侧项目：自动追踪国际智能硬件 / AI 硬件 / AI 产品动态，每天 08:30 生成一份 5 分钟读完、全条目可溯源的结构化邮件日报。
+个人侧项目：自动追踪国际智能硬件 / AI 硬件 / AI 产品动态，每天上午 10 点生成一份 5 分钟读完、全条目可溯源的结构化邮件日报。
 
 **公开存档**：https://conniewcl.github.io/ai-hardware-newsletter/　·　**产品文档**：[docs/PRD.md](docs/PRD.md)
 
@@ -39,7 +39,7 @@ python tests/test_deduper.py  # 单元测试
 
 1. 推送到 GitHub 私有仓库
 2. 在仓库 Settings → Secrets 配置 `LLM_API_KEY` / `SMTP_USER` / `SMTP_PASS` / `DIGEST_TO`
-3. 完成。每天 UTC 00:30（北京 08:30）自动执行，存档自动回提交；Actions 页可手动触发调试
+3. 完成。每天上午自动执行（`repository_dispatch` 外部触发为主、cron 兜底，规避 GitHub 定时高峰排队延迟），存档自动回提交；Actions 页可手动触发调试
 
 ## 配置即调优
 

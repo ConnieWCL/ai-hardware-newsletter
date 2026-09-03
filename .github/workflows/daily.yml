@@ -3,10 +3,24 @@ name: daily-digest
 permissions:
   contents: write       # 用于把日报存档 push 回仓库
 
+# 触发架构（2026-09-04 起生效）：
+# 主通道 = repository_dispatch：方案 A（WorkBuddy automation，10:00）发完邮件后
+#   调 GitHub API 触发本 workflow，方案 B 邮件 ~10:15 送达。
+#   背景实测：GitHub 定时任务在 UTC 00:30（美西 16:30 高峰）排队延迟 4.5 小时，
+#   cron 08:30 排期、12:50 才触发，外部触发是唯一能保证准点的手段。
+# 兜底 = cron UTC 03:33（北京 11:33）：若方案 A 当天没跑（如本机离线），
+#   由它补发；pipeline 里有幂等守卫（当日存档已存在则跳过），双触发不重复发信。
 on:
+  repository_dispatch:
+    types: [daily-digest]
   schedule:
-    - cron: "30 0 * * *"   # UTC 00:30 = 北京时间 08:30
+    - cron: "33 3 * * *"   # UTC 03:33 = 北京 11:33，仅兜底
   workflow_dispatch:        # 支持手动触发，便于调试
+
+# 双触发（dispatch 主 + cron 兜底）可能在临界时间重叠，同组新运行会取消旧运行
+concurrency:
+  group: daily-digest
+  cancel-in-progress: true
 
 jobs:
   digest:

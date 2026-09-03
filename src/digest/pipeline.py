@@ -23,8 +23,16 @@ OUT_DIR = ROOT / "out"
 ARCHIVE_DIR = ROOT / "data" / "archive"
 
 
-def run(dry_run: bool = False, limit: int = 30) -> dict:
+def run(dry_run: bool = False, limit: int = 30, force: bool = False) -> dict:
     started = time.time()
+    date_str = time.strftime("%Y-%m-%d")
+    # 幂等守卫：当日存档已存在（= 邮件已发出过）则跳过本次运行。
+    # 背景：workflow 同时配了 repository_dispatch（主通道，方案 A 10:00 后触发）
+    # 和 cron（兜底，GitHub 高负载时段定时可延迟数小时），双触发时只有
+    # 第一次会真正发信，后续触发只重建存档站，绝不重复发邮件。
+    if not dry_run and not force and (ARCHIVE_DIR / f"{date_str}.json").exists():
+        log.info("今日存档已存在（%s），跳过本次运行（邮件已发过，避免重复投递）", date_str)
+        return {"mode": "skipped", "candidates": 0, "elapsed": round(time.time() - started, 1)}
     cfg = load_config()
 
     articles = fetcher.fetch_all(max_age_hours=cfg["digest"]["max_age_hours"])
@@ -56,25 +64,27 @@ def run(dry_run: bool = False, limit: int = 30) -> dict:
         subject_suffix = "（速览版）"
     html_body = renderer.render(digest)
 
-    date_str = time.strftime("%Y-%m-%d")
     OUT_DIR.mkdir(exist_ok=True)
     (OUT_DIR / f"{date_str}.html").write_text(html_body, encoding="utf-8")
-    ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
-    # 存档结构保留栏目与速览（公开存档页据此还原完整版式），
-    # 同时保留扁平 items 便于脚本统计与回归比对
-    (ARCHIVE_DIR / f"{date_str}.json").write_text(
-        json.dumps({
-            "date": date_str, "mode": mode, "candidates": len(reps),
-            "overview": digest.overview if digest else [],
-            "sections": [
-                {"name": s["name"], "items": [i.__dict__ for i in s["items"]]}
-                for s in (digest.sections if digest else [])
-            ],
-            "items": [i.__dict__ for s in (digest.sections if digest else []) for i in s["items"]],
-            "elapsed_sec": round(time.time() - started, 1),
-        }, ensure_ascii=False, indent=2),
-        encoding="utf-8",
-    )
+    # dry-run 只落 out/ 预览，不写正式存档：
+    # 存档是"邮件已发"的幂等信号，也会直接上存档站，测试产物不能污染两者
+    if not dry_run:
+        ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
+        # 存档结构保留栏目与速览（公开存档页据此还原完整版式），
+        # 同时保留扁平 items 便于脚本统计与回归比对
+        (ARCHIVE_DIR / f"{date_str}.json").write_text(
+            json.dumps({
+                "date": date_str, "mode": mode, "candidates": len(reps),
+                "overview": digest.overview if digest else [],
+                "sections": [
+                    {"name": s["name"], "items": [i.__dict__ for i in s["items"]]}
+                    for s in (digest.sections if digest else [])
+                ],
+                "items": [i.__dict__ for s in (digest.sections if digest else []) for i in s["items"]],
+                "elapsed_sec": round(time.time() - started, 1),
+            }, ensure_ascii=False, indent=2),
+            encoding="utf-8",
+        )
 
     if not dry_run:
         from . import sender

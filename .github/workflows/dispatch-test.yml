@@ -1,0 +1,13 @@
+# 临时验证文件：验证 fine-grained PAT 具备 repository_dispatch 触发能力
+# 验证完成后即删除，不参与任何正式流程
+name: dispatch-test
+
+on:
+  repository_dispatch:
+    types: [dispatch-test]
+
+jobs:
+  echo:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "repository_dispatch works"
