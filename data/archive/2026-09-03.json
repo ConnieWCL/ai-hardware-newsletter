@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-03",
+  "mode": "llm",
+  "candidates": 30,
+  "overview": [
+    "[国内] 华为发布全新三折叠 Mate XT 2，延续星钻设计并加入青云纹理。",
+    "[国内] 小米 18 Fold 中折叠手机官宣，搭载 6000mAh 金沙江电池与玄戒 O3 AI SoC。",
+    "[国内] 华为 nova 16s 系列海外发布，搭载 Kirin 8020 处理器与 5000 万像素潜望长焦。",
+    "[国内] vivo X500 标准版采用 X300 Pro 同款主摄，提升影像表现。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate XT 2 非凡大师三折叠手机",
+          "summary": "全新展翼三折叠，继承星钻设计，加入青云纹理，定位高端旗舰。",
+          "link": "https://www.ithome.com/0/997/746.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 18 Fold 中折叠手机",
+          "summary": "搭载 6000mAh 金沙江电池，采用玄戒 O3 超 500 万分 AI SoC，主打轻薄续航。",
+          "link": "https://www.ithome.com/0/997/829.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为 nova 16s 系列",
+          "summary": "海外发布，配备 Kirin 8020 处理器、5000 万像素 RYYB 潜望长焦，强化 AI 影像。",
+          "link": "https://www.ithome.com/0/997/745.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo X500 标准版",
+          "summary": "采用 X300 Pro 同款主摄传感器，提升夜景与细节表现，定位中高端。",
+          "link": "https://www.ithome.com/0/997/842.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Google Pixel Fold 采用无折痕显示屏",
+          "summary": "据 9to5Google 报道，Pixel Fold 将使用与 Apple 类似的无折痕技术，提升折叠体验。",
+          "link": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Dell 14S 笔记本挑战 MacBook Neo",
+          "summary": "新款 14S 以更低价位提供高性能，目标抢占高端轻薄本市场。",
+          "link": "https://9to5google.com/2026/09/02/dell-14s-laptop-announcement/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung One UI 9 Beta 扩展至多款 Galaxy 机型",
+          "summary": "Android 17 基础的 One UI 9 将在本月推送至更多 Galaxy 手机，提升系统一致性。",
+          "link": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Qualcomm 新一代 Snapdragon 将搭载 Adreno “Neural Fusion” GPU",
+          "summary": "该 GPU 采用神经网络融合技术，提升 AI 推理与图形渲染效率。",
+          "link": "https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "MagicOS 11 迭代后 iPhone 来电可在荣耀 Magic9 上调用 AI 通话接听",
+          "summary": "跨平台 AI 通话功能实现，支持录音、转写等增值服务。",
+          "link": "https://www.ithome.com/0/997/823.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Wonderful 完成 5 亿美元 C 轮融资",
+          "summary": "融资后将扩大研发团队，意味着 AI 硬件研发岗位需求上升。",
+          "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为 Mate XT 2 非凡大师三折叠手机",
+      "summary": "全新展翼三折叠，继承星钻设计，加入青云纹理，定位高端旗舰。",
+      "link": "https://www.ithome.com/0/997/746.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 18 Fold 中折叠手机",
+      "summary": "搭载 6000mAh 金沙江电池，采用玄戒 O3 超 500 万分 AI SoC，主打轻薄续航。",
+      "link": "https://www.ithome.com/0/997/829.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为 nova 16s 系列",
+      "summary": "海外发布，配备 Kirin 8020 处理器、5000 万像素 RYYB 潜望长焦，强化 AI 影像。",
+      "link": "https://www.ithome.com/0/997/745.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo X500 标准版",
+      "summary": "采用 X300 Pro 同款主摄传感器，提升夜景与细节表现，定位中高端。",
+      "link": "https://www.ithome.com/0/997/842.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Google Pixel Fold 采用无折痕显示屏",
+      "summary": "据 9to5Google 报道，Pixel Fold 将使用与 Apple 类似的无折痕技术，提升折叠体验。",
+      "link": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Dell 14S 笔记本挑战 MacBook Neo",
+      "summary": "新款 14S 以更低价位提供高性能，目标抢占高端轻薄本市场。",
+      "link": "https://9to5google.com/2026/09/02/dell-14s-laptop-announcement/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung One UI 9 Beta 扩展至多款 Galaxy 机型",
+      "summary": "Android 17 基础的 One UI 9 将在本月推送至更多 Galaxy 手机，提升系统一致性。",
+      "link": "https://9to5google.com/2026/09/01/samsung-android-17-one-ui-9-beta-update-expand/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Qualcomm 新一代 Snapdragon 将搭载 Adreno “Neural Fusion” GPU",
+      "summary": "该 GPU 采用神经网络融合技术，提升 AI 推理与图形渲染效率。",
+      "link": "https://9to5google.com/2026/09/02/qualcomm-details-adreno-neural-fusion-gpu-for-next-snapdragon-chip/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "MagicOS 11 迭代后 iPhone 来电可在荣耀 Magic9 上调用 AI 通话接听",
+      "summary": "跨平台 AI 通话功能实现，支持录音、转写等增值服务。",
+      "link": "https://www.ithome.com/0/997/823.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Wonderful 完成 5 亿美元 C 轮融资",
+      "summary": "融资后将扩大研发团队，意味着 AI 硬件研发岗位需求上升。",
+      "link": "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 17.9
+}
