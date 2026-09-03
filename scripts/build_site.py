@@ -21,8 +21,7 @@ from digest.config_loader import Digest, DigestItem  # noqa: E402
 from digest.renderer import render  # noqa: E402
 
 ROOT = Path(__file__).resolve().parents[1]
-ARCHIVE_DIR = ROOT / "data" / "archive"    # 方案 B 存档（GitHub Actions 流水线）
-PLAN_A_DIR = ROOT / "data" / "plan_a"      # 方案 A 存档（平台自动化任务上传）
+ARCHIVE_DIR = ROOT / "data" / "archive"    # 日报存档（GitHub Actions 流水线）
 SITE_DIR = ROOT / "site"
 DIGEST_DIR = SITE_DIR / "digest"
 
@@ -66,7 +65,6 @@ h1{font-size:23px;font-weight:700;letter-spacing:.02em;color:#211E1B;margin:0 0 
 .rm{font-size:11.5px;color:#8B857C;}
 .tag{display:inline-block;font-size:10px;letter-spacing:.1em;padding:2px 7px;border:1px solid #D8D4CB;color:#8B857C;}
 .tag.llm{border-color:#D8B7A5;color:#A85638;}
-.tag.pa{border-color:#A85638;background:#A85638;color:#FFF;}
 .foot{margin-top:26px;border-top:2px solid #211E1B;padding-top:18px;
   font-size:11.5px;line-height:1.9;color:#8B857C;}
 .foot a{color:#A85638;text-decoration:none;border-bottom:1px solid #D8B7A5;}
@@ -124,7 +122,6 @@ def _index_html(entries: list[dict], stats: dict) -> str:
     rows = []
     for e in entries:
         mode_tag = ('<span class="tag llm">完整版</span>' if e["mode"] == "llm"
-                    else '<span class="tag pa">方案A</span>' if e["mode"] == "plan_a"
                     else '<span class="tag">速览版</span>')
         rows.append(
             f'<a class="row" href="digest/{e["date"]}.html">'
@@ -149,8 +146,8 @@ def _index_html(entries: list[dict], stats: dict) -> str:
 </div>
 
 <div class="lede">
-双轨采集：<b>方案 A</b>（平台自动化 · WebSearch 全网检索）与<b>方案 B</b>（自建流水线 · 13 个中英文 RSS 信源 + 双层关键词过滤 + LLM 摘要）。
-每日按<b>七个栏目</b>（今日速览 / 新形态智能硬件 / 国内新品 / 国外新品 / 技术与芯片 / 融资与招聘 / 一句话点评）结构化输出。
+全自动情报流水线：<b>16 个中英文 RSS 信源</b> → 双层关键词过滤 → URL 规范化 + Shingle-Jaccard 两级去重 → 选材层地域/品类双配额 → LLM 结构化摘要。
+每日按<b>七个栏目</b>（今日速览 / 新形态智能硬件 / 国内新品 / 国外新品 / 技术与芯片 / 融资与招聘 / 一句话点评）输出。
 <b>国内/国外分栏</b>确保国际动态不被国内新闻挤占；<b>新形态硬件配额</b>（选材层强制保留 AR/VR 眼镜、智能戒指、录音卡、AI 挂件等低声量品类）确保新形态产品不被手机/PC 等大众品类淹没。
 设计原则：<b>规则负责确定性环节（采集 / 去重 / 事实校验），LLM 只负责判断与表达</b>。
 </div>
@@ -180,13 +177,10 @@ def _index_html(entries: list[dict], stats: dict) -> str:
 
 
 def build() -> dict:
-    # 扫描两个存档目录：方案 B（archive/）+ 方案 A（plan_a/）
-    dirs = [d for d in [ARCHIVE_DIR, PLAN_A_DIR] if d.exists()]
-    if not dirs:
+    # 扫描存档目录（历史遗留的 plan_a 存档一律不展示）
+    if not ARCHIVE_DIR.exists():
         raise SystemExit("存档目录不存在")
-    files: list[Path] = []
-    for d in dirs:
-        files.extend(d.glob("*.json"))
+    files = sorted(ARCHIVE_DIR.glob("*.json"))
     if not files:
         raise SystemExit("存档目录为空，无内容可构建")
 
@@ -201,18 +195,6 @@ def build() -> dict:
             continue
         data["_date"] = data.get("date") or path.stem
         loaded.append(data)
-    loaded.sort(key=lambda d: d["_date"])
-
-    # 日期去重：plan_a 和 plan_b 可能产出同日存档，优先保留 plan_b（mode=llm），
-    # 因为 plan_b 有完整的栏目结构和来源标注
-    seen_dates: dict[str, dict] = {}
-    for data in loaded:
-        d = data["_date"]
-        if d not in seen_dates:
-            seen_dates[d] = data
-        elif data.get("mode") in ("llm", "fallback") and seen_dates[d].get("mode") == "plan_a":
-            seen_dates[d] = data  # plan_b 优先
-    loaded = list(seen_dates.values())
     loaded.sort(key=lambda d: d["_date"])
 
     entries: list[dict] = []

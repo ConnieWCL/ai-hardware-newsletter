@@ -4,11 +4,11 @@ permissions:
   contents: write       # 用于把日报存档 push 回仓库
 
 # 触发架构（2026-09-04 起生效）：
-# 主通道 = repository_dispatch：方案 A（WorkBuddy automation，10:00）发完邮件后
-#   调 GitHub API 触发本 workflow，方案 B 邮件 ~10:15 送达。
+# 主通道 = repository_dispatch：上游调度器（外部 automation，10:00）调 GitHub API
+#   直接触发本 workflow，邮件 ~10:15 送达。
 #   背景实测：GitHub 定时任务在 UTC 00:30（美西 16:30 高峰）排队延迟 4.5 小时，
 #   cron 08:30 排期、12:50 才触发，外部触发是唯一能保证准点的手段。
-# 兜底 = cron UTC 03:33（北京 11:33）：若方案 A 当天没跑（如本机离线），
+# 兜底 = cron UTC 03:33（北京 11:33）：若上游当天没触发（如本机离线），
 #   由它补发；pipeline 里有幂等守卫（当日存档已存在则跳过），双触发不重复发信。
 on:
   repository_dispatch:
@@ -51,11 +51,10 @@ jobs:
           SMTP_PORT: "465"
 
       # 存档随仓库提交，周报汇总与信源健康度分析都从这里取数
-      # 方案 A 可能通过 API 同时推送 data/plan_a/，需 rebase 避免冲突
       - run: |
           git config user.name "digest-bot"
           git config user.email "actions@github.com"
-          git add data/archive/ data/plan_a/ || true
+          git add data/archive/ || true
           git commit -m "digest: $(date -u +%F)" || echo "nothing to commit"
           git pull --rebase origin main || true
           git push || echo "push failed, archive saved in workflow run"
