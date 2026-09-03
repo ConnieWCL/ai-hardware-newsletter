@@ -50,7 +50,11 @@ class DigestItem:
 EN_SOURCES = {
     "the-verge", "techcrunch", "arstechnica", "9to5google",
     "engadget", "roadtovr", "uploadvr",
+    "skarredghost", "androidauthority", "producthunt",
 }
+
+# 新形态硬件品类：声量小于手机/PC，选材层需配额保护，否则会被高分的大众品类挤空
+EMERGING_CATEGORIES = {"glasses", "wearable", "emerging"}
 
 
 @dataclass

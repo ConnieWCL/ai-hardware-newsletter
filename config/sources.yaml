@@ -44,4 +44,17 @@
   priority: 7
 - name: uploadvr
   url: https://www.uploadvr.com/feed/
-  priority: 6
+  priority: 7
+
+# ---- 新形态硬件专项源（2026-09-04 补充）----
+# 手机/PC 的新闻声量远高于新形态硬件，纯按得分排序会把 AR 眼镜、智能戒指、
+# 录音卡这类条目挤掉，故引入垂类信源 + 选材层品类配额（见 summarizer）
+- name: skarredghost
+  url: https://skarredghost.com/feed/
+  priority: 7        # AR/VR 独立评测与行业分析（更新少但纯度高）
+- name: androidauthority
+  url: https://www.androidauthority.com/feed/
+  priority: 7        # 可穿戴 / 智能戒指 / 耳机新品覆盖较全
+- name: producthunt
+  url: https://www.producthunt.com/feed
+  priority: 5        # 新品早期发现渠道（含大量软件，靠关键词过滤只留硬件）

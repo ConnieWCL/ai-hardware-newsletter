@@ -29,7 +29,8 @@ def run(dry_run: bool = False, limit: int = 30) -> dict:
 
     articles = fetcher.fetch_all(max_age_hours=cfg["digest"]["max_age_hours"])
     reps = pick_representatives(articles)[:limit]
-    log.info("去重后候选 %d 条，取前 %d 条进入摘要", len(pick_representatives(articles)), len(reps))
+    log.info("去重后候选 %d 条，前 %d 条进入选材池（由配额函数选出送入 LLM 的材料）",
+             len(pick_representatives(articles)), len(reps))
 
     mode = "llm"
     subject_suffix = ""

@@ -18,7 +18,7 @@ import time
 import httpx
 
 from . import budget
-from .config_loader import EN_SOURCES, Digest, DigestItem, env, load_config
+from .config_loader import EMERGING_CATEGORIES, EN_SOURCES, Digest, DigestItem, env, load_config
 from .deduper import jaccard, shingles
 
 log = logging.getLogger(__name__)
@@ -30,7 +30,10 @@ PROMPT = """你是 AI 硬件领域的产品分析师，为一位前旗舰手机�
 
 要求：
 1. 只使用材料中的信息，不得编造；每条 item 的 link 必须原样复制材料中的 URL；
-2. 按以下六个栏目组织：今日速览 / 国内 · 新品发布与规格拆解 / 国外 · 新品发布与规格拆解 / 技术与芯片动向 / 融资与招聘信号 / 一句话点评；
+2. 按以下七个栏目组织：**新形态智能硬件** / 国内 · 新品发布与规格拆解 / 国外 · 新品发布与规格拆解 / 技术与芯片动向 / 融资与招聘信号 / 一句话点评（另有今日速览，见第 4 条）；
+   2.1 「新形态智能硬件」只收**新形态品类**的国内外新品：AR/VR/AI 眼镜与头显、智能戒指与指环、AI 挂件/胸针/徽章、录音卡与录音笔、AI 翻译机与 AI 相机、AI 玩具与陪伴机器人、机器狗、外骨骼、脑机接口等；
+   2.2 手机、平板、笔记本、电视、家电等**传统品类**一律归入「国内·新品发布」或「国外·新品发布」，不得放进新形态栏目；同一条新闻只能出现在一个栏目；
+   2.3 新形态栏目是本日报的重点：材料里有该品类的新闻就必须收录，材料充足时 4–6 条，国内与国外都要有；
 3. 每条 item 必须带 region 字段："国内"或"国外"。判定规则：按新闻主体公司的注册地；跨国合作按主导方；中国公司出海（如 Rokid 进军欧洲）算国内；外国公司在华动态（如苹果国行定价）算国外；
 4. 今日速览的每句话以 [国内] 或 [国外] 开头；
 5. 总条目不超过 {max_items} 条，国外条目（region="国外"）不少于 5 条——英文源（the-verge / techcrunch / arstechnica / 9to5google / engadget 等）的新闻是国外板块的主要材料，不得因国内新闻多而全部挤掉；若英文材料确实不足，能收几条收几条，不得编造；
@@ -50,26 +53,56 @@ PROMPT = """你是 AI 硬件领域的产品分析师，为一位前旗舰手机�
 MAX_MATERIALS = 22       # 送进 LLM 的候选上限：压输入 token，避免撞免费层 TPM 限流
 SUMMARY_CHARS = 120      # 每条摘要的送入长度上限
 EN_QUOTA = 0.4           # 材料配额：英文源条目至少占 40%，防止国内新闻挤掉国外板块原料
+EMERGING_QUOTA = 0.36    # 材料配额：新形态硬件至少占 36%，防止手机/PC 新闻挤空该板块
 
 
-def _balance_regions(reps: list) -> list:
-    """保证送入 LLM 的材料里英文源（国外原料）不低于配额.
+def _balance_materials(reps: list) -> list:
+    """联合满足地域与品类双配额的选材（串行截断会互相挤占，必须联合选）.
 
-    中文源条目得分普遍更高（信源 priority + 关键词命中密度），纯按得分截断
-    会导致材料几乎全为国内新闻，LLM 再想输出国外板块也无米下锅——
-    国外占比问题的根因在选材层，不在提示词层。
+    两个同源的问题：
+    1. 地域：中文源条目得分普遍更高（信源 priority + 关键词命中密度），
+       纯按得分截断会导致材料几乎全为国内新闻，LLM 再想输出国外板块
+       也无米下锅——国外占比问题的根因在选材层，不在提示词层；
+    2. 品类：手机/PC 类新闻在信源里密度极高，同样会把 AR 眼镜、智能戒指、
+       录音卡这类新形态条目挤出前 N 名。
+
+    早期实现是"先地域截断、再品类截断"的串行结构，第一轮截断就可能把
+    另一个配额的原料丢光（2026-09-04 实测：候选池 19 条新形态条目，
+    串行截断后材料中剩 0 条），因此改为联合选择：
+    - 品类配额优先捞新形态条目（重点栏目）；
+    - 再按得分填满剩余槽位；
+    - 最后检查英文配额，不足则用未入选的最高分英文条目置换
+      得分最低的"非新形态中文条目"（不回退已满足的品类配额）。
     """
+    if not reps:
+        return reps
+    emerging = [a for a in reps if a.category in EMERGING_CATEGORIES]
+    others = [a for a in reps if a.category not in EMERGING_CATEGORIES]
     en = [a for a in reps if a.source in EN_SOURCES]
-    cn = [a for a in reps if a.source not in EN_SOURCES]
-    # 英文保底：至少 40% 的材料槽位（材料不足时能占多少占多少）
-    min_en = min(len(en), round(MAX_MATERIALS * EN_QUOTA))
-    # 剩余槽位给中文；中文不足时槽位回补给英文
-    cn_slots = MAX_MATERIALS - min_en
-    cn_pick = cn[:cn_slots]
-    en_slots = MAX_MATERIALS - len(cn_pick)
-    en_pick = en[:en_slots]
-    # 中文在前（保持国内优先的排序惯性），英文紧随其后
-    return cn_pick + en_pick
+
+    # 原料不足时能占多少占多少，不空占槽位
+    n_em = min(len(emerging), round(MAX_MATERIALS * EMERGING_QUOTA))
+    n_en = min(len(en), round(MAX_MATERIALS * EN_QUOTA))
+
+    picked = emerging[:n_em] + others[: MAX_MATERIALS - n_em]
+    # 英文配额兜底：置换而非追加，保证总数不超过 MAX_MATERIALS
+    en_have = sum(1 for a in picked if a.source in EN_SOURCES)
+    if en_have < n_en:
+        need = n_en - en_have
+        picked_ids = {id(a) for a in picked}
+        extra = [a for a in en if id(a) not in picked_ids][:need]
+        swappable = sorted(
+            (a for a in picked
+             if a.source not in EN_SOURCES and a.category not in EMERGING_CATEGORIES),
+            key=lambda a: a.score,
+        )
+        n_swap = min(len(extra), len(swappable))
+        extra = extra[:n_swap]
+        drop_ids = {id(a) for a in swappable[:n_swap]}
+        picked = [a for a in picked if id(a) not in drop_ids] + extra
+    # 材料按相关性降序返回（提示词第 10 条依赖此顺序）
+    picked.sort(key=lambda a: a.score, reverse=True)
+    return picked
 
 
 def _build_materials(reps: list) -> str:
@@ -106,8 +139,9 @@ def summarize(reps: list, max_items: int = 16) -> Digest:
     model = env("LLM_MODEL") or llm["model"]
 
     # 预算闸门：月度 token 用量将超阈值时主动放弃 LLM，走降级路径（不重试、不产生费用）
-    # 选材前先做地域配额平衡，防止国内新闻挤掉国外板块原料
-    balanced = _balance_regions(reps)
+    # 选材：联合满足地域（EN_QUOTA）与品类（EMERGING_QUOTA）双配额，
+    # 防止国内新闻挤掉国外原料、手机/PC 挤掉新形态硬件（见 _balance_materials）
+    balanced = _balance_materials(reps)
     prompt_text = PROMPT.format(materials=_build_materials(balanced), max_items=max_items)
     monthly_cap = int(cfg.get("budget", {}).get("monthly_tokens", 500_000))
     budget.check(monthly_cap, budget.estimate_input_tokens(prompt_text) + llm.get("max_output_tokens", 2000))

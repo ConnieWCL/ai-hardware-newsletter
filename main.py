@@ -14,7 +14,8 @@ from digest.pipeline import run  # noqa: E402
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="AI 硬件情报日报")
     parser.add_argument("--dry-run", action="store_true", help="只生成不发送，产物落在 out/")
-    parser.add_argument("--limit", type=int, default=30, help="进入 LLM 摘要的候选条数")
+    parser.add_argument("--limit", type=int, default=100,
+                        help="进入选材配额的候选池上限（送入 LLM 的 22 条材料由配额函数从中选出）")
     args = parser.parse_args()
 
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")

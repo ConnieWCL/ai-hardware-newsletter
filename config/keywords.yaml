@@ -16,6 +16,21 @@ strong:
     [wearable, pendant, limitless, plaud, ai pin, smart ring, smart jewelry,
      earbuds, earbuds pro, ai recorder, ai necklace,
      挂件, 录音笔, 耳机, 吊坠, 戒指, 项链, ai玩具, 智能玩具, 陪伴机器人]
+  emerging:  # 新形态硬件：声量小但必须盯，选材层有配额保护（见 summarizer.EMERGING_QUOTA）
+    # AR/VR/头显
+    [ar glasses, xr glasses, vr headset, mixed reality, smart glasses, hud glasses,
+     head-mounted, pico, quest 3, quest s, vision pro, xreal, rokid, rayneo, vuzix,
+     even realities, brilliant labs, halliday, frame glasses,
+     头显, ar眼镜, vr眼镜, ai眼镜, 智能眼镜,
+     # 随身新形态
+     smart ring, ai ring, ai pin, ai pendant, ai necklace, ai badge, ai brooch,
+     voice recorder, ai recorder, ai note, transcription device, ai translator,
+     ai camera, smart pin, wearable ai,
+     oura, ultrahuman, galaxy ring, plaud, limitless, humane, omi, tab, friend,
+     智能戒指, 指环, 录音卡, 录音笔, 翻译机, ai相机, 智能徽章, 智能胸针, 随身ai,
+     # 机器人与陪伴硬件
+     companion robot, robot dog, exoskeleton, brain-computer, bci, robotic pet,
+     机器狗, 外骨骼, 脑机, 陪伴机器人, ai玩具, 智能玩具, 机器宠物]
   devices:   # 主线三：新发布 AI 产品与消费电子（国内厂商为主力）
     [foldable, tri-fold, flip, huawei, xiaomi, oppo, vivo, honor, oneplus,
      iphone, apple, samsung, galaxy, vision pro, quest, pixel, macbook, ipad,

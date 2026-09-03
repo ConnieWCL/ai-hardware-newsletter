@@ -17,6 +17,7 @@ from .config_loader import Digest
 # 栏目中文 -> 英文小标签（未命中的栏目不显示英文标签）
 SECTION_EN = {
     "今日速览": "BRIEF",
+    "新形态智能硬件": "NOVEL FORM",
     "国内 · 新品发布与规格拆解": "PRODUCTS · CN",
     "国外 · 新品发布与规格拆解": "PRODUCTS · GLOBAL",
     "新品发布与规格拆解": "PRODUCTS",       # 旧版栏目名（历史存档兼容）
@@ -30,20 +31,10 @@ SECTION_EN = {
     "端侧芯片与 SoC": "SILICON",
 }
 
-# 栏目中文 -> 章节序号（速览单独成区，正文从 01 起编）
-SECTION_IDX = {
-    "国内 · 新品发布与规格拆解": "01",
-    "国外 · 新品发布与规格拆解": "02",
-    "技术与芯片动向": "03",
-    "融资与招聘信号": "04",
-    "一句话点评": "05",
-    "新品发布与规格拆解": "01",            # 旧版栏目名（历史存档兼容）
-    "AI 眼镜与可穿戴": "01",
-    "AI 耳机与挂件": "02",
-    "新 AI 产品与消费电子": "03",
-    "重大发布与融资动态": "04",
-    "端侧芯片与 SoC": "05",
-}
+# 章节序号在 render() 中按栏目出现顺序自动生成（01, 02, ...）。
+# 不用静态映射表的原因：栏目会随需求增减（2026-09-01 拆国内/国外，
+# 2026-09-04 新增「新形态智能硬件」），静态表会让历史存档在重新渲染时
+# 编号错位；按序编号对任何时代的存档都自洽，栏目增减零维护。
 
 ACCENT = "#A85638"
 INK = "#211E1B"
@@ -117,16 +108,18 @@ def render(digest: Digest, issue_no: str = "") -> str:
         )
         parts.append(f"<div class='ov'><div class='ov-t'>今日速览&ensp;/&ensp;BRIEF</div>{rows}</div>")
 
-    # 正文章节
+    # 正文章节：序号按栏目出现顺序自动生成
     no = 0
+    sec_no = 0
     for sec in digest.sections:
         items = sec.get("items", [])
         if not items:
             continue
+        sec_no += 1
         en = SECTION_EN.get(sec["name"], "")
         en_html = f"<span class='en'>{html.escape(en)}</span>" if en else ""
         parts.append(
-            f"<div class='sec'><span class='idx'>{SECTION_IDX.get(sec['name'], '·')}</span>"
+            f"<div class='sec'><span class='idx'>{sec_no:02d}</span>"
             f"<span class='name'>{_esc(sec['name'])}</span>{en_html}</div>"
         )
         for it in items:
