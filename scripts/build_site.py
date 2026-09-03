@@ -44,8 +44,22 @@ body{margin:0;padding:32px 16px 64px;background:#F5F4F0;color:#3D3A35;
   font-family:ui-monospace,'SF Mono',Menlo,monospace;}
 h1{font-size:23px;font-weight:700;letter-spacing:.02em;color:#211E1B;margin:0 0 8px;}
 .sub{font-size:12.5px;color:#8B857C;letter-spacing:.04em;}
-.lede{font-size:13.5px;line-height:1.85;color:#5C5850;margin-bottom:20px;}
-.lede b{color:#211E1B;font-weight:600;}
+/* 流水线流程条：描边芯片 + 等宽编号，传达"机器执行"的过程感 */
+.pipe{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 26px;}
+.step{font-size:11.5px;color:#211E1B;border:1px solid #E8E4DD;padding:6px 11px;white-space:nowrap;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:.02em;}
+.step i{font-style:normal;color:#A85638;font-size:10px;margin-right:7px;}
+.step em{font-style:normal;color:#A85638;}
+.pipe .arr{color:#C9C4BB;font-size:11px;}
+/* 亮点清单：朱砂短横线标记 + 粗体引导词；正文灰、关键数字朱砂等宽 */
+.hl{list-style:none;margin:0 0 28px;padding:0;}
+.hl li{position:relative;padding-left:18px;margin-bottom:11px;
+  font-size:12.5px;line-height:1.75;color:#5C5850;}
+.hl li:last-child{margin-bottom:0;}
+.hl li::before{content:"";position:absolute;left:0;top:10px;width:8px;height:1px;background:#A85638;}
+.hl b{color:#211E1B;font-weight:600;font-size:13px;}
+.hl em{font-style:normal;color:#A85638;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:12px;}
 .stats{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 26px;}
 .stat{flex:1;min-width:120px;border:1px solid #E8E4DD;padding:14px 16px;}
 .stat .n{font-size:20px;font-weight:700;color:#211E1B;font-family:ui-monospace,'SF Mono',Menlo,monospace;}
@@ -145,12 +159,25 @@ def _index_html(entries: list[dict], stats: dict) -> str:
   <div class="sub">每日上午 10 点自动生成　·　国内动态优先　·　全部条目附溯源链接</div>
 </div>
 
-<div class="lede">
-全自动情报流水线：<b>16 个中英文 RSS 信源</b> → 双层关键词过滤 → URL 规范化 + Shingle-Jaccard 两级去重 → 选材层地域/品类双配额 → LLM 结构化摘要。
-每日按<b>七个栏目</b>（今日速览 / 新形态智能硬件 / 国内新品 / 国外新品 / 技术与芯片 / 融资与招聘 / 一句话点评）输出。
-<b>国内/国外分栏</b>确保国际动态不被国内新闻挤占；<b>新形态硬件配额</b>（选材层强制保留 AR/VR 眼镜、智能戒指、录音卡、AI 挂件等低声量品类）确保新形态产品不被手机/PC 等大众品类淹没。
-设计原则：<b>规则负责确定性环节（采集 / 去重 / 事实校验），LLM 只负责判断与表达</b>。
+<div class="sec-t">全自动流水线&ensp;/&ensp;PIPELINE</div>
+<div class="pipe">
+  <span class="step"><i>01</i>采集 <em>16</em> 中英信源</span><span class="arr">→</span>
+  <span class="step"><i>02</i>双层关键词过滤</span><span class="arr">→</span>
+  <span class="step"><i>03</i>两级去重</span><span class="arr">→</span>
+  <span class="step"><i>04</i>双配额选材</span><span class="arr">→</span>
+  <span class="step"><i>05</i>LLM 结构化摘要</span><span class="arr">→</span>
+  <span class="step"><i>06</i>自动发信 + 发布</span>
 </div>
+
+<div class="sec-t">设计亮点&ensp;/&ensp;HIGHLIGHTS</div>
+<ul class="hl">
+  <li><b>规则与 LLM 严格分工</b>——采集、去重、事实校验交给确定性规则，LLM 只负责判断与表达；每条摘要强制附溯源链接，杜绝幻觉。</li>
+  <li><b>三层关键词过滤</b>——strong 定入选资格、weak 只加分、negative 一票否决，防止泛化词把无关新闻带进日报。</li>
+  <li><b>两级去重</b>——URL 规范化精确匹配 + Shingle-Jaccard 标题聚类，同一事件只报一次。</li>
+  <li><b>地域 × 品类双配额</b>——国外条目 <em>≥30%</em>、新形态硬件 <em>≥36%</em> 联合选择，AR/VR 眼镜、智能戒指等低声量品类不被手机 / PC 大众声量淹没。</li>
+  <li><b>七栏结构化输出</b>——新形态硬件置顶、国内外新品分栏；每日 <em>≤16</em> 条、5–7 分钟读完，宁缺毋滥。</li>
+  <li><b>全链路零成本 + 三层降级</b>——GitHub Actions 调度 + Groq 免费层 + Pages 托管，日均成本 <em>¥0</em>；LLM 不可用时自动降级为规则速览版，日报不缺席。</li>
+</ul>
 
 <div class="stats">
   <div class="stat"><div class="n">{stats["days"]}</div><div class="l">累计期数</div></div>
