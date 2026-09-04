@@ -15,7 +15,7 @@
 - 以 GitHub Actions 实现零服务器调度与月度 token 预算护栏，产出自动发布为静态存档站，网页与邮件共用同一套渲染模板
 - 针对"国外新闻占比过低"问题，定位根因在选材层而非提示词层，设计英文材料配额（≥40%）与信源分层机制（T1 可直接引用 / T2 需交叉验证 / T3 不单独引用），保证国际板块不缺失
 
-链接：github.com/ConnieWCL/ai-hardware-newsletter　·　conniewcl.github.io/ai-hardware-newsletter　·　aihardware-newsletter.hiconnie.com
+链接：github.com/ConnieWCL/ai-hardware-newsletter　·　conniewcl.github.io/ai-hardware-newsletter　·　aihardwarenewsletter.hiconnie.com
 
 ## 二、Bullet 变体（按岗位侧重替换）
 
@@ -47,7 +47,7 @@
 |---|---|---|
 | 代码仓库 | github.com/ConnieWCL/ai-hardware-newsletter | 面试官看实现与 commit 历史 |
 | 公开存档站 | conniewcl.github.io/ai-hardware-newsletter | **最直观**：任何人打开就能看到真实产出 |
-| 自定义域名 | aihardware-newsletter.hiconnie.com | 个人项目总入口 |
+| 自定义域名 | aihardwarenewsletter.hiconnie.com | 个人项目总入口 |
 | 产品文档 | docs/PRD.md（仓库内） | 定位、架构决策、局限、面试 Q&A |
 | 架构决策记录 | docs/ARCHITECTURE.md（仓库内） | 每个决策的"为什么 + 否掉了什么" |
 | 架构图 | docs/architecture.svg（仓库内） | 简历附件、个人网站、PPT 均可嵌入 |

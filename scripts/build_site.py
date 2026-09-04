@@ -29,8 +29,9 @@ REPO_URL = "https://github.com/ConnieWCL/ai-hardware-newsletter"
 
 # 自定义域名：GitHub Pages 读取发布分支根目录的 CNAME 文件自动绑定。
 # 必须由 build 生成（而非手工放置），因为部署脚本每次 orphan 全量重建 gh-pages。
-# 腾讯云 DNS 需配 CNAME 记录：<子域名> -> conniewcl.github.io
-CUSTOM_DOMAIN = "aihardware-newsletter.hiconnie.com"
+# 命名规范（2026-09-04 用户定）：所有地方统一 "aihardwarenewsletter"，不带连字符/下划线
+# 腾讯云 DNS 需配 CNAME 记录：aihardwarenewsletter -> conniewcl.github.io
+CUSTOM_DOMAIN = "aihardwarenewsletter.hiconnie.com"
 
 CSS = """
 *{box-sizing:border-box;}
