@@ -1,0 +1,276 @@
+{
+  "date": "2026-09-04",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米中折叠官宣，抢先与华为发布会撞档，折叠屏竞争升级。",
+    "[国内] OPPO A7 Pro 8000mAh大电池手机即将发售，定位耐用旗舰。",
+    "[国内] Fulli 获高瓴等三轮融资，睡眠 AI 硬件即将量产，扩招在即。",
+    "[国内] 小米 18 Fold 将搭载首款长鑫 LPDDR6 内存，提升折叠机性能。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "RayNeo iO 智能眼镜",
+          "summary": "RayNeo 推出全新 iO 智能眼镜，采用无摄像头设计，轻量佩戴，面向日常 AR 应用。",
+          "link": "https://skarredghost.com/2026/09/04/rayneo-io-smart-glasses-impressions/",
+          "comment": "适合对隐私有要求的企业用户。",
+          "source": "skarredghost",
+          "region": "国内"
+        },
+        {
+          "title": "26g 无边框 AI 眼镜",
+          "summary": "加南研发的 26 克无边框 AI 眼镜，内置扬声器，实现日常佩戴的轻薄显示。",
+          "link": "https://www.leiphone.com/category/weiwu/oXe4EhufKyvZZZvU.html",
+          "comment": "重量优势明显，适合长时间使用。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Circular Ring 3 系列智能戒指",
+          "summary": "Circular 推出 Ring 3 系列，具备 NFC 支付、指尖振动提醒等功能，提升智能戒指交互体验。",
+          "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+          "comment": "在智能戒指市场形成差异化竞争。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Fulli 睡眠 AI 硬件",
+          "summary": "Fulli 通过三轮融资推出首款睡眠 AI 设备，结合传感与算法，帮助用户监测与改善睡眠质量。",
+          "link": "http://www.geekpark.net/news/369768",
+          "comment": "硬件+AI 赛道的潜力股，招聘需求上升。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米中折叠手机官宣",
+          "summary": "小米发布中折叠概念机，预计在华为发布会同日亮相，抢占折叠屏市场。",
+          "link": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO A7 Pro 8000mAh 大电池手机",
+          "summary": "OPPO A7 Pro 将于 9 月 11 日发售，配备 8000mAh 电池，定位耐用旗舰。",
+          "link": "https://www.ithome.com/0/998/431.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 18 Fold 折叠手机",
+          "summary": "小米 18 Fold 采用宽幅折叠设计，首搭长鑫 LPDDR6 内存，提升多任务性能。",
+          "link": "https://9to5google.com/2026/09/03/xiaomi-18-fold-officially-revealed-with-wide-design-like-galaxy-z-fold-8-launches-next-week/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国内"
+        },
+        {
+          "title": "联想 Yoga Tab Plus Gen 2 平板",
+          "summary": "联想在 IFA 2026 发布搭载旗舰移动平台的 Yoga Tab Plus Gen 2，主打高性能与大屏体验。",
+          "link": "https://www.ithome.com/0/998/396.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米龙甲电池安全保障计划",
+          "summary": "小米推出龙甲电池自燃终身保障，针对因电池质量导致的自燃提供免费更换。",
+          "link": "https://www.ithome.com/0/998/410.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Google Pixel 12 Pro Fold 采用无折痕显示",
+          "summary": "Google Pixel 12 Pro Fold 将使用与 Apple iPhone Ultra 相同的无折痕显示技术，提升折叠屏视觉体验。",
+          "link": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Google Pixel Fold 采用同类无折痕显示",
+          "summary": "另据报道，Google 下一代 Pixel Fold 也将采用无折痕显示方案，进一步缩小与 Apple 的差距。",
+          "link": "https://www.androidauthority.com/google-pixel-12-pro-fold-copy-iphone-ultra-crease-3706656/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Starclash 沉浸式动画在 Apple Vision Pro 与 Quest 上发布",
+          "summary": "33 分钟的沉浸式动画体验 Starclash 在 Apple Vision Pro 与 Meta Quest 头显上上线，展示高质量 AR/VR 内容。",
+          "link": "https://www.uploadvr.com/starclash-immersive-film-out-not-on-apple-vision-pro-and-quest/",
+          "comment": "",
+          "source": "uploadvr",
+          "region": "国外"
+        },
+        {
+          "title": "Qualcomm 投资 Ultrahuman 7000 万美元",
+          "summary": "Qualcomm 领投 Ultrahuman 7000 万美元融资，助力其将智能戒指打造为可计算的可穿戴设备。",
+          "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星联手 Arm 开发端侧 AI 芯片",
+          "summary": "三星电子与 Arm 启动下一代端侧 AI SoC 联合研发，聚焦低功耗 AI 推理。",
+          "link": "https://www.ithome.com/0/998/427.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "小米与长鑫合作调试 LPDDR6",
+          "summary": "小米与长鑫完成 LPDDR6 一年联合调试，首款搭载该内存的设备为小米 18 Fold。",
+          "link": "https://www.ithome.com/0/998/402.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "RayNeo iO 智能眼镜",
+      "summary": "RayNeo 推出全新 iO 智能眼镜，采用无摄像头设计，轻量佩戴，面向日常 AR 应用。",
+      "link": "https://skarredghost.com/2026/09/04/rayneo-io-smart-glasses-impressions/",
+      "comment": "适合对隐私有要求的企业用户。",
+      "source": "skarredghost",
+      "region": "国内"
+    },
+    {
+      "title": "26g 无边框 AI 眼镜",
+      "summary": "加南研发的 26 克无边框 AI 眼镜，内置扬声器，实现日常佩戴的轻薄显示。",
+      "link": "https://www.leiphone.com/category/weiwu/oXe4EhufKyvZZZvU.html",
+      "comment": "重量优势明显，适合长时间使用。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Circular Ring 3 系列智能戒指",
+      "summary": "Circular 推出 Ring 3 系列，具备 NFC 支付、指尖振动提醒等功能，提升智能戒指交互体验。",
+      "link": "https://techcrunch.com/2026/09/03/circular-unveils-ring-3-series-with-contactless-payments-and-on-finger-vibration-alerts/",
+      "comment": "在智能戒指市场形成差异化竞争。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Fulli 睡眠 AI 硬件",
+      "summary": "Fulli 通过三轮融资推出首款睡眠 AI 设备，结合传感与算法，帮助用户监测与改善睡眠质量。",
+      "link": "http://www.geekpark.net/news/369768",
+      "comment": "硬件+AI 赛道的潜力股，招聘需求上升。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "小米中折叠手机官宣",
+      "summary": "小米发布中折叠概念机，预计在华为发布会同日亮相，抢占折叠屏市场。",
+      "link": "https://www.ifanr.com/1678222?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO A7 Pro 8000mAh 大电池手机",
+      "summary": "OPPO A7 Pro 将于 9 月 11 日发售，配备 8000mAh 电池，定位耐用旗舰。",
+      "link": "https://www.ithome.com/0/998/431.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 18 Fold 折叠手机",
+      "summary": "小米 18 Fold 采用宽幅折叠设计，首搭长鑫 LPDDR6 内存，提升多任务性能。",
+      "link": "https://9to5google.com/2026/09/03/xiaomi-18-fold-officially-revealed-with-wide-design-like-galaxy-z-fold-8-launches-next-week/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国内"
+    },
+    {
+      "title": "联想 Yoga Tab Plus Gen 2 平板",
+      "summary": "联想在 IFA 2026 发布搭载旗舰移动平台的 Yoga Tab Plus Gen 2，主打高性能与大屏体验。",
+      "link": "https://www.ithome.com/0/998/396.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米龙甲电池安全保障计划",
+      "summary": "小米推出龙甲电池自燃终身保障，针对因电池质量导致的自燃提供免费更换。",
+      "link": "https://www.ithome.com/0/998/410.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Google Pixel 12 Pro Fold 采用无折痕显示",
+      "summary": "Google Pixel 12 Pro Fold 将使用与 Apple iPhone Ultra 相同的无折痕显示技术，提升折叠屏视觉体验。",
+      "link": "https://9to5google.com/2026/09/02/google-pixel-12-pro-fold-crease-less-display-report/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Google Pixel Fold 采用同类无折痕显示",
+      "summary": "另据报道，Google 下一代 Pixel Fold 也将采用无折痕显示方案，进一步缩小与 Apple 的差距。",
+      "link": "https://www.androidauthority.com/google-pixel-12-pro-fold-copy-iphone-ultra-crease-3706656/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Starclash 沉浸式动画在 Apple Vision Pro 与 Quest 上发布",
+      "summary": "33 分钟的沉浸式动画体验 Starclash 在 Apple Vision Pro 与 Meta Quest 头显上上线，展示高质量 AR/VR 内容。",
+      "link": "https://www.uploadvr.com/starclash-immersive-film-out-not-on-apple-vision-pro-and-quest/",
+      "comment": "",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "Qualcomm 投资 Ultrahuman 7000 万美元",
+      "summary": "Qualcomm 领投 Ultrahuman 7000 万美元融资，助力其将智能戒指打造为可计算的可穿戴设备。",
+      "link": "https://techcrunch.com/2026/09/03/qualcomm-backs-ultrahuman-in-70m-round-on-bet-to-turn-smart-rings-into-computers/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "三星联手 Arm 开发端侧 AI 芯片",
+      "summary": "三星电子与 Arm 启动下一代端侧 AI SoC 联合研发，聚焦低功耗 AI 推理。",
+      "link": "https://www.ithome.com/0/998/427.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "小米与长鑫合作调试 LPDDR6",
+      "summary": "小米与长鑫完成 LPDDR6 一年联合调试，首款搭载该内存的设备为小米 18 Fold。",
+      "link": "https://www.ithome.com/0/998/402.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 23.4
+}
