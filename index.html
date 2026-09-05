@@ -1,0 +1,113 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI 硬件情报日报 · 公开存档</title>
+<meta name="description" content="每日 AI 硬件 / 智能硬件情报日报的公开存档，由个人 Agent 流水线自动生成。">
+<style>
+*{box-sizing:border-box;}
+body{margin:0;padding:32px 16px 64px;background:#F5F4F0;color:#3D3A35;
+  font-family:-apple-system,'PingFang SC','Hiragino Sans GB','Microsoft YaHei',sans-serif;
+  -webkit-font-smoothing:antialiased;}
+.wrap{max-width:640px;margin:0 auto;background:#FFFFFF;border:1px solid #E8E4DD;}
+.inner{padding:40px 44px 36px;}
+.mast{border-bottom:2px solid #211E1B;padding-bottom:20px;margin-bottom:22px;}
+.kicker{font-size:11px;letter-spacing:.32em;color:#A85638;font-weight:600;margin-bottom:10px;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;}
+h1{font-size:23px;font-weight:700;letter-spacing:.02em;color:#211E1B;margin:0 0 8px;}
+.sub{font-size:12.5px;color:#8B857C;letter-spacing:.04em;}
+/* 流水线流程条：描边芯片 + 等宽编号，传达"机器执行"的过程感 */
+.pipe{display:flex;flex-wrap:wrap;align-items:center;gap:6px;margin:0 0 26px;}
+.step{font-size:11.5px;color:#211E1B;border:1px solid #E8E4DD;padding:6px 11px;white-space:nowrap;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:.02em;}
+.step i{font-style:normal;color:#A85638;font-size:10px;margin-right:7px;}
+.step em{font-style:normal;color:#A85638;}
+.pipe .arr{color:#C9C4BB;font-size:11px;}
+/* 亮点清单：朱砂短横线标记 + 粗体引导词；正文灰、关键数字朱砂等宽 */
+.hl{list-style:none;margin:0 0 28px;padding:0;}
+.hl li{position:relative;padding-left:18px;margin-bottom:11px;
+  font-size:12.5px;line-height:1.75;color:#5C5850;}
+.hl li:last-child{margin-bottom:0;}
+.hl li::before{content:"";position:absolute;left:0;top:10px;width:8px;height:1px;background:#A85638;}
+.hl b{color:#211E1B;font-weight:600;font-size:13px;}
+.hl em{font-style:normal;color:#A85638;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;font-size:12px;}
+.stats{display:flex;gap:10px;flex-wrap:wrap;margin:0 0 26px;}
+.stat{flex:1;min-width:120px;border:1px solid #E8E4DD;padding:14px 16px;}
+.stat .n{font-size:20px;font-weight:700;color:#211E1B;font-family:ui-monospace,'SF Mono',Menlo,monospace;}
+.stat .l{font-size:11px;color:#8B857C;letter-spacing:.06em;margin-top:6px;}
+.sec-t{font-size:11px;letter-spacing:.28em;color:#8B857C;margin:0 0 14px;}
+.latest{display:block;border:1px solid #211E1B;padding:20px 22px;text-decoration:none;margin-bottom:10px;}
+.latest:hover{background:#FAF9F6;}
+.latest .d{font-size:11px;letter-spacing:.14em;color:#A85638;
+  font-family:ui-monospace,'SF Mono',Menlo,monospace;margin-bottom:8px;}
+.latest .t{font-size:15px;font-weight:600;color:#211E1B;line-height:1.6;margin-bottom:8px;}
+.latest .m{font-size:12px;color:#8B857C;}
+.row{display:flex;justify-content:space-between;align-items:center;gap:12px;
+  padding:15px 0;border-bottom:1px solid #E8E4DD;text-decoration:none;flex-wrap:wrap;}
+.row:hover .rd{color:#A85638;}
+.row:last-child{border-bottom:none;}
+.rd{font-size:13.5px;color:#211E1B;font-family:ui-monospace,'SF Mono',Menlo,monospace;letter-spacing:.03em;}
+.rm{font-size:11.5px;color:#8B857C;}
+.tag{display:inline-block;font-size:10px;letter-spacing:.1em;padding:2px 7px;border:1px solid #D8D4CB;color:#8B857C;}
+.tag.llm{border-color:#D8B7A5;color:#A85638;}
+.foot{margin-top:26px;border-top:2px solid #211E1B;padding-top:18px;
+  font-size:11.5px;line-height:1.9;color:#8B857C;}
+.foot a{color:#A85638;text-decoration:none;border-bottom:1px solid #D8B7A5;}
+@media only screen and (max-width:520px){
+  .inner{padding:28px 22px 24px;}
+  body{padding:16px 8px 40px;}
+}
+</style></head><body><div class="wrap"><div class="inner">
+
+<div class="mast">
+  <div class="kicker">AI HARDWARE DIGEST</div>
+  <h1>AI 硬件情报日报 · 公开存档</h1>
+  <div class="sub">每日上午 10 点自动生成　·　国内动态优先　·　全部条目附溯源链接</div>
+</div>
+
+<div class="sec-t">全自动流水线&ensp;/&ensp;PIPELINE</div>
+<div class="pipe">
+  <span class="step"><i>01</i>采集 <em>16</em> 中英信源</span><span class="arr">→</span>
+  <span class="step"><i>02</i>双层关键词过滤</span><span class="arr">→</span>
+  <span class="step"><i>03</i>两级去重</span><span class="arr">→</span>
+  <span class="step"><i>04</i>双配额选材</span><span class="arr">→</span>
+  <span class="step"><i>05</i>LLM 结构化摘要</span><span class="arr">→</span>
+  <span class="step"><i>06</i>自动发信 + 发布</span>
+</div>
+
+<div class="sec-t">设计亮点&ensp;/&ensp;HIGHLIGHTS</div>
+<ul class="hl">
+  <li><b>规则与 LLM 严格分工</b>——采集、去重、事实校验交给确定性规则，LLM 只负责判断与表达；每条摘要强制附溯源链接，杜绝幻觉。</li>
+  <li><b>三层关键词过滤</b>——strong 定入选资格、weak 只加分、negative 一票否决，防止泛化词把无关新闻带进日报。</li>
+  <li><b>两级去重</b>——URL 规范化精确匹配 + Shingle-Jaccard 标题聚类，同一事件只报一次。</li>
+  <li><b>地域 × 品类双配额</b>——国外条目 <em>≥30%</em>、新形态硬件 <em>≥36%</em> 联合选择，AR/VR 眼镜、智能戒指等低声量品类不被手机 / PC 大众声量淹没。</li>
+  <li><b>七栏结构化输出</b>——新形态硬件置顶、国内外新品分栏；每日 <em>≤16</em> 条、5–7 分钟读完，宁缺毋滥。</li>
+  <li><b>全链路零成本 + 三层降级</b>——GitHub Actions 调度 + Groq 免费层 + Pages 托管，日均成本 <em>¥0</em>；LLM 不可用时自动降级为规则速览版，日报不缺席。</li>
+</ul>
+
+<div class="stats">
+  <div class="stat"><div class="n">6</div><div class="l">累计期数</div></div>
+  <div class="stat"><div class="n">59</div><div class="l">累计情报条目</div></div>
+  <div class="stat"><div class="n">¥0</div><div class="l">日均成本</div></div>
+</div>
+
+<div class="sec-t">最新一期&ensp;/&ensp;LATEST</div>
+<a class="latest" href="digest/2026-09-05.html">
+  <div class="d">2026 年 9 月 5 日　No.006</div>
+  <div class="t">苹果首款折叠手机 iPhone Ultra 、iPhone 18 Pro / Pro Ma、三星 Galaxy S27 系列测试高通第六…</div>
+  <div class="m">共 8 条　·　点击查看完整日报 →</div>
+</a>
+
+<div class="sec-t" style="margin-top:30px;">历史存档&ensp;/&ensp;ARCHIVE</div>
+<a class="row" href="digest/2026-09-05.html"><span class="rd">2026 年 9 月 5 日　No.006</span><span class="rm">8 条　<span class="tag llm">完整版</span></span></a>
+<a class="row" href="digest/2026-09-04.html"><span class="rd">2026 年 9 月 4 日　No.005</span><span class="rm">15 条　<span class="tag llm">完整版</span></span></a>
+<a class="row" href="digest/2026-09-03.html"><span class="rd">2026 年 9 月 3 日　No.004</span><span class="rm">10 条　<span class="tag llm">完整版</span></span></a>
+<a class="row" href="digest/2026-09-02.html"><span class="rd">2026 年 9 月 2 日　No.003</span><span class="rm">9 条　<span class="tag llm">完整版</span></span></a>
+<a class="row" href="digest/2026-09-01.html"><span class="rd">2026 年 9 月 1 日　No.002</span><span class="rm">8 条　<span class="tag llm">完整版</span></span></a>
+<a class="row" href="digest/2026-08-31.html"><span class="rd">2026 年 8 月 31 日　No.001</span><span class="rm">9 条　<span class="tag llm">完整版</span></span></a>
+
+<div class="foot">
+本存档由个人 Agent 流水线自动生成，所有条目均附溯源链接，未作人工编辑。<br>
+技术实现、架构决策与局限说明见 <a href="https://github.com/ConnieWCL/ai-hardware-newsletter">GitHub 仓库</a>。
+</div>
+
+</div></div></body></html>
