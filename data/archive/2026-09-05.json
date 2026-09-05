@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-05",
+  "mode": "llm",
+  "candidates": 97,
+  "overview": [
+    "[国内] 华为发布麒麟2026芯片，晶体管密度提升55%，预示AI算力大幅升级。",
+    "[国外] 苹果将于9月9日发布iPhone Ultra折叠机，首发白色和深蓝色。",
+    "[国外] Samsung正测试搭载第六代Snapdragon 8 Super Supreme的Galaxy S27系列。",
+    "[国外] RayNeo推出全新iO Smart Glasses，主打无摄像头AR体验。"
+  ],
+  "sections": [
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款折叠手机 iPhone Ultra 首发白色和深蓝色",
+          "summary": "苹果首款折叠机预计命名为 iPhone Ultra，首发两种配色：银/白色和深蓝色，定位高端旗舰，预计搭载更大电池和全新铰链技术。",
+          "link": "https://www.ithome.com/0/998/681.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone 18 Pro / Pro Max 与 iPhone Ultra 机模曝光",
+          "summary": "最新机模显示 iPhone 18 Pro 系列采用更薄边框和全新相机排布，iPhone Ultra 采用折叠屏设计，预计配备更高刷新率显示屏。",
+          "link": "https://www.ithome.com/0/998/672.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy S27 系列测试高通第六代 Snapdragon 8 超级至尊版",
+          "summary": "三星正在对 Galaxy S27 系列进行 Snapdragon 8 超级至尊版（SM8975）验证，预计提升 AI 计算性能并降低功耗。",
+          "link": "https://www.ithome.com/0/998/643.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Motorola 可能推出全新宽幅折叠手机，直逼 Samsung Galaxy Z Fold 8",
+          "summary": "泄露的草图显示 Motorola 正研发一款宽幅折叠手机，屏占比更高，采用新型铰链，目标抢占高端折叠市场。",
+          "link": "https://www.androidauthority.com/motorola-wide-foldable-leak-3707752/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "RayNeo iO Smart Glasses 实机评测",
+          "summary": "RayNeo 新推出的 iO Smart Glasses 采用无摄像头光学设计，主打轻量化和长续航，定位企业AR和消费娱乐。",
+          "link": "https://skarredghost.com/2026/09/04/rayneo-io-smart-glasses-impressions/",
+          "comment": "",
+          "source": "skarredghost",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为麒麟 2026 芯片晶体管密度暴涨 55%",
+          "summary": "华为发布的麒麟2026芯片晶体管密度提升55%，采用全新制程，显著提升 AI 推理算力和能效。",
+          "link": "https://www.ithome.com/0/998/650.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "XDOF 获得 12 亿美元估值，正在进行 B 轮融资",
+          "summary": "专注机器人数据的 XDOF 在完成隐身期后，估值 12 亿美元，融资将用于扩充研发团队和招聘机器人工程师。",
+          "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "AI 计算提供商 Nscale 寻求 35 亿美元 Pre‑IPO 融资",
+          "summary": "Nscale 与 Anthropic 签署 450 亿美元大单后，计划融资 35 亿美元以扩大算力平台并招聘大量 AI 基础设施工程师。",
+          "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "苹果首款折叠手机 iPhone Ultra 首发白色和深蓝色",
+      "summary": "苹果首款折叠机预计命名为 iPhone Ultra，首发两种配色：银/白色和深蓝色，定位高端旗舰，预计搭载更大电池和全新铰链技术。",
+      "link": "https://www.ithome.com/0/998/681.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone 18 Pro / Pro Max 与 iPhone Ultra 机模曝光",
+      "summary": "最新机模显示 iPhone 18 Pro 系列采用更薄边框和全新相机排布，iPhone Ultra 采用折叠屏设计，预计配备更高刷新率显示屏。",
+      "link": "https://www.ithome.com/0/998/672.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy S27 系列测试高通第六代 Snapdragon 8 超级至尊版",
+      "summary": "三星正在对 Galaxy S27 系列进行 Snapdragon 8 超级至尊版（SM8975）验证，预计提升 AI 计算性能并降低功耗。",
+      "link": "https://www.ithome.com/0/998/643.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Motorola 可能推出全新宽幅折叠手机，直逼 Samsung Galaxy Z Fold 8",
+      "summary": "泄露的草图显示 Motorola 正研发一款宽幅折叠手机，屏占比更高，采用新型铰链，目标抢占高端折叠市场。",
+      "link": "https://www.androidauthority.com/motorola-wide-foldable-leak-3707752/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "RayNeo iO Smart Glasses 实机评测",
+      "summary": "RayNeo 新推出的 iO Smart Glasses 采用无摄像头光学设计，主打轻量化和长续航，定位企业AR和消费娱乐。",
+      "link": "https://skarredghost.com/2026/09/04/rayneo-io-smart-glasses-impressions/",
+      "comment": "",
+      "source": "skarredghost",
+      "region": "国外"
+    },
+    {
+      "title": "华为麒麟 2026 芯片晶体管密度暴涨 55%",
+      "summary": "华为发布的麒麟2026芯片晶体管密度提升55%，采用全新制程，显著提升 AI 推理算力和能效。",
+      "link": "https://www.ithome.com/0/998/650.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "XDOF 获得 12 亿美元估值，正在进行 B 轮融资",
+      "summary": "专注机器人数据的 XDOF 在完成隐身期后，估值 12 亿美元，融资将用于扩充研发团队和招聘机器人工程师。",
+      "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "AI 计算提供商 Nscale 寻求 35 亿美元 Pre‑IPO 融资",
+      "summary": "Nscale 与 Anthropic 签署 450 亿美元大单后，计划融资 35 亿美元以扩大算力平台并招聘大量 AI 基础设施工程师。",
+      "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 20.5
+}
