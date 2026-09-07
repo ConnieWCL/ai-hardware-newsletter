@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-07",
+  "mode": "llm",
+  "candidates": 61,
+  "overview": [
+    "[国内] 小米 18 Fold 陶瓷特别版发布，采用独特粉色陶瓷工艺，定位高端折叠旗舰。",
+    "[国内] iQOO 16 将于本月登场，搭载骁龙 8EE6 旗舰芯片，规格已达 Pro Max 级别。",
+    "[国内] OPPO Find X10 系列推出全新“哈苏超清原相机”，主打真实自然影像。",
+    "[国内] 荣耀 MagicPad4 国行版开启预约，配备 12.3 英寸 3K OLED 与第五代骁龙 8 处理器。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "XREAL 首款 Android XR 眼镜正式亮相",
+          "summary": "XREAL 推出首款全功能 Android XR 眼镜，支持原生 Android 应用，定位高端混合现实消费市场。",
+          "link": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+          "comment": "国内厂商可关注其软硬件生态整合方案。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Pico Space Pro VR 头显获 FCC 认证",
+          "summary": "Pico Space Pro 获得 FCC 认证，预计在 Q4 推出，主打 4K+120Hz 高刷新率和内置 AI 追踪。",
+          "link": "https://www.uploadvr.com/pico-space-pro-appears-to-receive-fcc-certification-following-delay-to-q4/",
+          "comment": "对比国内 VR 头显，Pico 在显示规格上更具竞争力。",
+          "source": "uploadvr",
+          "region": "国外"
+        },
+        {
+          "title": "RayNeo AI 助手眼镜在 IFA 2026 展示",
+          "summary": "RayNeo 结合私密影院体验与 AI 助手功能的智能眼镜，配备双摄和语音交互，定位高端娱乐与生产力。",
+          "link": "http://www.leikeji.com/article/79291",
+          "comment": "可为国内 AR 眼镜提供交互设计参考。",
+          "source": "leikeji",
+          "region": "国外"
+        },
+        {
+          "title": "iRobot Roomba Duo 子母式清洁机器人发布",
+          "summary": "iRobot 在 IFA 2026 推出子母式机器人组合，主机负责扫拖，副机负责细部清洁，AI 协同完成全屋清洁。",
+          "link": "https://www.ithome.com/0/999/131.htm",
+          "comment": "AI 机器人在家庭场景的协同能力值得国内厂商学习。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Z Fold 系列仍需解决折叠抖动问题",
+          "summary": "尽管 Z Fold 系列已多次迭代，但折叠后仍存在轻微抖动，影响使用体验，需进一步机械优化。",
+          "link": "https://www.engadget.com/2246419/foldable-phones-still-need-to-fix-biggest-problem-wobble/",
+          "comment": "折叠手机的结构可靠性仍是技术瓶颈。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 18 Fold 陶瓷特别版亮相",
+          "summary": "小米 18 Fold 陶瓷版采用粉色陶瓷外观，每片颜色独一无二，定位高端折叠旗舰。",
+          "link": "https://www.ithome.com/0/999/085.htm",
+          "comment": "陶瓷工艺提升产品差异化，或吸引高端用户。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iQOO 16 手机本月登场，规格达 Pro Max 级",
+          "summary": "iQOO 16 将搭载骁龙 8EE6、三星 2K+165Hz M16 定制屏，定位高性能旗舰。",
+          "link": "https://www.ithome.com/0/999/208.htm",
+          "comment": "在高端市场与小米、OPPO 形成直接竞争。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Find X10 系列推出哈苏超清原相机",
+          "summary": "OPPO Find X10 采用哈苏联合调校的摄像系统，强调真实自然的影像表现。",
+          "link": "https://www.ithome.com/0/999/134.htm",
+          "comment": "与华为、三星的高端影像布局形成差异化。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀 MagicPad4 国行版开启预约",
+          "summary": "荣耀 MagicPad4 配备 12.3 英寸 3K OLED 屏幕和第五代骁龙 8 处理器，定位高端平板。",
+          "link": "https://www.ithome.com/0/999/137.htm",
+          "comment": "在国产平板市场与小米平板形成竞争。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iQOO Pad Ultra 8.8 英寸 OLED 小平板曝光",
+          "summary": "iQOO Pad Ultra 搭载 2nm 骁龙 8 Elite Extreme Gen6 处理器，采用居中单孔四窄边框设计。",
+          "link": "https://www.ithome.com/0/999/081.htm",
+          "comment": "高端芯片配置让其在小平板市场具备竞争力。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "LPDDR6 量产初期产能紧张，小米双渠道保供",
+          "summary": "LPDDR6 首批产能受限，小米 18 Fold 将采用长鑫与海力士双供方案确保供应。",
+          "link": "https://www.ithome.com/0/999/173.htm",
+          "comment": "供应链多元化是应对新一代内存短缺的关键。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为余承东官宣刘德华将出席 HarmonyOS 7 发布会",
+          "summary": "华为在 HarmonyOS 7 发布会上邀请明星刘德华，强化全场景生态与品牌影响力。",
+          "link": "https://www.ithome.com/0/999/156.htm",
+          "comment": "软硬件生态联动是华为差异化竞争点。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "康宁 CCO：AI 让玻璃基封装与光互连走到台前",
+          "summary": "康宁表示 AI 技术推动玻璃基封装和光互连技术在高性能计算中的应用。",
+          "link": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "对国产高端封装产业链是利好信号。",
+          "source": "ifanr",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "XREAL 首款 Android XR 眼镜正式亮相",
+      "summary": "XREAL 推出首款全功能 Android XR 眼镜，支持原生 Android 应用，定位高端混合现实消费市场。",
+      "link": "https://www.androidauthority.com/xreal-aura-hands-on-experience-impressions-3708053/",
+      "comment": "国内厂商可关注其软硬件生态整合方案。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Pico Space Pro VR 头显获 FCC 认证",
+      "summary": "Pico Space Pro 获得 FCC 认证，预计在 Q4 推出，主打 4K+120Hz 高刷新率和内置 AI 追踪。",
+      "link": "https://www.uploadvr.com/pico-space-pro-appears-to-receive-fcc-certification-following-delay-to-q4/",
+      "comment": "对比国内 VR 头显，Pico 在显示规格上更具竞争力。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "RayNeo AI 助手眼镜在 IFA 2026 展示",
+      "summary": "RayNeo 结合私密影院体验与 AI 助手功能的智能眼镜，配备双摄和语音交互，定位高端娱乐与生产力。",
+      "link": "http://www.leikeji.com/article/79291",
+      "comment": "可为国内 AR 眼镜提供交互设计参考。",
+      "source": "leikeji",
+      "region": "国外"
+    },
+    {
+      "title": "iRobot Roomba Duo 子母式清洁机器人发布",
+      "summary": "iRobot 在 IFA 2026 推出子母式机器人组合，主机负责扫拖，副机负责细部清洁，AI 协同完成全屋清洁。",
+      "link": "https://www.ithome.com/0/999/131.htm",
+      "comment": "AI 机器人在家庭场景的协同能力值得国内厂商学习。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Z Fold 系列仍需解决折叠抖动问题",
+      "summary": "尽管 Z Fold 系列已多次迭代，但折叠后仍存在轻微抖动，影响使用体验，需进一步机械优化。",
+      "link": "https://www.engadget.com/2246419/foldable-phones-still-need-to-fix-biggest-problem-wobble/",
+      "comment": "折叠手机的结构可靠性仍是技术瓶颈。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "小米 18 Fold 陶瓷特别版亮相",
+      "summary": "小米 18 Fold 陶瓷版采用粉色陶瓷外观，每片颜色独一无二，定位高端折叠旗舰。",
+      "link": "https://www.ithome.com/0/999/085.htm",
+      "comment": "陶瓷工艺提升产品差异化，或吸引高端用户。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iQOO 16 手机本月登场，规格达 Pro Max 级",
+      "summary": "iQOO 16 将搭载骁龙 8EE6、三星 2K+165Hz M16 定制屏，定位高性能旗舰。",
+      "link": "https://www.ithome.com/0/999/208.htm",
+      "comment": "在高端市场与小米、OPPO 形成直接竞争。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Find X10 系列推出哈苏超清原相机",
+      "summary": "OPPO Find X10 采用哈苏联合调校的摄像系统，强调真实自然的影像表现。",
+      "link": "https://www.ithome.com/0/999/134.htm",
+      "comment": "与华为、三星的高端影像布局形成差异化。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀 MagicPad4 国行版开启预约",
+      "summary": "荣耀 MagicPad4 配备 12.3 英寸 3K OLED 屏幕和第五代骁龙 8 处理器，定位高端平板。",
+      "link": "https://www.ithome.com/0/999/137.htm",
+      "comment": "在国产平板市场与小米平板形成竞争。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iQOO Pad Ultra 8.8 英寸 OLED 小平板曝光",
+      "summary": "iQOO Pad Ultra 搭载 2nm 骁龙 8 Elite Extreme Gen6 处理器，采用居中单孔四窄边框设计。",
+      "link": "https://www.ithome.com/0/999/081.htm",
+      "comment": "高端芯片配置让其在小平板市场具备竞争力。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "LPDDR6 量产初期产能紧张，小米双渠道保供",
+      "summary": "LPDDR6 首批产能受限，小米 18 Fold 将采用长鑫与海力士双供方案确保供应。",
+      "link": "https://www.ithome.com/0/999/173.htm",
+      "comment": "供应链多元化是应对新一代内存短缺的关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为余承东官宣刘德华将出席 HarmonyOS 7 发布会",
+      "summary": "华为在 HarmonyOS 7 发布会上邀请明星刘德华，强化全场景生态与品牌影响力。",
+      "link": "https://www.ithome.com/0/999/156.htm",
+      "comment": "软硬件生态联动是华为差异化竞争点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "康宁 CCO：AI 让玻璃基封装与光互连走到台前",
+      "summary": "康宁表示 AI 技术推动玻璃基封装和光互连技术在高性能计算中的应用。",
+      "link": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "对国产高端封装产业链是利好信号。",
+      "source": "ifanr",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 22.4
+}
