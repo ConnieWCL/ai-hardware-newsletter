@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-09",
+  "mode": "llm",
+  "candidates": 96,
+  "overview": [
+    "[国内] 华为Mate XT2 采用三折叠+三星隐私屏，售价19999元，标志高端折叠旗舰回归。",
+    "[国内] 小米18 Fold 以双形态相机玩法突围，预计将冲击中高端折叠市场。",
+    "[国内] 京东云携摩尔线程布局10万卡AI算力工厂，暗示AI算力招聘需求上升。",
+    "[国外] Apple iPhone Duo 折叠屏定价2000美元，开启折叠手机低价化趋势。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate XT2 三折叠旗舰发布",
+          "summary": "华为推出全新三折叠Mate XT2，搭载三星Privacy Display，售价19999元，定位高端商务折叠。",
+          "link": "https://www.leiphone.com/category/zaobao/e43ASUgZh0Gr71YK.html",
+          "comment": "华为时隔六年再发高性能芯片，配合新形态屏幕，展示技术回归。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "小米18 Fold 中折叠相机新玩法",
+          "summary": "小米18 Fold 支持两种形态、多视角相机，提升拍摄灵活性，预计9月上市。",
+          "link": "https://www.androidauthority.com/xiaomi-18-fold-hands-on-impressions-3706799/",
+          "comment": "相机创新是折叠手机差异化关键。",
+          "source": "androidauthority",
+          "region": "国内"
+        },
+        {
+          "title": "vivo X500 Pro Max 首秀",
+          "summary": "vivo X500 Pro Max 采用增距镜与手柄设计，配色多样，计划9月21日发布。",
+          "link": "https://www.ithome.com/1/000/104.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀 Magic9 Pro Max 搭载阿莱双两亿超清影像",
+          "summary": "荣耀 Magic9 Pro Max 配置500mm巨炮增距镜，定位高端影像旗舰，9月28日发布。",
+          "link": "https://www.ithome.com/1/000/083.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 折叠屏手机定价公布",
+          "summary": "据Mark Gurman透露，Apple首款折叠屏手机命名iPhone Duo，起售价约2000美元（约13,457元人民币）。",
+          "link": "https://www.ithome.com/1/000/156.htm",
+          "comment": "苹果入局折叠手机，价格定位低于华为高端机型。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 折叠 iPhone 公开直播时间",
+          "summary": "TechCrunch 报道，Apple将在9月9日10am PDT线上直播折叠iPhone发布会，预计将公布更多规格。",
+          "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 隐私显示技术与三折叠合并进Huawei Mate XT2",
+          "summary": "9to5Google 报道，Samsung的Privacy Display技术被整合进华为Mate XT2的三折叠方案，提升隐私保护。",
+          "link": "https://9to5google.com/2026/09/07/samsungs-privacy-display-and-trifold-merge-in-the-huawei-mate-xt2/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Galaxy Z Fold 8 成为 iPhone 折叠宣传最佳广告",
+          "summary": "9to5Google 评价称，Galaxy Z Fold 8 的表现让人期待Apple的折叠机，间接提升行业关注度。",
+          "link": "https://9to5google.com/2026/09/07/annoyingly-the-galaxy-z-fold-8-is-the-best-advert-for-an-iphone-fold-yet/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple 获批可拉伸显示屏专利",
+          "summary": "Apple 获得US-12730478-B2专利，探索卷轴式可拉伸显示屏，为折叠手机提供新技术路径。",
+          "link": "https://www.ithome.com/0/999/999.htm",
+          "comment": "专利布局显示Apple在折叠技术上的长线布局。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "京东云携摩尔线程共建10万卡AI算力工厂",
+          "summary": "京东云宣布与摩尔线程合作建设10万卡AI算力工厂，暗示将大规模招聘AI算力与研发人才。",
+          "link": "https://www.ithome.com/1/000/095.htm",
+          "comment": "AI基建扩张带来大量硬件研发岗位。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为Mate XT2 三折叠旗舰发布",
+      "summary": "华为推出全新三折叠Mate XT2，搭载三星Privacy Display，售价19999元，定位高端商务折叠。",
+      "link": "https://www.leiphone.com/category/zaobao/e43ASUgZh0Gr71YK.html",
+      "comment": "华为时隔六年再发高性能芯片，配合新形态屏幕，展示技术回归。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "小米18 Fold 中折叠相机新玩法",
+      "summary": "小米18 Fold 支持两种形态、多视角相机，提升拍摄灵活性，预计9月上市。",
+      "link": "https://www.androidauthority.com/xiaomi-18-fold-hands-on-impressions-3706799/",
+      "comment": "相机创新是折叠手机差异化关键。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "vivo X500 Pro Max 首秀",
+      "summary": "vivo X500 Pro Max 采用增距镜与手柄设计，配色多样，计划9月21日发布。",
+      "link": "https://www.ithome.com/1/000/104.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀 Magic9 Pro Max 搭载阿莱双两亿超清影像",
+      "summary": "荣耀 Magic9 Pro Max 配置500mm巨炮增距镜，定位高端影像旗舰，9月28日发布。",
+      "link": "https://www.ithome.com/1/000/083.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 折叠屏手机定价公布",
+      "summary": "据Mark Gurman透露，Apple首款折叠屏手机命名iPhone Duo，起售价约2000美元（约13,457元人民币）。",
+      "link": "https://www.ithome.com/1/000/156.htm",
+      "comment": "苹果入局折叠手机，价格定位低于华为高端机型。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 折叠 iPhone 公开直播时间",
+      "summary": "TechCrunch 报道，Apple将在9月9日10am PDT线上直播折叠iPhone发布会，预计将公布更多规格。",
+      "link": "https://techcrunch.com/2026/09/08/how-to-watch-apples-foldable-iphone-announcement/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 隐私显示技术与三折叠合并进Huawei Mate XT2",
+      "summary": "9to5Google 报道，Samsung的Privacy Display技术被整合进华为Mate XT2的三折叠方案，提升隐私保护。",
+      "link": "https://9to5google.com/2026/09/07/samsungs-privacy-display-and-trifold-merge-in-the-huawei-mate-xt2/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Galaxy Z Fold 8 成为 iPhone 折叠宣传最佳广告",
+      "summary": "9to5Google 评价称，Galaxy Z Fold 8 的表现让人期待Apple的折叠机，间接提升行业关注度。",
+      "link": "https://9to5google.com/2026/09/07/annoyingly-the-galaxy-z-fold-8-is-the-best-advert-for-an-iphone-fold-yet/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 获批可拉伸显示屏专利",
+      "summary": "Apple 获得US-12730478-B2专利，探索卷轴式可拉伸显示屏，为折叠手机提供新技术路径。",
+      "link": "https://www.ithome.com/0/999/999.htm",
+      "comment": "专利布局显示Apple在折叠技术上的长线布局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "京东云携摩尔线程共建10万卡AI算力工厂",
+      "summary": "京东云宣布与摩尔线程合作建设10万卡AI算力工厂，暗示将大规模招聘AI算力与研发人才。",
+      "link": "https://www.ithome.com/1/000/095.htm",
+      "comment": "AI基建扩张带来大量硬件研发岗位。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 21.9
+}
