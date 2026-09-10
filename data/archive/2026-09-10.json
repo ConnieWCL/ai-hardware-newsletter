@@ -1,0 +1,175 @@
+{
+  "date": "2026-09-10",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 苹果首款折叠屏 iPhone Duo 国行 15999 元起，10 月 16 日开启预售。",
+    "[国内] 小米 18 Fold 中折叠手机 10999 元起今日开售，搭载玄戒 O3 芯片。",
+    "[国内] vivo WATCH 6 智能手表预装 BlueOS，配合 Buds Clip 耳夹耳机同步发布。",
+    "[国外] iPhone Duo 在规格上对标 Samsung Galaxy Z Fold 8，外屏 5.4 寸、内屏 7.6 寸。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 折叠屏手机发布",
+          "summary": "苹果首款折叠屏 iPhone Duo 国行起价 15,999 元，最高 26,499 元，10 月 16 日预售，10 月 23 日正式发售。",
+          "link": "https://www.ithome.com/1/000/588.htm",
+          "comment": "苹果首次进军折叠屏，定价高于同类 Android 折叠机，定位高端旗舰。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 18 Fold 中折叠手机发布",
+          "summary": "小米 18 Fold 采用自研玄戒 O3 芯片，提供 12GB+256GB 版 10,999 元起，10 月 10 日正式开售。",
+          "link": "https://www.ithome.com/1/000/570.htm",
+          "comment": "国产折叠机在性能与价格上形成竞争，抢占中高端市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo WATCH 6 与 Buds Clip 同步发布",
+          "summary": "vivo WATCH 6 预装 BlueOS 系统，搭配 Buds Clip 耳夹耳机，定位健康与轻量化。",
+          "link": "https://www.ithome.com/1/000/610.htm",
+          "comment": "vivo 持续布局可穿戴生态，强化软硬件一体化。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 与 Samsung Galaxy Z Fold 8 对比",
+          "summary": "iPhone Duo 采用 5.4 寸外屏、7.6 寸内屏，规格上与 Z Fold 8 相当，但在重量和厚度上略逊。",
+          "link": "https://www.engadget.com/2254316/iphone-duo-vs-samsung-galaxy-z-fold-8-comparison/",
+          "comment": "苹果在硬件规格上已追平 Android 领头羊，仍需在轻薄上继续优化。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 支持 Apple Pencil 手写输入",
+          "summary": "Apple 官方称 iPhone Duo 对 stylus 支持优于所有 Galaxy Fold 机型，折叠后仍可使用 Apple Pencil。",
+          "link": "https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/",
+          "comment": "手写功能为商务与创意用户提供差异化卖点。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 获得 IP68 防尘防水认证",
+          "summary": "iPhone Duo 与 Google Pixel Fold 共享同等级 IP68 防护，提升日常使用可靠性。",
+          "link": "https://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/",
+          "comment": "防护等级的提升有助于消除折叠机易损的顾虑。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 对 iPhone Duo 的折叠技术进行嘲讽",
+          "summary": "Samsung 在官方 X 账号上调侃 iPhone Duo 为“模拟人生续作”，并展示自家最轻折叠机。",
+          "link": "https://www.androidauthority.com/samsung-welcome-to-foldable-ad-3709219/",
+          "comment": "竞争对手的强硬回应预示折叠屏市场竞争将更激烈。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "The Verge 评测 iPhone Duo 折叠体验",
+          "summary": "评测指出 iPhone Duo 较厚重，折痕明显，但系统流畅度和生态优势明显。",
+          "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+          "comment": "硬件仍有提升空间，软件生态是苹果的核心竞争力。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Siri AI 将在下月扩展语言支持",
+          "summary": "苹果宣布 Siri AI 将在下月新增多语言支持，部分功能将在 iOS 27 及新硬件后续更新。",
+          "link": "https://www.ithome.com/1/000/576.htm",
+          "comment": "语言多样化提升 AI 助手在全球市场的竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "iPhone Duo 折叠屏手机发布",
+      "summary": "苹果首款折叠屏 iPhone Duo 国行起价 15,999 元，最高 26,499 元，10 月 16 日预售，10 月 23 日正式发售。",
+      "link": "https://www.ithome.com/1/000/588.htm",
+      "comment": "苹果首次进军折叠屏，定价高于同类 Android 折叠机，定位高端旗舰。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 18 Fold 中折叠手机发布",
+      "summary": "小米 18 Fold 采用自研玄戒 O3 芯片，提供 12GB+256GB 版 10,999 元起，10 月 10 日正式开售。",
+      "link": "https://www.ithome.com/1/000/570.htm",
+      "comment": "国产折叠机在性能与价格上形成竞争，抢占中高端市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo WATCH 6 与 Buds Clip 同步发布",
+      "summary": "vivo WATCH 6 预装 BlueOS 系统，搭配 Buds Clip 耳夹耳机，定位健康与轻量化。",
+      "link": "https://www.ithome.com/1/000/610.htm",
+      "comment": "vivo 持续布局可穿戴生态，强化软硬件一体化。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 与 Samsung Galaxy Z Fold 8 对比",
+      "summary": "iPhone Duo 采用 5.4 寸外屏、7.6 寸内屏，规格上与 Z Fold 8 相当，但在重量和厚度上略逊。",
+      "link": "https://www.engadget.com/2254316/iphone-duo-vs-samsung-galaxy-z-fold-8-comparison/",
+      "comment": "苹果在硬件规格上已追平 Android 领头羊，仍需在轻薄上继续优化。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 支持 Apple Pencil 手写输入",
+      "summary": "Apple 官方称 iPhone Duo 对 stylus 支持优于所有 Galaxy Fold 机型，折叠后仍可使用 Apple Pencil。",
+      "link": "https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/",
+      "comment": "手写功能为商务与创意用户提供差异化卖点。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 获得 IP68 防尘防水认证",
+      "summary": "iPhone Duo 与 Google Pixel Fold 共享同等级 IP68 防护，提升日常使用可靠性。",
+      "link": "https://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/",
+      "comment": "防护等级的提升有助于消除折叠机易损的顾虑。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 对 iPhone Duo 的折叠技术进行嘲讽",
+      "summary": "Samsung 在官方 X 账号上调侃 iPhone Duo 为“模拟人生续作”，并展示自家最轻折叠机。",
+      "link": "https://www.androidauthority.com/samsung-welcome-to-foldable-ad-3709219/",
+      "comment": "竞争对手的强硬回应预示折叠屏市场竞争将更激烈。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "The Verge 评测 iPhone Duo 折叠体验",
+      "summary": "评测指出 iPhone Duo 较厚重，折痕明显，但系统流畅度和生态优势明显。",
+      "link": "https://www.theverge.com/tech/992755/apple-iphone-duo-history-of-devices",
+      "comment": "硬件仍有提升空间，软件生态是苹果的核心竞争力。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Siri AI 将在下月扩展语言支持",
+      "summary": "苹果宣布 Siri AI 将在下月新增多语言支持，部分功能将在 iOS 27 及新硬件后续更新。",
+      "link": "https://www.ithome.com/1/000/576.htm",
+      "comment": "语言多样化提升 AI 助手在全球市场的竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 21.3
+}
