@@ -1,0 +1,201 @@
+{
+  "date": "2026-09-11",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 苹果 iPhone Duo 国行 15999 元起，开启折叠手机新赛道。",
+    "[国外] Samsung 对 Apple 首款折叠 iPhone Duo 反应不一，暗示将加速自家折叠产品迭代。",
+    "[国内] RayNeo 推出 iO Smart Glasses，聚焦音频与生产力，开启 AI 眼镜新形态。",
+    "[国外] Samsung 计划于 2027 年底推出首款 Android XR 彩色显示眼镜，布局元宇宙硬件。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "RayNeo iO Smart Glasses 全面评测：音频为核心的 AI 眼镜",
+          "summary": "RayNeo 最新发布 iO Smart Glasses，采用无摄像头设计，主打高保真音频与 AI 生产力功能，定位专业人士与内容创作者。",
+          "link": "https://skarredghost.com/2026/09/10/rayneo-io-smart-glasses-review/",
+          "comment": "首款聚焦音频的 AI 眼镜，填补市场空白，可关注其供应链招聘信息。",
+          "source": "skarredghost",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 首款 Android XR 彩色显示眼镜或于 2027 年底上市",
+          "summary": "Samsung 正在研发具彩色显示的 Android XR 眼镜，预计 2027 年底发布，目标是提供沉浸式混合现实体验。",
+          "link": "https://9to5google.com/2026/09/10/samsungs-first-android-xr-glasses-with-a-color-display-may-launch-in-late-2027/",
+          "comment": "作为 Samsung 进军 XR 硬件的关键节点，可能带动本地供应链招聘。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 国行首发，售价 15999 元起",
+          "summary": "苹果在中国发布首款折叠手机 iPhone Duo，起售价 15999 元，10 月 16 日开启预售，10 月 23 日正式发售。",
+          "link": "https://www.ithome.com/1/001/112.htm",
+          "comment": "折叠屏定价高于同类 Android 机型，显示苹果在高端市场的布局。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Apple Watch Series 12 与 Ultra 4 推出 Siri Recap 功能",
+          "summary": "Apple 更新官方文档，详细说明在 Apple Watch Series 12 与 Ultra 4 上的 Siri Recap，支持全天对话要点提取与 7 天自动删除。",
+          "link": "https://www.ithome.com/1/001/127.htm",
+          "comment": "AI 助手功能深化，可提升可穿戴设备的生态黏性。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung 对 Apple 折叠 iPhone Duo 的回应：重新加热我们的剩菜",
+          "summary": "Samsung 对 Apple 首款折叠 iPhone Duo 发表评论，暗示将加速自家折叠产品的迭代以保持竞争优势。",
+          "link": "https://9to5google.com/2026/09/09/samsung-apple-iphone-duo-reaction/",
+          "comment": "显示 Samsung 正在评估市场冲击，可能加大研发投入。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 支持手写笔输入优于任何 Galaxy Fold",
+          "summary": "Android Authority 报道，iPhone Duo 在原生系统中对手写笔的支持优于现有 Galaxy Fold 系列，提升创作体验。",
+          "link": "https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/",
+          "comment": "突显 Apple 在交互细节上的优势。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 原生 iOS 27.1 不支持并行播放两个视频",
+          "summary": "AppleInsider 揭示 iPhone Duo 的 iOS 27.1 系统仍无法实现双视频并行播放，尽管支持多任务视图。",
+          "link": "https://www.ithome.com/1/001/134.htm",
+          "comment": "功能缺口为竞争对手提供差异化机会。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 将配备类 Mac 边缘补光功能",
+          "summary": "通过 iOS 27 RC 代码泄露，发现 iPhone Duo 将引入类似 Mac 的边缘光效，提升折叠屏视觉体验。",
+          "link": "https://www.ithome.com/1/001/106.htm",
+          "comment": "硬件细节显示 Apple 在用户体验上持续创新。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 采用 IP68 防护等级，与 Pixel Fold 相同",
+          "summary": "9to5Google 报道，iPhone Duo 具备 IP68 防尘防水等级，和 Google Pixel Fold 持平，提升折叠机的耐用性。",
+          "link": "https://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Deepseek 获得科创板 IPO 备战资金",
+          "summary": "GeekPark 报道，AI 大模型公司 Deepseek 正在准备科创板上市，融资后预计将扩大研发团队。",
+          "link": "http://www.geekpark.net/news/370089",
+          "comment": "AI 基础模型融资增加，相关硬件公司可关注人才需求。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "RayNeo iO Smart Glasses 全面评测：音频为核心的 AI 眼镜",
+      "summary": "RayNeo 最新发布 iO Smart Glasses，采用无摄像头设计，主打高保真音频与 AI 生产力功能，定位专业人士与内容创作者。",
+      "link": "https://skarredghost.com/2026/09/10/rayneo-io-smart-glasses-review/",
+      "comment": "首款聚焦音频的 AI 眼镜，填补市场空白，可关注其供应链招聘信息。",
+      "source": "skarredghost",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 首款 Android XR 彩色显示眼镜或于 2027 年底上市",
+      "summary": "Samsung 正在研发具彩色显示的 Android XR 眼镜，预计 2027 年底发布，目标是提供沉浸式混合现实体验。",
+      "link": "https://9to5google.com/2026/09/10/samsungs-first-android-xr-glasses-with-a-color-display-may-launch-in-late-2027/",
+      "comment": "作为 Samsung 进军 XR 硬件的关键节点，可能带动本地供应链招聘。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 国行首发，售价 15999 元起",
+      "summary": "苹果在中国发布首款折叠手机 iPhone Duo，起售价 15999 元，10 月 16 日开启预售，10 月 23 日正式发售。",
+      "link": "https://www.ithome.com/1/001/112.htm",
+      "comment": "折叠屏定价高于同类 Android 机型，显示苹果在高端市场的布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple Watch Series 12 与 Ultra 4 推出 Siri Recap 功能",
+      "summary": "Apple 更新官方文档，详细说明在 Apple Watch Series 12 与 Ultra 4 上的 Siri Recap，支持全天对话要点提取与 7 天自动删除。",
+      "link": "https://www.ithome.com/1/001/127.htm",
+      "comment": "AI 助手功能深化，可提升可穿戴设备的生态黏性。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung 对 Apple 折叠 iPhone Duo 的回应：重新加热我们的剩菜",
+      "summary": "Samsung 对 Apple 首款折叠 iPhone Duo 发表评论，暗示将加速自家折叠产品的迭代以保持竞争优势。",
+      "link": "https://9to5google.com/2026/09/09/samsung-apple-iphone-duo-reaction/",
+      "comment": "显示 Samsung 正在评估市场冲击，可能加大研发投入。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 支持手写笔输入优于任何 Galaxy Fold",
+      "summary": "Android Authority 报道，iPhone Duo 在原生系统中对手写笔的支持优于现有 Galaxy Fold 系列，提升创作体验。",
+      "link": "https://www.androidauthority.com/iphone-duo-apple-pencil-3709490/",
+      "comment": "突显 Apple 在交互细节上的优势。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 原生 iOS 27.1 不支持并行播放两个视频",
+      "summary": "AppleInsider 揭示 iPhone Duo 的 iOS 27.1 系统仍无法实现双视频并行播放，尽管支持多任务视图。",
+      "link": "https://www.ithome.com/1/001/134.htm",
+      "comment": "功能缺口为竞争对手提供差异化机会。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 将配备类 Mac 边缘补光功能",
+      "summary": "通过 iOS 27 RC 代码泄露，发现 iPhone Duo 将引入类似 Mac 的边缘光效，提升折叠屏视觉体验。",
+      "link": "https://www.ithome.com/1/001/106.htm",
+      "comment": "硬件细节显示 Apple 在用户体验上持续创新。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 采用 IP68 防护等级，与 Pixel Fold 相同",
+      "summary": "9to5Google 报道，iPhone Duo 具备 IP68 防尘防水等级，和 Google Pixel Fold 持平，提升折叠机的耐用性。",
+      "link": "https://9to5google.com/2026/09/09/apple-iphone-duo-foldable-ip68-google-pixel/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Deepseek 获得科创板 IPO 备战资金",
+      "summary": "GeekPark 报道，AI 大模型公司 Deepseek 正在准备科创板上市，融资后预计将扩大研发团队。",
+      "link": "http://www.geekpark.net/news/370089",
+      "comment": "AI 基础模型融资增加，相关硬件公司可关注人才需求。",
+      "source": "geekpark",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 24.1
+}
