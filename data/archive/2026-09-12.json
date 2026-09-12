@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-12",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate XT 2三折叠手机首销，起售价19999元，搭载首发麒麟9050 Pro芯片。",
+    "[国外] 苹果首款折叠屏iPhone Duo发布，分屏比例不可调，售价14999元。",
+    "[国外] Meta新一代轻量化高端混合现实头显Project Phoenix曝光，采用外置计算模块。",
+    "[国外] Nvidia计划向AI初创Anthropic投资最高100亿美元，暗示AI算力需求激增。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta Project Phoenix 轻量化高端混合现实头显",
+          "summary": "Meta首款高端混合现实头显Phoenix采用外置计算模块，主打轻量化和开放式设计，定位高端VR/AR市场。",
+          "link": "https://www.ithome.com/1/001/490.htm",
+          "comment": "对头显算力外置化的趋势提供了新思路。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Valve SteamVR 大幅更新 为 Steam Frame 做准备",
+          "summary": "Valve发布重要SteamVR更新，提升兼容性与性能，为即将上市的Steam Frame PC VR头显奠定基础。",
+          "link": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+          "comment": "显示PC VR生态仍在快速迭代。",
+          "source": "roadtovr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate XT 2 非凡大师三折叠手机首销",
+          "summary": "华为推出Mate XT 2，采用三折叠设计，搭载首发麒麟9050 Pro芯片，16GB+256GB起售价19999元，主打高性能与防窥硬件。",
+          "link": "https://www.ithome.com/1/001/511.htm",
+          "comment": "折叠屏继续向高端旗舰渗透，芯片自研是关键竞争点。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果iPhone Duo 折叠屏手机发布",
+          "summary": "苹果首款折叠屏iPhone Duo支持双应用分屏，但比例不可调，起售价14999元，标志苹果正式进军折叠屏市场。",
+          "link": "https://www.ithome.com/1/001/484.htm",
+          "comment": "虽功能受限，但展示了苹果在硬件形态上的探索。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "三星Galaxy SmartTag 3 复制AirTag设计细节泄漏",
+          "summary": "三星即将推出的SmartTag 3在外观上借鉴了Apple AirTag的设计，进一步加剧定位硬件竞争。",
+          "link": "https://9to5google.com/2026/09/11/samsung-galaxy-smarttag-3-copies-the-worst-part-of-apples-airtag-in-leak/",
+          "comment": "定位生态的竞争将推动更丰富的硬件创新。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Nvidia 与 Anthropic 商讨最高100亿美元投资",
+          "summary": "Nvidia正与AI初创Anthropic洽谈，计划以基石投资者身份投入最高100亿美元，显示AI算力需求的爆发式增长。",
+          "link": "https://www.ithome.com/1/001/488.htm",
+          "comment": "大额投资预示AI芯片研发和人才招聘将迎来新一轮热潮。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta Project Phoenix 轻量化高端混合现实头显",
+      "summary": "Meta首款高端混合现实头显Phoenix采用外置计算模块，主打轻量化和开放式设计，定位高端VR/AR市场。",
+      "link": "https://www.ithome.com/1/001/490.htm",
+      "comment": "对头显算力外置化的趋势提供了新思路。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Valve SteamVR 大幅更新 为 Steam Frame 做准备",
+      "summary": "Valve发布重要SteamVR更新，提升兼容性与性能，为即将上市的Steam Frame PC VR头显奠定基础。",
+      "link": "https://roadtovr.com/valve-big-steamvr-update-steam-frame-launch/",
+      "comment": "显示PC VR生态仍在快速迭代。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate XT 2 非凡大师三折叠手机首销",
+      "summary": "华为推出Mate XT 2，采用三折叠设计，搭载首发麒麟9050 Pro芯片，16GB+256GB起售价19999元，主打高性能与防窥硬件。",
+      "link": "https://www.ithome.com/1/001/511.htm",
+      "comment": "折叠屏继续向高端旗舰渗透，芯片自研是关键竞争点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果iPhone Duo 折叠屏手机发布",
+      "summary": "苹果首款折叠屏iPhone Duo支持双应用分屏，但比例不可调，起售价14999元，标志苹果正式进军折叠屏市场。",
+      "link": "https://www.ithome.com/1/001/484.htm",
+      "comment": "虽功能受限，但展示了苹果在硬件形态上的探索。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星Galaxy SmartTag 3 复制AirTag设计细节泄漏",
+      "summary": "三星即将推出的SmartTag 3在外观上借鉴了Apple AirTag的设计，进一步加剧定位硬件竞争。",
+      "link": "https://9to5google.com/2026/09/11/samsung-galaxy-smarttag-3-copies-the-worst-part-of-apples-airtag-in-leak/",
+      "comment": "定位生态的竞争将推动更丰富的硬件创新。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Nvidia 与 Anthropic 商讨最高100亿美元投资",
+      "summary": "Nvidia正与AI初创Anthropic洽谈，计划以基石投资者身份投入最高100亿美元，显示AI算力需求的爆发式增长。",
+      "link": "https://www.ithome.com/1/001/488.htm",
+      "comment": "大额投资预示AI芯片研发和人才招聘将迎来新一轮热潮。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 20.5
+}
