@@ -1,0 +1,233 @@
+{
+  "date": "2026-09-13",
+  "mode": "llm",
+  "candidates": 70,
+  "overview": [
+    "[国内] 华为Mate 90系列即将发布，星环设计或全系三摄，预示高端影像布局升级。",
+    "[国内] 支付宝联合多家手机厂商共建“一碰通行”生态联盟，出行支付场景深化。",
+    "[国外] Apple Watch Series 12搭载新芯片与健康传感器，强化可穿戴健康竞争力。",
+    "[国外] Samsung借“Tim Cook”形象营销Galaxy Z Fold 8，折叠屏竞争加剧。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Unitree 机器人狗",
+          "summary": "中国机器人公司Unitree推出新款四足机器人狗，具备自主导航与负载能力，已在海外市场实现销量突破。",
+          "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+          "comment": "技术成熟度提升，暗示国内AI硬件人才需求上升。",
+          "source": "arstechnica",
+          "region": "国内"
+        },
+        {
+          "title": "Steam Frame VR 头显评测视频曝光",
+          "summary": "Valve的Steam Frame VR头显进入评测阶段，视频展示高分辨率显示与手部追踪，定位高端PC VR市场。",
+          "link": "https://www.ithome.com/1/001/674.htm",
+          "comment": "VR硬件进入商业化关键期，关注供应链机会。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "灵影 AI 眼镜操作系统平台",
+          "summary": "蚂蚁集团将GPASS升级为“灵影”，面向AI眼镜等新终端提供原生操作系统与开放平台，支持自然交互与智能服务。",
+          "link": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+          "comment": "AI 眼镜生态即将形成，硬件厂商可抢先布局。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate 90 系列手机",
+          "summary": "Mate 90、90 Pro、90 Pro Max采用星环设计，预计全系三摄；Mate 90 RS采用八边形机身，定位高端旗舰。",
+          "link": "https://www.ithome.com/1/001/677.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "贝尔金二合一折叠磁吸无线充电基座",
+          "summary": "支持iPhone 25W无线充、AirPods 5W无线充及5W有线输出，定价429元，面向高端手机配件市场。",
+          "link": "https://www.ithome.com/1/001/714.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple Watch Series 12 智能手表",
+          "summary": "搭载全新Apple芯片与更强健康传感器，提升心率监测与血氧检测精度。",
+          "link": "https://www.ithome.com/1/001/740.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 广告营销",
+          "summary": "三星以“Tim Cook”形象为Galaxy Z Fold 8做广告，强化折叠屏高端形象。",
+          "link": "https://www.androidauthority.com/galaxy-z-fold-8-ad-trolls-apple-3710440/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Motorola Wide Razr Fold 3D 玻璃概念",
+          "summary": "Motorola计划在Wide Razr Fold采用3D玻璃与无折痕显示，提升折叠屏耐用性与观感。",
+          "link": "https://9to5google.com/2026/09/11/motorolas-wide-razr-fold-wants-3d-glass-and-creaseless-display/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone 18 Pro 系列预售火爆",
+          "summary": "iPhone 18 Pro 与 Pro Max 起售价9999/10999元，首小时销量翻倍，显示高端手机需求旺盛。",
+          "link": "https://www.ithome.com/1/001/734.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Pixelated 116 讨论 Apple 折叠屏入局",
+          "summary": "节目聚焦Apple即将推出折叠屏手机，分析其在高端市场的竞争策略。",
+          "link": "https://9to5google.com/2026/09/11/pixelated-116-how-dynamic-is-this-duo/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple A20 Pro 芯片性能领先",
+          "summary": "A20 Pro提升CPU与GPU频率，功耗优化后在跑分上超越当前Android旗舰。",
+          "link": "https://www.androidauthority.com/apple-a20-pro-explained-3709816/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Mecka AI 获得 5 亿美元融资",
+          "summary": "Mecka AI完成由红杉领投的融资，估值约5亿美元，计划扩充研发与市场团队。",
+          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "comment": "融资后将大幅招聘AI训练与硬件工程师，值得关注。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Unitree 机器人狗",
+      "summary": "中国机器人公司Unitree推出新款四足机器人狗，具备自主导航与负载能力，已在海外市场实现销量突破。",
+      "link": "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
+      "comment": "技术成熟度提升，暗示国内AI硬件人才需求上升。",
+      "source": "arstechnica",
+      "region": "国内"
+    },
+    {
+      "title": "Steam Frame VR 头显评测视频曝光",
+      "summary": "Valve的Steam Frame VR头显进入评测阶段，视频展示高分辨率显示与手部追踪，定位高端PC VR市场。",
+      "link": "https://www.ithome.com/1/001/674.htm",
+      "comment": "VR硬件进入商业化关键期，关注供应链机会。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "灵影 AI 眼镜操作系统平台",
+      "summary": "蚂蚁集团将GPASS升级为“灵影”，面向AI眼镜等新终端提供原生操作系统与开放平台，支持自然交互与智能服务。",
+      "link": "https://www.leiphone.com/category/industrynews/XOOL34t59O0TvCAQ.html",
+      "comment": "AI 眼镜生态即将形成，硬件厂商可抢先布局。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "华为 Mate 90 系列手机",
+      "summary": "Mate 90、90 Pro、90 Pro Max采用星环设计，预计全系三摄；Mate 90 RS采用八边形机身，定位高端旗舰。",
+      "link": "https://www.ithome.com/1/001/677.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "贝尔金二合一折叠磁吸无线充电基座",
+      "summary": "支持iPhone 25W无线充、AirPods 5W无线充及5W有线输出，定价429元，面向高端手机配件市场。",
+      "link": "https://www.ithome.com/1/001/714.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple Watch Series 12 智能手表",
+      "summary": "搭载全新Apple芯片与更强健康传感器，提升心率监测与血氧检测精度。",
+      "link": "https://www.ithome.com/1/001/740.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 广告营销",
+      "summary": "三星以“Tim Cook”形象为Galaxy Z Fold 8做广告，强化折叠屏高端形象。",
+      "link": "https://www.androidauthority.com/galaxy-z-fold-8-ad-trolls-apple-3710440/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Motorola Wide Razr Fold 3D 玻璃概念",
+      "summary": "Motorola计划在Wide Razr Fold采用3D玻璃与无折痕显示，提升折叠屏耐用性与观感。",
+      "link": "https://9to5google.com/2026/09/11/motorolas-wide-razr-fold-wants-3d-glass-and-creaseless-display/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone 18 Pro 系列预售火爆",
+      "summary": "iPhone 18 Pro 与 Pro Max 起售价9999/10999元，首小时销量翻倍，显示高端手机需求旺盛。",
+      "link": "https://www.ithome.com/1/001/734.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Pixelated 116 讨论 Apple 折叠屏入局",
+      "summary": "节目聚焦Apple即将推出折叠屏手机，分析其在高端市场的竞争策略。",
+      "link": "https://9to5google.com/2026/09/11/pixelated-116-how-dynamic-is-this-duo/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple A20 Pro 芯片性能领先",
+      "summary": "A20 Pro提升CPU与GPU频率，功耗优化后在跑分上超越当前Android旗舰。",
+      "link": "https://www.androidauthority.com/apple-a20-pro-explained-3709816/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Mecka AI 获得 5 亿美元融资",
+      "summary": "Mecka AI完成由红杉领投的融资，估值约5亿美元，计划扩充研发与市场团队。",
+      "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "comment": "融资后将大幅招聘AI训练与硬件工程师，值得关注。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.3
+}
