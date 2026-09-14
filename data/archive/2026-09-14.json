@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-14",
+  "mode": "llm",
+  "candidates": 72,
+  "overview": [
+    "[国内] 小米澎程今日全国交付，标志供应链交付能力提升。",
+    "[国内] OPPO Find X10 系列官宣，定位高端影像旗舰。",
+    "[国内] OPPO Enco X4 耳机与 Watch S2 手表同步发布，打造生态闭环。",
+    "[国外] Samsung Galaxy S27 预计将采用升级 OLED 显示屏，提升画质。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "AI 会议耳机（安克 × 飞书）",
+          "summary": "安克联手飞书推出 AI 会议耳机，支持实时转写与双语翻译，售价 1799 元。",
+          "link": "https://www.ithome.com/1/001/989.htm",
+          "comment": "面向企业会议市场，提升远程协作效率。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "AI 眼镜技术访谈",
+          "summary": "应用材料副总裁 Paul Meissner 介绍多款智能眼镜样品，探讨佩戴体验与商业化路径。",
+          "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "AI 眼镜仍面临用户接受度与舒适度挑战。",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "Meta Ray‑Ban Display 与 Quest 头显集成",
+          "summary": "Meta 将 Threads 应用移植至 Quest 头显及 Ray‑Ban 智能眼镜，扩展社交与 AR 场景。",
+          "link": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
+          "comment": "标志 AR/VR 生态跨平台融合。",
+          "source": "uploadvr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "OPPO Find X10 系列发布",
+          "summary": "Find X10 Pro M 等三款机型亮相，主打徕卡影像系统与全新外观设计。",
+          "link": "https://www.ithome.com/1/001/913.htm",
+          "comment": "继续巩固 OPPO 高端影像布局。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Enco X4 耳机 & Watch S2 手表",
+          "summary": "两款新品将于 9 月 22 日同步发布，定位中高端音频与健康生态。",
+          "link": "https://www.ithome.com/1/002/004.htm",
+          "comment": "强化 OPPO 软硬件一体化竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀 Magic9 超能版发布",
+          "summary": "荣耀推出四色 Magic9 超能版，搭载新一代影像模组与高刷新率屏幕。",
+          "link": "https://www.ithome.com/1/001/992.htm",
+          "comment": "在高端市场与小米、OPPO 形成三足鼎立。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米澎程全国交付",
+          "summary": "小米澎程 AI 计算平台今日实现全国交付，标志供应链交付能力提升。",
+          "link": "http://www.geekpark.net/news/370228",
+          "comment": "为小米 AI 业务提供算力支撑。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy S27 OLED 升级传闻",
+          "summary": "Galaxy S27 预计将采用全新 OLED 面板，提升亮度与能效。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-s27-m16-oled-display-3710724/",
+          "comment": "三星继续在高端显示技术上领跑。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPhone Duo 折叠机型预测",
+          "summary": "Mark Gurman 预测 iPhone Duo 将实现 Face ID 与长焦摄像头，推动折叠手机主流化。",
+          "link": "https://www.ithome.com/1/001/912.htm",
+          "comment": "苹果入局折叠手机或重塑行业格局。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 正研发 iPhone 游戏手柄",
+          "summary": "据 Bloomberg 报道，Apple 正在开发两款游戏手柄，可能采用 Beats 品牌。",
+          "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+          "comment": "拓展 iPhone 游戏生态，提升硬件黏性。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 折叠机型被指复制 Android 折叠",
+          "summary": "9to5Google 评测指出 iPhone Duo 并未在折叠技术上实现突破，但已引发模仿潮。",
+          "link": "https://9to5google.com/2026/09/13/iphone-duo-didnt-reinvent-android-foldables/",
+          "comment": "市场关注点转向用户体验而非技术创新。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Motorola Edge 70 Neo 基准跑分曝光",
+          "summary": "搭载 Snapdragon 7s Gen 3，单核 723 分，多核 2.9k，定位中高端市场。",
+          "link": "https://www.ithome.com/1/002/008.htm",
+          "comment": "显示出高通最新中端芯片的性能提升。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "iOS 27 将升级 Siri AI 能力",
+          "summary": "iOS 27 正式版将提升 Siri 的大模型推理能力，增强自然语言交互。",
+          "link": "https://www.ithome.com/1/001/921.htm",
+          "comment": "苹果在移动端 AI 生态布局加速。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "AI 会议耳机（安克 × 飞书）",
+      "summary": "安克联手飞书推出 AI 会议耳机，支持实时转写与双语翻译，售价 1799 元。",
+      "link": "https://www.ithome.com/1/001/989.htm",
+      "comment": "面向企业会议市场，提升远程协作效率。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "AI 眼镜技术访谈",
+      "summary": "应用材料副总裁 Paul Meissner 介绍多款智能眼镜样品，探讨佩戴体验与商业化路径。",
+      "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "AI 眼镜仍面临用户接受度与舒适度挑战。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "Meta Ray‑Ban Display 与 Quest 头显集成",
+      "summary": "Meta 将 Threads 应用移植至 Quest 头显及 Ray‑Ban 智能眼镜，扩展社交与 AR 场景。",
+      "link": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
+      "comment": "标志 AR/VR 生态跨平台融合。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "OPPO Find X10 系列发布",
+      "summary": "Find X10 Pro M 等三款机型亮相，主打徕卡影像系统与全新外观设计。",
+      "link": "https://www.ithome.com/1/001/913.htm",
+      "comment": "继续巩固 OPPO 高端影像布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Enco X4 耳机 & Watch S2 手表",
+      "summary": "两款新品将于 9 月 22 日同步发布，定位中高端音频与健康生态。",
+      "link": "https://www.ithome.com/1/002/004.htm",
+      "comment": "强化 OPPO 软硬件一体化竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀 Magic9 超能版发布",
+      "summary": "荣耀推出四色 Magic9 超能版，搭载新一代影像模组与高刷新率屏幕。",
+      "link": "https://www.ithome.com/1/001/992.htm",
+      "comment": "在高端市场与小米、OPPO 形成三足鼎立。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米澎程全国交付",
+      "summary": "小米澎程 AI 计算平台今日实现全国交付，标志供应链交付能力提升。",
+      "link": "http://www.geekpark.net/news/370228",
+      "comment": "为小米 AI 业务提供算力支撑。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Galaxy S27 OLED 升级传闻",
+      "summary": "Galaxy S27 预计将采用全新 OLED 面板，提升亮度与能效。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-s27-m16-oled-display-3710724/",
+      "comment": "三星继续在高端显示技术上领跑。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 折叠机型预测",
+      "summary": "Mark Gurman 预测 iPhone Duo 将实现 Face ID 与长焦摄像头，推动折叠手机主流化。",
+      "link": "https://www.ithome.com/1/001/912.htm",
+      "comment": "苹果入局折叠手机或重塑行业格局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 正研发 iPhone 游戏手柄",
+      "summary": "据 Bloomberg 报道，Apple 正在开发两款游戏手柄，可能采用 Beats 品牌。",
+      "link": "https://www.theverge.com/tech/994426/apple-iphone-game-controllers",
+      "comment": "拓展 iPhone 游戏生态，提升硬件黏性。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 折叠机型被指复制 Android 折叠",
+      "summary": "9to5Google 评测指出 iPhone Duo 并未在折叠技术上实现突破，但已引发模仿潮。",
+      "link": "https://9to5google.com/2026/09/13/iphone-duo-didnt-reinvent-android-foldables/",
+      "comment": "市场关注点转向用户体验而非技术创新。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Motorola Edge 70 Neo 基准跑分曝光",
+      "summary": "搭载 Snapdragon 7s Gen 3，单核 723 分，多核 2.9k，定位中高端市场。",
+      "link": "https://www.ithome.com/1/002/008.htm",
+      "comment": "显示出高通最新中端芯片的性能提升。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iOS 27 将升级 Siri AI 能力",
+      "summary": "iOS 27 正式版将提升 Siri 的大模型推理能力，增强自然语言交互。",
+      "link": "https://www.ithome.com/1/001/921.htm",
+      "comment": "苹果在移动端 AI 生态布局加速。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.3
+}
