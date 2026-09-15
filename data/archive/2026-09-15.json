@@ -1,0 +1,265 @@
+{
+  "date": "2026-09-15",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米 18 Pro 系列本月发布，定位高端旗舰，预计搭载新一代 Snapdragon 8 系列芯片。",
+    "[国内] OPPO F35 系列曝光，配备 10000mAh 大电池，主打长续航与轻薄。",
+    "[国内] 小米手表 S5 41mm 将与 18 Pro 同期上市，定位运动健康。",
+    "[国外] 苹果首款折叠 iPhone Duo 在艾美奖亮相，标志折叠屏技术进入新阶段。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "AI 眼镜样机展示",
+          "summary": "应用材料副总裁 Paul Meissner 现场展示多款 AI 眼镜，聚焦视觉计算与轻量化设计，目标提升日常佩戴意愿。",
+          "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "AI 眼镜仍是消费入口，需解决佩戴舒适度与续航。",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "Meta Quest 3 成功移植《GTA：圣安地列斯》",
+          "summary": "第三方开发者将经典 GTA 移植至 Meta Quest 3，展示 VR 内容生态的持续扩张。",
+          "link": "https://www.ithome.com/1/002/419.htm",
+          "comment": "内容生态是 VR 续航的关键。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Valve Steam Frame 预售开启",
+          "summary": "Valve 推出高端独立 VR 头显 Steam Frame，售价超 1000 美元，定位硬核玩家。",
+          "link": "https://roadtovr.com/valve-steam-frame-price-release-pre-orders/",
+          "comment": "高价位限制大众化，但技术规格领先。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "Threads 应用登陆 Meta Quest 与 Ray‑Ban Display",
+          "summary": "Meta 将社交应用 Threads 引入 Quest 头显及 Ray‑Ban 智能眼镜，推动 AR/VR 跨平台社交。",
+          "link": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
+          "comment": "社交生态的跨设备布局提升用户黏性。",
+          "source": "uploadvr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 18 Pro 系列开启预热",
+          "summary": "小米 18 Pro 将于本月发布，定位全网最高性能旗舰，预计搭载 Snapdragon 8 Gen 4，配备 200MP 主摄。",
+          "link": "https://www.ithome.com/1/002/386.htm",
+          "comment": "小米继续追赶高端市场，供应链压力增大。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO F35 / F35 Pro 曝光",
+          "summary": "OPPO F35 系列推出波浪纹理配色，F35 Pro 预计配备 10000mAh 大电池，主打长续航轻薄。",
+          "link": "https://www.ithome.com/1/002/469.htm",
+          "comment": "大电池是差异化卖点，需关注散热与重量。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米手表 S5 41mm 开启预约",
+          "summary": "小米手表 S5 41mm 将与 18 Pro 同期发布，定位运动健康，支持血氧、ECG 等功能。",
+          "link": "https://www.ithome.com/1/002/422.htm",
+          "comment": "生态协同提升可穿戴渗透率。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果 iPhone Duo 折叠手机亮相",
+          "summary": "苹果新任 CEO 特努斯在艾美奖展示首款折叠 iPhone Duo，预计采用柔性 OLED，定位高端市场。",
+          "link": "https://www.ithome.com/1/002/380.htm",
+          "comment": "苹果入局折叠屏，行业竞争格局将被重新洗牌。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy Z TriFold 2 轻量化升级",
+          "summary": "三星计划以 2899 美元起售价发布三折叠 Galaxy Z TriFold 2，重点提升机身轻量与耐用性。",
+          "link": "https://www.ithome.com/1/002/404.htm",
+          "comment": "保持高价位，仍需证明差异化价值。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "三星考虑提前发布 TriFold 2 以抢占市场",
+          "summary": "受 iPhone Duo 影响，三星内部讨论提前推出 TriFold 2，以抢占折叠屏先机。",
+          "link": "https://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
+          "comment": "时间窗口竞争激烈，供应链压力上升。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "苹果 15 年前折叠屏专利回顾",
+          "summary": "2011 年苹果提交的 Flexible electronic devices 专利显示早期折叠屏概念，暗示技术积累已久。",
+          "link": "http://www.geekpark.net/news/370231",
+          "comment": "专利储备为产品化提供技术底座。",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy S27 可能升级 OLED 显示",
+          "summary": "泄露信息称 Galaxy S27 标准版和 Plus 将采用新一代 M16 OLED，提升亮度与能效。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-s27-m16-oled-display-3710724/",
+          "comment": "显示面板升级是提升高端竞争力的关键。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星因内存成本上升或调高 S26 系列价格",
+          "summary": "受 DRAM 与 NAND 成本上涨影响，三星可能在 S26 系列上调售价，反映供应链压力。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-s26-series-price-hike-leak-3710800/",
+          "comment": "成本传导将影响高端手机定价策略。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "太乙圣莲拟出资 30 亿元复活哪吒汽车",
+          "summary": "太乙圣莲计划投入 30 亿元收购并重启哪吒汽车，预计将进行大规模招聘以支撑产能恢复。",
+          "link": "https://www.leiphone.com/category/zaobao/bhtS7S4Yd8Bl51DX.html",
+          "comment": "大额融资伴随扩招，是硬件制造岗位的潜在机会。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "AI 眼镜样机展示",
+      "summary": "应用材料副总裁 Paul Meissner 现场展示多款 AI 眼镜，聚焦视觉计算与轻量化设计，目标提升日常佩戴意愿。",
+      "link": "https://www.ifanr.com/1679952?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "AI 眼镜仍是消费入口，需解决佩戴舒适度与续航。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "Meta Quest 3 成功移植《GTA：圣安地列斯》",
+      "summary": "第三方开发者将经典 GTA 移植至 Meta Quest 3，展示 VR 内容生态的持续扩张。",
+      "link": "https://www.ithome.com/1/002/419.htm",
+      "comment": "内容生态是 VR 续航的关键。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Valve Steam Frame 预售开启",
+      "summary": "Valve 推出高端独立 VR 头显 Steam Frame，售价超 1000 美元，定位硬核玩家。",
+      "link": "https://roadtovr.com/valve-steam-frame-price-release-pre-orders/",
+      "comment": "高价位限制大众化，但技术规格领先。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "Threads 应用登陆 Meta Quest 与 Ray‑Ban Display",
+      "summary": "Meta 将社交应用 Threads 引入 Quest 头显及 Ray‑Ban 智能眼镜，推动 AR/VR 跨平台社交。",
+      "link": "https://www.uploadvr.com/threads-apps-arrived-on-quest-meta-ray-ban-display/",
+      "comment": "社交生态的跨设备布局提升用户黏性。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "小米 18 Pro 系列开启预热",
+      "summary": "小米 18 Pro 将于本月发布，定位全网最高性能旗舰，预计搭载 Snapdragon 8 Gen 4，配备 200MP 主摄。",
+      "link": "https://www.ithome.com/1/002/386.htm",
+      "comment": "小米继续追赶高端市场，供应链压力增大。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO F35 / F35 Pro 曝光",
+      "summary": "OPPO F35 系列推出波浪纹理配色，F35 Pro 预计配备 10000mAh 大电池，主打长续航轻薄。",
+      "link": "https://www.ithome.com/1/002/469.htm",
+      "comment": "大电池是差异化卖点，需关注散热与重量。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米手表 S5 41mm 开启预约",
+      "summary": "小米手表 S5 41mm 将与 18 Pro 同期发布，定位运动健康，支持血氧、ECG 等功能。",
+      "link": "https://www.ithome.com/1/002/422.htm",
+      "comment": "生态协同提升可穿戴渗透率。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果 iPhone Duo 折叠手机亮相",
+      "summary": "苹果新任 CEO 特努斯在艾美奖展示首款折叠 iPhone Duo，预计采用柔性 OLED，定位高端市场。",
+      "link": "https://www.ithome.com/1/002/380.htm",
+      "comment": "苹果入局折叠屏，行业竞争格局将被重新洗牌。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy Z TriFold 2 轻量化升级",
+      "summary": "三星计划以 2899 美元起售价发布三折叠 Galaxy Z TriFold 2，重点提升机身轻量与耐用性。",
+      "link": "https://www.ithome.com/1/002/404.htm",
+      "comment": "保持高价位，仍需证明差异化价值。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星考虑提前发布 TriFold 2 以抢占市场",
+      "summary": "受 iPhone Duo 影响，三星内部讨论提前推出 TriFold 2，以抢占折叠屏先机。",
+      "link": "https://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
+      "comment": "时间窗口竞争激烈，供应链压力上升。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "苹果 15 年前折叠屏专利回顾",
+      "summary": "2011 年苹果提交的 Flexible electronic devices 专利显示早期折叠屏概念，暗示技术积累已久。",
+      "link": "http://www.geekpark.net/news/370231",
+      "comment": "专利储备为产品化提供技术底座。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy S27 可能升级 OLED 显示",
+      "summary": "泄露信息称 Galaxy S27 标准版和 Plus 将采用新一代 M16 OLED，提升亮度与能效。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-s27-m16-oled-display-3710724/",
+      "comment": "显示面板升级是提升高端竞争力的关键。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "三星因内存成本上升或调高 S26 系列价格",
+      "summary": "受 DRAM 与 NAND 成本上涨影响，三星可能在 S26 系列上调售价，反映供应链压力。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-s26-series-price-hike-leak-3710800/",
+      "comment": "成本传导将影响高端手机定价策略。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "太乙圣莲拟出资 30 亿元复活哪吒汽车",
+      "summary": "太乙圣莲计划投入 30 亿元收购并重启哪吒汽车，预计将进行大规模招聘以支撑产能恢复。",
+      "link": "https://www.leiphone.com/category/zaobao/bhtS7S4Yd8Bl51DX.html",
+      "comment": "大额融资伴随扩招，是硬件制造岗位的潜在机会。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 23.4
+}
