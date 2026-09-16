@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-16",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 荣耀 Magic9 系列发布自研影像芯片，提升8dB信噪比。",
+    "[国内] 绿联 P5 22.5W 快充充电宝开售，定位性价比。",
+    "[国外] 苹果 iPhone Duo 折叠屏发布，引发业界折叠创新讨论。",
+    "[国外] Samsung 考虑提前发布 Galaxy Z TriFold 2 以应对 iPhone Duo。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "荣耀 Magic9 系列搭载自研影像芯片荣耀驭光 H1",
+          "summary": "荣耀 Magic9 系列采用 6nm 工艺的自研 H1 影像芯片，支持 RAW 域视频无损降噪，信噪比提升 8dB。",
+          "link": "https://www.ithome.com/1/002/986.htm",
+          "comment": "突显荣耀在影像芯片自研上的突破。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "绿联 P5 自带线 22.5W 快充充电宝上市",
+          "summary": "绿联推出 10000mAh 容量的 P5 充电宝，内置 22.5W 快充线，售价 119 元，符合 2026 年新国标。",
+          "link": "https://www.ithome.com/1/002/969.htm",
+          "comment": "定位中低价位，抢占快充配件市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo BlueCode 预览版发布，预研 30B MoE 端侧大模型",
+          "summary": "vivo 推出原生编程智能体 BlueCode，探索在手机端运行 30B 参数的 MoE 大模型，提升 AI 生产力。",
+          "link": "https://www.ithome.com/1/002/954.htm",
+          "comment": "显示手机端大模型的研发进度。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款折叠 iPhone Duo 亮相",
+          "summary": "苹果发布首款折叠屏 iPhone Duo，采用双屏设计并配备全新智能拍摄功能，标志折叠手机技术新里程碑。",
+          "link": "https://www.ithome.com/1/002/966.htm",
+          "comment": "折叠屏品类的创新焦点。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 考虑提前发布 Galaxy Z TriFold 2",
+          "summary": "受 iPhone Duo 影响，Samsung 传闻将提前推出 Galaxy Z TriFold 2，旨在解决前代折叠屏厚重问题。",
+          "link": "https://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
+          "comment": "竞争加剧，折叠屏迭代加速。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "MediaTek 天玑9600 Pro 采用 2nm 制程与 AI 原生架构",
+          "summary": "天玑9600 Pro 首用台积电 2nm 工艺，配备双超大核 CPU、重构双 NPU，提升 AI 推理性能与能效。",
+          "link": "https://www.leiphone.com/category/industrynews/q1k5B0Zq8YMKM91n.html",
+          "comment": "标志国产旗舰芯片进入融合计算时代。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Axelera AI 发布 AIPU 芯片 Europa，629 TOPS AI 算力",
+          "summary": "荷兰初创 Axelera AI 推出第二代 AIPU Europa，集成 8 核 AI 处理单元，提供 629 TOPS 计算能力。",
+          "link": "https://www.ithome.com/1/002/898.htm",
+          "comment": "面向边缘 AI 场景的高算力解决方案。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "vivo 发布四款蓝心大模型及系统级 Harness",
+          "summary": "vivo 在开发者大会上推出四款端侧大模型，配合系统级蓝心 Harness，实现实时语音理解与个性化交互。",
+          "link": "https://www.ithome.com/1/002/937.htm",
+          "comment": "强化手机端 AI 能力，布局大模型生态。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "苹果 iPhone 18 Pro/Max 引入像素级标注功能",
+          "summary": "iPhone 18 Pro 系列新增 Apple Reference Image 功能，可对图片进行像素级真实性标注，防止 AI 伪造。",
+          "link": "https://www.ithome.com/1/002/971.htm",
+          "comment": "在硬件层面加入防伪技术。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "OpenAI 估值 1.2 万亿美元新一轮融资谈判",
+          "summary": "OpenAI 正在与投资者洽谈以 1.2 万亿美元估值的新轮融资，预计将大规模扩招研发团队。",
+          "link": "https://www.ithome.com/1/002/970.htm",
+          "comment": "AI 领域资本继续向顶尖公司倾斜。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Profound 完成 1.8 亿美元 D 轮融资，估值 18 亿美元",
+          "summary": "AI 初创 Profound 获得 1.8 亿美元 D 轮融资，估值突破 18 亿美元，暗示将加速招聘与产品落地。",
+          "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+          "comment": "AI 细分赛道的资本热度。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Evvy 完成 4000 万美元 B 轮融资，聚焦女性健康 AI",
+          "summary": "女性健康 AI 初创 Evvy 获得 4000 万美元 B 轮融资，将用于扩展研发团队与数据平台。",
+          "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+          "comment": "AI 在健康领域的应用继续受到资本青睐。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "荣耀 Magic9 系列搭载自研影像芯片荣耀驭光 H1",
+      "summary": "荣耀 Magic9 系列采用 6nm 工艺的自研 H1 影像芯片，支持 RAW 域视频无损降噪，信噪比提升 8dB。",
+      "link": "https://www.ithome.com/1/002/986.htm",
+      "comment": "突显荣耀在影像芯片自研上的突破。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "绿联 P5 自带线 22.5W 快充充电宝上市",
+      "summary": "绿联推出 10000mAh 容量的 P5 充电宝，内置 22.5W 快充线，售价 119 元，符合 2026 年新国标。",
+      "link": "https://www.ithome.com/1/002/969.htm",
+      "comment": "定位中低价位，抢占快充配件市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo BlueCode 预览版发布，预研 30B MoE 端侧大模型",
+      "summary": "vivo 推出原生编程智能体 BlueCode，探索在手机端运行 30B 参数的 MoE 大模型，提升 AI 生产力。",
+      "link": "https://www.ithome.com/1/002/954.htm",
+      "comment": "显示手机端大模型的研发进度。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果首款折叠 iPhone Duo 亮相",
+      "summary": "苹果发布首款折叠屏 iPhone Duo，采用双屏设计并配备全新智能拍摄功能，标志折叠手机技术新里程碑。",
+      "link": "https://www.ithome.com/1/002/966.htm",
+      "comment": "折叠屏品类的创新焦点。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 考虑提前发布 Galaxy Z TriFold 2",
+      "summary": "受 iPhone Duo 影响，Samsung 传闻将提前推出 Galaxy Z TriFold 2，旨在解决前代折叠屏厚重问题。",
+      "link": "https://9to5google.com/2026/09/14/samsung-galaxy-z-trifold-2-release-price-rumors/",
+      "comment": "竞争加剧，折叠屏迭代加速。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "MediaTek 天玑9600 Pro 采用 2nm 制程与 AI 原生架构",
+      "summary": "天玑9600 Pro 首用台积电 2nm 工艺，配备双超大核 CPU、重构双 NPU，提升 AI 推理性能与能效。",
+      "link": "https://www.leiphone.com/category/industrynews/q1k5B0Zq8YMKM91n.html",
+      "comment": "标志国产旗舰芯片进入融合计算时代。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Axelera AI 发布 AIPU 芯片 Europa，629 TOPS AI 算力",
+      "summary": "荷兰初创 Axelera AI 推出第二代 AIPU Europa，集成 8 核 AI 处理单元，提供 629 TOPS 计算能力。",
+      "link": "https://www.ithome.com/1/002/898.htm",
+      "comment": "面向边缘 AI 场景的高算力解决方案。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "vivo 发布四款蓝心大模型及系统级 Harness",
+      "summary": "vivo 在开发者大会上推出四款端侧大模型，配合系统级蓝心 Harness，实现实时语音理解与个性化交互。",
+      "link": "https://www.ithome.com/1/002/937.htm",
+      "comment": "强化手机端 AI 能力，布局大模型生态。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果 iPhone 18 Pro/Max 引入像素级标注功能",
+      "summary": "iPhone 18 Pro 系列新增 Apple Reference Image 功能，可对图片进行像素级真实性标注，防止 AI 伪造。",
+      "link": "https://www.ithome.com/1/002/971.htm",
+      "comment": "在硬件层面加入防伪技术。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 估值 1.2 万亿美元新一轮融资谈判",
+      "summary": "OpenAI 正在与投资者洽谈以 1.2 万亿美元估值的新轮融资，预计将大规模扩招研发团队。",
+      "link": "https://www.ithome.com/1/002/970.htm",
+      "comment": "AI 领域资本继续向顶尖公司倾斜。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Profound 完成 1.8 亿美元 D 轮融资，估值 18 亿美元",
+      "summary": "AI 初创 Profound 获得 1.8 亿美元 D 轮融资，估值突破 18 亿美元，暗示将加速招聘与产品落地。",
+      "link": "https://techcrunch.com/2026/09/15/aeo-startup-profound-hits-unicorn-valuation-raises-180m-series-d-7-months-after-last-round/",
+      "comment": "AI 细分赛道的资本热度。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Evvy 完成 4000 万美元 B 轮融资，聚焦女性健康 AI",
+      "summary": "女性健康 AI 初创 Evvy 获得 4000 万美元 B 轮融资，将用于扩展研发团队与数据平台。",
+      "link": "https://techcrunch.com/2026/09/15/evvy-raises-40m-as-it-seeks-to-further-womens-health-research-with-vaginal-microbiome-data/",
+      "comment": "AI 在健康领域的应用继续受到资本青睐。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 24.1
+}
