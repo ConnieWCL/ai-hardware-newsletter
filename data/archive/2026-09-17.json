@@ -1,0 +1,217 @@
+{
+  "date": "2026-09-17",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米发布四款车、三颗芯片及 15999 元折叠屏旗舰，展示全链路布局。",
+    "[国内] OPPO 推出全天候 AI 硬件“心力球”，重量 9.8g、续航 24h，定位可穿戴 AI 挂件。",
+    "[国外] Snap 发布 Specs AR 眼镜，售价约 2200 美元，主打 AI 驱动的混合现实体验。",
+    "[国外] Samsung 开始推送基于 Android 17 的 One UI 9，首批 Galaxy 设备获更新。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Snap Specs AR 眼镜",
+          "summary": "Snap 推出的 Specs AR 眼镜售价约 2200 美元，配备 AI 驱动的混合现实功能，支持多场景交互。",
+          "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+          "comment": "作为消费级 AR 眼镜的最新尝试，价格仍高，需关注后续生态建设。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "NIMO 智能眼镜",
+          "summary": "国内新锐品牌 NIMO 与雅视集团合作推出智能眼镜，主打轻量化佩戴和 AI 语音翻译功能。",
+          "link": "http://www.leikeji.com/article/79570",
+          "comment": "定位商务与旅行场景，具备国产供应链优势。",
+          "source": "leikeji",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO 心力球 AI 硬件",
+          "summary": "OPPO 发布的全天候主动式 AI 硬件“心力球”，重量 9.8g，续航 24 小时，面向可穿戴 AI 场景。",
+          "link": "https://www.ithome.com/1/003/435.htm",
+          "comment": "轻量化设计有望打开可穿戴 AI 市场新局面。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米折叠屏旗舰手机",
+          "summary": "小米在 9 月发布 15999 元起的折叠屏旗舰，搭载自研芯片并同步布局汽车业务。",
+          "link": "http://www.geekpark.net/news/370423",
+          "comment": "高价位定位高端市场，展示小米全链路创新。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "OnePlus 16 全局 165Hz 超高刷",
+          "summary": "OnePlus 16 首发 ColorOS 17，支持全局 165Hz 刷新率，搭载东方屏 X4 发光材料。",
+          "link": "https://www.ithome.com/1/003/446.htm",
+          "comment": "刷新率提升显著，提升游戏与视频体验。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "联想 Googlebook 15 笔记本",
+          "summary": "联想曝光搭载 AI Mouse 触控鼠标的 Googlebook 15 笔记本，预计 9 月 21 日发布。",
+          "link": "https://www.ithome.com/1/003/429.htm",
+          "comment": "AI 外设提升生产力，面向创意专业用户。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Android 17 与 One UI 9 更新",
+          "summary": "Samsung 开始在部分 Galaxy 设备上推送基于 Android 17 的 One UI 9，带来新 UI 与系统功能。",
+          "link": "https://9to5google.com/2026/09/16/samsung-android-17-one-ui-9-update-list/",
+          "comment": "系统升级提升用户体验，显示 Android 生态持续活力。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Pixel 系列限时折扣",
+          "summary": "美国亚马逊 Prime Day 提供 Pixel Watch 5、Pixel 11 等产品最高 320 美元折扣。",
+          "link": "https://9to5google.com/2026/09/16/deals-pixel-watch-5-pixel-11-11-pro-fold-z-fold-8/",
+          "comment": "价格优惠有助于提升 Pixel 在高端市场的渗透率。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "天玑 9600 Pro 2nm 旗舰 SoC",
+          "summary": "联发科发布 2nm 天玑 9600 Pro，聚焦融合计算与 AI 智能体系统，提升 NPU 与 ISP 能力。",
+          "link": "https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html",
+          "comment": "制程领先为国产高端芯片奠定基础。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "舜宇光学在 AI 眼镜中的应用放大",
+          "summary": "舜宇光学受 AI 机器人与智能眼镜需求驱动，光学元件业务快速增长。",
+          "link": "https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html",
+          "comment": "光学供应链在新形态硬件中扮演关键角色。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "OpenAI 新一轮融资估值超 1.2 万亿美元",
+          "summary": "OpenAI 正在洽谈新融资，估值或突破 1.2 万亿美元，预计将大规模招聘研发与安全团队。",
+          "link": "https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html",
+          "comment": "高估值预示 AI 基础设施人才需求激增。",
+          "source": "leiphone",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Snap Specs AR 眼镜",
+      "summary": "Snap 推出的 Specs AR 眼镜售价约 2200 美元，配备 AI 驱动的混合现实功能，支持多场景交互。",
+      "link": "https://www.theverge.com/tech/996422/snap-specs-hands-on-ar-glasses",
+      "comment": "作为消费级 AR 眼镜的最新尝试，价格仍高，需关注后续生态建设。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "NIMO 智能眼镜",
+      "summary": "国内新锐品牌 NIMO 与雅视集团合作推出智能眼镜，主打轻量化佩戴和 AI 语音翻译功能。",
+      "link": "http://www.leikeji.com/article/79570",
+      "comment": "定位商务与旅行场景，具备国产供应链优势。",
+      "source": "leikeji",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO 心力球 AI 硬件",
+      "summary": "OPPO 发布的全天候主动式 AI 硬件“心力球”，重量 9.8g，续航 24 小时，面向可穿戴 AI 场景。",
+      "link": "https://www.ithome.com/1/003/435.htm",
+      "comment": "轻量化设计有望打开可穿戴 AI 市场新局面。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米折叠屏旗舰手机",
+      "summary": "小米在 9 月发布 15999 元起的折叠屏旗舰，搭载自研芯片并同步布局汽车业务。",
+      "link": "http://www.geekpark.net/news/370423",
+      "comment": "高价位定位高端市场，展示小米全链路创新。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "OnePlus 16 全局 165Hz 超高刷",
+      "summary": "OnePlus 16 首发 ColorOS 17，支持全局 165Hz 刷新率，搭载东方屏 X4 发光材料。",
+      "link": "https://www.ithome.com/1/003/446.htm",
+      "comment": "刷新率提升显著，提升游戏与视频体验。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "联想 Googlebook 15 笔记本",
+      "summary": "联想曝光搭载 AI Mouse 触控鼠标的 Googlebook 15 笔记本，预计 9 月 21 日发布。",
+      "link": "https://www.ithome.com/1/003/429.htm",
+      "comment": "AI 外设提升生产力，面向创意专业用户。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Android 17 与 One UI 9 更新",
+      "summary": "Samsung 开始在部分 Galaxy 设备上推送基于 Android 17 的 One UI 9，带来新 UI 与系统功能。",
+      "link": "https://9to5google.com/2026/09/16/samsung-android-17-one-ui-9-update-list/",
+      "comment": "系统升级提升用户体验，显示 Android 生态持续活力。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Pixel 系列限时折扣",
+      "summary": "美国亚马逊 Prime Day 提供 Pixel Watch 5、Pixel 11 等产品最高 320 美元折扣。",
+      "link": "https://9to5google.com/2026/09/16/deals-pixel-watch-5-pixel-11-11-pro-fold-z-fold-8/",
+      "comment": "价格优惠有助于提升 Pixel 在高端市场的渗透率。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "天玑 9600 Pro 2nm 旗舰 SoC",
+      "summary": "联发科发布 2nm 天玑 9600 Pro，聚焦融合计算与 AI 智能体系统，提升 NPU 与 ISP 能力。",
+      "link": "https://www.leiphone.com/category/chips/pE0IvGEQtRiAdZcO.html",
+      "comment": "制程领先为国产高端芯片奠定基础。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "舜宇光学在 AI 眼镜中的应用放大",
+      "summary": "舜宇光学受 AI 机器人与智能眼镜需求驱动，光学元件业务快速增长。",
+      "link": "https://www.leiphone.com/category/iot/n1PzfiDNtDc0NYgy.html",
+      "comment": "光学供应链在新形态硬件中扮演关键角色。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "OpenAI 新一轮融资估值超 1.2 万亿美元",
+      "summary": "OpenAI 正在洽谈新融资，估值或突破 1.2 万亿美元，预计将大规模招聘研发与安全团队。",
+      "link": "https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html",
+      "comment": "高估值预示 AI 基础设施人才需求激增。",
+      "source": "leiphone",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 24.2
+}
