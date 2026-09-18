@@ -1,0 +1,196 @@
+{
+  "date": "2026-09-18",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 讯飞 AI 录音卡上市，售价 999 元，支持十种语言翻译，定位会议记录利器。",
+    "[国内] 安克 AI 会议耳机预售，1799 元，深度集成飞书转写翻译功能。",
+    "[国内] Snap Specs 消费级 AR 眼镜正式上市，Wi‑Fi 版 2195 美元，提供独立算力。",
+    "[国内] Figure 发布 Helix 2.5 人形机器人，具备自主家务能力。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "讯飞 AI 录音卡",
+          "summary": "支持 10 种外语翻译、30 小时续航，售价 999 元，面向会议记录场景。",
+          "link": "https://www.ithome.com/1/004/040.htm",
+          "comment": "AI 大模型落地硬件，适合企业采购。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "安克 AI 会议耳机",
+          "summary": "与飞书合作，内置实时转写翻译功能，预售价 1799 元，国补后 1376 元。",
+          "link": "https://www.ithome.com/1/003/963.htm",
+          "comment": "会议场景 AI 增值，潜在企业用户多。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Figure Helix 2.5 人形机器人",
+          "summary": "可自主完成家务任务，面向家庭消费市场的 AI 伴侣机器人。",
+          "link": "https://www.ithome.com/1/003/942.htm",
+          "comment": "机器人进入日常生活，开启 AI 玩具新赛道。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Snap Specs AR 眼镜",
+          "summary": "首款面向普通消费者的独立式 AR 眼镜，Wi‑Fi 版 2195 美元，支持蜂窝网络与电致变色镜片。",
+          "link": "https://www.ithome.com/1/003/974.htm",
+          "comment": "美国公司出海，标志 AR 眼镜进入消费级。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 折叠屏手机",
+          "summary": "苹果首款折叠屏手机，因高负载视频录制发热被测评人批评“烫到握不住”。",
+          "link": "https://www.ithome.com/1/004/055.htm",
+          "comment": "折叠屏进入苹果阵营，竞争格局将被重塑。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 热度激增",
+          "summary": "在 iPhone Duo 发布后，Galaxy Z Fold 8 销量出现显著上升趋势。",
+          "link": "https://9to5google.com/2026/09/17/galaxy-z-fold-8-saw-a-surge-in-popularity-as-soon-as-apple-unveiled-the-iphone-duo/",
+          "comment": "折叠屏市场竞争加剧，三星保持领先。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Watch 8 促销",
+          "summary": "40mm 版售价 259.99 美元，配备 AMOLED 显示屏、Wear OS 6，续航约 40 小时。",
+          "link": "https://www.androidauthority.com/galaxy-watch-8-deal-3712523/",
+          "comment": "价格下调提升可穿戴设备渗透率。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为灵衢昇腾 950 智算集群云服务",
+          "summary": "将于 9 月 30 日在国内商用，提供高算力 AI 推理与训练服务。",
+          "link": "https://www.ithome.com/1/003/981.htm",
+          "comment": "华为布局 AI 云算力，抢占企业市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Nvidia 2027 年芯片销量预测",
+          "summary": "Nvidia 预计 2027 年芯片销量将翻倍，受 AI 需求驱动。",
+          "link": "http://www.geekpark.net/news/370539",
+          "comment": "AI 芯片进入高速增长期，供应链机会增多。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "OpenAI 新一轮融资估值突破 1.2 万亿美元",
+          "summary": "OpenAI 正在洽谈新融资，估值或超 1.2 万亿美元，预计加速模型研发与人才招聘。",
+          "link": "https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html",
+          "comment": "全球 AI 研发竞争加剧，人才争夺激烈。",
+          "source": "leiphone",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "讯飞 AI 录音卡",
+      "summary": "支持 10 种外语翻译、30 小时续航，售价 999 元，面向会议记录场景。",
+      "link": "https://www.ithome.com/1/004/040.htm",
+      "comment": "AI 大模型落地硬件，适合企业采购。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "安克 AI 会议耳机",
+      "summary": "与飞书合作，内置实时转写翻译功能，预售价 1799 元，国补后 1376 元。",
+      "link": "https://www.ithome.com/1/003/963.htm",
+      "comment": "会议场景 AI 增值，潜在企业用户多。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Figure Helix 2.5 人形机器人",
+      "summary": "可自主完成家务任务，面向家庭消费市场的 AI 伴侣机器人。",
+      "link": "https://www.ithome.com/1/003/942.htm",
+      "comment": "机器人进入日常生活，开启 AI 玩具新赛道。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Snap Specs AR 眼镜",
+      "summary": "首款面向普通消费者的独立式 AR 眼镜，Wi‑Fi 版 2195 美元，支持蜂窝网络与电致变色镜片。",
+      "link": "https://www.ithome.com/1/003/974.htm",
+      "comment": "美国公司出海，标志 AR 眼镜进入消费级。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 折叠屏手机",
+      "summary": "苹果首款折叠屏手机，因高负载视频录制发热被测评人批评“烫到握不住”。",
+      "link": "https://www.ithome.com/1/004/055.htm",
+      "comment": "折叠屏进入苹果阵营，竞争格局将被重塑。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 热度激增",
+      "summary": "在 iPhone Duo 发布后，Galaxy Z Fold 8 销量出现显著上升趋势。",
+      "link": "https://9to5google.com/2026/09/17/galaxy-z-fold-8-saw-a-surge-in-popularity-as-soon-as-apple-unveiled-the-iphone-duo/",
+      "comment": "折叠屏市场竞争加剧，三星保持领先。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Watch 8 促销",
+      "summary": "40mm 版售价 259.99 美元，配备 AMOLED 显示屏、Wear OS 6，续航约 40 小时。",
+      "link": "https://www.androidauthority.com/galaxy-watch-8-deal-3712523/",
+      "comment": "价格下调提升可穿戴设备渗透率。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "华为灵衢昇腾 950 智算集群云服务",
+      "summary": "将于 9 月 30 日在国内商用，提供高算力 AI 推理与训练服务。",
+      "link": "https://www.ithome.com/1/003/981.htm",
+      "comment": "华为布局 AI 云算力，抢占企业市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Nvidia 2027 年芯片销量预测",
+      "summary": "Nvidia 预计 2027 年芯片销量将翻倍，受 AI 需求驱动。",
+      "link": "http://www.geekpark.net/news/370539",
+      "comment": "AI 芯片进入高速增长期，供应链机会增多。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 新一轮融资估值突破 1.2 万亿美元",
+      "summary": "OpenAI 正在洽谈新融资，估值或超 1.2 万亿美元，预计加速模型研发与人才招聘。",
+      "link": "https://www.leiphone.com/category/zaobao/adwK3kvuEMxa03Tj.html",
+      "comment": "全球 AI 研发竞争加剧，人才争夺激烈。",
+      "source": "leiphone",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.5
+}
