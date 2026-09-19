@@ -1,0 +1,228 @@
+{
+  "date": "2026-09-19",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] iPhone 18 Pro / Max 全球同步发售，开启新一代光学变焦与高功耗物流新机制。",
+    "[国内] Apple Watch Series 12 实体对比曝光，表框更显厚实，定位高端健康监测。",
+    "[国外] Unseen Reality XR Glasses 在 Kickstarter 融资 120 万美元，开启轻量混合现实新局。",
+    "[国内] AI 录音卡厂商 Plaud 年度 ARR 达 1 亿美元，背面 AI 硬件创业热潮持续。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Unseen Reality XR Glasses 成功在 Kickstarter 融资 120 万美元",
+          "summary": "美国公司 Unseen Reality 推出的 URXR One 混合现实眼镜完成 120 万美元众筹，定位轻量化监视器替代方案。",
+          "link": "https://roadtovr.com/unseen-reality-xr-glasses-1m-kickstarter/",
+          "comment": "适合对轻便 AR 有需求的开发者，后续可关注其供应链布局。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "AI 录音卡创业者 Plaud 背面硬件热潮：ARR 1 亿美元",
+          "summary": "Plaud 的 AI 录音卡累计出货突破百万台，2026 年 6 月宣布年度经常性收入 1 亿美元，服务 200 万专业用户。",
+          "link": "http://www.geekpark.net/news/370610",
+          "comment": "AI 录音卡需求旺盛，相关芯片与声学模组招聘将增多。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone 18 Pro / Max 全球发售，首席执行官特努斯出席首发活动",
+          "summary": "iPhone 18 Pro 与 Pro Max 在全球 Apple Store 同步上市，搭载更大电池并引入“准备发运”功能以控制电量阈值。",
+          "link": "https://www.ithome.com/1/004/387.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Apple Watch Series 12 实物对比：表框更明显",
+          "summary": "Reddit 用户发布对比图，确认 Apple Watch Series 12 表框比 Series 11 更厚实，暗示尺寸与耐用性升级。",
+          "link": "https://www.ithome.com/1/004/375.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone 17 Pro 等机型需 14GB 存储空间的 Apple 智能文档调整",
+          "summary": "苹果在 iOS 27 文档中标注，iPhone 17 Pro 等高配机型的存储需求上升至 14GB，反映大模型本地化趋势。",
+          "link": "https://www.ithome.com/1/004/389.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone Duo 折叠机型散热与功耗策略曝光：30° 角切换内外屏",
+          "summary": "Xcode 27.1 Device Hub 模拟器显示，iPhone Duo 在 30° 折叠角度切换内外屏功耗管理，提升散热效率。",
+          "link": "https://www.ithome.com/1/004/394.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "三星 Galaxy Tab S12 Plus / Ultra 规格曝光：搭载天玑 9500 处理器",
+          "summary": "两款平板均采用联发科天玑 9500，支持 IP68 防水，预计 10 月 7 日正式发布。",
+          "link": "https://www.ithome.com/1/004/366.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Vision Pro 上新游戏《Flow Chaser》展示空间节奏玩法",
+          "summary": "《Flow Chaser》作为 Apple Vision Pro 的首批空间节奏游戏，利用 visionOS 27 的空间音频与手势交互。",
+          "link": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
+          "comment": "",
+          "source": "uploadvr",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Connect 2026 预告新 AI 眼镜与混合现实头显",
+          "summary": "Meta 将在 Connect 大会上发布新一代 AI 眼镜和混合现实头显，聚焦企业协作与沉浸式内容。",
+          "link": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "NVIDIA 2027 年芯片销量预计翻倍",
+          "summary": "CEO 黄仁勋在访谈中透露，随着 AI 推理需求增长，NVIDIA 2027 年的 GPU 销量将比当前翻倍。",
+          "link": "http://www.geekpark.net/news/370539",
+          "comment": "",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Watch Ultra 4 与 Galaxy Watch Ultra 2 对比评测",
+          "summary": "两款高端智能手表在显示、耐用性与功能上进行全方位对比，帮助消费者定位选择。",
+          "link": "https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "iPhone 18 Pro Max 新增“准备发运”功能以控制电量阈值",
+          "summary": "为避免超过 20Wh 的电池在运输中受限，苹果在 iPhone 18 Pro Max 中加入发货前自动放电机制。",
+          "link": "https://www.ithome.com/1/004/372.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Unseen Reality XR Glasses 成功在 Kickstarter 融资 120 万美元",
+      "summary": "美国公司 Unseen Reality 推出的 URXR One 混合现实眼镜完成 120 万美元众筹，定位轻量化监视器替代方案。",
+      "link": "https://roadtovr.com/unseen-reality-xr-glasses-1m-kickstarter/",
+      "comment": "适合对轻便 AR 有需求的开发者，后续可关注其供应链布局。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "AI 录音卡创业者 Plaud 背面硬件热潮：ARR 1 亿美元",
+      "summary": "Plaud 的 AI 录音卡累计出货突破百万台，2026 年 6 月宣布年度经常性收入 1 亿美元，服务 200 万专业用户。",
+      "link": "http://www.geekpark.net/news/370610",
+      "comment": "AI 录音卡需求旺盛，相关芯片与声学模组招聘将增多。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone 18 Pro / Max 全球发售，首席执行官特努斯出席首发活动",
+      "summary": "iPhone 18 Pro 与 Pro Max 在全球 Apple Store 同步上市，搭载更大电池并引入“准备发运”功能以控制电量阈值。",
+      "link": "https://www.ithome.com/1/004/387.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple Watch Series 12 实物对比：表框更明显",
+      "summary": "Reddit 用户发布对比图，确认 Apple Watch Series 12 表框比 Series 11 更厚实，暗示尺寸与耐用性升级。",
+      "link": "https://www.ithome.com/1/004/375.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone 17 Pro 等机型需 14GB 存储空间的 Apple 智能文档调整",
+      "summary": "苹果在 iOS 27 文档中标注，iPhone 17 Pro 等高配机型的存储需求上升至 14GB，反映大模型本地化趋势。",
+      "link": "https://www.ithome.com/1/004/389.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 折叠机型散热与功耗策略曝光：30° 角切换内外屏",
+      "summary": "Xcode 27.1 Device Hub 模拟器显示，iPhone Duo 在 30° 折叠角度切换内外屏功耗管理，提升散热效率。",
+      "link": "https://www.ithome.com/1/004/394.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "三星 Galaxy Tab S12 Plus / Ultra 规格曝光：搭载天玑 9500 处理器",
+      "summary": "两款平板均采用联发科天玑 9500，支持 IP68 防水，预计 10 月 7 日正式发布。",
+      "link": "https://www.ithome.com/1/004/366.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Vision Pro 上新游戏《Flow Chaser》展示空间节奏玩法",
+      "summary": "《Flow Chaser》作为 Apple Vision Pro 的首批空间节奏游戏，利用 visionOS 27 的空间音频与手势交互。",
+      "link": "https://www.uploadvr.com/flow-chaser-brings-procedural-spatial-rhythm-gameplay-to-apple-vision-pro/",
+      "comment": "",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Connect 2026 预告新 AI 眼镜与混合现实头显",
+      "summary": "Meta 将在 Connect 大会上发布新一代 AI 眼镜和混合现实头显，聚焦企业协作与沉浸式内容。",
+      "link": "https://www.engadget.com/2262932/what-to-expect-at-meta-connect-2026-new-ai-glasses-a-mixed-reality-headset-and-more/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "NVIDIA 2027 年芯片销量预计翻倍",
+      "summary": "CEO 黄仁勋在访谈中透露，随着 AI 推理需求增长，NVIDIA 2027 年的 GPU 销量将比当前翻倍。",
+      "link": "http://www.geekpark.net/news/370539",
+      "comment": "",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Watch Ultra 4 与 Galaxy Watch Ultra 2 对比评测",
+      "summary": "两款高端智能手表在显示、耐用性与功能上进行全方位对比，帮助消费者定位选择。",
+      "link": "https://www.engadget.com/2261803/apple-watch-ultra-4-vs-galaxy-watch-ultra-2-comparison/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone 18 Pro Max 新增“准备发运”功能以控制电量阈值",
+      "summary": "为避免超过 20Wh 的电池在运输中受限，苹果在 iPhone 18 Pro Max 中加入发货前自动放电机制。",
+      "link": "https://www.ithome.com/1/004/372.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 21.8
+}
