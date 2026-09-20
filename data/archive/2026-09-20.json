@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-20",
+  "mode": "llm",
+  "candidates": 59,
+  "overview": [
+    "[国内] 华为HarmonyOS 7 超空间存储技术宣称升级即省几十GB，提升手机存储体验。",
+    "[国内] OPPO Find X10 系列首发哈苏 LUMO 调色盘，强化原相机肤色保护。",
+    "[国内] 华为发布星辰轻量级代码大模型 Xing4.0-29B，助力AI芯片生态。",
+    "[国外] 苹果硬件工程负责人吐槽贴膜，暗示高端机型对屏幕保护的设计自信。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Valve 开源 Steam Frame 头显 Android 兼容层 Lepton",
+          "summary": "Valve 将针对 Steam Frame VR 头显的 Android 兼容层 Lepton 开源，帮助开发者快速将 Android 游戏移植至 VR 平台。",
+          "link": "https://www.ithome.com/1/004/689.htm",
+          "comment": "降低 VR 内容门槛，提升国产头显生态。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Petlibro AI 颗粒喂食器 Granary 2",
+          "summary": "Petlibro 推出具备内置称重与 AI 摄像头的智能喂食器，针对多猫家庭实现精准喂食与行为监测。",
+          "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+          "comment": "AI 进入宠物硬件，提供新就业方向。",
+          "source": "techcrunch",
+          "region": "国内"
+        },
+        {
+          "title": "InjectEave 新型射频信号监听攻击技术",
+          "summary": "香港科大团队研发的 InjectEave 能在 30 米范围内窃取耳机音频数据，提示硬件安全新风险。",
+          "link": "https://www.ithome.com/1/004/663.htm",
+          "comment": "对音频硬件防护提出更高要求。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 HarmonyOS 7 超空间存储技术",
+          "summary": "在 Mate XT 2 发布会上，华为推出超空间存储，声称系统升级可直接省掉数十 GB 存储空间。",
+          "link": "https://www.ithome.com/1/004/718.htm",
+          "comment": "存储效率提升或降低用户对大容量存储的需求。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Find X10 系列哈苏超清原相机 LUMO 调色盘",
+          "summary": "OPPO 为 Find X10 系列配备哈苏 LUMO 调色盘，提供独家肤色保护和 18 种风格效果。",
+          "link": "https://www.ithome.com/1/004/615.htm",
+          "comment": "在高端影像竞争中抢占差异化卖点。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "鸿蒙智行 RX 轿跑 SUV 81 度电池版预售",
+          "summary": "华为鸿蒙智行推出 RX 轿跑 SUV 新增 81 度电池版本，预售价 26.98 万元起，保留核心操控体验。",
+          "link": "https://www.ithome.com/1/004/658.htm",
+          "comment": "电池角度创新，提升续航与空间利用。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone 18 Pro 系列在印度实现极速配送",
+          "summary": "Apple 在印度的快递平台上实现 iPhone 18 Pro 系列下单后数小时送达，刷新手机交付速度记录。",
+          "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+          "comment": "展示 Apple 在新兴市场的供应链弹性。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy S27 Ultra 与 Pro 电池容量泄漏",
+          "summary": "泄漏信息显示 S27 Ultra 将配备更大容量电池，S27 Pro 亦有续航提升，回应用户对大屏旗舰续航的期待。",
+          "link": "https://9to5google.com/2026/09/18/samsung-galaxy-s27-ultra-pro-battery-upgrades-leak/",
+          "comment": "续航仍是高端旗舰竞争关键。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 硬件工程负责人吐槽 iPhone 贴膜",
+          "summary": "Apple 硬件负责人 Tom Marieb 在接受采访时表示，看到用户给 iPhone 贴膜会感到不自在，暗示屏幕已具备足够耐用性。",
+          "link": "https://www.ithome.com/1/004/618.htm",
+          "comment": "暗示未来可能推出更耐刮擦的玻璃。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Google Gemini 4 Pro 旗舰模型提前泄露",
+          "summary": "Google 的下一代大模型 Gemini 4 Pro 以 “gemini-3.8-flash” 名称提前出现，多项指标领先竞争对手。",
+          "link": "http://www.geekpark.net/news/370608",
+          "comment": "AI 计算力提升将推动硬件加速器需求。",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "Engadget：在 Galaxy Z Fold 8 内屏使用 DeX 的技巧",
+          "summary": "通过特定设置，用户可在 Fold 8 的内屏上启用 DeX，实现类似 PC 的多任务体验。",
+          "link": "https://www.engadget.com/2258733/galaxy-z-fold-8-series-use-dex-on-inner-screen/",
+          "comment": "折叠屏多任务能力进一步强化。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为昇腾超节点训练星辰大模型 Xing4.0-29B 发布",
+          "summary": "华为基于昇腾超节点推出 Xing4.0-29B 大模型，支持长上下文、代码开发等复杂任务。",
+          "link": "https://www.ithome.com/1/004/673.htm",
+          "comment": "强化国产 AI 芯片生态，降低对外部算力依赖。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "腾讯升级元宝 App AI 录音笔功能",
+          "summary": "腾讯在元宝 App 中加入 AI 录音笔新功能，支持边录边拍、设备内录等，暗示将扩充 AI 音频团队。",
+          "link": "https://www.ithome.com/1/004/716.htm",
+          "comment": "AI 语音技术招聘需求上升。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Valve 开源 Steam Frame 头显 Android 兼容层 Lepton",
+      "summary": "Valve 将针对 Steam Frame VR 头显的 Android 兼容层 Lepton 开源，帮助开发者快速将 Android 游戏移植至 VR 平台。",
+      "link": "https://www.ithome.com/1/004/689.htm",
+      "comment": "降低 VR 内容门槛，提升国产头显生态。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Petlibro AI 颗粒喂食器 Granary 2",
+      "summary": "Petlibro 推出具备内置称重与 AI 摄像头的智能喂食器，针对多猫家庭实现精准喂食与行为监测。",
+      "link": "https://techcrunch.com/2026/09/19/petlibros-new-ai-powered-feeder-is-a-game-changer-for-multi-cat-homes/",
+      "comment": "AI 进入宠物硬件，提供新就业方向。",
+      "source": "techcrunch",
+      "region": "国内"
+    },
+    {
+      "title": "InjectEave 新型射频信号监听攻击技术",
+      "summary": "香港科大团队研发的 InjectEave 能在 30 米范围内窃取耳机音频数据，提示硬件安全新风险。",
+      "link": "https://www.ithome.com/1/004/663.htm",
+      "comment": "对音频硬件防护提出更高要求。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为 HarmonyOS 7 超空间存储技术",
+      "summary": "在 Mate XT 2 发布会上，华为推出超空间存储，声称系统升级可直接省掉数十 GB 存储空间。",
+      "link": "https://www.ithome.com/1/004/718.htm",
+      "comment": "存储效率提升或降低用户对大容量存储的需求。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Find X10 系列哈苏超清原相机 LUMO 调色盘",
+      "summary": "OPPO 为 Find X10 系列配备哈苏 LUMO 调色盘，提供独家肤色保护和 18 种风格效果。",
+      "link": "https://www.ithome.com/1/004/615.htm",
+      "comment": "在高端影像竞争中抢占差异化卖点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "鸿蒙智行 RX 轿跑 SUV 81 度电池版预售",
+      "summary": "华为鸿蒙智行推出 RX 轿跑 SUV 新增 81 度电池版本，预售价 26.98 万元起，保留核心操控体验。",
+      "link": "https://www.ithome.com/1/004/658.htm",
+      "comment": "电池角度创新，提升续航与空间利用。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone 18 Pro 系列在印度实现极速配送",
+      "summary": "Apple 在印度的快递平台上实现 iPhone 18 Pro 系列下单后数小时送达，刷新手机交付速度记录。",
+      "link": "https://techcrunch.com/2026/09/18/in-india-the-new-iphone-can-arrive-faster-than-a-pizza/",
+      "comment": "展示 Apple 在新兴市场的供应链弹性。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy S27 Ultra 与 Pro 电池容量泄漏",
+      "summary": "泄漏信息显示 S27 Ultra 将配备更大容量电池，S27 Pro 亦有续航提升，回应用户对大屏旗舰续航的期待。",
+      "link": "https://9to5google.com/2026/09/18/samsung-galaxy-s27-ultra-pro-battery-upgrades-leak/",
+      "comment": "续航仍是高端旗舰竞争关键。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 硬件工程负责人吐槽 iPhone 贴膜",
+      "summary": "Apple 硬件负责人 Tom Marieb 在接受采访时表示，看到用户给 iPhone 贴膜会感到不自在，暗示屏幕已具备足够耐用性。",
+      "link": "https://www.ithome.com/1/004/618.htm",
+      "comment": "暗示未来可能推出更耐刮擦的玻璃。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Google Gemini 4 Pro 旗舰模型提前泄露",
+      "summary": "Google 的下一代大模型 Gemini 4 Pro 以 “gemini-3.8-flash” 名称提前出现，多项指标领先竞争对手。",
+      "link": "http://www.geekpark.net/news/370608",
+      "comment": "AI 计算力提升将推动硬件加速器需求。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "Engadget：在 Galaxy Z Fold 8 内屏使用 DeX 的技巧",
+      "summary": "通过特定设置，用户可在 Fold 8 的内屏上启用 DeX，实现类似 PC 的多任务体验。",
+      "link": "https://www.engadget.com/2258733/galaxy-z-fold-8-series-use-dex-on-inner-screen/",
+      "comment": "折叠屏多任务能力进一步强化。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "华为昇腾超节点训练星辰大模型 Xing4.0-29B 发布",
+      "summary": "华为基于昇腾超节点推出 Xing4.0-29B 大模型，支持长上下文、代码开发等复杂任务。",
+      "link": "https://www.ithome.com/1/004/673.htm",
+      "comment": "强化国产 AI 芯片生态，降低对外部算力依赖。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "腾讯升级元宝 App AI 录音笔功能",
+      "summary": "腾讯在元宝 App 中加入 AI 录音笔新功能，支持边录边拍、设备内录等，暗示将扩充 AI 音频团队。",
+      "link": "https://www.ithome.com/1/004/716.htm",
+      "comment": "AI 语音技术招聘需求上升。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 23.9
+}
