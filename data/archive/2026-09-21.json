@@ -1,0 +1,244 @@
+{
+  "date": "2026-09-21",
+  "mode": "llm",
+  "candidates": 78,
+  "overview": [
+    "[国内] 华为Mate 90系列将于9月28日发布，继续强化自研芯片与鸿蒙生态。",
+    "[国内] 一加16开启预约，配备全局165Hz超高刷新率，定位巅峰性能旗舰。",
+    "[国内] vivo X500 Pro Max首发BOE最新Q11发光材料2K蔡司大师色彩屏，提升显示亮度与色准。",
+    "[国外] 苹果iPhone 20 Pro系列曝光无边四曲面屏，尺寸约6.41英寸，继续走高端路线。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Rokid新一代乐奇AI眼镜即将发布",
+          "summary": "Rokid将在9月24日的数字贸易博览会发布新一代AI眼镜，主打“Less tool. More human”，聚焦轻量化与AI交互。",
+          "link": "https://www.ithome.com/1/005/042.htm",
+          "comment": "国内AI眼镜厂商持续布局，值得关注其生态与渠道策略。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Snap Specs 真AR眼镜亮相",
+          "summary": "Snap推出的Specs AR眼镜具备跨平台AI助手，并提供可选的蜂窝充电盒，定位高端消费市场。",
+          "link": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+          "comment": "美国公司在AR硬件上加速商业化，关注其生态开放程度。",
+          "source": "uploadvr",
+          "region": "国外"
+        },
+        {
+          "title": "Meta计划推出无摄像头智能眼镜",
+          "summary": "Meta将在Connect大会推出低价无摄像头智能眼镜，以规避隐私争议，定位入门级市场。",
+          "link": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
+          "comment": "隐私导向的产品可能打开更广泛的消费群体。",
+          "source": "uploadvr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate 90系列即将发布",
+          "summary": "华为宣布Mate 90系列将在9月28日发布，继续强化自研麒麟芯片与鸿蒙系统，定位高端旗舰。",
+          "link": "https://www.ithome.com/1/005/085.htm",
+          "comment": "华为在高端手机市场的布局仍是行业焦点。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加16正式亮相并开启预约",
+          "summary": "一加16提供三款配色，配备全局165Hz超高刷新率屏幕，定位巅峰性能旗舰，预约可获两年电池保和配件礼包。",
+          "link": "https://www.ithome.com/1/005/058.htm",
+          "comment": "一加继续走高性能路线，抢占高刷市场份额。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo X500 Pro Max搭载BOE Q11发光材料2K屏",
+          "summary": "vivo X500 Pro Max将首发BOE最新Q11发光材料2K蔡司大师色彩屏，提升亮度与色准，屏幕尺寸约6英寸。",
+          "link": "https://www.ithome.com/1/005/099.htm",
+          "comment": "显示面板升级是vivo高端机型的关键卖点。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果iPhone 20 Pro系列屏幕信息曝光",
+          "summary": "iPhone 20 Pro系列早期屏幕参数曝光，采用6.41英寸无边四曲面设计，分辨率约2686×1236。",
+          "link": "https://www.ithome.com/1/005/121.htm",
+          "comment": "苹果继续提升屏幕占比与曲面工艺，保持高端竞争力。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone 18 Pro与Pixel 11 Pro对比评测",
+          "summary": "评测指出iPhone 18 Pro售价1200美元仍显高价，而Pixel 11 Pro在体验上更具性价比。",
+          "link": "https://www.androidauthority.com/pixel-11-pro-vs-iphone-18-pro-3712022/",
+          "comment": "高端手机价格竞争加剧，Android阵营表现抢眼。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Android 17 QPR1更新更改Pixel状态栏图标",
+          "summary": "本月的Android 17 QPR1稳定版对Pixel设备的状态栏图标进行细节调整，提升系统一致性。",
+          "link": "https://9to5google.com/2026/09/20/android-17-qpr1-status-bar-icons/",
+          "comment": "系统细节优化显示Google对Pixel体验的持续投入。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "三星Galaxy侧键自定义指南",
+          "summary": "该指南介绍了如何在三星Galaxy手机上自定义侧键功能，提升用户交互效率。",
+          "link": "https://www.engadget.com/2259632/how-to-customize-samsung-side-button/",
+          "comment": "侧键功能的灵活性是Android手机差异化体验之一。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Snap Specs AR眼镜现场演示",
+          "summary": "Snap CEO在现场演示了即将发布的Specs真AR眼镜，展示了AI助手与AR内容的融合。",
+          "link": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
+          "comment": "现场演示提升产品曝光度，预示AR硬件进入商业化阶段。",
+          "source": "uploadvr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "秋水半导体8英寸Micro LED混合键合产线投产",
+          "summary": "秋水半导体在宁波的8英寸Micro LED混合键合产线已全面通线投产，月产千片，标志Micro LED规模化迈进。",
+          "link": "https://www.ithome.com/1/005/068.htm",
+          "comment": "Micro LED有望在高端显示领域取代OLED。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "IDC：2026年Q2全球耳戴出货量增长5.4%",
+          "summary": "IDC报告显示2026年第二季度全球耳戴设备出货9,613万台，同比增长5.4%，其中开放式耳机表现突出。",
+          "link": "https://www.ithome.com/1/005/136.htm",
+          "comment": "可穿戴音频市场仍保持增长，值得关注供应链布局。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Rokid新一代乐奇AI眼镜即将发布",
+      "summary": "Rokid将在9月24日的数字贸易博览会发布新一代AI眼镜，主打“Less tool. More human”，聚焦轻量化与AI交互。",
+      "link": "https://www.ithome.com/1/005/042.htm",
+      "comment": "国内AI眼镜厂商持续布局，值得关注其生态与渠道策略。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Snap Specs 真AR眼镜亮相",
+      "summary": "Snap推出的Specs AR眼镜具备跨平台AI助手，并提供可选的蜂窝充电盒，定位高端消费市场。",
+      "link": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+      "comment": "美国公司在AR硬件上加速商业化，关注其生态开放程度。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "Meta计划推出无摄像头智能眼镜",
+      "summary": "Meta将在Connect大会推出低价无摄像头智能眼镜，以规避隐私争议，定位入门级市场。",
+      "link": "https://www.uploadvr.com/meta-to-launch-smart-glasses-without-camera-as-privacy-backlash-grows/",
+      "comment": "隐私导向的产品可能打开更广泛的消费群体。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate 90系列即将发布",
+      "summary": "华为宣布Mate 90系列将在9月28日发布，继续强化自研麒麟芯片与鸿蒙系统，定位高端旗舰。",
+      "link": "https://www.ithome.com/1/005/085.htm",
+      "comment": "华为在高端手机市场的布局仍是行业焦点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加16正式亮相并开启预约",
+      "summary": "一加16提供三款配色，配备全局165Hz超高刷新率屏幕，定位巅峰性能旗舰，预约可获两年电池保和配件礼包。",
+      "link": "https://www.ithome.com/1/005/058.htm",
+      "comment": "一加继续走高性能路线，抢占高刷市场份额。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo X500 Pro Max搭载BOE Q11发光材料2K屏",
+      "summary": "vivo X500 Pro Max将首发BOE最新Q11发光材料2K蔡司大师色彩屏，提升亮度与色准，屏幕尺寸约6英寸。",
+      "link": "https://www.ithome.com/1/005/099.htm",
+      "comment": "显示面板升级是vivo高端机型的关键卖点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果iPhone 20 Pro系列屏幕信息曝光",
+      "summary": "iPhone 20 Pro系列早期屏幕参数曝光，采用6.41英寸无边四曲面设计，分辨率约2686×1236。",
+      "link": "https://www.ithome.com/1/005/121.htm",
+      "comment": "苹果继续提升屏幕占比与曲面工艺，保持高端竞争力。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone 18 Pro与Pixel 11 Pro对比评测",
+      "summary": "评测指出iPhone 18 Pro售价1200美元仍显高价，而Pixel 11 Pro在体验上更具性价比。",
+      "link": "https://www.androidauthority.com/pixel-11-pro-vs-iphone-18-pro-3712022/",
+      "comment": "高端手机价格竞争加剧，Android阵营表现抢眼。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Android 17 QPR1更新更改Pixel状态栏图标",
+      "summary": "本月的Android 17 QPR1稳定版对Pixel设备的状态栏图标进行细节调整，提升系统一致性。",
+      "link": "https://9to5google.com/2026/09/20/android-17-qpr1-status-bar-icons/",
+      "comment": "系统细节优化显示Google对Pixel体验的持续投入。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "三星Galaxy侧键自定义指南",
+      "summary": "该指南介绍了如何在三星Galaxy手机上自定义侧键功能，提升用户交互效率。",
+      "link": "https://www.engadget.com/2259632/how-to-customize-samsung-side-button/",
+      "comment": "侧键功能的灵活性是Android手机差异化体验之一。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Snap Specs AR眼镜现场演示",
+      "summary": "Snap CEO在现场演示了即将发布的Specs真AR眼镜，展示了AI助手与AR内容的融合。",
+      "link": "https://www.uploadvr.com/watch-snap-ceo-demo-specs-ar-glasses-live-on-stage/",
+      "comment": "现场演示提升产品曝光度，预示AR硬件进入商业化阶段。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "秋水半导体8英寸Micro LED混合键合产线投产",
+      "summary": "秋水半导体在宁波的8英寸Micro LED混合键合产线已全面通线投产，月产千片，标志Micro LED规模化迈进。",
+      "link": "https://www.ithome.com/1/005/068.htm",
+      "comment": "Micro LED有望在高端显示领域取代OLED。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "IDC：2026年Q2全球耳戴出货量增长5.4%",
+      "summary": "IDC报告显示2026年第二季度全球耳戴设备出货9,613万台，同比增长5.4%，其中开放式耳机表现突出。",
+      "link": "https://www.ithome.com/1/005/136.htm",
+      "comment": "可穿戴音频市场仍保持增长，值得关注供应链布局。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 23.7
+}
