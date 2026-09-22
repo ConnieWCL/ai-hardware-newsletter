@@ -1,0 +1,249 @@
+{
+  "date": "2026-09-22",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 苹果CoE OLED 预计2029年iPhone Pro将采用新封装技术，显示行业关注。",
+    "[国内] 阿里平头哥发布真武V900 AI芯片，算力提升2倍，抢占国产AI算力高地。",
+    "[国内] 华超神控完成2亿元Pre-A轮融资，非侵入式AI脑机接口将加速招聘。",
+    "[国外] Apple iPhone Duo 将支持手写笔，折叠屏竞争加剧。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Snap Specs AR 眼镜",
+          "summary": "Snap 计划秋季推出 Specs 真AR眼镜，配备跨平台AI助理和可选的手机充电盒，定位高端AR消费市场。",
+          "link": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+          "comment": "可为AI硬件团队提供跨平台AI交互经验参考。",
+          "source": "uploadvr",
+          "region": "国外"
+        },
+        {
+          "title": "千问 AI 眼镜 N1 系列",
+          "summary": "阿里在云栖大会展示千问 AI 眼镜 N1，支持眼动追踪与虹膜支付，10月13日开售，定位AI交互与支付一体化。",
+          "link": "https://www.ithome.com/1/005/647.htm",
+          "comment": "展示AI眼镜在支付场景的落地潜力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "AI 录音球",
+          "summary": "某头部手机厂商推出9.8克球形AI录音设备，续航24小时，可夹衣佩戴，满足随身AI录音需求。",
+          "link": "https://www.leiphone.com/category/industrynews/jaNIhOplEbRqBAAw.html",
+          "comment": "轻量化AI录音硬件或打开新消费细分。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "AI 眼镜出货激增",
+          "summary": "Counterpoint 数据显示2026上半年全球AI眼镜出货同比增长263%，无屏型产品占比96%。",
+          "link": "https://www.ithome.com/1/005/579.htm",
+          "comment": "行业快速增长，提示硬件研发投入时机。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "一加 16 系列",
+          "summary": "一加发布16系列官图，提供三款配色，支持全局165Hz 超高刷新率，定位巅峰性能旗舰。",
+          "link": "https://www.ithome.com/1/005/600.htm",
+          "comment": "高刷新率是旗舰手机竞争关键。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo X500 Ultra 系列",
+          "summary": "vivo X500 Ultra 采用天玑9600 Pro/9600M 芯片，标准版起价5499元，定位高端旗舰。",
+          "link": "https://www.ithome.com/1/005/646.htm",
+          "comment": "国产高端芯片的市场验证。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 支持手写笔",
+          "summary": "据报道，Apple 将在 iPhone Duo 上保留手写笔支持，提升折叠屏交互体验。",
+          "link": "https://9to5google.com/2026/09/21/apple-iphone-duo-stylus-support-report/",
+          "comment": "折叠屏与手写笔的组合或成为新竞争点。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "小米 18 Pro 隐私显示屏",
+          "summary": "小米 18 Pro 将搭载隐私显示屏，提供比 Galaxy S26 Ultra 更强的屏幕隐私保护。",
+          "link": "https://9to5google.com/2026/09/21/xiaomi-18-pro-has-a-privacy-display-that-does-more-than-galaxy-s26-ultra-launches-this-week-video/",
+          "comment": "隐私显示是高端手机差异化卖点。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "MediaTek Dimensity CX C10 Max 笔记本芯片",
+          "summary": "MediaTek 推出旗舰笔记本芯片 Dimensity CX C10 Max，首批搭载于 Lenovo Googlebook。",
+          "link": "https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/",
+          "comment": "显示国产芯片在高性能笔记本市场的突破。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple CoE OLED 预计2029年 iPhone Pro 采用",
+          "summary": "UBI Research 预测 Apple 将在2029年下半年推出采用封装上彩膜（CoE）技术的 iPhone Pro 直板机型。",
+          "link": "https://www.ithome.com/1/005/634.htm",
+          "comment": "新封装技术或提升显示效率与成本控制。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 可能借鉴 Pixel 技术推出 Nest Hub 竞争产品",
+          "summary": "分析称 Apple 可能在下月推出类似 Pixel 的智能显示设备，具备人脸解锁等功能。",
+          "link": "https://www.androidauthority.com/apple-smart-display-iphone-duo-pixel-face-unlock-3713334/",
+          "comment": "显示 Apple 在智能家居硬件布局的意图。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "阿里平头哥 真武 V900 AI 芯片发布",
+          "summary": "阿里平头哥在云栖大会发布真武 V900，训推一体，算力提升至原先2倍，定位国产最强 AI 芯片。",
+          "link": "https://www.ithome.com/1/005/602.htm",
+          "comment": "为国产 AI 服务器提供高性能算力。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "华超神控完成2亿元Pre-A轮融资",
+          "summary": "华超神控获红杉中国、云启资本等2亿元融资，专注非侵入式AI脑机接口，预计扩招研发团队。",
+          "link": "https://www.leiphone.com/category/aihealth/cZ1cYOXpoBGSfj45.html",
+          "comment": "融资直接转化为研发岗位需求。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Snap Specs AR 眼镜",
+      "summary": "Snap 计划秋季推出 Specs 真AR眼镜，配备跨平台AI助理和可选的手机充电盒，定位高端AR消费市场。",
+      "link": "https://www.uploadvr.com/snaps-specs-have-a-cross-platform-ai-agent-optional-cellular-charging-case/",
+      "comment": "可为AI硬件团队提供跨平台AI交互经验参考。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "千问 AI 眼镜 N1 系列",
+      "summary": "阿里在云栖大会展示千问 AI 眼镜 N1，支持眼动追踪与虹膜支付，10月13日开售，定位AI交互与支付一体化。",
+      "link": "https://www.ithome.com/1/005/647.htm",
+      "comment": "展示AI眼镜在支付场景的落地潜力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "AI 录音球",
+      "summary": "某头部手机厂商推出9.8克球形AI录音设备，续航24小时，可夹衣佩戴，满足随身AI录音需求。",
+      "link": "https://www.leiphone.com/category/industrynews/jaNIhOplEbRqBAAw.html",
+      "comment": "轻量化AI录音硬件或打开新消费细分。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "AI 眼镜出货激增",
+      "summary": "Counterpoint 数据显示2026上半年全球AI眼镜出货同比增长263%，无屏型产品占比96%。",
+      "link": "https://www.ithome.com/1/005/579.htm",
+      "comment": "行业快速增长，提示硬件研发投入时机。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "一加 16 系列",
+      "summary": "一加发布16系列官图，提供三款配色，支持全局165Hz 超高刷新率，定位巅峰性能旗舰。",
+      "link": "https://www.ithome.com/1/005/600.htm",
+      "comment": "高刷新率是旗舰手机竞争关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo X500 Ultra 系列",
+      "summary": "vivo X500 Ultra 采用天玑9600 Pro/9600M 芯片，标准版起价5499元，定位高端旗舰。",
+      "link": "https://www.ithome.com/1/005/646.htm",
+      "comment": "国产高端芯片的市场验证。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 支持手写笔",
+      "summary": "据报道，Apple 将在 iPhone Duo 上保留手写笔支持，提升折叠屏交互体验。",
+      "link": "https://9to5google.com/2026/09/21/apple-iphone-duo-stylus-support-report/",
+      "comment": "折叠屏与手写笔的组合或成为新竞争点。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "小米 18 Pro 隐私显示屏",
+      "summary": "小米 18 Pro 将搭载隐私显示屏，提供比 Galaxy S26 Ultra 更强的屏幕隐私保护。",
+      "link": "https://9to5google.com/2026/09/21/xiaomi-18-pro-has-a-privacy-display-that-does-more-than-galaxy-s26-ultra-launches-this-week-video/",
+      "comment": "隐私显示是高端手机差异化卖点。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "MediaTek Dimensity CX C10 Max 笔记本芯片",
+      "summary": "MediaTek 推出旗舰笔记本芯片 Dimensity CX C10 Max，首批搭载于 Lenovo Googlebook。",
+      "link": "https://9to5google.com/2026/09/21/mediatek-googlebook-dimensity-cx-c10-max/",
+      "comment": "显示国产芯片在高性能笔记本市场的突破。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple CoE OLED 预计2029年 iPhone Pro 采用",
+      "summary": "UBI Research 预测 Apple 将在2029年下半年推出采用封装上彩膜（CoE）技术的 iPhone Pro 直板机型。",
+      "link": "https://www.ithome.com/1/005/634.htm",
+      "comment": "新封装技术或提升显示效率与成本控制。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 可能借鉴 Pixel 技术推出 Nest Hub 竞争产品",
+      "summary": "分析称 Apple 可能在下月推出类似 Pixel 的智能显示设备，具备人脸解锁等功能。",
+      "link": "https://www.androidauthority.com/apple-smart-display-iphone-duo-pixel-face-unlock-3713334/",
+      "comment": "显示 Apple 在智能家居硬件布局的意图。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "阿里平头哥 真武 V900 AI 芯片发布",
+      "summary": "阿里平头哥在云栖大会发布真武 V900，训推一体，算力提升至原先2倍，定位国产最强 AI 芯片。",
+      "link": "https://www.ithome.com/1/005/602.htm",
+      "comment": "为国产 AI 服务器提供高性能算力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华超神控完成2亿元Pre-A轮融资",
+      "summary": "华超神控获红杉中国、云启资本等2亿元融资，专注非侵入式AI脑机接口，预计扩招研发团队。",
+      "link": "https://www.leiphone.com/category/aihealth/cZ1cYOXpoBGSfj45.html",
+      "comment": "融资直接转化为研发岗位需求。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 25.0
+}
