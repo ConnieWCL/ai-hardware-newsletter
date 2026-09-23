@@ -1,0 +1,233 @@
+{
+  "date": "2026-09-23",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] iQOO 16 搭载首批骁龙 8 第六代双旗舰，定位高性能电竞手机。",
+    "[国内] OPPO Find X10 系列 4999 元起，主打影像均衡与性价比。",
+    "[国内] 千问 AI 眼镜 N1 系列首发，定位 AI 办公与轻量 AR 场景。",
+    "[国外] Apple iPhone Duo 将继续支持手写笔，折叠屏竞争加剧。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "千问 AI 眼镜 N1 系列发布",
+          "summary": "在云栖大会首次亮相，搭载 50% 以上算力的 AI 芯片，定位企业办公与轻量 AR，支持语音交互与实时翻译。",
+          "link": "https://www.leiphone.com/category/industrynews/sUhCMujTu7xyY00e.html",
+          "comment": "AI 眼镜进入企业落地阶段，算力与功耗平衡是关键。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Shokz OpenFit 2 AI 智能耳机",
+          "summary": "首款 AI 耳机，内置 AI 实验室功能，可实现智能对话、日程提醒等，面向消费级市场。",
+          "link": "https://www.ithome.com/1/006/065.htm",
+          "comment": "耳机向可穿戴 AI 终端升级，生态开放度值得关注。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Oura Ring 4 智能戒指特价促销",
+          "summary": "美国 Oura 推出 319.99 美元特价，提供 5-8 天续航和健康监测功能。",
+          "link": "https://www.androidauthority.com/oura-ring-4-deal-amazon-3714131/",
+          "comment": "智能戒指在健康监测细分市场的渗透率提升。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iQOO 16 与 iQOO Pad Ultra 同步发布",
+          "summary": "iQOO 16 搭载骁龙 8 第六代双旗舰，定位电竞旗舰；iQOO Pad Ultra 主打大屏生产力，配备高刷新率显示。",
+          "link": "https://www.ithome.com/1/006/198.htm",
+          "comment": "双平台同步发布显示品牌对生态布局的信心。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Find X10 系列正式发布",
+          "summary": "起售价 4999 元，采用全链路影像优化，定位中高端影像手机，兼顾性能与成本。",
+          "link": "http://www.leikeji.com/article/79705",
+          "comment": "在存储涨价背景下，以性价比抢占市场。",
+          "source": "leikeji",
+          "region": "国内"
+        },
+        {
+          "title": "三星隐私显示技术在 S26 Ultra 上实现四向遮光",
+          "summary": "通过四向光学遮光提升隐私保护，但对显示亮度与舒适度有一定影响。",
+          "link": "https://www.androidauthority.com/samsung-privacy-display-vs-huawei-xiaomi-3714005/",
+          "comment": "隐私显示是高端手机差异化新方向。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 支持手写笔",
+          "summary": "虽然未实现全新折叠形态，但加入手写笔支持，提升生产力场景竞争力。",
+          "link": "https://9to5google.com/2026/09/21/apple-iphone-duo-stylus-support-report/",
+          "comment": "苹果在折叠屏生态中仍保持差异化。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Motorola Signature 27 首搭 Snapdragon 8 Elite Extreme Gen 6",
+          "summary": "该机采用全新高端芯片，主打极致算力与 AI 任务加速，定位旗舰级游戏手机。",
+          "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+          "comment": "高端芯片的首发验证了 Qualcomm 的新一代路线。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy Z Fold 8 评测对比",
+          "summary": "对比 iPhone Duo，三星在折叠耐用性、续航与多任务体验上仍占优势。",
+          "link": "https://www.androidauthority.com/iphone-duo-vs-galaxy-z-fold-8-3712638/",
+          "comment": "折叠屏竞争格局仍以三星为领跑者。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "高通强调手机仍是 AI 交互核心",
+          "summary": "高通副总裁指出，未来 AI 交互将从 APP 向 AI 智能体迁移，手机仍是关键入口。",
+          "link": "https://www.ithome.com/1/006/201.htm",
+          "comment": "手机芯片路线将加码 NPU 与 AI 加速单元。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "DeepSeek 发布 DSec 环境用于 Agent 训练",
+          "summary": "论文公开了 Elastic Compute 系统，提供可扩展算力平台，助力大模型 Agent 训练。",
+          "link": "https://www.ithome.com/1/006/148.htm",
+          "comment": "算力平台化是大模型落地的关键。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "阿里云推出 AgentCore 与新一代 CPFS",
+          "summary": "在云栖大会上，阿里云宣布新算力底座与 Agent 构建平台，伴随大规模招聘 AI 基础设施人才。",
+          "link": "https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+          "comment": "融资投入显现，AI 基础设施团队扩张。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "千问 AI 眼镜 N1 系列发布",
+      "summary": "在云栖大会首次亮相，搭载 50% 以上算力的 AI 芯片，定位企业办公与轻量 AR，支持语音交互与实时翻译。",
+      "link": "https://www.leiphone.com/category/industrynews/sUhCMujTu7xyY00e.html",
+      "comment": "AI 眼镜进入企业落地阶段，算力与功耗平衡是关键。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Shokz OpenFit 2 AI 智能耳机",
+      "summary": "首款 AI 耳机，内置 AI 实验室功能，可实现智能对话、日程提醒等，面向消费级市场。",
+      "link": "https://www.ithome.com/1/006/065.htm",
+      "comment": "耳机向可穿戴 AI 终端升级，生态开放度值得关注。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Oura Ring 4 智能戒指特价促销",
+      "summary": "美国 Oura 推出 319.99 美元特价，提供 5-8 天续航和健康监测功能。",
+      "link": "https://www.androidauthority.com/oura-ring-4-deal-amazon-3714131/",
+      "comment": "智能戒指在健康监测细分市场的渗透率提升。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "iQOO 16 与 iQOO Pad Ultra 同步发布",
+      "summary": "iQOO 16 搭载骁龙 8 第六代双旗舰，定位电竞旗舰；iQOO Pad Ultra 主打大屏生产力，配备高刷新率显示。",
+      "link": "https://www.ithome.com/1/006/198.htm",
+      "comment": "双平台同步发布显示品牌对生态布局的信心。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Find X10 系列正式发布",
+      "summary": "起售价 4999 元，采用全链路影像优化，定位中高端影像手机，兼顾性能与成本。",
+      "link": "http://www.leikeji.com/article/79705",
+      "comment": "在存储涨价背景下，以性价比抢占市场。",
+      "source": "leikeji",
+      "region": "国内"
+    },
+    {
+      "title": "三星隐私显示技术在 S26 Ultra 上实现四向遮光",
+      "summary": "通过四向光学遮光提升隐私保护，但对显示亮度与舒适度有一定影响。",
+      "link": "https://www.androidauthority.com/samsung-privacy-display-vs-huawei-xiaomi-3714005/",
+      "comment": "隐私显示是高端手机差异化新方向。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 支持手写笔",
+      "summary": "虽然未实现全新折叠形态，但加入手写笔支持，提升生产力场景竞争力。",
+      "link": "https://9to5google.com/2026/09/21/apple-iphone-duo-stylus-support-report/",
+      "comment": "苹果在折叠屏生态中仍保持差异化。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Motorola Signature 27 首搭 Snapdragon 8 Elite Extreme Gen 6",
+      "summary": "该机采用全新高端芯片，主打极致算力与 AI 任务加速，定位旗舰级游戏手机。",
+      "link": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "comment": "高端芯片的首发验证了 Qualcomm 的新一代路线。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy Z Fold 8 评测对比",
+      "summary": "对比 iPhone Duo，三星在折叠耐用性、续航与多任务体验上仍占优势。",
+      "link": "https://www.androidauthority.com/iphone-duo-vs-galaxy-z-fold-8-3712638/",
+      "comment": "折叠屏竞争格局仍以三星为领跑者。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "高通强调手机仍是 AI 交互核心",
+      "summary": "高通副总裁指出，未来 AI 交互将从 APP 向 AI 智能体迁移，手机仍是关键入口。",
+      "link": "https://www.ithome.com/1/006/201.htm",
+      "comment": "手机芯片路线将加码 NPU 与 AI 加速单元。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "DeepSeek 发布 DSec 环境用于 Agent 训练",
+      "summary": "论文公开了 Elastic Compute 系统，提供可扩展算力平台，助力大模型 Agent 训练。",
+      "link": "https://www.ithome.com/1/006/148.htm",
+      "comment": "算力平台化是大模型落地的关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "阿里云推出 AgentCore 与新一代 CPFS",
+      "summary": "在云栖大会上，阿里云宣布新算力底座与 Agent 构建平台，伴随大规模招聘 AI 基础设施人才。",
+      "link": "https://www.leiphone.com/category/industrynews/HNWVHr1WinHMKzsN.html",
+      "comment": "融资投入显现，AI 基础设施团队扩张。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 26.6
+}
