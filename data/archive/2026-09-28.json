@@ -1,0 +1,223 @@
+{
+  "date": "2026-09-28",
+  "mode": "llm",
+  "candidates": 49,
+  "overview": [
+    "[国内] vivo WATCH 6 轻薄智能手表 999 元起，主打户外跑骑与健康监测。",
+    "[国内] 荣耀 Magic9 系列今日开售，定位高端旗舰，搭载最新影像系统。",
+    "[国内] 一加 16 将于 10 月发布，首批配备第六代骁龙 8 超级至尊版，支持 185Hz 高刷。",
+    "[国内] 红魔 12 Pro+ 计划 10 月发布，主打电竞，搭载同代骁龙旗舰芯片。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta Hologram 虚拟形象功能上线",
+          "summary": "Meta 将在今年秋季为 Ray‑Ban Display 智能眼镜、Quest 头显及全新轻薄型头显加入 Hologram 虚拟形象，类似 Vision Pro Persona。",
+          "link": "https://www.ithome.com/1/007/767.htm",
+          "comment": "提升沉浸感，抢占 AR/VR 交互新高地。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Beat Saber 将支持全手部追踪的 Flux 模式",
+          "summary": "2027 春季更新将为 Beat Saber 引入完整手部追踪，专为 Meta 即将发布的轻薄头显优化。",
+          "link": "https://www.ithome.com/1/007/769.htm",
+          "comment": "手部追踪是下一代 VR 交互关键。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "国产全电子架构具身智能机器人亮相",
+          "summary": "全球首台搭载全国产化电子架构的具身机器人在宜昌发布，提供可替代国外方案的完整技术选项。",
+          "link": "https://www.ithome.com/1/007/678.htm",
+          "comment": "标志国产机器人核心技术突破。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "vivo WATCH 6 轻户外智能手表开售",
+          "summary": "采用超轻薄表体与蓝宝石玻璃表镜，支持跑骑指导、60 秒体检等功能，售价 999 元起。",
+          "link": "https://www.ithome.com/1/007/768.htm",
+          "comment": "定位高性价比户外用户。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀 Magic9 系列正式开售",
+          "summary": "荣耀在 9 月 28 日 16:08 上线 Magic9 系列，提供高配影像与大容量存储，定位高端旗舰。",
+          "link": "https://www.ithome.com/1/007/766.htm",
+          "comment": "抢占高端市场，强化品牌形象。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加 16 定档 10 月 12 日发布",
+          "summary": "搭载高通第六代骁龙 8 超级至尊版芯片，配备自研电竞三芯与 185Hz 超速刷新，主打 185 FPS 游戏体验。",
+          "link": "https://www.ithome.com/1/007/730.htm",
+          "comment": "电竞手机技术全链路升级。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "红魔 12 Pro+ 新品发布会定档",
+          "summary": "红魔 12 Pro+ 将于 10 月 15 日发布，搭载高通第六代骁龙 8 超级至尊版，定位极致电竞手机。",
+          "link": "https://www.ithome.com/1/007/669.htm",
+          "comment": "继续深耕电竞细分市场。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 折叠机型概念曝光",
+          "summary": "iPhone Duo 不是首款折叠手机，但其可能以全新交互方式冲击折叠市场，带来新的竞争格局。",
+          "link": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
+          "comment": "苹果入局折叠或重新定义高端用户体验。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Google Pixel 将继续使用自研 Tensor 芯片",
+          "summary": "尽管 Snapdragon 新品频出，Google 仍坚持在 Pixel 系列使用自研 Tensor，保持软硬件一体化优势。",
+          "link": "https://9to5google.com/2026/09/27/google-pixel-tensor-snapdragon-mediatek-newsletter/",
+          "comment": "体现谷歌对自研 AI 加速器的信心。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 因触觉专利被判 57 亿美元赔偿",
+          "summary": "Taction 起诉 Apple 侵权其触觉技术专利，联邦陪审团裁定 Apple 需支付 57.0 亿美元。",
+          "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+          "comment": "高端硬件专利价值再度凸显。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Should you ditch your tablet for a foldable phone?",
+          "summary": "分析折叠手机尺寸已接近 iPad Mini，探讨其在便携性与生产力上的优势。",
+          "link": "https://www.engadget.com/2267889/ditch-tablet-for-foldable-phone/",
+          "comment": "折叠机型正向平板市场渗透。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Launches $1M Competition for Hands‑First Apps",
+          "summary": "Meta 为即将上市的 VR 眼镜和 Quest 平台推出 100 万美元开发者大赛，鼓励手部交互应用。",
+          "link": "https://www.uploadvr.com/meta-launches-1-million-competition-for-hands-first-apps-ahead-of-vr-glasses/",
+          "comment": "推动生态系统内容丰富化。",
+          "source": "uploadvr",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta Hologram 虚拟形象功能上线",
+      "summary": "Meta 将在今年秋季为 Ray‑Ban Display 智能眼镜、Quest 头显及全新轻薄型头显加入 Hologram 虚拟形象，类似 Vision Pro Persona。",
+      "link": "https://www.ithome.com/1/007/767.htm",
+      "comment": "提升沉浸感，抢占 AR/VR 交互新高地。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Beat Saber 将支持全手部追踪的 Flux 模式",
+      "summary": "2027 春季更新将为 Beat Saber 引入完整手部追踪，专为 Meta 即将发布的轻薄头显优化。",
+      "link": "https://www.ithome.com/1/007/769.htm",
+      "comment": "手部追踪是下一代 VR 交互关键。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "国产全电子架构具身智能机器人亮相",
+      "summary": "全球首台搭载全国产化电子架构的具身机器人在宜昌发布，提供可替代国外方案的完整技术选项。",
+      "link": "https://www.ithome.com/1/007/678.htm",
+      "comment": "标志国产机器人核心技术突破。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo WATCH 6 轻户外智能手表开售",
+      "summary": "采用超轻薄表体与蓝宝石玻璃表镜，支持跑骑指导、60 秒体检等功能，售价 999 元起。",
+      "link": "https://www.ithome.com/1/007/768.htm",
+      "comment": "定位高性价比户外用户。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀 Magic9 系列正式开售",
+      "summary": "荣耀在 9 月 28 日 16:08 上线 Magic9 系列，提供高配影像与大容量存储，定位高端旗舰。",
+      "link": "https://www.ithome.com/1/007/766.htm",
+      "comment": "抢占高端市场，强化品牌形象。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加 16 定档 10 月 12 日发布",
+      "summary": "搭载高通第六代骁龙 8 超级至尊版芯片，配备自研电竞三芯与 185Hz 超速刷新，主打 185 FPS 游戏体验。",
+      "link": "https://www.ithome.com/1/007/730.htm",
+      "comment": "电竞手机技术全链路升级。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "红魔 12 Pro+ 新品发布会定档",
+      "summary": "红魔 12 Pro+ 将于 10 月 15 日发布，搭载高通第六代骁龙 8 超级至尊版，定位极致电竞手机。",
+      "link": "https://www.ithome.com/1/007/669.htm",
+      "comment": "继续深耕电竞细分市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 折叠机型概念曝光",
+      "summary": "iPhone Duo 不是首款折叠手机，但其可能以全新交互方式冲击折叠市场，带来新的竞争格局。",
+      "link": "https://www.engadget.com/2267585/why-iphone-duo-benefitcial-for-samsung-galaxy-fold-8/",
+      "comment": "苹果入局折叠或重新定义高端用户体验。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Google Pixel 将继续使用自研 Tensor 芯片",
+      "summary": "尽管 Snapdragon 新品频出，Google 仍坚持在 Pixel 系列使用自研 Tensor，保持软硬件一体化优势。",
+      "link": "https://9to5google.com/2026/09/27/google-pixel-tensor-snapdragon-mediatek-newsletter/",
+      "comment": "体现谷歌对自研 AI 加速器的信心。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 因触觉专利被判 57 亿美元赔偿",
+      "summary": "Taction 起诉 Apple 侵权其触觉技术专利，联邦陪审团裁定 Apple 需支付 57.0 亿美元。",
+      "link": "https://www.theverge.com/tech/1001118/apple-hit-with-5-7-billion-in-damages-over-haptic-patents",
+      "comment": "高端硬件专利价值再度凸显。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Should you ditch your tablet for a foldable phone?",
+      "summary": "分析折叠手机尺寸已接近 iPad Mini，探讨其在便携性与生产力上的优势。",
+      "link": "https://www.engadget.com/2267889/ditch-tablet-for-foldable-phone/",
+      "comment": "折叠机型正向平板市场渗透。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Launches $1M Competition for Hands‑First Apps",
+      "summary": "Meta 为即将上市的 VR 眼镜和 Quest 平台推出 100 万美元开发者大赛，鼓励手部交互应用。",
+      "link": "https://www.uploadvr.com/meta-launches-1-million-competition-for-hands-first-apps-ahead-of-vr-glasses/",
+      "comment": "推动生态系统内容丰富化。",
+      "source": "uploadvr",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 25.7
+}
