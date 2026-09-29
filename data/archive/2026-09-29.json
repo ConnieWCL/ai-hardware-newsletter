@@ -1,0 +1,260 @@
+{
+  "date": "2026-09-29",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] vivo X500 Pro 今日开售，首发天玑9600 Pro，定位高端旗舰，售价6499元起。",
+    "[国内] 华为 Mate 90 系列定档10月1日发布，搭载全新摄像模组与高阶AI算力。",
+    "[国外] 苹果首款折叠 iPhone Duo 露出待机模式新界面，预示折叠手机新生态。",
+    "[国外] Meta 推出 Hologram Avatar 方案，针对 VR 头显的 AI 虚拟形象。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "AR 泳镜平民化尝试",
+          "summary": "面向运动爱好者的智能泳镜，将 AR 显示与防水功能结合，降低入门门槛。",
+          "link": "http://www.geekpark.net/news/371439",
+          "comment": "可视化实时数据，符合中国市场对健康穿戴的需求。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "米家 AR 眼镜相机",
+          "summary": "小米生态链首款 AR 眼镜，众筹超 1000 万元，定位轻量化佩戴式相机。",
+          "link": "http://www.geekpark.net/news/371429",
+          "comment": "突破传统相机束缚，适合内容创作者。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "Apple Vision Pro 继任机型研发",
+          "summary": "Apple 正在并行验证 4 款原型，推进下一代混合现实头显的性能与舒适度提升。",
+          "link": "https://www.ithome.com/1/008/078.htm",
+          "comment": "显示 Apple 仍在加码高端 MR 市场。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Hologram Avatar 方案",
+          "summary": "Meta 为 VR 眼镜推出逼真全身 Avatar，计划在数月内上线，提升沉浸感。",
+          "link": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
+          "comment": "与 Apple、Microsoft 争夺元宇宙硬件生态。",
+          "source": "roadtovr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "vivo X500 Pro 开售",
+          "summary": "搭载天玑 9600 Pro 旗舰芯片，配备蔡司超动态主摄与 APO 超级长焦，售价 6499 元起。",
+          "link": "https://www.ithome.com/1/008/120.htm",
+          "comment": "天玑最高性能芯片，抢占高端市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为 Mate 90 系列年度旗舰发布",
+          "summary": "10 月 1 日正式发布，包含 Pro Max 典藏版，配备全新摄像模组与自研 AI 加速单元。",
+          "link": "https://www.ithome.com/1/008/093.htm",
+          "comment": "继续巩固高端旗舰阵容。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为睿影 Z10 模块相机亮相",
+          "summary": "针对 Mate 90 Pro Max 典藏版的可拆卸相机模块，提升专业摄影能力。",
+          "link": "https://www.ithome.com/1/008/106.htm",
+          "comment": "模块化设计或成为高端机型差异化卖点。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款折叠 iPhone Duo 待机模式前瞻",
+          "summary": "iOS 27.1 代码泄露显示，折叠 iPhone Duo 在 StandBy 模式下提供 5 种全新界面与表盘编辑器。",
+          "link": "https://www.ithome.com/1/008/089.htm",
+          "comment": "折叠手机进入新功能迭代期。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "摩托罗拉宽屏折叠手机渲染图曝光",
+          "summary": "内外双屏设计，展开后 6.92 英寸，折叠后 4.97 英寸，预计 2026 年 12 月发布。",
+          "link": "https://www.ithome.com/1/008/098.htm",
+          "comment": "挑战三星、华为的折叠布局。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy S27 Ultra 摄像模组泄露",
+          "summary": "多摄像头布局细节出现分歧，暗示可能采用更大传感器与潜望式长焦。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-render-leak-3716236/",
+          "comment": "继续强化旗舰摄像竞争力。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung One UI 9 / Android 17 大规模推送",
+          "summary": "面向 Galaxy S26 系列用户的系统更新，带来性能优化与新 UI 特性。",
+          "link": "https://9to5google.com/2026/09/28/samsung-galaxy-s26-one-ui-9-android-17-us-rollout-widens/",
+          "comment": "提升用户体验，巩固 Android 生态。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Nothing Headphone (1) Pro 头戴式耳机发布",
+          "summary": "采用三单元驱动与 46dB 主动降噪，售价 399 美元，提供深度音质调校。",
+          "link": "https://www.ithome.com/1/008/113.htm",
+          "comment": "在高端耳机市场提供性价比选项。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "AI 推理时代 CPU 重塑算力版图",
+          "summary": "在大模型训练算力竞争后，CPU 正在通过高效推理加速器抢占 AI 推理市场。",
+          "link": "https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html",
+          "comment": "对传统芯片厂商是新增长点。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Anthropic IPO 招股书披露巨额算力投入",
+          "summary": "公司计划在 AI 基础设施上投入数十亿美元，强调安全与可控性。",
+          "link": "https://www.ithome.com/1/008/082.htm",
+          "comment": "算力成本高企，行业进入资本密集期。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "AR 泳镜平民化尝试",
+      "summary": "面向运动爱好者的智能泳镜，将 AR 显示与防水功能结合，降低入门门槛。",
+      "link": "http://www.geekpark.net/news/371439",
+      "comment": "可视化实时数据，符合中国市场对健康穿戴的需求。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "米家 AR 眼镜相机",
+      "summary": "小米生态链首款 AR 眼镜，众筹超 1000 万元，定位轻量化佩戴式相机。",
+      "link": "http://www.geekpark.net/news/371429",
+      "comment": "突破传统相机束缚，适合内容创作者。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "Apple Vision Pro 继任机型研发",
+      "summary": "Apple 正在并行验证 4 款原型，推进下一代混合现实头显的性能与舒适度提升。",
+      "link": "https://www.ithome.com/1/008/078.htm",
+      "comment": "显示 Apple 仍在加码高端 MR 市场。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Hologram Avatar 方案",
+      "summary": "Meta 为 VR 眼镜推出逼真全身 Avatar，计划在数月内上线，提升沉浸感。",
+      "link": "https://roadtovr.com/hands-on-meta-hologram-avatars-vr-glasses/",
+      "comment": "与 Apple、Microsoft 争夺元宇宙硬件生态。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "vivo X500 Pro 开售",
+      "summary": "搭载天玑 9600 Pro 旗舰芯片，配备蔡司超动态主摄与 APO 超级长焦，售价 6499 元起。",
+      "link": "https://www.ithome.com/1/008/120.htm",
+      "comment": "天玑最高性能芯片，抢占高端市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为 Mate 90 系列年度旗舰发布",
+      "summary": "10 月 1 日正式发布，包含 Pro Max 典藏版，配备全新摄像模组与自研 AI 加速单元。",
+      "link": "https://www.ithome.com/1/008/093.htm",
+      "comment": "继续巩固高端旗舰阵容。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为睿影 Z10 模块相机亮相",
+      "summary": "针对 Mate 90 Pro Max 典藏版的可拆卸相机模块，提升专业摄影能力。",
+      "link": "https://www.ithome.com/1/008/106.htm",
+      "comment": "模块化设计或成为高端机型差异化卖点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果首款折叠 iPhone Duo 待机模式前瞻",
+      "summary": "iOS 27.1 代码泄露显示，折叠 iPhone Duo 在 StandBy 模式下提供 5 种全新界面与表盘编辑器。",
+      "link": "https://www.ithome.com/1/008/089.htm",
+      "comment": "折叠手机进入新功能迭代期。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "摩托罗拉宽屏折叠手机渲染图曝光",
+      "summary": "内外双屏设计，展开后 6.92 英寸，折叠后 4.97 英寸，预计 2026 年 12 月发布。",
+      "link": "https://www.ithome.com/1/008/098.htm",
+      "comment": "挑战三星、华为的折叠布局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra 摄像模组泄露",
+      "summary": "多摄像头布局细节出现分歧，暗示可能采用更大传感器与潜望式长焦。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-s27-ultra-camera-render-leak-3716236/",
+      "comment": "继续强化旗舰摄像竞争力。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung One UI 9 / Android 17 大规模推送",
+      "summary": "面向 Galaxy S26 系列用户的系统更新，带来性能优化与新 UI 特性。",
+      "link": "https://9to5google.com/2026/09/28/samsung-galaxy-s26-one-ui-9-android-17-us-rollout-widens/",
+      "comment": "提升用户体验，巩固 Android 生态。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Nothing Headphone (1) Pro 头戴式耳机发布",
+      "summary": "采用三单元驱动与 46dB 主动降噪，售价 399 美元，提供深度音质调校。",
+      "link": "https://www.ithome.com/1/008/113.htm",
+      "comment": "在高端耳机市场提供性价比选项。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "AI 推理时代 CPU 重塑算力版图",
+      "summary": "在大模型训练算力竞争后，CPU 正在通过高效推理加速器抢占 AI 推理市场。",
+      "link": "https://www.leiphone.com/category/chipdesign/v7Oa5s4M9TfJpegJ.html",
+      "comment": "对传统芯片厂商是新增长点。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Anthropic IPO 招股书披露巨额算力投入",
+      "summary": "公司计划在 AI 基础设施上投入数十亿美元，强调安全与可控性。",
+      "link": "https://www.ithome.com/1/008/082.htm",
+      "comment": "算力成本高企，行业进入资本密集期。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 29.3
+}
