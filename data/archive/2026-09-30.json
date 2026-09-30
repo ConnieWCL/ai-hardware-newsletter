@@ -1,0 +1,159 @@
+{
+  "date": "2026-09-30",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate 90首发，开启新一代AI芯片旗舰",
+    "[国内] vivo Y600i首销，搭载第二代骁龙4，性价比突显",
+    "[国外] OpenAI计划IPO前再融资300亿美元，估值1.4万亿美元",
+    "[国外] Apple iPhone Duo折叠机预售开启，开启折叠手机新赛道"
+  ],
+  "sections": [
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate 90正式进店",
+          "summary": "华为Mate 90搭载全新AI芯片，提升算力与功耗效率，定位高端旗舰。",
+          "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "华为继续在AI算力上发力，抢占高端市场。",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "vivo Y600i手机首销",
+          "summary": "配备第二代骁龙4处理器、8000mAh大电池，6GB+256GB版本售价1999元。",
+          "link": "https://www.ithome.com/1/008/562.htm",
+          "comment": "大电池+高配存储，主打续航与性价比。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为WATCH D3正式开售",
+          "summary": "首创轻扰动态血压监测，定位健康管理智能手表。",
+          "link": "https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html",
+          "comment": "在腕戴设备市场压力下，差异化健康功能是突破口。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple首款折叠iPhone Duo预购倒计时",
+          "summary": "美国官网将于10月12日开放预购，用户可提前选择配置。",
+          "link": "https://www.ithome.com/1/008/545.htm",
+          "comment": "折叠手机进入主流，苹果抢先布局。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Rokid二代AI眼镜全球发布",
+          "summary": "新一代AI Glasses更轻、更舒适，搭载升级视觉AI芯片，面向全球市场。",
+          "link": "http://www.leikeji.com/article/79807",
+          "comment": "Rokid出海，展示中国AI硬件的国际竞争力。",
+          "source": "leikeji",
+          "region": "国内"
+        },
+        {
+          "title": "EliseAI完成3.5亿美元融资",
+          "summary": "a16z领投，估值升至40亿美元，计划扩充研发与市场团队。",
+          "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+          "comment": "AI对话模型公司加速扩张，招聘需求旺盛。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "OpenAI计划IPO前再融资300亿美元",
+          "summary": "融资规模约合2016.47亿元人民币，估值约1.4万亿美元。",
+          "link": "https://www.ithome.com/1/008/558.htm",
+          "comment": "巨额融资暗示AI算力需求将持续增长。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Final Cut Camera 2.4更新",
+          "summary": "新增对iPhone 18 Pro可变光圈的支持，提升移动视频创作能力。",
+          "link": "https://www.ithome.com/1/008/520.htm",
+          "comment": "软硬件协同提升AI视频处理能力。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为Mate 90正式进店",
+      "summary": "华为Mate 90搭载全新AI芯片，提升算力与功耗效率，定位高端旗舰。",
+      "link": "https://www.ifanr.com/1682554?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "华为继续在AI算力上发力，抢占高端市场。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "vivo Y600i手机首销",
+      "summary": "配备第二代骁龙4处理器、8000mAh大电池，6GB+256GB版本售价1999元。",
+      "link": "https://www.ithome.com/1/008/562.htm",
+      "comment": "大电池+高配存储，主打续航与性价比。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为WATCH D3正式开售",
+      "summary": "首创轻扰动态血压监测，定位健康管理智能手表。",
+      "link": "https://www.leiphone.com/category/industrynews/ToizySV6K6ALZWLQ.html",
+      "comment": "在腕戴设备市场压力下，差异化健康功能是突破口。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Apple首款折叠iPhone Duo预购倒计时",
+      "summary": "美国官网将于10月12日开放预购，用户可提前选择配置。",
+      "link": "https://www.ithome.com/1/008/545.htm",
+      "comment": "折叠手机进入主流，苹果抢先布局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Rokid二代AI眼镜全球发布",
+      "summary": "新一代AI Glasses更轻、更舒适，搭载升级视觉AI芯片，面向全球市场。",
+      "link": "http://www.leikeji.com/article/79807",
+      "comment": "Rokid出海，展示中国AI硬件的国际竞争力。",
+      "source": "leikeji",
+      "region": "国内"
+    },
+    {
+      "title": "EliseAI完成3.5亿美元融资",
+      "summary": "a16z领投，估值升至40亿美元，计划扩充研发与市场团队。",
+      "link": "https://techcrunch.com/2026/09/29/a16z-backed-eliseai-raises-350m-doubles-valuation-to-4b/",
+      "comment": "AI对话模型公司加速扩张，招聘需求旺盛。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI计划IPO前再融资300亿美元",
+      "summary": "融资规模约合2016.47亿元人民币，估值约1.4万亿美元。",
+      "link": "https://www.ithome.com/1/008/558.htm",
+      "comment": "巨额融资暗示AI算力需求将持续增长。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Final Cut Camera 2.4更新",
+      "summary": "新增对iPhone 18 Pro可变光圈的支持，提升移动视频创作能力。",
+      "link": "https://www.ithome.com/1/008/520.htm",
+      "comment": "软硬件协同提升AI视频处理能力。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 54.6
+}
