@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-01",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate 90率先亮相，开启全新AI加速芯片布局。",
+    "[国外] Samsung Galaxy Z Fold 7 今日降价至普通手机水平，折叠屏进入大众化阶段。",
+    "[国外] Apple iPhone 18 Pro/Max 首次实现屏下Face ID，提升面部识别安全性。",
+    "[国外] Samsung SmartTag 3 与 iPhone 兼容但未支持 Android Find Hub，生态碎片化仍在。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Samsung Galaxy SmartTag 3 追踪器",
+          "summary": "体积缩小35%，续航最长790天，支持iPhone但不兼容Android Find Hub，定位为AirTag竞争产品。",
+          "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-smarttag-3-works-with-iphones-but-not-android-find-hub/",
+          "comment": "生态兼容性不足或限制其在Android用户中的渗透。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 智能眼镜（Smart Glasses）",
+          "summary": "通过FCC认证，预计今年秋季上市，主打AR显示与AI助手功能，标志三星进军可穿戴AI硬件。",
+          "link": "https://www.androidauthority.com/samsungs-smart-glasses-stop-by-fcc-3717548/",
+          "comment": "首次获得监管批准，产品能否突破Apple Vision Pro仍待观察。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Amazon 送货员智能眼镜",
+          "summary": "新款智能眼镜将在配送过程中持续拍照，引发隐私争议，技术聚焦实时视觉识别与路径优化。",
+          "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+          "comment": "商业化场景明确，但需平衡隐私合规。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate 90 正式亮相",
+          "summary": "搭载全新AI加速芯片，采用全新摄像模组与高刷新率屏幕，定位高端旗舰，预售价格约6999元。",
+          "link": "http://www.leikeji.com/article/79792",
+          "comment": "华为继续在高端市场布局，抢占AI算力先机。",
+          "source": "leikeji",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy Z Fold 7 降价",
+          "summary": "限时降价至普通智能手机水平，推动折叠屏进入大众市场，官方未公布具体折扣幅度。",
+          "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-z-fold-7-is-down-to-the-price-of-a-normal-smartphone-today-only/",
+          "comment": "价格亲民或加速折叠屏渗透率。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPhone 18 Pro/Max 屏下Face ID",
+          "summary": "首次将Face ID模组嵌入屏幕下方，实现整块玻璃设计，提升美观与防护。",
+          "link": "https://www.ithome.com/1/008/964.htm",
+          "comment": "技术突破为高端机型提供差异化卖点。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPad Mini 8 规格曝光",
+          "summary": "配备A20 Pro芯片、OLED屏、12GB内存并首次支持IP防水，定位轻薄高性能平板。",
+          "link": "https://www.ithome.com/1/008/958.htm",
+          "comment": "提升性能的同时保持便携，竞争对手需关注。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple Music Android 7.0 测试版采用液态玻璃设计",
+          "summary": "苹果首度在Android平台推出Apple Music，加入“液态玻璃”UI，展示跨平台设计趋势。",
+          "link": "https://www.ithome.com/1/008/962.htm",
+          "comment": "标志Apple在Android生态的软硬件渗透。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "AgnesCode 免费模型在芯片层面实现算子优化",
+          "summary": "在部分芯片上跑出更高性能，免费模型可完成专业级交付，挑战商业化AI模型收费模式。",
+          "link": "https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html",
+          "comment": "开源算子优化或降低AI硬件门槛。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Samsung Galaxy SmartTag 3 追踪器",
+      "summary": "体积缩小35%，续航最长790天，支持iPhone但不兼容Android Find Hub，定位为AirTag竞争产品。",
+      "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-smarttag-3-works-with-iphones-but-not-android-find-hub/",
+      "comment": "生态兼容性不足或限制其在Android用户中的渗透。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 智能眼镜（Smart Glasses）",
+      "summary": "通过FCC认证，预计今年秋季上市，主打AR显示与AI助手功能，标志三星进军可穿戴AI硬件。",
+      "link": "https://www.androidauthority.com/samsungs-smart-glasses-stop-by-fcc-3717548/",
+      "comment": "首次获得监管批准，产品能否突破Apple Vision Pro仍待观察。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Amazon 送货员智能眼镜",
+      "summary": "新款智能眼镜将在配送过程中持续拍照，引发隐私争议，技术聚焦实时视觉识别与路径优化。",
+      "link": "https://www.theverge.com/tech/1002766/amazon-delivery-driver-smart-glasses-privacy",
+      "comment": "商业化场景明确，但需平衡隐私合规。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate 90 正式亮相",
+      "summary": "搭载全新AI加速芯片，采用全新摄像模组与高刷新率屏幕，定位高端旗舰，预售价格约6999元。",
+      "link": "http://www.leikeji.com/article/79792",
+      "comment": "华为继续在高端市场布局，抢占AI算力先机。",
+      "source": "leikeji",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 7 降价",
+      "summary": "限时降价至普通智能手机水平，推动折叠屏进入大众市场，官方未公布具体折扣幅度。",
+      "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-z-fold-7-is-down-to-the-price-of-a-normal-smartphone-today-only/",
+      "comment": "价格亲民或加速折叠屏渗透率。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone 18 Pro/Max 屏下Face ID",
+      "summary": "首次将Face ID模组嵌入屏幕下方，实现整块玻璃设计，提升美观与防护。",
+      "link": "https://www.ithome.com/1/008/964.htm",
+      "comment": "技术突破为高端机型提供差异化卖点。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPad Mini 8 规格曝光",
+      "summary": "配备A20 Pro芯片、OLED屏、12GB内存并首次支持IP防水，定位轻薄高性能平板。",
+      "link": "https://www.ithome.com/1/008/958.htm",
+      "comment": "提升性能的同时保持便携，竞争对手需关注。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Music Android 7.0 测试版采用液态玻璃设计",
+      "summary": "苹果首度在Android平台推出Apple Music，加入“液态玻璃”UI，展示跨平台设计趋势。",
+      "link": "https://www.ithome.com/1/008/962.htm",
+      "comment": "标志Apple在Android生态的软硬件渗透。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "AgnesCode 免费模型在芯片层面实现算子优化",
+      "summary": "在部分芯片上跑出更高性能，免费模型可完成专业级交付，挑战商业化AI模型收费模式。",
+      "link": "https://www.leiphone.com/category/yanxishe/Du0MZiWR62J4pzzr.html",
+      "comment": "开源算子优化或降低AI硬件门槛。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 30.2
+}
