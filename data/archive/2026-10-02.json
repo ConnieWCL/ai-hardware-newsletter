@@ -1,0 +1,191 @@
+{
+  "date": "2026-10-02",
+  "mode": "llm",
+  "candidates": 90,
+  "overview": [
+    "[国内] 华为Mate90系列发布，起售价5999元，搭载麒麟9030旗舰τ芯片。",
+    "[国内] 华为Mate XT 2三折叠手机获HarmonyOS 7.0系统升级，新增3D空间壁纸和多人通信共享。",
+    "[国内] 奇安信盘古石取证R8.8.0适配Android 17，支持微信已删除多媒体碎片重组。",
+    "[国内] 一加16首度搭载三频GPS+四频北斗，提升定位精度。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 折叠手机",
+          "summary": "首款折叠iPhone，配备可更换保护膜以减轻折痕，定位高端影像市场。",
+          "link": "https://www.ithome.com/1/009/202.htm",
+          "comment": "折叠屏手机进入Apple阵营，标志AI硬件向消费级渗透。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy SmartTag 3",
+          "summary": "新一代AirTag竞争产品，支持iPhone，续航更长，外形升级。",
+          "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-smarttag-3-works-with-iphones-but-not-android-find-hub/",
+          "comment": "生态互通仍是Android硬件的短板。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Android XR 智能眼镜",
+          "summary": "首款Android XR眼镜获FCC批准，预计2026年11月发布，聚焦AI视觉交互。",
+          "link": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/",
+          "comment": "AI+XR组合或开启新一轮企业级市场竞争。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Clip‑on 真无线耳机",
+          "summary": "首款夹式耳机在韩国上市，后续将全球推广，主打轻便与低功耗。",
+          "link": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+          "comment": "硬件形态创新提升可穿戴市场多样性。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold7 降价",
+          "summary": "折叠旗舰今日限时降价至普通智能手机价位，推动折叠屏普及。",
+          "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-z-fold-7-is-down-to-the-price-of-a-normal-smartphone-today-only/",
+          "comment": "价格亲民是折叠屏突破市场的关键。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate90 系列发布",
+          "summary": "Mate90起售价5999元，Mate90 Pro 6999元，搭载麒麟9030 τ 芯片，主打全场景AI算力。",
+          "link": "http://www.geekpark.net/news/372069",
+          "comment": "高端芯片自研提升供应链安全。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "华为 Mate XT 2 系统升级",
+          "summary": "HarmonyOS 7.0.0.109 SP8 为三折叠手机新增3D壁纸和多人通信共享功能。",
+          "link": "https://www.ithome.com/1/009/160.htm",
+          "comment": "系统层面强化折叠交互体验。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "奇安信盘古石取证适配 Android 17",
+          "summary": "R8.8.0 版本实现 Android 17 提权适配，新增对微信已删除多媒体碎片的重组能力。",
+          "link": "https://www.ithome.com/1/009/165.htm",
+          "comment": "取证技术升级助力移动安全生态。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加 16 首次搭载三频 GPS+四频北斗",
+          "summary": "提升定位速度与精度，10 月 12 日正式发布。",
+          "link": "https://www.ithome.com/1/009/225.htm",
+          "comment": "高精度定位为AR/车联网提供基础。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "华为与赛力斯达成新五年合作",
+          "summary": "双方将在智能座舱与AI芯片领域深度合作，暗示华为将扩招硬件研发团队。",
+          "link": "https://www.ithome.com/1/009/201.htm",
+          "comment": "合作规模扩大，招聘需求随之上升。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Apple iPhone Duo 折叠手机",
+      "summary": "首款折叠iPhone，配备可更换保护膜以减轻折痕，定位高端影像市场。",
+      "link": "https://www.ithome.com/1/009/202.htm",
+      "comment": "折叠屏手机进入Apple阵营，标志AI硬件向消费级渗透。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy SmartTag 3",
+      "summary": "新一代AirTag竞争产品，支持iPhone，续航更长，外形升级。",
+      "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-smarttag-3-works-with-iphones-but-not-android-find-hub/",
+      "comment": "生态互通仍是Android硬件的短板。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Android XR 智能眼镜",
+      "summary": "首款Android XR眼镜获FCC批准，预计2026年11月发布，聚焦AI视觉交互。",
+      "link": "https://9to5google.com/2026/10/01/samsung-android-xr-glasses-release-date-report/",
+      "comment": "AI+XR组合或开启新一轮企业级市场竞争。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Clip‑on 真无线耳机",
+      "summary": "首款夹式耳机在韩国上市，后续将全球推广，主打轻便与低功耗。",
+      "link": "https://www.engadget.com/2275187/samsung-launches-its-first-clip-on-earbuds-in-south-korea/",
+      "comment": "硬件形态创新提升可穿戴市场多样性。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold7 降价",
+      "summary": "折叠旗舰今日限时降价至普通智能手机价位，推动折叠屏普及。",
+      "link": "https://9to5google.com/2026/09/30/samsungs-galaxy-z-fold-7-is-down-to-the-price-of-a-normal-smartphone-today-only/",
+      "comment": "价格亲民是折叠屏突破市场的关键。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate90 系列发布",
+      "summary": "Mate90起售价5999元，Mate90 Pro 6999元，搭载麒麟9030 τ 芯片，主打全场景AI算力。",
+      "link": "http://www.geekpark.net/news/372069",
+      "comment": "高端芯片自研提升供应链安全。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "华为 Mate XT 2 系统升级",
+      "summary": "HarmonyOS 7.0.0.109 SP8 为三折叠手机新增3D壁纸和多人通信共享功能。",
+      "link": "https://www.ithome.com/1/009/160.htm",
+      "comment": "系统层面强化折叠交互体验。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "奇安信盘古石取证适配 Android 17",
+      "summary": "R8.8.0 版本实现 Android 17 提权适配，新增对微信已删除多媒体碎片的重组能力。",
+      "link": "https://www.ithome.com/1/009/165.htm",
+      "comment": "取证技术升级助力移动安全生态。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加 16 首次搭载三频 GPS+四频北斗",
+      "summary": "提升定位速度与精度，10 月 12 日正式发布。",
+      "link": "https://www.ithome.com/1/009/225.htm",
+      "comment": "高精度定位为AR/车联网提供基础。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为与赛力斯达成新五年合作",
+      "summary": "双方将在智能座舱与AI芯片领域深度合作，暗示华为将扩招硬件研发团队。",
+      "link": "https://www.ithome.com/1/009/201.htm",
+      "comment": "合作规模扩大，招聘需求随之上升。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 21.8
+}
