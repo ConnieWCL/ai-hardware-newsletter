@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-03",
+  "mode": "llm",
+  "candidates": 64,
+  "overview": [
+    "[国内] 华为 Mate90 系列发布，起售价 5999 元，继续布局高端旗舰。",
+    "[国内] 美人形 AI 机器人跳入熔炉，展示高温环境下的 AI 软硬件融合。",
+    "[国内] Vivo X Fold 6 将以强摄为卖点全球发布，摆脱宽折叠趋势。",
+    "[国外] 苹果首款触屏 MacBook 预计十月发布，标志笔记本形态升级。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "美人形机器人跳入熔炉，致敬《终结者 2》",
+          "summary": "AI 机器人在高温熔炉中演示，展示极端环境下的感知与控制能力，凸显软硬件一体化趋势。",
+          "link": "http://www.geekpark.net/news/372069",
+          "comment": "对 AI 机器人可靠性和安全性提出新挑战。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Vivo X Fold 6 全球发布",
+          "summary": "Vivo X Fold 6 采用非宽折叠形态，主打强摄像头组合，定位高端旗舰。",
+          "link": "https://9to5google.com/2026/10/01/vivo-x-fold-6-skips-the-wide-form-factor-but-will-launch-globally-with-strong-cameras/",
+          "comment": "摆脱宽折叠趋势，抢占高端摄像市场。",
+          "source": "9to5google",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "三星 Galaxy Z Fold9 目标展开厚度 3.9mm",
+          "summary": "为对抗 iPhone Duo，三星设定 Fold9 展开后厚度仅 3.9mm，进一步压缩折叠体积。",
+          "link": "https://www.ithome.com/1/009/405.htm",
+          "comment": "极致薄型是下一代折叠手机的关键竞争点。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Buds On 开放式耳机正式发布",
+          "summary": "三星首款真正开放式耳机，计划于十月末上市，主打舒适与通透音效。",
+          "link": "https://9to5google.com/2026/10/01/samsung-galaxy-buds-on-open-ear-launch/",
+          "comment": "打开耳机市场新细分，可能抢占运动场景。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 首款 Googlebook 搭载 Snapdragon X Elite",
+          "summary": "Googlebook XE940SXA 采用高通 Snapdragon X Elite 处理器 + 16GB 内存，跑分表现突出。",
+          "link": "https://www.ithome.com/1/009/408.htm",
+          "comment": "高性能笔记本进入 ChromeOS 市场。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple homeOS 前瞻：整合 iOS / iPadOS / watchOS",
+          "summary": "Apple 正在研发 homeOS，融合多平台特性，强化 Siri AI 交互，预计 2027 年推出。",
+          "link": "https://www.ithome.com/1/009/380.htm",
+          "comment": "统一生态有望提升用户粘性。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星 Exynos 2700 已量产，性能提升约 9.5%",
+          "summary": "Exynos 2700 将用于 Galaxy S27 系列，产量比前代提升 10%，多核性能超高通第六代骁龙 8 超级至尊版约 9.5%。",
+          "link": "https://www.ithome.com/1/009/393.htm",
+          "comment": "提升自研芯片竞争力，削弱高通依赖。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "OpenAI 自研 Jalapeño ASIC 量产，搭配 AMD EPYC Turian",
+          "summary": "OpenAI 采用自研 AI 芯片 Jalapeño 与 AMD EPYC Turian 组合，实现大规模算力部署。",
+          "link": "https://www.ithome.com/1/009/430.htm",
+          "comment": "显示 AI 领域芯片自研趋势加速。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "美人形机器人跳入熔炉，致敬《终结者 2》",
+      "summary": "AI 机器人在高温熔炉中演示，展示极端环境下的感知与控制能力，凸显软硬件一体化趋势。",
+      "link": "http://www.geekpark.net/news/372069",
+      "comment": "对 AI 机器人可靠性和安全性提出新挑战。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "Vivo X Fold 6 全球发布",
+      "summary": "Vivo X Fold 6 采用非宽折叠形态，主打强摄像头组合，定位高端旗舰。",
+      "link": "https://9to5google.com/2026/10/01/vivo-x-fold-6-skips-the-wide-form-factor-but-will-launch-globally-with-strong-cameras/",
+      "comment": "摆脱宽折叠趋势，抢占高端摄像市场。",
+      "source": "9to5google",
+      "region": "国内"
+    },
+    {
+      "title": "三星 Galaxy Z Fold9 目标展开厚度 3.9mm",
+      "summary": "为对抗 iPhone Duo，三星设定 Fold9 展开后厚度仅 3.9mm，进一步压缩折叠体积。",
+      "link": "https://www.ithome.com/1/009/405.htm",
+      "comment": "极致薄型是下一代折叠手机的关键竞争点。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Buds On 开放式耳机正式发布",
+      "summary": "三星首款真正开放式耳机，计划于十月末上市，主打舒适与通透音效。",
+      "link": "https://9to5google.com/2026/10/01/samsung-galaxy-buds-on-open-ear-launch/",
+      "comment": "打开耳机市场新细分，可能抢占运动场景。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 首款 Googlebook 搭载 Snapdragon X Elite",
+      "summary": "Googlebook XE940SXA 采用高通 Snapdragon X Elite 处理器 + 16GB 内存，跑分表现突出。",
+      "link": "https://www.ithome.com/1/009/408.htm",
+      "comment": "高性能笔记本进入 ChromeOS 市场。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple homeOS 前瞻：整合 iOS / iPadOS / watchOS",
+      "summary": "Apple 正在研发 homeOS，融合多平台特性，强化 Siri AI 交互，预计 2027 年推出。",
+      "link": "https://www.ithome.com/1/009/380.htm",
+      "comment": "统一生态有望提升用户粘性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Exynos 2700 已量产，性能提升约 9.5%",
+      "summary": "Exynos 2700 将用于 Galaxy S27 系列，产量比前代提升 10%，多核性能超高通第六代骁龙 8 超级至尊版约 9.5%。",
+      "link": "https://www.ithome.com/1/009/393.htm",
+      "comment": "提升自研芯片竞争力，削弱高通依赖。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 自研 Jalapeño ASIC 量产，搭配 AMD EPYC Turian",
+      "summary": "OpenAI 采用自研 AI 芯片 Jalapeño 与 AMD EPYC Turian 组合，实现大规模算力部署。",
+      "link": "https://www.ithome.com/1/009/430.htm",
+      "comment": "显示 AI 领域芯片自研趋势加速。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 30.1
+}
