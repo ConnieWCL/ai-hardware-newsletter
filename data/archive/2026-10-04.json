@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-04",
+  "mode": "llm",
+  "candidates": 52,
+  "overview": [
+    "[国内] 华为Mate 90 Pro Max发布，搭载麒麟9050 Pro，性能媲美骁龙8至尊版。",
+    "[国内] 神工·须弥·脑立方3克超小脑机接口系统发布，体积不足2立方厘米。",
+    "[国外] 苹果MacBook Pro搭载M4 Pro运行AI模型，预填充性能提升44%。",
+    "[国外] 特斯拉AI5芯片内存升级至96GB，提升算力与带宽。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "神工·须弥·脑立方无创脑机一体化系统",
+          "summary": "全球最小的非侵入式脑机系统，重量仅3克，体积不足2立方厘米，适用于高精度脑机交互。",
+          "link": "https://www.ithome.com/1/009/617.htm",
+          "comment": "为AI交互提供低功耗、便携的硬件平台，具备潜在的医疗与消费场景。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate 90 Pro Max 性能解禁",
+          "summary": "搭载首款逻辑折叠τ芯片麒麟9050 Pro，部分游戏能效优于第五代骁龙8至尊版。",
+          "link": "https://www.ithome.com/1/009/580.htm",
+          "comment": "展示华为在高端AI算力与能效平衡上的突破。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果MacBook Pro外接iPhone 17 Pro Max运行AI模型",
+          "summary": "搭载M4 Pro芯片的MacBook Pro配24GB统一内存，预填充速度提升44%，展示移动端与PC端协同AI算力。",
+          "link": "https://www.ithome.com/1/009/586.htm",
+          "comment": "凸显Apple在端侧AI加速生态的布局。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "特斯拉AI5芯片内存升级至96GB",
+          "summary": "AI5芯片从72GB DDR5提升至96GB，以支撑更大模型和更高并行度。",
+          "link": "https://www.ithome.com/1/009/584.htm",
+          "comment": "显示特斯拉在自动驾驶AI算力上的持续投入。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Meta开源Muse AI硬件代码",
+          "summary": "Meta发布Muse AI挂件的开源代码，帮助开发者自制AI智能配件。",
+          "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+          "comment": "推动AI硬件生态的开放与创新。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "苹果限制Mac磁盘访问以降低AI代理风险",
+          "summary": "Apple将在Mac上新增全盘访问限制，防止AI代理滥用系统权限。",
+          "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+          "comment": "体现AI安全治理的系统级措施。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo对比iPad Mini评测",
+          "summary": "iPhone Duo提供平板级大屏体验，折叠后仍保持手机便携性。",
+          "link": "https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/",
+          "comment": "折叠形态的AI交互潜力值得关注。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy S26 FE降价发布",
+          "summary": "新款S26 FE在亚马逊首降价，配备6.7英寸AMOLED、120Hz刷新率及Galaxy AI功能。",
+          "link": "https://www.androidauthority.com/deal-samsung-galaxy-s26-fe-3718767/",
+          "comment": "AI功能在中端市场的渗透加速。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为Mate 90系列搭载韬定律芯片",
+          "summary": "全系采用自研韬定律芯片，强化AI推理与能效表现。",
+          "link": "https://www.ithome.com/1/009/539.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "神工·须弥·脑立方无创脑机一体化系统",
+      "summary": "全球最小的非侵入式脑机系统，重量仅3克，体积不足2立方厘米，适用于高精度脑机交互。",
+      "link": "https://www.ithome.com/1/009/617.htm",
+      "comment": "为AI交互提供低功耗、便携的硬件平台，具备潜在的医疗与消费场景。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为Mate 90 Pro Max 性能解禁",
+      "summary": "搭载首款逻辑折叠τ芯片麒麟9050 Pro，部分游戏能效优于第五代骁龙8至尊版。",
+      "link": "https://www.ithome.com/1/009/580.htm",
+      "comment": "展示华为在高端AI算力与能效平衡上的突破。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果MacBook Pro外接iPhone 17 Pro Max运行AI模型",
+      "summary": "搭载M4 Pro芯片的MacBook Pro配24GB统一内存，预填充速度提升44%，展示移动端与PC端协同AI算力。",
+      "link": "https://www.ithome.com/1/009/586.htm",
+      "comment": "凸显Apple在端侧AI加速生态的布局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "特斯拉AI5芯片内存升级至96GB",
+      "summary": "AI5芯片从72GB DDR5提升至96GB，以支撑更大模型和更高并行度。",
+      "link": "https://www.ithome.com/1/009/584.htm",
+      "comment": "显示特斯拉在自动驾驶AI算力上的持续投入。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Meta开源Muse AI硬件代码",
+      "summary": "Meta发布Muse AI挂件的开源代码，帮助开发者自制AI智能配件。",
+      "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+      "comment": "推动AI硬件生态的开放与创新。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "苹果限制Mac磁盘访问以降低AI代理风险",
+      "summary": "Apple将在Mac上新增全盘访问限制，防止AI代理滥用系统权限。",
+      "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+      "comment": "体现AI安全治理的系统级措施。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo对比iPad Mini评测",
+      "summary": "iPhone Duo提供平板级大屏体验，折叠后仍保持手机便携性。",
+      "link": "https://www.engadget.com/2273344/iphone-duo-vs-ipad-mini-which-right-comparison/",
+      "comment": "折叠形态的AI交互潜力值得关注。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy S26 FE降价发布",
+      "summary": "新款S26 FE在亚马逊首降价，配备6.7英寸AMOLED、120Hz刷新率及Galaxy AI功能。",
+      "link": "https://www.androidauthority.com/deal-samsung-galaxy-s26-fe-3718767/",
+      "comment": "AI功能在中端市场的渗透加速。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate 90系列搭载韬定律芯片",
+      "summary": "全系采用自研韬定律芯片，强化AI推理与能效表现。",
+      "link": "https://www.ithome.com/1/009/539.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 23.0
+}
