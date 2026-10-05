@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-05",
+  "mode": "llm",
+  "candidates": 50,
+  "overview": [
+    "[国内] 华为麒麟 9050 Pro 采用双裸片垂直堆叠，晶体管密度提升55%，为高性能AI算力奠基。",
+    "[国内] iQOO Pad Ultra 搭载第六代骁龙 8 超级至尊版，售价 5999 元起，定位高端轻薄平板。",
+    "[国内] vivo Y600k Turbo 采用骁龙 7s，12GB+256GB 组合仅售 2799 元，主打性价比。",
+    "[国内] FieldAI 融资 7 亿美元，估值 100 亿美元，计划扩招研发团队，聚焦机器人通用大脑。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iQOO Pad Ultra 小平板开售",
+          "summary": "搭载第六代骁龙 8 超级至尊版，12GB+256GB 版售价 5999 元起，定位高性能轻薄平板。",
+          "link": "https://www.ithome.com/1/009/760.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo Y600k Turbo 手机开售",
+          "summary": "配备第四代骁龙 7s，12GB+256GB 组合售价 2799 元，提供电光蓝等三色选择。",
+          "link": "https://www.ithome.com/1/009/766.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "联想来酷 N27 Pro 一体台式机",
+          "summary": "搭载酷睿 i5-13420H，16GB+512GB 起售价 4499 元，面向轻度办公与内容创作。",
+          "link": "https://www.ithome.com/1/009/785.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Fitbit Edge 健身手环曝光",
+          "summary": "续航七天，内置 GPS 与高度计，定位中端健康手环市场。",
+          "link": "https://www.ithome.com/1/009/767.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "AirPods Pro 3 促销价 179 美元",
+          "summary": "Prime Day 限时折扣，提供主动降噪与空间音频功能。",
+          "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "MacBook Air M5 降价 200 美元",
+          "summary": "13 寸型号首次降价，帮助用户抵消 6 月涨价的影响。",
+          "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "iPad Mini 再次降价",
+          "summary": "在 Prime Day 期间提供优惠，吸引教育与轻度创作用户。",
+          "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Meta 开源 Muse Gadgets 项目",
+          "summary": "提供基于 ESP32 与树莓派的硬件平台，开发者可为个人 AI 智能体定制硬件。",
+          "link": "https://www.ithome.com/1/009/743.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为麒麟 9050 Pro 裸片显微照首曝",
+          "summary": "双裸片垂直堆叠，晶体管密度提升 55%，面积小于前代，提升 AI 计算效率。",
+          "link": "https://www.ithome.com/1/009/739.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "台积电先进晶圆价格 2027Q1 再上调 6%~8%",
+          "summary": "因制造成本与电力费用上涨，最先进制程晶圆价格将再次上调。",
+          "link": "https://www.ithome.com/1/009/740.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "FieldAI 融资 7 亿美元",
+          "summary": "估值 100 亿美元，计划扩招研发团队，聚焦机器人通用大脑与 AI 计算平台。",
+          "link": "https://www.ithome.com/1/009/746.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "iQOO Pad Ultra 小平板开售",
+      "summary": "搭载第六代骁龙 8 超级至尊版，12GB+256GB 版售价 5999 元起，定位高性能轻薄平板。",
+      "link": "https://www.ithome.com/1/009/760.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo Y600k Turbo 手机开售",
+      "summary": "配备第四代骁龙 7s，12GB+256GB 组合售价 2799 元，提供电光蓝等三色选择。",
+      "link": "https://www.ithome.com/1/009/766.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "联想来酷 N27 Pro 一体台式机",
+      "summary": "搭载酷睿 i5-13420H，16GB+512GB 起售价 4499 元，面向轻度办公与内容创作。",
+      "link": "https://www.ithome.com/1/009/785.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Fitbit Edge 健身手环曝光",
+      "summary": "续航七天，内置 GPS 与高度计，定位中端健康手环市场。",
+      "link": "https://www.ithome.com/1/009/767.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "AirPods Pro 3 促销价 179 美元",
+      "summary": "Prime Day 限时折扣，提供主动降噪与空间音频功能。",
+      "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "MacBook Air M5 降价 200 美元",
+      "summary": "13 寸型号首次降价，帮助用户抵消 6 月涨价的影响。",
+      "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "iPad Mini 再次降价",
+      "summary": "在 Prime Day 期间提供优惠，吸引教育与轻度创作用户。",
+      "link": "https://www.theverge.com/gadgets/1000323/apple-ipad-mini-amazon-prime-big-deal-days-sale",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Meta 开源 Muse Gadgets 项目",
+      "summary": "提供基于 ESP32 与树莓派的硬件平台，开发者可为个人 AI 智能体定制硬件。",
+      "link": "https://www.ithome.com/1/009/743.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为麒麟 9050 Pro 裸片显微照首曝",
+      "summary": "双裸片垂直堆叠，晶体管密度提升 55%，面积小于前代，提升 AI 计算效率。",
+      "link": "https://www.ithome.com/1/009/739.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "台积电先进晶圆价格 2027Q1 再上调 6%~8%",
+      "summary": "因制造成本与电力费用上涨，最先进制程晶圆价格将再次上调。",
+      "link": "https://www.ithome.com/1/009/740.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "FieldAI 融资 7 亿美元",
+      "summary": "估值 100 亿美元，计划扩招研发团队，聚焦机器人通用大脑与 AI 计算平台。",
+      "link": "https://www.ithome.com/1/009/746.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 22.6
+}
