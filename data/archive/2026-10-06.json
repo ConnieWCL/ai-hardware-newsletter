@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-06",
+  "mode": "llm",
+  "candidates": 84,
+  "overview": [
+    "[国内] Honor 首款宽幅折叠手机即将于 1 月发布，抢占高端折叠市场。",
+    "[国外] Apple Vision Pro 将在 visionOS 27.2 Beta 3 中加入 AI 助手功能。",
+    "[国外] Meta 为 Ray‑Ban 智能眼镜推送音频与导航升级。",
+    "[国外] Oura Ring 5 与 Apple Watch Series 12 正在进行健康功能对比。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Apple Vision Pro 27.2 Beta 3 更新",
+          "summary": "Apple 向 Vision Pro 推送 visionOS 27.2 开发者预览版 Beta 3，加入 Siri AI 与 Apple Intelligence 支持，提升沉浸式交互。",
+          "link": "https://www.ithome.com/1/009/907.htm",
+          "comment": "AI 助手将是下一代 AR/VR 交互的核心卖点。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Ray‑Ban 智能眼镜音频与导航升级",
+          "summary": "Meta 为 Ray‑Ban 智能眼镜新增高保真音频播放和转向导航功能，提升日常使用场景的实用性。",
+          "link": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+          "comment": "软硬件迭代加速智能眼镜的消费落地。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Oura Ring 5 与 Apple Watch Series 12 对比评测",
+          "summary": "Engadget 对 Oura Ring 5 与 Apple Watch Series 12 的健康追踪功能、续航与佩戴舒适度进行对比，指出 Ring 在睡眠监测上更专业。",
+          "link": "https://www.engadget.com/2275787/oura-ring-5-vs-apple-watch-series-12-which-smart-health-wearable-right/",
+          "comment": "智能戒指细分市场正在形成。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "挪威拟在敏感区域临时禁用 AI 眼镜",
+          "summary": "挪威政府计划在公园、博物馆等敏感场所临时禁止使用 AI 眼镜，旨在保护隐私与公共安全。",
+          "link": "https://www.ithome.com/1/009/945.htm",
+          "comment": "监管政策将影响智能眼镜的商业化路径。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Honor 首款宽幅折叠手机即将发布",
+          "summary": "荣耀首款宽屏折叠手机计划于 1 月上市，定位高端旗舰，屏幕比例更宽以提升多任务体验。",
+          "link": "https://9to5google.com/2026/10/05/honor-wide-galaxy-z-fold-8-rival-leak/",
+          "comment": "抢占折叠市场空白，挑战三星与苹果。",
+          "source": "9to5google",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 开放应用适配入口",
+          "summary": "Apple 已开放 iPhone Duo 折叠机型的应用提交，开发者可使用 Xcode 27.1 打包，4 月起上架需提供折叠设备截图。",
+          "link": "https://www.ithome.com/1/009/942.htm",
+          "comment": "首款折叠 iPhone 将推动生态适配。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy S27 Ultra 将推出“罗兰紫”配色",
+          "summary": "三星 Galaxy S27 Ultra 除四款基础配色外，新增限量“罗兰紫”，预计仅在官网发售，提升高端差异化。",
+          "link": "https://www.ithome.com/1/009/871.htm",
+          "comment": "配色策略继续强化品牌溢价。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "macOS 27.2 Beta 触控手势代码泄露",
+          "summary": "MacRumors 通过代码分析发现 macOS 27.2 可能为首款触控 MacBook（MacBook Ultra）铺路，支持屏幕手势交互。",
+          "link": "https://www.ithome.com/1/009/918.htm",
+          "comment": "触控笔记本或将成为苹果新硬件形态。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Reflection AI 发布首款开放权重模型 Beam",
+          "summary": "由英伟达投资的 Reflection AI 推出开放权重大模型 Beam，聚焦代码生成与智能体任务，挑战 DeepSeek、Kimi 等国产模型。",
+          "link": "https://www.ithome.com/1/009/932.htm",
+          "comment": "模型开放有助于生态加速。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Etched Fields 融资报价估值超 400 亿美元",
+          "summary": "AI 芯片创业公司 Etched Fields 在完成最新融资后，估值突破 400 亿美元，业内传闻将大规模扩招研发团队。",
+          "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+          "comment": "高估值预示行业对算力需求的持续增长。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Apple Vision Pro 27.2 Beta 3 更新",
+      "summary": "Apple 向 Vision Pro 推送 visionOS 27.2 开发者预览版 Beta 3，加入 Siri AI 与 Apple Intelligence 支持，提升沉浸式交互。",
+      "link": "https://www.ithome.com/1/009/907.htm",
+      "comment": "AI 助手将是下一代 AR/VR 交互的核心卖点。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Ray‑Ban 智能眼镜音频与导航升级",
+      "summary": "Meta 为 Ray‑Ban 智能眼镜新增高保真音频播放和转向导航功能，提升日常使用场景的实用性。",
+      "link": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+      "comment": "软硬件迭代加速智能眼镜的消费落地。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Oura Ring 5 与 Apple Watch Series 12 对比评测",
+      "summary": "Engadget 对 Oura Ring 5 与 Apple Watch Series 12 的健康追踪功能、续航与佩戴舒适度进行对比，指出 Ring 在睡眠监测上更专业。",
+      "link": "https://www.engadget.com/2275787/oura-ring-5-vs-apple-watch-series-12-which-smart-health-wearable-right/",
+      "comment": "智能戒指细分市场正在形成。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "挪威拟在敏感区域临时禁用 AI 眼镜",
+      "summary": "挪威政府计划在公园、博物馆等敏感场所临时禁止使用 AI 眼镜，旨在保护隐私与公共安全。",
+      "link": "https://www.ithome.com/1/009/945.htm",
+      "comment": "监管政策将影响智能眼镜的商业化路径。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Honor 首款宽幅折叠手机即将发布",
+      "summary": "荣耀首款宽屏折叠手机计划于 1 月上市，定位高端旗舰，屏幕比例更宽以提升多任务体验。",
+      "link": "https://9to5google.com/2026/10/05/honor-wide-galaxy-z-fold-8-rival-leak/",
+      "comment": "抢占折叠市场空白，挑战三星与苹果。",
+      "source": "9to5google",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 开放应用适配入口",
+      "summary": "Apple 已开放 iPhone Duo 折叠机型的应用提交，开发者可使用 Xcode 27.1 打包，4 月起上架需提供折叠设备截图。",
+      "link": "https://www.ithome.com/1/009/942.htm",
+      "comment": "首款折叠 iPhone 将推动生态适配。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra 将推出“罗兰紫”配色",
+      "summary": "三星 Galaxy S27 Ultra 除四款基础配色外，新增限量“罗兰紫”，预计仅在官网发售，提升高端差异化。",
+      "link": "https://www.ithome.com/1/009/871.htm",
+      "comment": "配色策略继续强化品牌溢价。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "macOS 27.2 Beta 触控手势代码泄露",
+      "summary": "MacRumors 通过代码分析发现 macOS 27.2 可能为首款触控 MacBook（MacBook Ultra）铺路，支持屏幕手势交互。",
+      "link": "https://www.ithome.com/1/009/918.htm",
+      "comment": "触控笔记本或将成为苹果新硬件形态。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Reflection AI 发布首款开放权重模型 Beam",
+      "summary": "由英伟达投资的 Reflection AI 推出开放权重大模型 Beam，聚焦代码生成与智能体任务，挑战 DeepSeek、Kimi 等国产模型。",
+      "link": "https://www.ithome.com/1/009/932.htm",
+      "comment": "模型开放有助于生态加速。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Etched Fields 融资报价估值超 400 亿美元",
+      "summary": "AI 芯片创业公司 Etched Fields 在完成最新融资后，估值突破 400 亿美元，业内传闻将大规模扩招研发团队。",
+      "link": "https://techcrunch.com/2026/10/05/etched-fields-funding-offers-at-40b-valuation-sources-say/",
+      "comment": "高估值预示行业对算力需求的持续增长。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 22.6
+}
