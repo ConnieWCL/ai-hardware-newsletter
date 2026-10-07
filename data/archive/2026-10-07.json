@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-07",
+  "mode": "llm",
+  "candidates": 98,
+  "overview": [
+    "[国内] 荣耀首款宽幅折叠手机预计1月发布，抢占高端折叠市场。",
+    "[国外] 苹果首款折叠 iPhone Duo 双页 PDF 模式曝光，展示新交互。",
+    "[国外] Meta 为 Ray‑Ban 智能眼镜推出音频与导航升级。",
+    "[国外] XREAL XBX‑A01 Plus AR 眼镜降价至254美元，主打轻量游戏。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta Ray‑Ban 智能眼镜音频与导航升级",
+          "summary": "Meta 为 Ray‑Ban 智能眼镜新增高保真音频和转弯导航功能，提升日常使用体验。",
+          "link": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+          "comment": "增强 AR 眼镜的实用性，吸引通勤用户。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "XREAL XBX‑A01 Plus AR 眼镜降价",
+          "summary": "XREAL 首款轻量 AR 眼镜降至254美元，62克重量，适合移动游戏与视频观看。",
+          "link": "https://www.androidauthority.com/xreal-xbx-a01-plus-ar-glasses-deals-3719395/",
+          "comment": "价格亲民，可能打开消费级 AR 市场。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "RingConn Gen 2 Air 智能戒指特价",
+          "summary": "RingConn Gen 2 Air 降至159美元，提供睡眠、心率、压力监测，无订阅费用。",
+          "link": "https://www.androidauthority.com/ringconn-gen-2-air-deal-3718648/",
+          "comment": "低价入门级健康戒指，竞争激烈。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "荣耀首款宽幅折叠手机即将发布",
+          "summary": "荣耀首款宽幅折叠手机预计1月上市，定位高端旗舰，竞争 Galaxy Z Fold 8 与 iPhone Duo。",
+          "link": "https://9to5google.com/2026/10/05/honor-wide-galaxy-z-fold-8-rival-leak/",
+          "comment": "折叠屏布局向宽屏转变，提升多任务体验。",
+          "source": "9to5google",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款折叠 iPhone Duo 双页 PDF 模式曝光",
+          "summary": "iPhone Duo 在展开状态支持双页布局的 Quick Look 功能，展示折叠后新阅读体验。",
+          "link": "https://www.ithome.com/1/010/144.htm",
+          "comment": "苹果首次进军折叠屏，可能重新定义移动阅读。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iFixit 拆解 Apple Watch Series 12 与 Ultra 4",
+          "summary": "拆解显示 Apple Watch Series 12 电池更易更换，但屏幕仍是维修难点，维修得分 4/10。",
+          "link": "https://www.ithome.com/1/010/128.htm",
+          "comment": "提升可维修性是环保趋势，但仍有改进空间。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Flip 8 Prime Day 降价至 990 美元以下",
+          "summary": "Amazon 在 Prime Day 将 Galaxy Z Flip 8 价格下调 210 美元，创上市最低价。",
+          "link": "https://www.androidauthority.com/deal-samsung-galaxy-z-flip-8-3718618/",
+          "comment": "价格刺激消费，提升折叠屏渗透率。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra 降价 400 美元",
+          "summary": "Prime Day 期间，Galaxy Z Fold 8 Ultra 最高降 400 美元，200MP 摄像头仍是卖点。",
+          "link": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-prime-day-3719375/",
+          "comment": "大幅降价或加速高端折叠用户升级。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung One UI 9 基于 Android 17 推广至新一代旗舰",
+          "summary": "One UI 9 将在 Galaxy S24 Fold、Z Fold 6、Flip 6 等机型上推出，提升系统统一性。",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-galaxy-s24-fold-6-flip-6-rollout-3719569/",
+          "comment": "系统迭代同步硬件更新，保持生态竞争力。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "iOS 27.2 Beta 3 引入 HomeKit 新代码，支持智能家居直接控制",
+          "summary": "iOS 27.2 Beta 3 让 iPhone 18 Pro 等设备可在灵动岛直接操控附近 HomeKit 设备。",
+          "link": "https://www.ithome.com/1/010/142.htm",
+          "comment": "软硬件深度融合，提升 iOS 生态黏性。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "《明日方舟：终末地》将支持 Nvidia RTX Spark 笔记本",
+          "summary": "游戏更新后将兼容即将上市的 RTX Spark 笔记本，展示 RTX AI 加速在移动端的落地。",
+          "link": "https://www.ithome.com/1/010/123.htm",
+          "comment": "国产游戏对高端 GPU 的适配，利好本土硬件生态。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "AI 计算创业公司 Lambda 融资 40 亿美元",
+          "summary": "Nvidia 领投，Lambda 以 145 亿美元估值完成最高 40 亿美元融资，计划 2027 年 IPO。",
+          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "comment": "大额融资预示 AI 计算岗位需求激增，求职者可关注。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta Ray‑Ban 智能眼镜音频与导航升级",
+      "summary": "Meta 为 Ray‑Ban 智能眼镜新增高保真音频和转弯导航功能，提升日常使用体验。",
+      "link": "https://9to5google.com/2026/10/05/meta-ray-ban-audio-turn-by-turn-navigation-updates/",
+      "comment": "增强 AR 眼镜的实用性，吸引通勤用户。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "XREAL XBX‑A01 Plus AR 眼镜降价",
+      "summary": "XREAL 首款轻量 AR 眼镜降至254美元，62克重量，适合移动游戏与视频观看。",
+      "link": "https://www.androidauthority.com/xreal-xbx-a01-plus-ar-glasses-deals-3719395/",
+      "comment": "价格亲民，可能打开消费级 AR 市场。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "RingConn Gen 2 Air 智能戒指特价",
+      "summary": "RingConn Gen 2 Air 降至159美元，提供睡眠、心率、压力监测，无订阅费用。",
+      "link": "https://www.androidauthority.com/ringconn-gen-2-air-deal-3718648/",
+      "comment": "低价入门级健康戒指，竞争激烈。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "荣耀首款宽幅折叠手机即将发布",
+      "summary": "荣耀首款宽幅折叠手机预计1月上市，定位高端旗舰，竞争 Galaxy Z Fold 8 与 iPhone Duo。",
+      "link": "https://9to5google.com/2026/10/05/honor-wide-galaxy-z-fold-8-rival-leak/",
+      "comment": "折叠屏布局向宽屏转变，提升多任务体验。",
+      "source": "9to5google",
+      "region": "国内"
+    },
+    {
+      "title": "苹果首款折叠 iPhone Duo 双页 PDF 模式曝光",
+      "summary": "iPhone Duo 在展开状态支持双页布局的 Quick Look 功能，展示折叠后新阅读体验。",
+      "link": "https://www.ithome.com/1/010/144.htm",
+      "comment": "苹果首次进军折叠屏，可能重新定义移动阅读。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iFixit 拆解 Apple Watch Series 12 与 Ultra 4",
+      "summary": "拆解显示 Apple Watch Series 12 电池更易更换，但屏幕仍是维修难点，维修得分 4/10。",
+      "link": "https://www.ithome.com/1/010/128.htm",
+      "comment": "提升可维修性是环保趋势，但仍有改进空间。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Flip 8 Prime Day 降价至 990 美元以下",
+      "summary": "Amazon 在 Prime Day 将 Galaxy Z Flip 8 价格下调 210 美元，创上市最低价。",
+      "link": "https://www.androidauthority.com/deal-samsung-galaxy-z-flip-8-3718618/",
+      "comment": "价格刺激消费，提升折叠屏渗透率。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Ultra 降价 400 美元",
+      "summary": "Prime Day 期间，Galaxy Z Fold 8 Ultra 最高降 400 美元，200MP 摄像头仍是卖点。",
+      "link": "https://www.androidauthority.com/galaxy-z-fold-8-ultra-prime-day-3719375/",
+      "comment": "大幅降价或加速高端折叠用户升级。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung One UI 9 基于 Android 17 推广至新一代旗舰",
+      "summary": "One UI 9 将在 Galaxy S24 Fold、Z Fold 6、Flip 6 等机型上推出，提升系统统一性。",
+      "link": "https://www.androidauthority.com/samsung-one-ui-9-galaxy-s24-fold-6-flip-6-rollout-3719569/",
+      "comment": "系统迭代同步硬件更新，保持生态竞争力。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "iOS 27.2 Beta 3 引入 HomeKit 新代码，支持智能家居直接控制",
+      "summary": "iOS 27.2 Beta 3 让 iPhone 18 Pro 等设备可在灵动岛直接操控附近 HomeKit 设备。",
+      "link": "https://www.ithome.com/1/010/142.htm",
+      "comment": "软硬件深度融合，提升 iOS 生态黏性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "《明日方舟：终末地》将支持 Nvidia RTX Spark 笔记本",
+      "summary": "游戏更新后将兼容即将上市的 RTX Spark 笔记本，展示 RTX AI 加速在移动端的落地。",
+      "link": "https://www.ithome.com/1/010/123.htm",
+      "comment": "国产游戏对高端 GPU 的适配，利好本土硬件生态。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "AI 计算创业公司 Lambda 融资 40 亿美元",
+      "summary": "Nvidia 领投，Lambda 以 145 亿美元估值完成最高 40 亿美元融资，计划 2027 年 IPO。",
+      "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+      "comment": "大额融资预示 AI 计算岗位需求激增，求职者可关注。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 22.8
+}
