@@ -1,0 +1,233 @@
+{
+  "date": "2026-10-08",
+  "mode": "llm",
+  "candidates": 90,
+  "overview": [
+    "[国内] 余承东称华为基本摆脱美国技术依赖，显示国产供应链韧性。",
+    "[国内] 优必选机器人与一汽-大众合作，推进人形机器人物流落地。",
+    "[国外] XREAL Aura首款Android XR眼镜定价1279美元，定位高端AR/VR混合体验。",
+    "[国外] Pimax推出Crystal Pro VR头显，售价1400美元，主打高保真PC VR。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "优必选人形机器人进军物流",
+          "summary": "优必选与一汽-大众合作，推动具身智能机器人在物流场景的落地与测试，助力智能制造。",
+          "link": "https://www.ithome.com/1/010/376.htm",
+          "comment": "国内机器人企业与车企合作，暗示招聘需求上升。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "XREAL Aura Android XR眼镜发布",
+          "summary": "XREAL首款Android XR眼镜定价1279美元，提供混合现实体验，定位高端专业用户。",
+          "link": "https://9to5google.com/2026/10/07/xreal-aura-with-android-xr-start-at-1279/",
+          "comment": "高价位显示AR/VR市场仍在细分。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Pimax Crystal Pro VR头显上市",
+          "summary": "Pimax推出Crystal Pro，售价1400美元，主打高保真PC VR流媒体，竞争Steam Frame。",
+          "link": "https://roadtovr.com/pimax-steam-frame-crystal-pro-price-release/",
+          "comment": "VR硬件继续向高分辨率高刷新率方向发展。",
+          "source": "roadtovr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为余承东称基本摆脱美国技术依赖",
+          "summary": "华为自2019年起克服困难，已基本摆脱美国技术依赖，提升国产供应链自主性。",
+          "link": "https://www.ithome.com/1/010/361.htm",
+          "comment": "对AI硬件供应链信心提升。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy S25 FE支持Quick Share跨平台",
+          "summary": "Galaxy S25 FE新增Quick Share功能，可直接与iPhone用户共享文件，提升跨平台互通。",
+          "link": "https://www.androidauthority.com/galaxy-s25-fe-quick-share-air-drop-support-3719715/",
+          "comment": "安卓生态继续向iOS靠拢。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung旧款智能手表Prime Day折扣",
+          "summary": "Galaxy Watch 7、Watch 8等旧款智能手表在Prime Day期间大幅降价，吸引预算用户。",
+          "link": "https://9to5google.com/2026/10/06/samsungs-older-smartwatches-heavily-discounted-for-fall-prime-day/",
+          "comment": "老产品降价释放库存，提升品牌渗透。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung调整Galaxy Buds过热指引",
+          "summary": "Samsung可能彻底改变官方对Galaxy Buds过热的使用建议，取消需放置冷却的提示。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-buds-overheating-guidance-apk-teardown-3720077/",
+          "comment": "产品使用指南更新，关注用户安全。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "SK海力士子公司Solidigm筹备赴美IPO",
+          "summary": "Solidigm计划在美国上市，估值最高可达1000亿美元，显示存储芯片行业资本热度。",
+          "link": "https://www.ithome.com/1/010/339.htm",
+          "comment": "存储芯片融资活跃，间接利好AI算力。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "英伟达拟再投10亿美元加码人形机器人Figure",
+          "summary": "英伟达计划向人形机器人企业Figure追加10亿美元投资，强化AI机器人生态。",
+          "link": "https://www.ithome.com/1/010/387.htm",
+          "comment": "AI算力与机器人深度结合，招聘需求上升。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Healthleap获3800万美元融资",
+          "summary": "Healthleap完成3800万美元融资，重点用于AI医疗监测平台研发，预计扩招AI算法工程师。",
+          "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+          "comment": "AI在医疗领域的投入持续增长。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Nous Research估值15亿美元，推出AI商业代理",
+          "summary": "Nous Research完成9亿美元Series B融资，推出面向企业的AI代理，预计招聘产品经理与研发。",
+          "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+          "comment": "AI代理平台快速扩张。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Mecka AI获6000万美元融资",
+          "summary": "Mecka AI获Sequoia领投6000万美元，用于人形机器人运动数据采集与分析，预计招聘数据科学家。",
+          "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+          "comment": "机器人感知数据平台需求上升。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "优必选人形机器人进军物流",
+      "summary": "优必选与一汽-大众合作，推动具身智能机器人在物流场景的落地与测试，助力智能制造。",
+      "link": "https://www.ithome.com/1/010/376.htm",
+      "comment": "国内机器人企业与车企合作，暗示招聘需求上升。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "XREAL Aura Android XR眼镜发布",
+      "summary": "XREAL首款Android XR眼镜定价1279美元，提供混合现实体验，定位高端专业用户。",
+      "link": "https://9to5google.com/2026/10/07/xreal-aura-with-android-xr-start-at-1279/",
+      "comment": "高价位显示AR/VR市场仍在细分。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Pimax Crystal Pro VR头显上市",
+      "summary": "Pimax推出Crystal Pro，售价1400美元，主打高保真PC VR流媒体，竞争Steam Frame。",
+      "link": "https://roadtovr.com/pimax-steam-frame-crystal-pro-price-release/",
+      "comment": "VR硬件继续向高分辨率高刷新率方向发展。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "华为余承东称基本摆脱美国技术依赖",
+      "summary": "华为自2019年起克服困难，已基本摆脱美国技术依赖，提升国产供应链自主性。",
+      "link": "https://www.ithome.com/1/010/361.htm",
+      "comment": "对AI硬件供应链信心提升。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Galaxy S25 FE支持Quick Share跨平台",
+      "summary": "Galaxy S25 FE新增Quick Share功能，可直接与iPhone用户共享文件，提升跨平台互通。",
+      "link": "https://www.androidauthority.com/galaxy-s25-fe-quick-share-air-drop-support-3719715/",
+      "comment": "安卓生态继续向iOS靠拢。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung旧款智能手表Prime Day折扣",
+      "summary": "Galaxy Watch 7、Watch 8等旧款智能手表在Prime Day期间大幅降价，吸引预算用户。",
+      "link": "https://9to5google.com/2026/10/06/samsungs-older-smartwatches-heavily-discounted-for-fall-prime-day/",
+      "comment": "老产品降价释放库存，提升品牌渗透。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung调整Galaxy Buds过热指引",
+      "summary": "Samsung可能彻底改变官方对Galaxy Buds过热的使用建议，取消需放置冷却的提示。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-buds-overheating-guidance-apk-teardown-3720077/",
+      "comment": "产品使用指南更新，关注用户安全。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "SK海力士子公司Solidigm筹备赴美IPO",
+      "summary": "Solidigm计划在美国上市，估值最高可达1000亿美元，显示存储芯片行业资本热度。",
+      "link": "https://www.ithome.com/1/010/339.htm",
+      "comment": "存储芯片融资活跃，间接利好AI算力。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "英伟达拟再投10亿美元加码人形机器人Figure",
+      "summary": "英伟达计划向人形机器人企业Figure追加10亿美元投资，强化AI机器人生态。",
+      "link": "https://www.ithome.com/1/010/387.htm",
+      "comment": "AI算力与机器人深度结合，招聘需求上升。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Healthleap获3800万美元融资",
+      "summary": "Healthleap完成3800万美元融资，重点用于AI医疗监测平台研发，预计扩招AI算法工程师。",
+      "link": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look/",
+      "comment": "AI在医疗领域的投入持续增长。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Nous Research估值15亿美元，推出AI商业代理",
+      "summary": "Nous Research完成9亿美元Series B融资，推出面向企业的AI代理，预计招聘产品经理与研发。",
+      "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+      "comment": "AI代理平台快速扩张。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Mecka AI获6000万美元融资",
+      "summary": "Mecka AI获Sequoia领投6000万美元，用于人形机器人运动数据采集与分析，预计招聘数据科学家。",
+      "link": "https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/",
+      "comment": "机器人感知数据平台需求上升。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.7
+}
