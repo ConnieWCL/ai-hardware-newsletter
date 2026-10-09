@@ -1,0 +1,216 @@
+{
+  "date": "2026-10-09",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate XT 2、 小米18 Fold等折叠屏旗舰集中发布，开启高端折叠竞争。",
+    "[国外] 苹果即将推出触屏MacBook与iPad Mini，Meta发布新一代VR眼镜。",
+    "[国内] 多家AI/智能硬件创业公司完成数千万至数亿美元融资，招聘需求旺盛。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Natura智能戒指",
+          "summary": "售价99美元的智能戒指，可通过指尖召唤AI助手完成任务，定位轻量化可穿戴交互。",
+          "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+          "comment": "低价位切入消费级AI配件市场，具备快速普及潜力。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Meta VR眼镜",
+          "summary": "Meta推出针对新市场的VR眼镜，定位轻量化娱乐，区别于Quest系列的高端定位。",
+          "link": "https://roadtovr.com/meta-vr-glasses-future-of-quest/",
+          "comment": "为Meta打开低价位VR入口，可能带来新一轮硬件迭代。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "Quest 3 手部追踪支持的《Synth Riders》更新",
+          "summary": "《Synth Riders》在Quest 3上加入手部追踪功能，提升沉浸感，展示手势交互的实用性。",
+          "link": "https://www.uploadvr.com/synth-riders-adds-hand-tracking-support-on-quest-3/",
+          "comment": "软件层面的手势支持预示硬件对手部追踪需求的增长。",
+          "source": "uploadvr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate XT 2折叠屏旗舰",
+          "summary": "起售价19999元，搭载自研折叠柔性屏，定位高端商务旗舰。",
+          "link": "http://www.geekpark.net/news/372099",
+          "comment": "华为继续布局高价位折叠市场，抢占商务用户。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "iQOO Neo12手机",
+          "summary": "配备2K+185Hz定制屏、主动散热风扇、骁龙8E5处理器及自研电竞芯片，定位游戏旗舰。",
+          "link": "https://www.ithome.com/1/010/798.htm",
+          "comment": "高刷新率与散热组合凸显国产游戏手机的差异化。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "三星Galaxy Z Fold 8折扣促销",
+          "summary": "最高优惠628美元，折叠屏旗舰继续降价以提升销量。",
+          "link": "https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/",
+          "comment": "价格下调显示折叠屏进入成熟期。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "苹果触屏MacBook与iPad Mini发布",
+          "summary": "预计10月27日发布，MacBook Pro加入触摸屏，iPad Mini同步更新。",
+          "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+          "comment": "触屏笔记本可能开启混合形态电脑新赛道。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "LG智能门锁支持未通电先配对",
+          "summary": "新款门锁与恒温器可在未通电状态下完成HomeKit配对，提升安装便利性。",
+          "link": "https://www.ithome.com/1/010/752.htm",
+          "comment": "软硬件协同的配对方式为智能家居降低门槛。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Windows 11 电池状态小部件测试",
+          "summary": "在Build 26340.9616预览版中加入集中显示笔记本及外设电量的小部件。",
+          "link": "https://www.ithome.com/1/010/835.htm",
+          "comment": "提升跨设备电源管理体验，符合AI边缘计算的功耗需求。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "前腾讯混元技术骨干胡瀚创业获数千万融资",
+          "summary": "聚焦多模态AI，计划融资数千万美元，估值数亿美元，预计扩招研发团队。",
+          "link": "https://www.leiphone.com/category/ai/rMAfd0hlFnaS8F3t.html",
+          "comment": "AI多模态方向仍是资本热点，人才需求旺盛。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "清华背景公司七个月融4亿美元",
+          "summary": "三轮融资累计4亿美元，估值14.2亿美元，团队低调但扩张速度快。",
+          "link": "https://www.leiphone.com/category/industrynews/f0nfLFiAdLXtig24.html",
+          "comment": "大额融资暗示后续大规模招聘与产品落地。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Natura智能戒指",
+      "summary": "售价99美元的智能戒指，可通过指尖召唤AI助手完成任务，定位轻量化可穿戴交互。",
+      "link": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/",
+      "comment": "低价位切入消费级AI配件市场，具备快速普及潜力。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Meta VR眼镜",
+      "summary": "Meta推出针对新市场的VR眼镜，定位轻量化娱乐，区别于Quest系列的高端定位。",
+      "link": "https://roadtovr.com/meta-vr-glasses-future-of-quest/",
+      "comment": "为Meta打开低价位VR入口，可能带来新一轮硬件迭代。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "Quest 3 手部追踪支持的《Synth Riders》更新",
+      "summary": "《Synth Riders》在Quest 3上加入手部追踪功能，提升沉浸感，展示手势交互的实用性。",
+      "link": "https://www.uploadvr.com/synth-riders-adds-hand-tracking-support-on-quest-3/",
+      "comment": "软件层面的手势支持预示硬件对手部追踪需求的增长。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate XT 2折叠屏旗舰",
+      "summary": "起售价19999元，搭载自研折叠柔性屏，定位高端商务旗舰。",
+      "link": "http://www.geekpark.net/news/372099",
+      "comment": "华为继续布局高价位折叠市场，抢占商务用户。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "iQOO Neo12手机",
+      "summary": "配备2K+185Hz定制屏、主动散热风扇、骁龙8E5处理器及自研电竞芯片，定位游戏旗舰。",
+      "link": "https://www.ithome.com/1/010/798.htm",
+      "comment": "高刷新率与散热组合凸显国产游戏手机的差异化。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "三星Galaxy Z Fold 8折扣促销",
+      "summary": "最高优惠628美元，折叠屏旗舰继续降价以提升销量。",
+      "link": "https://9to5google.com/2026/10/08/deals-galaxy-z-fold-8-pixel-11-pro-nothing-headphone-a/",
+      "comment": "价格下调显示折叠屏进入成熟期。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "苹果触屏MacBook与iPad Mini发布",
+      "summary": "预计10月27日发布，MacBook Pro加入触摸屏，iPad Mini同步更新。",
+      "link": "https://www.theverge.com/tech/1008422/apple-macbook-pro-touchscreen-ipad-mini-rumor",
+      "comment": "触屏笔记本可能开启混合形态电脑新赛道。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "LG智能门锁支持未通电先配对",
+      "summary": "新款门锁与恒温器可在未通电状态下完成HomeKit配对，提升安装便利性。",
+      "link": "https://www.ithome.com/1/010/752.htm",
+      "comment": "软硬件协同的配对方式为智能家居降低门槛。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Windows 11 电池状态小部件测试",
+      "summary": "在Build 26340.9616预览版中加入集中显示笔记本及外设电量的小部件。",
+      "link": "https://www.ithome.com/1/010/835.htm",
+      "comment": "提升跨设备电源管理体验，符合AI边缘计算的功耗需求。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "前腾讯混元技术骨干胡瀚创业获数千万融资",
+      "summary": "聚焦多模态AI，计划融资数千万美元，估值数亿美元，预计扩招研发团队。",
+      "link": "https://www.leiphone.com/category/ai/rMAfd0hlFnaS8F3t.html",
+      "comment": "AI多模态方向仍是资本热点，人才需求旺盛。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "清华背景公司七个月融4亿美元",
+      "summary": "三轮融资累计4亿美元，估值14.2亿美元，团队低调但扩张速度快。",
+      "link": "https://www.leiphone.com/category/industrynews/f0nfLFiAdLXtig24.html",
+      "comment": "大额融资暗示后续大规模招聘与产品落地。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 24.4
+}
