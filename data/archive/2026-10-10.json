@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-10",
+  "mode": "llm",
+  "candidates": 91,
+  "overview": [
+    "[国内] 华为鸿蒙星河互联 App 登陆 Apple Watch，支持 HarmonyOS 手机配对。",
+    "[国内] 小米澎程上市 30 天锁单超 7 万台，显示强劲需求。",
+    "[国内] 苹果第二期中国清洁能源基金扩容至 2.12 亿美元，推动供应链绿色转型。",
+    "[国外] 苹果 Home 应用新增“接近控制”，iPhone 靠近门铃即可在灵动岛预览视频。"
+  ],
+  "sections": [
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为鸿蒙星河互联 App 登陆 Apple Watch",
+          "summary": "鸿蒙星河互联 App 正式登陆 Apple Watch，支持与 HarmonyOS 7.0.0.109 及以上版本手机配对连接。",
+          "link": "https://www.ithome.com/1/011/155.htm",
+          "comment": "展示华为在跨平台生态的布局，提升华为设备互联体验。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米澎程上市 30 天锁单超 7 万台",
+          "summary": "小米新款澎程在上市 30 天内累计锁单超过 7 万台，显示市场对高性能笔记本的强劲需求。",
+          "link": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "对求职者而言，意味着小米笔记本研发团队可能扩招。",
+          "source": "ifanr",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple Home 应用新增“接近控制”功能",
+          "summary": "iPhone 靠近兼容门铃等智能家居配件后，可在灵动岛预览视频并快速打开控制界面。",
+          "link": "https://www.ithome.com/1/011/171.htm",
+          "comment": "提升 Apple Home 生态的交互便利性。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 计划本月推出触控屏 MacBook 与 iPad Mini",
+          "summary": "据 Engadget 报道，苹果正准备在本月发布配备触控屏的 MacBook 以及全新 iPad Mini。",
+          "link": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/",
+          "comment": "触控屏笔记本可能打开新的硬件创新路径。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Watch 8 促销价 249.99 美元",
+          "summary": "Amazon 现价 249.99 美元，提供 80 美元折扣，继续巩固其在高端智能手表市场的领先地位。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-watch-8-44mm-deal-3720897/",
+          "comment": "对比 Apple Watch，价格更具竞争力。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Google 预告全新 Fitbit Edge 可穿戴设备",
+          "summary": "Google 在社交媒体上暗示将于 10 月 12 日发布新款 Fitbit Edge，可望带来更强健康监测功能。",
+          "link": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+          "comment": "Fitbit 进入新一代硬件，可能对可穿戴市场格局产生冲击。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra 降价至 949.99 美元",
+          "summary": "Amazon 将 Samsung Galaxy S26 Ultra 256GB 版降至 949.99 美元，提供高性价比旗舰选择。",
+          "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+          "comment": "价格回落有助于提升高端 Android 市场渗透率。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "TypeSafe AI 推出决策模型 Jev 估值 75 亿美元",
+          "summary": "AI 初创公司 TypeSafe AI 的新型决策模型 Jev 推出数周即走红，完成约 8.7 亿美元融资。",
+          "link": "https://www.ithome.com/1/011/170.htm",
+          "comment": "模型在边缘 AI 场景有潜在落地机会。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "苹果在华清洁能源基金扩容至 2.12 亿美元",
+          "summary": "苹果宣布第二期中国清洁能源基金规模扩大至 2.12 亿美元，推动本地供应链使用可再生能源。",
+          "link": "https://www.ithome.com/1/011/191.htm",
+          "comment": "显示苹果在供应链绿色化方面的长期投入。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "腾讯拟发行 50 亿美元离岸债券加码 AI",
+          "summary": "腾讯计划发行 50 亿美元离岸债券，募集资金主要用于 AI 业务扩张和人才招聘。",
+          "link": "https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html",
+          "comment": "AI 方向招聘需求将显著上升。",
+          "source": "leiphone",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为鸿蒙星河互联 App 登陆 Apple Watch",
+      "summary": "鸿蒙星河互联 App 正式登陆 Apple Watch，支持与 HarmonyOS 7.0.0.109 及以上版本手机配对连接。",
+      "link": "https://www.ithome.com/1/011/155.htm",
+      "comment": "展示华为在跨平台生态的布局，提升华为设备互联体验。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米澎程上市 30 天锁单超 7 万台",
+      "summary": "小米新款澎程在上市 30 天内累计锁单超过 7 万台，显示市场对高性能笔记本的强劲需求。",
+      "link": "https://www.ifanr.com/1683244?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "对求职者而言，意味着小米笔记本研发团队可能扩招。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "Apple Home 应用新增“接近控制”功能",
+      "summary": "iPhone 靠近兼容门铃等智能家居配件后，可在灵动岛预览视频并快速打开控制界面。",
+      "link": "https://www.ithome.com/1/011/171.htm",
+      "comment": "提升 Apple Home 生态的交互便利性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 计划本月推出触控屏 MacBook 与 iPad Mini",
+      "summary": "据 Engadget 报道，苹果正准备在本月发布配备触控屏的 MacBook 以及全新 iPad Mini。",
+      "link": "https://www.engadget.com/2281839/apple-reportedly-plans-touchscreen-macbook-and-ipad-mini-launch-for-this-month/",
+      "comment": "触控屏笔记本可能打开新的硬件创新路径。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Watch 8 促销价 249.99 美元",
+      "summary": "Amazon 现价 249.99 美元，提供 80 美元折扣，继续巩固其在高端智能手表市场的领先地位。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-watch-8-44mm-deal-3720897/",
+      "comment": "对比 Apple Watch，价格更具竞争力。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Google 预告全新 Fitbit Edge 可穿戴设备",
+      "summary": "Google 在社交媒体上暗示将于 10 月 12 日发布新款 Fitbit Edge，可望带来更强健康监测功能。",
+      "link": "https://www.engadget.com/2282887/google-teases-its-new-fitbit-edge-wearable-ahead-of-an-october-12-reveal/",
+      "comment": "Fitbit 进入新一代硬件，可能对可穿戴市场格局产生冲击。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra 降价至 949.99 美元",
+      "summary": "Amazon 将 Samsung Galaxy S26 Ultra 256GB 版降至 949.99 美元，提供高性价比旗舰选择。",
+      "link": "https://www.theverge.com/gadgets/1008857/samsung-galaxy-s26-ultra-deal-sale",
+      "comment": "价格回落有助于提升高端 Android 市场渗透率。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "TypeSafe AI 推出决策模型 Jev 估值 75 亿美元",
+      "summary": "AI 初创公司 TypeSafe AI 的新型决策模型 Jev 推出数周即走红，完成约 8.7 亿美元融资。",
+      "link": "https://www.ithome.com/1/011/170.htm",
+      "comment": "模型在边缘 AI 场景有潜在落地机会。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果在华清洁能源基金扩容至 2.12 亿美元",
+      "summary": "苹果宣布第二期中国清洁能源基金规模扩大至 2.12 亿美元，推动本地供应链使用可再生能源。",
+      "link": "https://www.ithome.com/1/011/191.htm",
+      "comment": "显示苹果在供应链绿色化方面的长期投入。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "腾讯拟发行 50 亿美元离岸债券加码 AI",
+      "summary": "腾讯计划发行 50 亿美元离岸债券，募集资金主要用于 AI 业务扩张和人才招聘。",
+      "link": "https://www.leiphone.com/category/zaobao/GGmq1RiBgXY2GSVL.html",
+      "comment": "AI 方向招聘需求将显著上升。",
+      "source": "leiphone",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 27.9
+}
