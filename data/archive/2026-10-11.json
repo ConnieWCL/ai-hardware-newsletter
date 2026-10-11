@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-11",
+  "mode": "llm",
+  "candidates": 70,
+  "overview": [
+    "[国内] iPhone Duo 预售开启，15999元起，已超200万人预约。",
+    "[国外] 苹果发布首款折叠屏 iPhone Duo，定位高端旗舰。",
+    "[国内] vivo X Fold 6 以书本式折叠设计获好评，抢占折叠市场。",
+    "[国外] Meta 推出 Quest 头显 Horizon OS 2.9 公测，新增虚拟影院功能。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta Quest 头显 Horizon OS 2.9 公测版",
+          "summary": "Meta 为 Quest 系列头显推送 Horizon OS 2.9 公测，加入全新多任务界面、经典虚拟环境以及系统级二维码扫描器，并首次提供“Theater Home”虚拟影院功能。",
+          "link": "https://www.ithome.com/1/011/649.htm",
+          "comment": "VR 生态持续迭代，软硬件联动为头显提供差异化体验。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 国行预售开启",
+          "summary": "iPhone Duo 折叠屏手机国行售价 15999 元起，10 月 16 日晚 8 点开启预购，已累计超过 200 万人预约，仅支持 eSIM，首批可能需要签收激活。",
+          "link": "https://www.ithome.com/1/011/645.htm",
+          "comment": "苹果首次在中国推出折叠屏，定价高位但抢占高端市场。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "vivo X Fold 6 评测",
+          "summary": "vivo X Fold 6 采用书本式折叠设计，厚度仅 6.5mm，配备 6.7 英寸主屏和 5.6 英寸副屏，续航 4600mAh，定位轻薄高效的折叠旗舰。",
+          "link": "https://www.androidauthority.com/vivo-x-fold-6-vs-galaxy-z-fold-8-ultra-hands-on-3720287/",
+          "comment": "在折叠手机竞争中实现轻薄化，是 vivo 的差异化卖点。",
+          "source": "androidauthority",
+          "region": "国内"
+        },
+        {
+          "title": "一加 16 全新游戏助手发布",
+          "summary": "一加 16 将于 10 月 12 日发布，新增射击显示增强、游戏语音降噪、自研游戏相机等功能，提升移动游戏沉浸感。",
+          "link": "https://www.ithome.com/1/011/635.htm",
+          "comment": "游戏手机细分赛道继续深化软硬件协同。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "努比亚 NaviX Ultra 内测实验室计划启动",
+          "summary": "努比亚宣布第二代豆包手机 NaviX Ultra 内测计划，将于 10 月 14 日直播，面向尝鲜用户开放，聚焦 AI 大模型与多模态交互能力。",
+          "link": "https://www.ithome.com/1/011/617.htm",
+          "comment": "AI 大模型上手机的落地仍是国产厂商的重点布局。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 折叠屏手机发布",
+          "summary": "Apple 首款折叠屏 iPhone Duo 采用双屏设计，配备自研芯片与全新 UI，定位高端旗舰，起售价 15999 元（中国区），在全球市场同步发布。",
+          "link": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
+          "comment": "iPhone Duo 将直接与三星、华为等折叠旗舰竞争。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy 设备推送 Android 17 更新",
+          "summary": "Samsung 开始为其 Galaxy 系列手机推送基于 Android 17 的 One UI 9 更新，带来全新隐私与多任务功能。",
+          "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+          "comment": "系统升级提升用户安全感，也为后续 AI 功能铺路。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星 Galaxy S27 Ultra 可能不采用 Exynos 2700",
+          "summary": "传闻称三星将在部分市场的 Galaxy S27 Ultra 采用高通最新 Snapdragon 芯片，而非 Exynos 2700，显示其在高端芯片布局上的调整。",
+          "link": "https://www.ithome.com/1/011/679.htm",
+          "comment": "高通芯片的采用有助于提升旗舰性能与能效。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Meta Quest 虚拟影院功能代码公开",
+          "summary": "Meta 在 Horizon OS 2.9 公测版中公开了 “Theater Home” 虚拟影院代码，暗示将加大 VR 内容生态投入，可能伴随研发团队扩招。",
+          "link": "https://www.ithome.com/1/011/642.htm",
+          "comment": "代码公开是招聘信号，VR 开发岗位需求上升。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta Quest 头显 Horizon OS 2.9 公测版",
+      "summary": "Meta 为 Quest 系列头显推送 Horizon OS 2.9 公测，加入全新多任务界面、经典虚拟环境以及系统级二维码扫描器，并首次提供“Theater Home”虚拟影院功能。",
+      "link": "https://www.ithome.com/1/011/649.htm",
+      "comment": "VR 生态持续迭代，软硬件联动为头显提供差异化体验。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 国行预售开启",
+      "summary": "iPhone Duo 折叠屏手机国行售价 15999 元起，10 月 16 日晚 8 点开启预购，已累计超过 200 万人预约，仅支持 eSIM，首批可能需要签收激活。",
+      "link": "https://www.ithome.com/1/011/645.htm",
+      "comment": "苹果首次在中国推出折叠屏，定价高位但抢占高端市场。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "vivo X Fold 6 评测",
+      "summary": "vivo X Fold 6 采用书本式折叠设计，厚度仅 6.5mm，配备 6.7 英寸主屏和 5.6 英寸副屏，续航 4600mAh，定位轻薄高效的折叠旗舰。",
+      "link": "https://www.androidauthority.com/vivo-x-fold-6-vs-galaxy-z-fold-8-ultra-hands-on-3720287/",
+      "comment": "在折叠手机竞争中实现轻薄化，是 vivo 的差异化卖点。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "一加 16 全新游戏助手发布",
+      "summary": "一加 16 将于 10 月 12 日发布，新增射击显示增强、游戏语音降噪、自研游戏相机等功能，提升移动游戏沉浸感。",
+      "link": "https://www.ithome.com/1/011/635.htm",
+      "comment": "游戏手机细分赛道继续深化软硬件协同。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "努比亚 NaviX Ultra 内测实验室计划启动",
+      "summary": "努比亚宣布第二代豆包手机 NaviX Ultra 内测计划，将于 10 月 14 日直播，面向尝鲜用户开放，聚焦 AI 大模型与多模态交互能力。",
+      "link": "https://www.ithome.com/1/011/617.htm",
+      "comment": "AI 大模型上手机的落地仍是国产厂商的重点布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 折叠屏手机发布",
+      "summary": "Apple 首款折叠屏 iPhone Duo 采用双屏设计，配备自研芯片与全新 UI，定位高端旗舰，起售价 15999 元（中国区），在全球市场同步发布。",
+      "link": "https://www.engadget.com/2279277/how-xiaomi-oppo-other-non-us-brands-challenging-iphone-duo/",
+      "comment": "iPhone Duo 将直接与三星、华为等折叠旗舰竞争。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy 设备推送 Android 17 更新",
+      "summary": "Samsung 开始为其 Galaxy 系列手机推送基于 Android 17 的 One UI 9 更新，带来全新隐私与多任务功能。",
+      "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+      "comment": "系统升级提升用户安全感，也为后续 AI 功能铺路。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy S27 Ultra 可能不采用 Exynos 2700",
+      "summary": "传闻称三星将在部分市场的 Galaxy S27 Ultra 采用高通最新 Snapdragon 芯片，而非 Exynos 2700，显示其在高端芯片布局上的调整。",
+      "link": "https://www.ithome.com/1/011/679.htm",
+      "comment": "高通芯片的采用有助于提升旗舰性能与能效。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Meta Quest 虚拟影院功能代码公开",
+      "summary": "Meta 在 Horizon OS 2.9 公测版中公开了 “Theater Home” 虚拟影院代码，暗示将加大 VR 内容生态投入，可能伴随研发团队扩招。",
+      "link": "https://www.ithome.com/1/011/642.htm",
+      "comment": "代码公开是招聘信号，VR 开发岗位需求上升。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 31.9
+}
