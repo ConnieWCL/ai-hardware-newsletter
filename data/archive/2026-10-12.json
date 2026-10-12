@@ -1,0 +1,196 @@
+{
+  "date": "2026-10-12",
+  "mode": "llm",
+  "candidates": 57,
+  "overview": [
+    "[国内] 华为Mate XT 2展示全球首款逻辑折叠芯片麒麟9050 Pro，标志折叠芯片技术突破。",
+    "[国内] 小米发布新款NAS智能存储，价格下调至2384元，提升家庭存储性价比。",
+    "[国内] 高通宣布PC处理器涨价10%，对国产PC方案成本产生压力。",
+    "[国外] 苹果计划在直营店展示iPhone Duo折叠屏手机，预计将提升折叠手机消费体验。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Pico Space Pro头显曝光",
+          "summary": "ByteDance在日本监管文件中出现Pico Space Pro头显照片，显示其轻量化设计和高分辨率显示，预计2027年进入全球市场。",
+          "link": "https://www.uploadvr.com/pico-space-pro-headset-spotted-in-japanese-regulatory-filings/",
+          "comment": "VR头显是AI硬件新赛道，关注其生态兼容性。",
+          "source": "uploadvr",
+          "region": "国外"
+        },
+        {
+          "title": "Apple HomeView智能家居中枢",
+          "summary": "苹果首款AI智能家居中枢HomeView将搭载A18芯片，提供四种配色，计划10月13日发布，11月开始出货。",
+          "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+          "comment": "AI芯片入驻家居，预示智能家居软硬件深度融合。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPhone Duo折叠屏展示活动",
+          "summary": "苹果计划在全球直营店摆放150台以上iPhone Duo样机，提供大规模现场体验，提升折叠屏认知度。",
+          "link": "https://www.ithome.com/1/011/712.htm",
+          "comment": "折叠屏进入主流消费场景，竞争加剧。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate XT 2展示麒麟9050 Pro逻辑折叠芯片",
+          "summary": "华为在上海终端创新技术沟通会上展示全球首款逻辑折叠芯片麒麟9050 Pro，搭载于Mate XT 2，提升折叠手机性能与功耗平衡。",
+          "link": "https://www.ithome.com/1/011/756.htm",
+          "comment": "折叠芯片自研，强化供应链安全。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米NAS智能存储降价",
+          "summary": "小米首款4TB NAS智能存储原价2699元，现国补后2384元，提供4年质保，提升家庭云存储性价比。",
+          "link": "https://www.ithome.com/1/011/704.htm",
+          "comment": "存储成本下降，有助AI大模型本地推理。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "高通PC处理器涨价10%",
+          "summary": "高通自本月起对骁龙X/X2 Elite等PC处理器上调10%出货价，间接推高国产PC方案成本。",
+          "link": "https://www.ithome.com/1/011/773.htm",
+          "comment": "关注国产替代方案的成本竞争。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung推出Android 17系统更新",
+          "summary": "三星为其Galaxy系列设备推送基于Android 17的One UI 9更新，带来新安全特性和AI优化。",
+          "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+          "comment": "系统升级提升AI功能的底层支撑。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPad mini新款将涨价",
+          "summary": "苹果计划本月推出新款iPad mini，起步价或接近799美元，存储提升但价格上调。",
+          "link": "https://www.ithome.com/1/011/713.htm",
+          "comment": "高端平板定价上调，影响AI教育场景采购预算。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "亚马逊洽谈收购AI初创Decart",
+          "summary": "亚马逊正与总部位于旧金山的Decart谈判收购，估值约70亿美元，意在获取其AI芯片切换软件技术。",
+          "link": "https://www.ithome.com/1/011/720.htm",
+          "comment": "云端AI算力与芯片软件协同将加速。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "华为发布XMAGE、巨鲸电池等技术",
+          "summary": "华为终端创新技术沟通会展示XMAGE影像、巨鲸电池、星闪等新技术，强化终端AI算力与续航。",
+          "link": "https://www.ithome.com/1/011/754.htm",
+          "comment": "多技术叠加提升AI手机竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Pico Space Pro头显曝光",
+      "summary": "ByteDance在日本监管文件中出现Pico Space Pro头显照片，显示其轻量化设计和高分辨率显示，预计2027年进入全球市场。",
+      "link": "https://www.uploadvr.com/pico-space-pro-headset-spotted-in-japanese-regulatory-filings/",
+      "comment": "VR头显是AI硬件新赛道，关注其生态兼容性。",
+      "source": "uploadvr",
+      "region": "国外"
+    },
+    {
+      "title": "Apple HomeView智能家居中枢",
+      "summary": "苹果首款AI智能家居中枢HomeView将搭载A18芯片，提供四种配色，计划10月13日发布，11月开始出货。",
+      "link": "https://techcrunch.com/2026/10/11/will-the-homeview-be-apples-first-smart-home-success/",
+      "comment": "AI芯片入驻家居，预示智能家居软硬件深度融合。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo折叠屏展示活动",
+      "summary": "苹果计划在全球直营店摆放150台以上iPhone Duo样机，提供大规模现场体验，提升折叠屏认知度。",
+      "link": "https://www.ithome.com/1/011/712.htm",
+      "comment": "折叠屏进入主流消费场景，竞争加剧。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate XT 2展示麒麟9050 Pro逻辑折叠芯片",
+      "summary": "华为在上海终端创新技术沟通会上展示全球首款逻辑折叠芯片麒麟9050 Pro，搭载于Mate XT 2，提升折叠手机性能与功耗平衡。",
+      "link": "https://www.ithome.com/1/011/756.htm",
+      "comment": "折叠芯片自研，强化供应链安全。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米NAS智能存储降价",
+      "summary": "小米首款4TB NAS智能存储原价2699元，现国补后2384元，提供4年质保，提升家庭云存储性价比。",
+      "link": "https://www.ithome.com/1/011/704.htm",
+      "comment": "存储成本下降，有助AI大模型本地推理。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "高通PC处理器涨价10%",
+      "summary": "高通自本月起对骁龙X/X2 Elite等PC处理器上调10%出货价，间接推高国产PC方案成本。",
+      "link": "https://www.ithome.com/1/011/773.htm",
+      "comment": "关注国产替代方案的成本竞争。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung推出Android 17系统更新",
+      "summary": "三星为其Galaxy系列设备推送基于Android 17的One UI 9更新，带来新安全特性和AI优化。",
+      "link": "https://9to5google.com/2026/10/10/samsung-galaxy-android-17-update-list/",
+      "comment": "系统升级提升AI功能的底层支撑。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPad mini新款将涨价",
+      "summary": "苹果计划本月推出新款iPad mini，起步价或接近799美元，存储提升但价格上调。",
+      "link": "https://www.ithome.com/1/011/713.htm",
+      "comment": "高端平板定价上调，影响AI教育场景采购预算。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "亚马逊洽谈收购AI初创Decart",
+      "summary": "亚马逊正与总部位于旧金山的Decart谈判收购，估值约70亿美元，意在获取其AI芯片切换软件技术。",
+      "link": "https://www.ithome.com/1/011/720.htm",
+      "comment": "云端AI算力与芯片软件协同将加速。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为发布XMAGE、巨鲸电池等技术",
+      "summary": "华为终端创新技术沟通会展示XMAGE影像、巨鲸电池、星闪等新技术，强化终端AI算力与续航。",
+      "link": "https://www.ithome.com/1/011/754.htm",
+      "comment": "多技术叠加提升AI手机竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 22.3
+}
