@@ -1,0 +1,164 @@
+{
+  "date": "2026-10-13",
+  "mode": "llm",
+  "candidates": 99,
+  "overview": [
+    "[国内] 华为麒麟 9030 系列发布，标志中国半导体技术新高峰。",
+    "[国内] 华为麒麟 9050 系列亮相，首实现 30B MoE 大模型本地推理。",
+    "[国外] 苹果计划于 10 月 27‑28 日发布 iPad mini 8 与三款全新 Mac。",
+    "[国外] 微软发布 Maia 300 AI 芯片，采用台积电 N2P 工艺，算力达 13.8 PFLOPS。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "三星首款智能眼镜曝光",
+          "summary": "三星推出约 41 克重、搭载骁龙 AR1 Gen1 芯片的智能眼镜，预计下月上市，主打轻量化与 AR 体验。",
+          "link": "https://www.ithome.com/1/012/151.htm",
+          "comment": "作为三星进军可穿戴 AR 市场的首款产品，定位轻便日常使用，可与苹果 Vision Pro 形成差异化竞争。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为麒麟 9030 系列发布",
+          "summary": "华为半导体业务宣布麒麟 9030 系列，称其为中国半导体产业的“高峰”，标志国产高端移动芯片突破。",
+          "link": "https://www.ithome.com/1/012/169.htm",
+          "comment": "对国产手机芯片生态是重要里程碑，提升国产高端手机竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为麒麟 9050 系列开启 10 年新征程",
+          "summary": "麒麟 9050 系列首次支持业界首个 30B MoE 大模型本地推理，展示华为在 AI 芯片上的前瞻布局。",
+          "link": "https://www.ithome.com/1/012/176.htm",
+          "comment": "将 AI 大模型能力下沉到终端，可能重塑移动 AI 场景。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加 16 全面升级发布",
+          "summary": "一加 16 搭载第六代骁龙处理器，提升影像、屏幕、续航等全链路性能，定位“全能旗舰”。",
+          "link": "https://www.leiphone.com/category/weiwu/vVFRSPSkndSb8SKf.html",
+          "comment": "继续在高端性能赛道发力，对标 Snapdragon 8 系列旗舰。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果计划十月末举办新品发布会",
+          "summary": "苹果将在洛杉矶举办两天活动，预计发布 iPad mini 8 与三款全新 Mac 机型。",
+          "link": "https://www.ithome.com/1/012/137.htm",
+          "comment": "iPad mini 8 将继续强化轻薄便携，Mac 系列可能引入更强 AI 加速。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "微软 Maia 300 AI 芯片发布",
+          "summary": "基于台积电 N2P 工艺，配备 288GB HBM4，算力 13.8 PFLOPS，计划 2027 年量产。",
+          "link": "https://www.ithome.com/1/012/115.htm",
+          "comment": "高带宽与大容量显存定位数据中心 AI 推理加速。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Vision Pro 首部沉浸式恐怖电影《Remnants》上线",
+          "summary": "Apple 在 Vision Pro 平台首播沉浸式恐怖电影《Remnants》，展示头显内容生态。",
+          "link": "https://www.ithome.com/1/012/148.htm",
+          "comment": "内容生态的丰富是提升 Vision Pro 市场接受度的关键。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "DeepSeek 完成约 1000 亿元融资",
+          "summary": "大模型公司 DeepSeek 融资额翻倍至约 1000 亿元，估值约 5000 亿元，预计大规模招聘研发与算力运维人才。",
+          "link": "https://www.ithome.com/1/012/172.htm",
+          "comment": "对 AI 研发人才需求激增，求职者可关注其招聘信息。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "三星首款智能眼镜曝光",
+      "summary": "三星推出约 41 克重、搭载骁龙 AR1 Gen1 芯片的智能眼镜，预计下月上市，主打轻量化与 AR 体验。",
+      "link": "https://www.ithome.com/1/012/151.htm",
+      "comment": "作为三星进军可穿戴 AR 市场的首款产品，定位轻便日常使用，可与苹果 Vision Pro 形成差异化竞争。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为麒麟 9030 系列发布",
+      "summary": "华为半导体业务宣布麒麟 9030 系列，称其为中国半导体产业的“高峰”，标志国产高端移动芯片突破。",
+      "link": "https://www.ithome.com/1/012/169.htm",
+      "comment": "对国产手机芯片生态是重要里程碑，提升国产高端手机竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为麒麟 9050 系列开启 10 年新征程",
+      "summary": "麒麟 9050 系列首次支持业界首个 30B MoE 大模型本地推理，展示华为在 AI 芯片上的前瞻布局。",
+      "link": "https://www.ithome.com/1/012/176.htm",
+      "comment": "将 AI 大模型能力下沉到终端，可能重塑移动 AI 场景。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加 16 全面升级发布",
+      "summary": "一加 16 搭载第六代骁龙处理器，提升影像、屏幕、续航等全链路性能，定位“全能旗舰”。",
+      "link": "https://www.leiphone.com/category/weiwu/vVFRSPSkndSb8SKf.html",
+      "comment": "继续在高端性能赛道发力，对标 Snapdragon 8 系列旗舰。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "苹果计划十月末举办新品发布会",
+      "summary": "苹果将在洛杉矶举办两天活动，预计发布 iPad mini 8 与三款全新 Mac 机型。",
+      "link": "https://www.ithome.com/1/012/137.htm",
+      "comment": "iPad mini 8 将继续强化轻薄便携，Mac 系列可能引入更强 AI 加速。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "微软 Maia 300 AI 芯片发布",
+      "summary": "基于台积电 N2P 工艺，配备 288GB HBM4，算力 13.8 PFLOPS，计划 2027 年量产。",
+      "link": "https://www.ithome.com/1/012/115.htm",
+      "comment": "高带宽与大容量显存定位数据中心 AI 推理加速。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Vision Pro 首部沉浸式恐怖电影《Remnants》上线",
+      "summary": "Apple 在 Vision Pro 平台首播沉浸式恐怖电影《Remnants》，展示头显内容生态。",
+      "link": "https://www.ithome.com/1/012/148.htm",
+      "comment": "内容生态的丰富是提升 Vision Pro 市场接受度的关键。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "DeepSeek 完成约 1000 亿元融资",
+      "summary": "大模型公司 DeepSeek 融资额翻倍至约 1000 亿元，估值约 5000 亿元，预计大规模招聘研发与算力运维人才。",
+      "link": "https://www.ithome.com/1/012/172.htm",
+      "comment": "对 AI 研发人才需求激增，求职者可关注其招聘信息。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 31.4
+}
