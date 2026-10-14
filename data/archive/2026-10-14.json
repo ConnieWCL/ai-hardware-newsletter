@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-14",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米 REDMI K100 标准版发布，支持 100W 快充，定位高性价比旗舰。",
+    "[国内] OPPO 与 Manus 合作，Find X10 系列首发下一代 AI 智能体，提升 AI 助手交互。",
+    "[国内] 具身智能独角兽智元创新完成新一轮融资，估值约 500 亿元，暗示扩招 AI 硬件研发岗位。",
+    "[国外] Apple HomeView 亮度可降至 0.3 尼特，刷新苹果设备最低亮度纪录。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Samsung Android XR 眼镜泄漏",
+          "summary": "首款 Android XR 眼镜曝光 25 款配色，配备 9 小时续航，轻量化设计，瞄准消费级 AR 市场。",
+          "link": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-specs-colors-leak-3722498/",
+          "comment": "可视为三星在 AR 硬件布局的关键一步。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Ray‑Ban Meta Audio 眼镜评测",
+          "summary": "该智能眼镜仅提供音频功能，无摄像头，电池续航表现优异，定位日常音频穿戴。",
+          "link": "https://www.engadget.com/2285337/ray-ban-meta-audio-glasses-review/",
+          "comment": "轻量化与隐私设计符合当前消费趋势。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Apple HomeView 低亮度创新",
+          "summary": "HomeView 屏幕最低亮度降至 0.3 尼特，适合暗环境使用，刷新苹果设备最低亮度纪录。",
+          "link": "https://www.ithome.com/1/012/763.htm",
+          "comment": "提升家庭中心设备在夜间的使用体验。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 REDMI K100 标准版入网，支持 100W 快充",
+          "summary": "5G 机型 M786BC 获 3C 认证，配备 100W 快充，定位高性价比旗舰。",
+          "link": "https://www.ithome.com/1/012/666.htm",
+          "comment": "快充是小米在高端市场的差异化卖点。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO 与 Manus 达成合作，Find X10 系列首发 AI 智能体",
+          "summary": "OPPO 将 Manus 的 AI 智能体集成至 AI Mind Pilot，提升手机端 AI 助手交互能力。",
+          "link": "https://www.ithome.com/1/012/656.htm",
+          "comment": "显示国产手机在 AI 生态布局上的加速。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple HomeView 支持第三方音视频应用，最多识别 6 人",
+          "summary": "HomeView 可通过 iPhone/iPad 显示第三方音视频应用，提升家庭娱乐中心功能。",
+          "link": "https://www.ithome.com/1/012/672.htm",
+          "comment": "增强生态开放性，抢占智能家居市场。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "OnePlus 设备将升级至 Android 17，放弃 OxygenOS",
+          "summary": "OnePlus 官方确认其设备将采用全新 Android 17 系统，结束 OxygenOS 时代。",
+          "link": "https://9to5google.com/2026/10/13/oneplus-android-17-list-schedule/",
+          "comment": "系统生态转向可能影响用户粘性。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "智元创新完成新一轮融资，估值约 500 亿元",
+          "summary": "具身智能独角兽公司智元创新本轮融资约 10‑15 亿元，估值 500 亿元，预计将扩招 AI 硬件研发团队。",
+          "link": "https://www.ithome.com/1/012/674.htm",
+          "comment": "对 AI 硬件人才需求强劲，求职者可关注其研发岗位。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "字节跳动 Seed 设立大模型安全与对齐部门",
+          "summary": "字节跳动 Seed 成立“模型安全与对齐”部门，内部转岗并招聘相关人才。",
+          "link": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+          "comment": "体现 AI 安全方向的招聘需求。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Samsung Android XR 眼镜泄漏",
+      "summary": "首款 Android XR 眼镜曝光 25 款配色，配备 9 小时续航，轻量化设计，瞄准消费级 AR 市场。",
+      "link": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-specs-colors-leak-3722498/",
+      "comment": "可视为三星在 AR 硬件布局的关键一步。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Ray‑Ban Meta Audio 眼镜评测",
+      "summary": "该智能眼镜仅提供音频功能，无摄像头，电池续航表现优异，定位日常音频穿戴。",
+      "link": "https://www.engadget.com/2285337/ray-ban-meta-audio-glasses-review/",
+      "comment": "轻量化与隐私设计符合当前消费趋势。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Apple HomeView 低亮度创新",
+      "summary": "HomeView 屏幕最低亮度降至 0.3 尼特，适合暗环境使用，刷新苹果设备最低亮度纪录。",
+      "link": "https://www.ithome.com/1/012/763.htm",
+      "comment": "提升家庭中心设备在夜间的使用体验。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "小米 REDMI K100 标准版入网，支持 100W 快充",
+      "summary": "5G 机型 M786BC 获 3C 认证，配备 100W 快充，定位高性价比旗舰。",
+      "link": "https://www.ithome.com/1/012/666.htm",
+      "comment": "快充是小米在高端市场的差异化卖点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO 与 Manus 达成合作，Find X10 系列首发 AI 智能体",
+      "summary": "OPPO 将 Manus 的 AI 智能体集成至 AI Mind Pilot，提升手机端 AI 助手交互能力。",
+      "link": "https://www.ithome.com/1/012/656.htm",
+      "comment": "显示国产手机在 AI 生态布局上的加速。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple HomeView 支持第三方音视频应用，最多识别 6 人",
+      "summary": "HomeView 可通过 iPhone/iPad 显示第三方音视频应用，提升家庭娱乐中心功能。",
+      "link": "https://www.ithome.com/1/012/672.htm",
+      "comment": "增强生态开放性，抢占智能家居市场。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "OnePlus 设备将升级至 Android 17，放弃 OxygenOS",
+      "summary": "OnePlus 官方确认其设备将采用全新 Android 17 系统，结束 OxygenOS 时代。",
+      "link": "https://9to5google.com/2026/10/13/oneplus-android-17-list-schedule/",
+      "comment": "系统生态转向可能影响用户粘性。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "智元创新完成新一轮融资，估值约 500 亿元",
+      "summary": "具身智能独角兽公司智元创新本轮融资约 10‑15 亿元，估值 500 亿元，预计将扩招 AI 硬件研发团队。",
+      "link": "https://www.ithome.com/1/012/674.htm",
+      "comment": "对 AI 硬件人才需求强劲，求职者可关注其研发岗位。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "字节跳动 Seed 设立大模型安全与对齐部门",
+      "summary": "字节跳动 Seed 成立“模型安全与对齐”部门，内部转岗并招聘相关人才。",
+      "link": "https://www.leiphone.com/category/industrynews/jX1ndNxDJ94n6bUu.html",
+      "comment": "体现 AI 安全方向的招聘需求。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 28.0
+}
