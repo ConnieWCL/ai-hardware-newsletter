@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-15",
+  "mode": "llm",
+  "candidates": 94,
+  "overview": [
+    "[国内] 华为首款逻辑折叠芯片麒麟9050量产，开启折叠旗舰新赛道。",
+    "[国内] 字节跳动洽谈采购联发科 AI 芯片，可能成为其 ASIC 业务第二大客户。",
+    "[国外] Apple Intelligence 将于 12 月 iOS 27.3 推出，首批合作伙伴为阿里、百度。",
+    "[国外] Oura Ring 3 Horizon 金色版降价 $80，定位高端健康指环。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Oura Ring 3 Horizon 金色版降价",
+          "summary": "价格下调 $80，至 $269.99，定位高端健康监测指环，支持睡眠、活动全方位追踪。",
+          "link": "https://www.androidauthority.com/oura-ring-gen-3-horizon-deal-3723373/",
+          "comment": "降价提升性价比，吸引对健康数据有需求的用户。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Nothing 两款 AI 智能眼镜曝光",
+          "summary": "一款配备摄像头，另一款仅集成 ChatGPT，均为轻量化设计，目标年轻科技爱好者。",
+          "link": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+          "comment": "多元化产品线展示品牌在 AI 眼镜领域的探索。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Valve Index 头显首次降价并停产",
+          "summary": "Valve 官方宣布停产 Index，伴随首次大幅折扣，面向 VR 发烧友的最后机会。",
+          "link": "https://roadtovr.com/valve-index-headset-discontinued-discount/",
+          "comment": "停产标志 PC VR 市场进入新竞争格局。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "Google Fitbit Edge 可穿戴手表评测",
+          "summary": "新款 Fitbit Edge 采用圆形 AMOLED 屏，定位运动健康，预计下月上市。",
+          "link": "https://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
+          "comment": "Google 继续布局可穿戴生态，抢占运动市场。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为首款逻辑折叠芯片麒麟9050量产",
+          "summary": "基于韬定律的折叠芯片，支持更高刷新率与低功耗，搭载于即将发布的折叠旗舰。",
+          "link": "https://www.leiphone.com/category/chips/4EHlprZnXovvP0XD.html",
+          "comment": "标志华为在折叠屏技术上的新突破。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Pixel Watch 5 大幅折扣促销",
+          "summary": "Best Buy 最高直降 $108，提升性价比，继续巩固 Google 可穿戴市场份额。",
+          "link": "https://9to5google.com/2026/10/14/deals-pixel-watch-5-tcl-nxtpaper-anker-display-hub/",
+          "comment": "折扣策略有助于对抗 Apple Watch 的高端定位。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple Intelligence 将在中国上线",
+          "summary": "预计 12 月通过 iOS 27.3 推出，首批合作伙伴为阿里巴巴和百度。",
+          "link": "https://www.ithome.com/1/013/257.htm",
+          "comment": "显示苹果在 AI 大模型生态的本地化布局。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "字节跳动洽谈采购联发科 AI 芯片用于数据中心",
+          "summary": "计划定制高性能 AI 芯片，提升算力供给，可能成为联发科第二大客户。",
+          "link": "https://www.ithome.com/1/013/279.htm",
+          "comment": "为字节跳动的 AI 业务提供算力支撑。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "HomePod mini 硬件限制导致无 Siri AI",
+          "summary": "苹果确认首代 HomePod mini 计算能力不足，下一代将支持 AI 功能。",
+          "link": "https://www.ithome.com/1/013/285.htm",
+          "comment": "硬件瓶颈限制了 AI 功能的下沉。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "字节跳动设立大模型安全与对齐部门",
+          "summary": "新部门成立伴随招聘，暗示公司将在 AI 安全方向加码投入。",
+          "link": "https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
+          "comment": "招聘需求提升，对 AI 研发人才是好机会。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Oura Ring 3 Horizon 金色版降价",
+      "summary": "价格下调 $80，至 $269.99，定位高端健康监测指环，支持睡眠、活动全方位追踪。",
+      "link": "https://www.androidauthority.com/oura-ring-gen-3-horizon-deal-3723373/",
+      "comment": "降价提升性价比，吸引对健康数据有需求的用户。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Nothing 两款 AI 智能眼镜曝光",
+      "summary": "一款配备摄像头，另一款仅集成 ChatGPT，均为轻量化设计，目标年轻科技爱好者。",
+      "link": "https://9to5google.com/2026/10/14/nothing-smart-glasses-report/",
+      "comment": "多元化产品线展示品牌在 AI 眼镜领域的探索。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Valve Index 头显首次降价并停产",
+      "summary": "Valve 官方宣布停产 Index，伴随首次大幅折扣，面向 VR 发烧友的最后机会。",
+      "link": "https://roadtovr.com/valve-index-headset-discontinued-discount/",
+      "comment": "停产标志 PC VR 市场进入新竞争格局。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "Google Fitbit Edge 可穿戴手表评测",
+      "summary": "新款 Fitbit Edge 采用圆形 AMOLED 屏，定位运动健康，预计下月上市。",
+      "link": "https://9to5google.com/2026/10/14/google-fitbit-edge-hands-on-pixel-watch-lite-take-two/",
+      "comment": "Google 继续布局可穿戴生态，抢占运动市场。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "华为首款逻辑折叠芯片麒麟9050量产",
+      "summary": "基于韬定律的折叠芯片，支持更高刷新率与低功耗，搭载于即将发布的折叠旗舰。",
+      "link": "https://www.leiphone.com/category/chips/4EHlprZnXovvP0XD.html",
+      "comment": "标志华为在折叠屏技术上的新突破。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Pixel Watch 5 大幅折扣促销",
+      "summary": "Best Buy 最高直降 $108，提升性价比，继续巩固 Google 可穿戴市场份额。",
+      "link": "https://9to5google.com/2026/10/14/deals-pixel-watch-5-tcl-nxtpaper-anker-display-hub/",
+      "comment": "折扣策略有助于对抗 Apple Watch 的高端定位。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Intelligence 将在中国上线",
+      "summary": "预计 12 月通过 iOS 27.3 推出，首批合作伙伴为阿里巴巴和百度。",
+      "link": "https://www.ithome.com/1/013/257.htm",
+      "comment": "显示苹果在 AI 大模型生态的本地化布局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "字节跳动洽谈采购联发科 AI 芯片用于数据中心",
+      "summary": "计划定制高性能 AI 芯片，提升算力供给，可能成为联发科第二大客户。",
+      "link": "https://www.ithome.com/1/013/279.htm",
+      "comment": "为字节跳动的 AI 业务提供算力支撑。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "HomePod mini 硬件限制导致无 Siri AI",
+      "summary": "苹果确认首代 HomePod mini 计算能力不足，下一代将支持 AI 功能。",
+      "link": "https://www.ithome.com/1/013/285.htm",
+      "comment": "硬件瓶颈限制了 AI 功能的下沉。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "字节跳动设立大模型安全与对齐部门",
+      "summary": "新部门成立伴随招聘，暗示公司将在 AI 安全方向加码投入。",
+      "link": "https://www.leiphone.com/category/zaobao/CKsYHgrcdIkO3hvO.html",
+      "comment": "招聘需求提升，对 AI 研发人才是好机会。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 24.0
+}
