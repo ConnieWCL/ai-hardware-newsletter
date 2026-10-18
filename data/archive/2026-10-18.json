@@ -1,0 +1,244 @@
+{
+  "date": "2026-10-18",
+  "mode": "llm",
+  "candidates": 63,
+  "overview": [
+    "[国内] iPhone Duo 预售秒售罄，发货排至明年，折叠屏热度持续攀升。",
+    "[国内] 华为 WATCH FIT 5 系列推 HarmonyOS 7.0.0.107SP10，加入地震预警同步功能。",
+    "[国内] 小米 18 Fold 中折叠手机销量突破十万台，定位高端旗舰。",
+    "[国外] Ray‑Ban Meta 智能眼镜曝出录音隐私漏洞，引发监管关注。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "李未可 X‑AI 记忆眼镜预售",
+          "summary": "预售价 699 元起，支持 12 小时连续录音和 128 种语言实时翻译，定位 AI 记忆与翻译一体化轻量设备。",
+          "link": "https://www.ithome.com/1/014/477.htm",
+          "comment": "切入 AI 佩戴设备市场，价格亲民，适合语言学习与会议记录。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Ray‑Ban Meta 智能眼镜隐私漏洞",
+          "summary": "发现眼镜在未获用户同意的情况下录音，虽已修复但仍引发隐私争议，提醒 AI 佩戴设备需强化安全审计。",
+          "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+          "comment": "对 AR 眼镜的合规与用户信任提出警示。",
+          "source": "arstechnica",
+          "region": "国外"
+        },
+        {
+          "title": "OpenAI 人形机器人研发进展",
+          "summary": "OpenAI 正在开发可在现实世界中移动的 humanoid，核心挑战在于软件与交互而非硬件本体。",
+          "link": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+          "comment": "展示 AI 软硬件融合的前沿方向，对机器人平台供应链有潜在需求。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 WATCH FIT 5 系列智能手表 HarmonyOS 7 更新",
+          "summary": "HarmonyOS 7.0.0.107SP10 推出，新增手机地震预警同步功能，提升安全生态。",
+          "link": "https://www.ithome.com/1/014/447.htm",
+          "comment": "强化可穿戴生态，兼顾健康与公共安全。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 18 Fold 中折叠手机销量突破十万台",
+          "summary": "截至 2026 年第 40 周销量约 10.47 万台，起售价 10999 元，搭载玄戒 O3 处理器和徕卡三摄。",
+          "link": "https://www.ithome.com/1/014/417.htm",
+          "comment": "折叠屏进入规模化阶段，价格竞争力显著。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀 WIN 2 系列搭载自研 HONOR C3 射频增强芯片",
+          "summary": "新机配备荣耀鸿燕通信和自研射频芯片，提升弱网环境下的通信性能。",
+          "link": "https://www.ithome.com/1/014/458.htm",
+          "comment": "自研芯片布局显示供应链向上游延伸的趋势。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "DOOGEE Note60 W 阔面屏手机首发",
+          "summary": "6.38 英寸 90Hz 大屏设计，外观与华为 Pura X View 类似，定位中高端性价比机型。",
+          "link": "https://www.ithome.com/1/014/464.htm",
+          "comment": "在 5G 时代继续抢占中端市场份额。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "WPS 抢先适配 iPhone Duo",
+          "summary": "WPS Office for iPhone Duo 支持横屏表格编辑，展示办公软件对折叠屏的快速适配能力。",
+          "link": "https://www.ithome.com/1/014/421.htm",
+          "comment": "生态适配速度成为竞争关键。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 发货时间推迟至 2027 年",
+          "summary": "因需求异常旺盛，苹果将首批发货时间从 2026 年推迟至 2027 年，显示折叠屏供给链压力。",
+          "link": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
+          "comment": "供需失衡可能刺激第三方供应链加速产能布局。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Qualcomm 否认 Snapdragon 8 Elite Extreme Gen 6 过热传闻",
+          "summary": "官方声明称相关散热问题不属实，稳住高端移动平台的市场预期。",
+          "link": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+          "comment": "对高端手机芯片供应链信心提供支撑。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Galaxy S27 可能放弃 Snapdragon 8 Elite Extreme Gen 6",
+          "summary": "据报道三星为避免散热风险，或改用自研 Exynos，显示高端旗舰在芯片选型上的权衡。",
+          "link": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
+          "comment": "芯片生态竞争加剧，供应链多元化趋势明显。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Bose 新款有线耳塞简约设计",
+          "summary": "推出低调有线降噪耳塞，针对仍偏好有线音质的高端用户。",
+          "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+          "comment": "有线市场仍有细分需求，提供差异化产品。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为云 AI 专业服务价格上调",
+          "summary": "AI 专业服务原型开发基础版价格升至 85.12 万元，显示 AI 云服务进入高价值阶段。",
+          "link": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "价格提升暗示华为在 AI 生态盈利模型的成熟。",
+          "source": "ifanr",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "李未可 X‑AI 记忆眼镜预售",
+      "summary": "预售价 699 元起，支持 12 小时连续录音和 128 种语言实时翻译，定位 AI 记忆与翻译一体化轻量设备。",
+      "link": "https://www.ithome.com/1/014/477.htm",
+      "comment": "切入 AI 佩戴设备市场，价格亲民，适合语言学习与会议记录。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Ray‑Ban Meta 智能眼镜隐私漏洞",
+      "summary": "发现眼镜在未获用户同意的情况下录音，虽已修复但仍引发隐私争议，提醒 AI 佩戴设备需强化安全审计。",
+      "link": "https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/",
+      "comment": "对 AR 眼镜的合规与用户信任提出警示。",
+      "source": "arstechnica",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 人形机器人研发进展",
+      "summary": "OpenAI 正在开发可在现实世界中移动的 humanoid，核心挑战在于软件与交互而非硬件本体。",
+      "link": "https://www.engadget.com/2285040/openai-humanoid-robot-sam-altman-statement-real-challenge/",
+      "comment": "展示 AI 软硬件融合的前沿方向，对机器人平台供应链有潜在需求。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "华为 WATCH FIT 5 系列智能手表 HarmonyOS 7 更新",
+      "summary": "HarmonyOS 7.0.0.107SP10 推出，新增手机地震预警同步功能，提升安全生态。",
+      "link": "https://www.ithome.com/1/014/447.htm",
+      "comment": "强化可穿戴生态，兼顾健康与公共安全。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 18 Fold 中折叠手机销量突破十万台",
+      "summary": "截至 2026 年第 40 周销量约 10.47 万台，起售价 10999 元，搭载玄戒 O3 处理器和徕卡三摄。",
+      "link": "https://www.ithome.com/1/014/417.htm",
+      "comment": "折叠屏进入规模化阶段，价格竞争力显著。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀 WIN 2 系列搭载自研 HONOR C3 射频增强芯片",
+      "summary": "新机配备荣耀鸿燕通信和自研射频芯片，提升弱网环境下的通信性能。",
+      "link": "https://www.ithome.com/1/014/458.htm",
+      "comment": "自研芯片布局显示供应链向上游延伸的趋势。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "DOOGEE Note60 W 阔面屏手机首发",
+      "summary": "6.38 英寸 90Hz 大屏设计，外观与华为 Pura X View 类似，定位中高端性价比机型。",
+      "link": "https://www.ithome.com/1/014/464.htm",
+      "comment": "在 5G 时代继续抢占中端市场份额。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "WPS 抢先适配 iPhone Duo",
+      "summary": "WPS Office for iPhone Duo 支持横屏表格编辑，展示办公软件对折叠屏的快速适配能力。",
+      "link": "https://www.ithome.com/1/014/421.htm",
+      "comment": "生态适配速度成为竞争关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 发货时间推迟至 2027 年",
+      "summary": "因需求异常旺盛，苹果将首批发货时间从 2026 年推迟至 2027 年，显示折叠屏供给链压力。",
+      "link": "https://www.engadget.com/2289629/iphone-duo-shipping-estimates-have-already-been-pushed-back-to-2027/",
+      "comment": "供需失衡可能刺激第三方供应链加速产能布局。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Qualcomm 否认 Snapdragon 8 Elite Extreme Gen 6 过热传闻",
+      "summary": "官方声明称相关散热问题不属实，稳住高端移动平台的市场预期。",
+      "link": "https://9to5google.com/2026/10/17/qualcomm-says-rumors-about-snapdragon-8-elite-extreme-gen-6-overheating-are-inaccurate/",
+      "comment": "对高端手机芯片供应链信心提供支撑。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Galaxy S27 可能放弃 Snapdragon 8 Elite Extreme Gen 6",
+      "summary": "据报道三星为避免散热风险，或改用自研 Exynos，显示高端旗舰在芯片选型上的权衡。",
+      "link": "https://9to5google.com/2026/10/16/samsung-galaxy-s27-snapdragon-overheating-report/",
+      "comment": "芯片生态竞争加剧，供应链多元化趋势明显。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Bose 新款有线耳塞简约设计",
+      "summary": "推出低调有线降噪耳塞，针对仍偏好有线音质的高端用户。",
+      "link": "https://www.theverge.com/tech/1013320/bose-noise-cancelling-wired-earbuds-review",
+      "comment": "有线市场仍有细分需求，提供差异化产品。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "华为云 AI 专业服务价格上调",
+      "summary": "AI 专业服务原型开发基础版价格升至 85.12 万元，显示 AI 云服务进入高价值阶段。",
+      "link": "https://www.ifanr.com/1684782?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "价格提升暗示华为在 AI 生态盈利模型的成熟。",
+      "source": "ifanr",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 25.4
+}
