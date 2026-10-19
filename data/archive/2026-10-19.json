@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-19",
+  "mode": "llm",
+  "candidates": 50,
+  "overview": [
+    "[国内] 宜休科技官宣 ISHO AI 睡眠生态产品发布会，聚焦 AI 挂件与健康场景。",
+    "[国内] iQOO Pad Pro 将于 10 月 28 日发布，搭载 Snapdragon 8 Gen5 Supreme，定位高性能电竞平板。",
+    "[国内] iQOO Neo12 新配色“争锋”曝光，采用动态纹理工艺，强化国潮未来科技感。",
+    "[国内] Redmi K100 推出流萤绿配色，继续强化性价比与高刷新率屏幕。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "ISHO AI 睡眠科技生态产品发布会",
+          "summary": "宜休科技创始人王腾官宣首场 AI 睡眠挂件发布会，将于 10 月 29 日 19:00 举行，聚焦 AI 监测与睡眠改善。",
+          "link": "https://www.ithome.com/1/014/650.htm",
+          "comment": "切入健康 AI 市场，适合关注可穿戴与 AI 交互的岗位。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iQOO Pad Pro 8.8 英寸小平板",
+          "summary": "搭载第五代 Snapdragon 8 Gen5 Supreme，定位高性能电竞平板，10 月 28 日发布即开售。",
+          "link": "https://www.ithome.com/1/014/662.htm",
+          "comment": "芯片选用最新 Snapdragon，功耗与性能平衡值得关注。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iQOO Neo12 三色官图发布",
+          "summary": "推出“争锋”“疾影黑”“霜刃蓝”三色，采用国潮未来科技主义设计，10 月 28 日发布即开售。",
+          "link": "https://www.ithome.com/1/014/688.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Redmi K100 流萤绿全新配色官图",
+          "summary": "小米发布 K100 流萤绿配色官图，定档 10 月 27 日发布，继续强化性价比与高刷新率屏幕。",
+          "link": "https://www.ithome.com/1/014/664.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加 Ace 7 系列手机官宣",
+          "summary": "一加宣布本月发布 Ace 7 系列，定位跨代性能旗舰，强调产品力与系统流畅度。",
+          "link": "https://www.ithome.com/1/014/674.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "折叠手机演进：从 Royole FlexPai 到 iPhone Duo",
+          "summary": "回顾现代折叠手机的发展路径，指出 iPhone Duo 可能预示折叠形态的主流化趋势。",
+          "link": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 应用缩放与尺寸问题修复指南",
+          "summary": "提供在 Z Fold 8 上解决应用缩放不当、尺寸错位的实用步骤，提升折叠设备使用体验。",
+          "link": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Watch 侧边橙点含义解析",
+          "summary": "解释 Galaxy Watch 左侧橙点的功能，帮助用户快速辨识系统通知或警示状态。",
+          "link": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "格物通智完成近亿元天使轮融资",
+          "summary": "杭州具身大脑企业格物通智获近亿元融资，投资方包括鸿富资产、匹克投资等，资金将用于物理 AI 与机器人研发，预计扩招研发团队。",
+          "link": "https://www.ithome.com/1/014/652.htm",
+          "comment": "具身智能方向的资本加持，意味着相关岗位需求将上升。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "ISHO AI 睡眠科技生态产品发布会",
+      "summary": "宜休科技创始人王腾官宣首场 AI 睡眠挂件发布会，将于 10 月 29 日 19:00 举行，聚焦 AI 监测与睡眠改善。",
+      "link": "https://www.ithome.com/1/014/650.htm",
+      "comment": "切入健康 AI 市场，适合关注可穿戴与 AI 交互的岗位。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iQOO Pad Pro 8.8 英寸小平板",
+      "summary": "搭载第五代 Snapdragon 8 Gen5 Supreme，定位高性能电竞平板，10 月 28 日发布即开售。",
+      "link": "https://www.ithome.com/1/014/662.htm",
+      "comment": "芯片选用最新 Snapdragon，功耗与性能平衡值得关注。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iQOO Neo12 三色官图发布",
+      "summary": "推出“争锋”“疾影黑”“霜刃蓝”三色，采用国潮未来科技主义设计，10 月 28 日发布即开售。",
+      "link": "https://www.ithome.com/1/014/688.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Redmi K100 流萤绿全新配色官图",
+      "summary": "小米发布 K100 流萤绿配色官图，定档 10 月 27 日发布，继续强化性价比与高刷新率屏幕。",
+      "link": "https://www.ithome.com/1/014/664.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加 Ace 7 系列手机官宣",
+      "summary": "一加宣布本月发布 Ace 7 系列，定位跨代性能旗舰，强调产品力与系统流畅度。",
+      "link": "https://www.ithome.com/1/014/674.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "折叠手机演进：从 Royole FlexPai 到 iPhone Duo",
+      "summary": "回顾现代折叠手机的发展路径，指出 iPhone Duo 可能预示折叠形态的主流化趋势。",
+      "link": "https://www.engadget.com/2286505/how-modern-foldable-phone-evolved-from-royole-flexpai-to-iphone-duo/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 应用缩放与尺寸问题修复指南",
+      "summary": "提供在 Z Fold 8 上解决应用缩放不当、尺寸错位的实用步骤，提升折叠设备使用体验。",
+      "link": "https://www.engadget.com/2286431/how-to-fix-scaling-app-size-issues-samsung-galaxy-z-fold-8/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Watch 侧边橙点含义解析",
+      "summary": "解释 Galaxy Watch 左侧橙点的功能，帮助用户快速辨识系统通知或警示状态。",
+      "link": "https://www.engadget.com/2287060/samsung-galaxy-watch-orange-dot-meaning/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "格物通智完成近亿元天使轮融资",
+      "summary": "杭州具身大脑企业格物通智获近亿元融资，投资方包括鸿富资产、匹克投资等，资金将用于物理 AI 与机器人研发，预计扩招研发团队。",
+      "link": "https://www.ithome.com/1/014/652.htm",
+      "comment": "具身智能方向的资本加持，意味着相关岗位需求将上升。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 20.4
+}
