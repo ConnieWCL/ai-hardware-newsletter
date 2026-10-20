@@ -1,0 +1,212 @@
+{
+  "date": "2026-10-20",
+  "mode": "llm",
+  "candidates": 97,
+  "overview": [
+    "[国内] Omdia 预警：2026Q3 印度手机出货量跌 26%，三星抢夺销量冠军。",
+    "[国外] 苹果将在 10 月 28 日发布 iPad mini 高刷新率版和首款触屏 MacBook Pro。",
+    "[国内] 一加 Ace 7 系列搭载双风扇散热，针对高负载游戏场景。",
+    "[国外] NVIDIA Vera CPU 首获 AI 初创公司 Modal 订单，冲击 Intel/AMD 市场。"
+  ],
+  "sections": [
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "一加 Ace 7 系列手机风扇设计公布",
+          "summary": "搭载双风扇主动散热，一路吹芯片一路吹后盖，提升长时间游戏散热表现。",
+          "link": "https://www.ithome.com/1/015/245.htm",
+          "comment": "针对高性能游戏用户，散热方案差异化明显。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "奇瑞紫微芯片首秀：三大系列、五大封装，8 英寸晶圆进入量产",
+          "summary": "包括 C 系列中央计算芯片和 S 系列车规级碳化硅芯片，标志中国芯片制造进入新阶段。",
+          "link": "https://www.ithome.com/1/015/216.htm",
+          "comment": "车规级硅芯片有望提升国产汽车智能化水平。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "今日宜休首款智能戒指 ISHO Ring 发布",
+          "summary": "镶嵌蓝宝石玻璃的 AI 睡眠戒指，提供睡眠监测与健康提醒功能。",
+          "link": "https://www.ithome.com/1/015/111.htm",
+          "comment": "AI 可穿戴设备进入细分市场，具备潜在增长空间。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果 iPad mini 将配备高刷新率屏幕",
+          "summary": "iPad mini 在即将到来的发布会上将采用 120Hz 刷新率，提升交互流畅度。",
+          "link": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "高刷提升轻薄平板的使用体验，抢占高端市场。",
+          "source": "ifanr",
+          "region": "国外"
+        },
+        {
+          "title": "苹果将于 10 月 28 日发布触屏 MacBook Pro",
+          "summary": "MacBook Pro 预计配备全新触控屏，进一步融合笔记本与平板功能。",
+          "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+          "comment": "触屏笔记本是苹果对 Windows 超薄二合一的直接回应。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy S27 Ultra 曝出横向矩阵后摄方案",
+          "summary": "新机采用横向矩阵摄像头模组，兼容 S26 Ultra 玻璃保护膜。",
+          "link": "https://www.ithome.com/1/015/209.htm",
+          "comment": "摄像头布局创新，提升光学中心一致性。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "NVIDIA Vera CPU 获 AI 初创公司 Modal 订单",
+          "summary": "Vera CPU 成为 Modal 的核心处理器，标志 NVIDIA 开始进入传统 CPU 市场。",
+          "link": "https://www.ithome.com/1/015/228.htm",
+          "comment": "对抗 Intel、AMD 的布局进一步深化。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPhone Duo 电池容量超 Galaxy Z Fold 8 与 Pixel 11 Pro Fold",
+          "summary": "iPhone Duo 采用更大电池，虽更厚重但续航优势明显。",
+          "link": "https://9to5google.com/2026/10/19/iphone-duo-battery-comparison/",
+          "comment": "续航成为折叠屏竞争的关键差异点。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "苹果锁定台积电 1.4 纳米产能，2028 款 iPhone 将首批使用",
+          "summary": "苹果提前预订 1.4nm 工艺，计划在 2028 年推出搭载该工艺的 A 系列芯片机型。",
+          "link": "https://www.ithome.com/1/015/201.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "AI 助手初创公司 Town 获得独角兽估值",
+          "summary": "Town 完成 1.08亿美元 B 轮融资，估值突破 10 亿美元，预计大幅扩招研发团队。",
+          "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+          "comment": "高估值暗示 AI 助手人才需求激增。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "端侧 AI 客户付费动因分析：五位一线操盘手解读",
+          "summary": "从数据安全、24 小时运行、低延迟等角度阐述企业为何在端侧 AI 上投入预算。",
+          "link": "http://www.geekpark.net/news/372578",
+          "comment": "端侧 AI 需求上升将带动芯片、系统集成岗位招聘。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "一加 Ace 7 系列手机风扇设计公布",
+      "summary": "搭载双风扇主动散热，一路吹芯片一路吹后盖，提升长时间游戏散热表现。",
+      "link": "https://www.ithome.com/1/015/245.htm",
+      "comment": "针对高性能游戏用户，散热方案差异化明显。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "奇瑞紫微芯片首秀：三大系列、五大封装，8 英寸晶圆进入量产",
+      "summary": "包括 C 系列中央计算芯片和 S 系列车规级碳化硅芯片，标志中国芯片制造进入新阶段。",
+      "link": "https://www.ithome.com/1/015/216.htm",
+      "comment": "车规级硅芯片有望提升国产汽车智能化水平。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "今日宜休首款智能戒指 ISHO Ring 发布",
+      "summary": "镶嵌蓝宝石玻璃的 AI 睡眠戒指，提供睡眠监测与健康提醒功能。",
+      "link": "https://www.ithome.com/1/015/111.htm",
+      "comment": "AI 可穿戴设备进入细分市场，具备潜在增长空间。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果 iPad mini 将配备高刷新率屏幕",
+      "summary": "iPad mini 在即将到来的发布会上将采用 120Hz 刷新率，提升交互流畅度。",
+      "link": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "高刷提升轻薄平板的使用体验，抢占高端市场。",
+      "source": "ifanr",
+      "region": "国外"
+    },
+    {
+      "title": "苹果将于 10 月 28 日发布触屏 MacBook Pro",
+      "summary": "MacBook Pro 预计配备全新触控屏，进一步融合笔记本与平板功能。",
+      "link": "https://www.theverge.com/tech/1013028/apple-second-october-product-launch-announcement",
+      "comment": "触屏笔记本是苹果对 Windows 超薄二合一的直接回应。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy S27 Ultra 曝出横向矩阵后摄方案",
+      "summary": "新机采用横向矩阵摄像头模组，兼容 S26 Ultra 玻璃保护膜。",
+      "link": "https://www.ithome.com/1/015/209.htm",
+      "comment": "摄像头布局创新，提升光学中心一致性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "NVIDIA Vera CPU 获 AI 初创公司 Modal 订单",
+      "summary": "Vera CPU 成为 Modal 的核心处理器，标志 NVIDIA 开始进入传统 CPU 市场。",
+      "link": "https://www.ithome.com/1/015/228.htm",
+      "comment": "对抗 Intel、AMD 的布局进一步深化。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 电池容量超 Galaxy Z Fold 8 与 Pixel 11 Pro Fold",
+      "summary": "iPhone Duo 采用更大电池，虽更厚重但续航优势明显。",
+      "link": "https://9to5google.com/2026/10/19/iphone-duo-battery-comparison/",
+      "comment": "续航成为折叠屏竞争的关键差异点。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "苹果锁定台积电 1.4 纳米产能，2028 款 iPhone 将首批使用",
+      "summary": "苹果提前预订 1.4nm 工艺，计划在 2028 年推出搭载该工艺的 A 系列芯片机型。",
+      "link": "https://www.ithome.com/1/015/201.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "AI 助手初创公司 Town 获得独角兽估值",
+      "summary": "Town 完成 1.08亿美元 B 轮融资，估值突破 10 亿美元，预计大幅扩招研发团队。",
+      "link": "https://techcrunch.com/2026/10/19/ai-assistant-startup-town-nabs-unicorn-valuation-four-months-after-launch/",
+      "comment": "高估值暗示 AI 助手人才需求激增。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "端侧 AI 客户付费动因分析：五位一线操盘手解读",
+      "summary": "从数据安全、24 小时运行、低延迟等角度阐述企业为何在端侧 AI 上投入预算。",
+      "link": "http://www.geekpark.net/news/372578",
+      "comment": "端侧 AI 需求上升将带动芯片、系统集成岗位招聘。",
+      "source": "geekpark",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 27.0
+}
