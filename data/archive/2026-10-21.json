@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-21",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 今日宜休发布首款智能戒指 ISHO Ring，搭载业界最强 MCU，彰显中国可穿戴硬件创新。",
+    "[国外] 苹果 iPhone Duo 折叠屏抢购一分即空，显示高端折叠手机需求旺盛。",
+    "[国外] Apple iPad mini 首次配备 120Hz 高刷，MacBook 触屏传闻引发期待。",
+    "[国外] Samsung Galaxy S26 Ultra 大幅降价，Fold 5 与 Flip 5 全球推 One UI 9。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "ISHO Ring 智能戒指发布",
+          "summary": "今日宜休推出 ISHO Ring，采用全球性能最强 MCU，支持 AI 睡眠监测与健康管理，定位高端可穿戴市场。",
+          "link": "https://www.ithome.com/1/015/695.htm",
+          "comment": "国产高性能芯片加持，具备国际竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Snap Specs AR 眼镜获铁人侠代言",
+          "summary": "Snap 与 Robert Downey Jr. 合作推广 Specs AR 眼镜，强调沉浸式 AR 体验与社交功能。",
+          "link": "https://9to5google.com/2026/10/20/iron-man-now-officially-endorses-snap-specs/",
+          "comment": "明星效应助推 AR 硬件商业化。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 折叠屏首发抢购",
+          "summary": "苹果首款折叠 iPhone Duo 于 10 月 16 日预售，首分钟全型号售罄，显示高端折叠手机市场热度。",
+          "link": "https://www.ithome.com/1/015/665.htm",
+          "comment": "供应链压力大，后续产能仍是关键。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPad mini 配备 120Hz 高刷新率",
+          "summary": "iPad mini 在最新发布会上首次搭载 120Hz 刷新屏，提升交互流畅度，定位轻薄高性能平板。",
+          "link": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "刷新率提升有望吸引内容创作者。",
+          "source": "ifanr",
+          "region": "国外"
+        },
+        {
+          "title": "MacBook 触屏概念曝光",
+          "summary": "传闻 Apple 将在下周发布触屏 MacBook Pro，可能采用可折叠 OLED 屏幕，实现笔记本与平板二合一。",
+          "link": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/",
+          "comment": "若实现，将冲击传统笔记本市场格局。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy S26 Ultra 大幅降价",
+          "summary": "Samsung 将 Galaxy S26 Ultra 价格下调 $455，促销力度大，提升高端 Android 市场竞争力。",
+          "link": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
+          "comment": "价格策略或拉低高端手机利润率。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Fold 5 与 Flip 5 全球推 One UI 9",
+          "summary": "Samsung 为 Galaxy Z Fold 5 与 Flip 5 推出 One UI 9，优化折叠体验并统一软件生态。",
+          "link": "https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/",
+          "comment": "软件统一有助提升用户使用黏性。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple M4 芯片驱动 MacBook Air 游戏性能突破",
+          "summary": "基于 M4 芯片的 MacBook Air 能以 90 帧运行《塞尔达传说：王国之泪》，展示 Apple Silicon 在高帧率游戏上的潜力。",
+          "link": "https://www.ithome.com/1/015/694.htm",
+          "comment": "M 系列芯片继续领跑功耗与性能平衡。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "印度运营商 Jio 启动 32 亿美元 IPO",
+          "summary": "Jio 在印度首次公开募股，计划融资 32 亿美元，预计将扩大网络建设并招聘大量技术人才。",
+          "link": "https://www.ithome.com/1/015/754.htm",
+          "comment": "大规模融资暗示后续招聘高峰，值得关注。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "ISHO Ring 智能戒指发布",
+      "summary": "今日宜休推出 ISHO Ring，采用全球性能最强 MCU，支持 AI 睡眠监测与健康管理，定位高端可穿戴市场。",
+      "link": "https://www.ithome.com/1/015/695.htm",
+      "comment": "国产高性能芯片加持，具备国际竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Snap Specs AR 眼镜获铁人侠代言",
+      "summary": "Snap 与 Robert Downey Jr. 合作推广 Specs AR 眼镜，强调沉浸式 AR 体验与社交功能。",
+      "link": "https://9to5google.com/2026/10/20/iron-man-now-officially-endorses-snap-specs/",
+      "comment": "明星效应助推 AR 硬件商业化。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 折叠屏首发抢购",
+      "summary": "苹果首款折叠 iPhone Duo 于 10 月 16 日预售，首分钟全型号售罄，显示高端折叠手机市场热度。",
+      "link": "https://www.ithome.com/1/015/665.htm",
+      "comment": "供应链压力大，后续产能仍是关键。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPad mini 配备 120Hz 高刷新率",
+      "summary": "iPad mini 在最新发布会上首次搭载 120Hz 刷新屏，提升交互流畅度，定位轻薄高性能平板。",
+      "link": "https://www.ifanr.com/1684978?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "刷新率提升有望吸引内容创作者。",
+      "source": "ifanr",
+      "region": "国外"
+    },
+    {
+      "title": "MacBook 触屏概念曝光",
+      "summary": "传闻 Apple 将在下周发布触屏 MacBook Pro，可能采用可折叠 OLED 屏幕，实现笔记本与平板二合一。",
+      "link": "https://www.engadget.com/2292117/apple-pro-and-tell-event-october-28-what-to-expect/",
+      "comment": "若实现，将冲击传统笔记本市场格局。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy S26 Ultra 大幅降价",
+      "summary": "Samsung 将 Galaxy S26 Ultra 价格下调 $455，促销力度大，提升高端 Android 市场竞争力。",
+      "link": "https://9to5google.com/2026/10/20/deals-galaxy-s26-ultra-tcl-android-tab-magnetic-chargers/",
+      "comment": "价格策略或拉低高端手机利润率。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Fold 5 与 Flip 5 全球推 One UI 9",
+      "summary": "Samsung 为 Galaxy Z Fold 5 与 Flip 5 推出 One UI 9，优化折叠体验并统一软件生态。",
+      "link": "https://www.androidauthority.com/galaxy-z-fold-5-flip-5-one-ui-9-global-rollout-3725729/",
+      "comment": "软件统一有助提升用户使用黏性。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Apple M4 芯片驱动 MacBook Air 游戏性能突破",
+      "summary": "基于 M4 芯片的 MacBook Air 能以 90 帧运行《塞尔达传说：王国之泪》，展示 Apple Silicon 在高帧率游戏上的潜力。",
+      "link": "https://www.ithome.com/1/015/694.htm",
+      "comment": "M 系列芯片继续领跑功耗与性能平衡。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "印度运营商 Jio 启动 32 亿美元 IPO",
+      "summary": "Jio 在印度首次公开募股，计划融资 32 亿美元，预计将扩大网络建设并招聘大量技术人才。",
+      "link": "https://www.ithome.com/1/015/754.htm",
+      "comment": "大规模融资暗示后续招聘高峰，值得关注。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 18.8
+}
