@@ -1,0 +1,180 @@
+{
+  "date": "2026-10-22",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为双十一焕新季全场景新品发布会将于10月28日揭晓，预计发布多款AI+硬件新品。",
+    "[国内] 小米REDMI Book 2027系列笔记本将于10月27日发布，搭载第三代英特尔酷睿平台与72Wh大电池。",
+    "[国外] Flapping Airplanes完成10亿美元A轮融资，估值6亿美元，布局AI硬件研发。",
+    "[国外] Apple iPhone Duo折叠手机铰链经3.2万次折叠仍保持手感，展示高可靠性。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "INMO GO3 智能眼镜",
+          "summary": "搭载显示屏和Gemini AI，提供AI翻译、实时字幕等功能，并加入摄像头隐私遮挡设计。",
+          "link": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+          "comment": "面向高端AR市场，强调隐私与AI交互。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Snap SPECS AR 体验",
+          "summary": "Snap邀请Robert Downey Jr.合作开发SPECS AR内容平台，聚焦沉浸式互动与品牌营销。",
+          "link": "https://roadtovr.com/robert-downey-jr-snap-specs-iron-man/",
+          "comment": "利用明星效应提升AR内容生态。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "RayNeo Pocket TV Pro 智能眼镜",
+          "summary": "基于Google TV平台的口袋式AR眼镜，提供流媒体观看功能，但受限于平台兼容性。",
+          "link": "https://9to5google.com/2026/10/21/google-tv-powers-the-rayneo-pocket-tv-pro-glasses-and-thats-exactly-the-problem/",
+          "comment": "将电视内容搬到眼镜，创新但生态仍待完善。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为双十一焕新季全场景新品发布会预告",
+          "summary": "华为将在10月28日14:30发布全场景AI硬件新品，涵盖智能手机、可穿戴及IoT产品。",
+          "link": "https://www.ithome.com/1/016/192.htm",
+          "comment": "华为继续布局全场景AI生态，值得关注。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 REDMI Book 2027 系列笔记本",
+          "summary": "10月27日发布，搭载第3代英特尔酷睿，配72Wh大电池，定位移动办公高续航。",
+          "link": "https://www.ithome.com/1/016/197.htm",
+          "comment": "续航与性能兼顾，抢占轻薄本市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Apple iPhone Duo 铰链耐用性测试",
+          "summary": "《华尔街日报》记者使用定制折叠装置，约3.2万次折叠后手感仍如新。",
+          "link": "https://www.ithome.com/1/016/194.htm",
+          "comment": "折叠手机可靠性提升，提升用户信心。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 首款折叠手机评测",
+          "summary": "重量大、价格高，但提供一流的折叠体验与生态兼容，定位高端iPhone用户。",
+          "link": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+          "comment": "苹果首次进军折叠市场，开启新竞争格局。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Oppo Find X10 Pro Max 评测",
+          "summary": "配备三颗200MP摄像头，性能强劲但创新不足，定位高端安卓旗舰。",
+          "link": "https://www.engadget.com/2291445/oppo-find-x10-pro-max-hands-on/",
+          "comment": "摄像头升级显著，仍缺差异化。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Flapping Airplanes 完成 10 亿美元 A 轮融资",
+          "summary": "该 AI 实验室专注于边缘AI硬件研发，融资后将扩充研发团队。",
+          "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+          "comment": "大额融资预示AI硬件赛道加速。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "INMO GO3 智能眼镜",
+      "summary": "搭载显示屏和Gemini AI，提供AI翻译、实时字幕等功能，并加入摄像头隐私遮挡设计。",
+      "link": "https://9to5google.com/2026/10/21/inmo-go3-smart-glasses-pack-a-display-and-gemini-integration-with-clever-camera-privacy/",
+      "comment": "面向高端AR市场，强调隐私与AI交互。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Snap SPECS AR 体验",
+      "summary": "Snap邀请Robert Downey Jr.合作开发SPECS AR内容平台，聚焦沉浸式互动与品牌营销。",
+      "link": "https://roadtovr.com/robert-downey-jr-snap-specs-iron-man/",
+      "comment": "利用明星效应提升AR内容生态。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "RayNeo Pocket TV Pro 智能眼镜",
+      "summary": "基于Google TV平台的口袋式AR眼镜，提供流媒体观看功能，但受限于平台兼容性。",
+      "link": "https://9to5google.com/2026/10/21/google-tv-powers-the-rayneo-pocket-tv-pro-glasses-and-thats-exactly-the-problem/",
+      "comment": "将电视内容搬到眼镜，创新但生态仍待完善。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "华为双十一焕新季全场景新品发布会预告",
+      "summary": "华为将在10月28日14:30发布全场景AI硬件新品，涵盖智能手机、可穿戴及IoT产品。",
+      "link": "https://www.ithome.com/1/016/192.htm",
+      "comment": "华为继续布局全场景AI生态，值得关注。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 REDMI Book 2027 系列笔记本",
+      "summary": "10月27日发布，搭载第3代英特尔酷睿，配72Wh大电池，定位移动办公高续航。",
+      "link": "https://www.ithome.com/1/016/197.htm",
+      "comment": "续航与性能兼顾，抢占轻薄本市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 铰链耐用性测试",
+      "summary": "《华尔街日报》记者使用定制折叠装置，约3.2万次折叠后手感仍如新。",
+      "link": "https://www.ithome.com/1/016/194.htm",
+      "comment": "折叠手机可靠性提升，提升用户信心。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 首款折叠手机评测",
+      "summary": "重量大、价格高，但提供一流的折叠体验与生态兼容，定位高端iPhone用户。",
+      "link": "https://www.engadget.com/2292333/apple-iphone-duo-review/",
+      "comment": "苹果首次进军折叠市场，开启新竞争格局。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Oppo Find X10 Pro Max 评测",
+      "summary": "配备三颗200MP摄像头，性能强劲但创新不足，定位高端安卓旗舰。",
+      "link": "https://www.engadget.com/2291445/oppo-find-x10-pro-max-hands-on/",
+      "comment": "摄像头升级显著，仍缺差异化。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Flapping Airplanes 完成 10 亿美元 A 轮融资",
+      "summary": "该 AI 实验室专注于边缘AI硬件研发，融资后将扩充研发团队。",
+      "link": "https://techcrunch.com/2026/10/21/year-old-ai-lab-flapping-airplanes-raises-1b-at-a-6b-valuation/",
+      "comment": "大额融资预示AI硬件赛道加速。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 19.2
+}
