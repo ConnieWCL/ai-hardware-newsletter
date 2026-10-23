@@ -1,0 +1,228 @@
+{
+  "date": "2026-10-23",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为阔折叠手机出货破321万，Pura X Max 环比增长38%。",
+    "[国外] iPhone Duo 国行售价15,999元起，开启折叠手机新赛道。",
+    "[国内] 华为畅享100系列将于10月28日发布，搭载麒麟8平台大电池。",
+    "[国内] 小米REDMI首款耳夹式耳机Clip Neo 5.3g单耳轻量化。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "千问AI眼镜N1 Pro",
+          "summary": "44克轻量眼镜，支持自动录音、心率提醒、翻译等AI功能，售价1099元起。",
+          "link": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+          "comment": "AI眼镜进入消费级，适合AI硬件岗位关注。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "XREAL Aura AR眼镜",
+          "summary": "Google VR工作室推出的轻量AR眼镜，配合XREAL Aura实现高质量混合现实显示。",
+          "link": "https://roadtovr.com/google-vr-studio-arcade-blaster-xreal-aura/",
+          "comment": "AR硬件生态逐步成熟，值得关注跨平台开发。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Android XR 眼镜",
+          "summary": "三星新款XR眼镜采用Android系统，外形更接近Apple Watch，定位消费娱乐。",
+          "link": "https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/",
+          "comment": "竞争加剧，硬件与内容协同成为关键。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为畅享100系列",
+          "summary": "10月28日发布，搭载麒麟8平台，配备巨鲸大电池，定位中低端性价比手机。",
+          "link": "https://www.ithome.com/1/016/815.htm",
+          "comment": "麒麟8平台展示国产芯片进步。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米REDMI Clip Neo耳机",
+          "summary": "首款耳夹式耳机，单耳重5.3克，支持左右耳随意佩戴，10月27日发布。",
+          "link": "https://www.ithome.com/1/016/813.htm",
+          "comment": "轻量化设计切入入耳式耳机细分市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为阔折叠手机出货量突破",
+          "summary": "截至10月21日，阔折叠手机累计出货321万台，Pura X Max 环比增长38%。",
+          "link": "https://www.ithome.com/1/016/908.htm",
+          "comment": "折叠屏仍是华为重要增长点。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 国行定价发布",
+          "summary": "苹果首款折叠手机iPhone Duo在中国售价15,999元起，开启折叠手机新赛道。",
+          "link": "https://www.ithome.com/1/016/885.htm",
+          "comment": "苹果进入折叠市场，对国内供应链有连锁影响。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 销量激增",
+          "summary": "iPhone Duo发布周内，Samsung Fold搜索量飙升460%，销量创历史新高。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-sales-surge-apple-iphone-duo-3726706/",
+          "comment": "折叠手机竞争加剧，市场份额争夺激烈。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z8 销售受iPhone Duo提振",
+          "summary": "多篇报道指出iPhone Duo的热度直接带动Samsung Galaxy Z8销量增长。",
+          "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+          "comment": "跨品牌效应显现，折叠生态整体受益。",
+          "source": "arstechnica",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 下一代原型尝试内置Face ID",
+          "summary": "苹果首代折叠机放弃Face ID，最新原型已尝试重新集成该功能。",
+          "link": "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
+          "comment": "技术迭代快速，关注传感器布局创新。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 重申 Galaxy Z Fold 8 成功",
+          "summary": "Samsung在英国官方渠道再次确认Z Fold 8系列热销，并受iPhone Duo关注。",
+          "link": "https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/",
+          "comment": "官方宣传强化品牌竞争力。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "DeepSeek 完成千亿元人民币新一轮融资",
+          "summary": "AI初创DeepSeek获150亿美元融资，联想系投资者入局，预计将扩大研发团队。",
+          "link": "https://www.ithome.com/1/016/875.htm",
+          "comment": "大额融资暗示招聘需求上升，AI硬件岗位机会增多。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "千问AI眼镜N1 Pro",
+      "summary": "44克轻量眼镜，支持自动录音、心率提醒、翻译等AI功能，售价1099元起。",
+      "link": "https://www.leiphone.com/category/weiwu/ft2h4iM9MlbukXOj.html",
+      "comment": "AI眼镜进入消费级，适合AI硬件岗位关注。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "XREAL Aura AR眼镜",
+      "summary": "Google VR工作室推出的轻量AR眼镜，配合XREAL Aura实现高质量混合现实显示。",
+      "link": "https://roadtovr.com/google-vr-studio-arcade-blaster-xreal-aura/",
+      "comment": "AR硬件生态逐步成熟，值得关注跨平台开发。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Android XR 眼镜",
+      "summary": "三星新款XR眼镜采用Android系统，外形更接近Apple Watch，定位消费娱乐。",
+      "link": "https://www.androidauthority.com/samsung-xr-glasses-hype-3721541/",
+      "comment": "竞争加剧，硬件与内容协同成为关键。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "华为畅享100系列",
+      "summary": "10月28日发布，搭载麒麟8平台，配备巨鲸大电池，定位中低端性价比手机。",
+      "link": "https://www.ithome.com/1/016/815.htm",
+      "comment": "麒麟8平台展示国产芯片进步。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米REDMI Clip Neo耳机",
+      "summary": "首款耳夹式耳机，单耳重5.3克，支持左右耳随意佩戴，10月27日发布。",
+      "link": "https://www.ithome.com/1/016/813.htm",
+      "comment": "轻量化设计切入入耳式耳机细分市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为阔折叠手机出货量突破",
+      "summary": "截至10月21日，阔折叠手机累计出货321万台，Pura X Max 环比增长38%。",
+      "link": "https://www.ithome.com/1/016/908.htm",
+      "comment": "折叠屏仍是华为重要增长点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 国行定价发布",
+      "summary": "苹果首款折叠手机iPhone Duo在中国售价15,999元起，开启折叠手机新赛道。",
+      "link": "https://www.ithome.com/1/016/885.htm",
+      "comment": "苹果进入折叠市场，对国内供应链有连锁影响。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 销量激增",
+      "summary": "iPhone Duo发布周内，Samsung Fold搜索量飙升460%，销量创历史新高。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-sales-surge-apple-iphone-duo-3726706/",
+      "comment": "折叠手机竞争加剧，市场份额争夺激烈。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z8 销售受iPhone Duo提振",
+      "summary": "多篇报道指出iPhone Duo的热度直接带动Samsung Galaxy Z8销量增长。",
+      "link": "https://arstechnica.com/gadgets/2026/10/samsung-all-but-confirms-iphone-duo-is-goosing-galaxy-z8-sales/",
+      "comment": "跨品牌效应显现，折叠生态整体受益。",
+      "source": "arstechnica",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 下一代原型尝试内置Face ID",
+      "summary": "苹果首代折叠机放弃Face ID，最新原型已尝试重新集成该功能。",
+      "link": "https://www.engadget.com/2294041/iphone-duos-next-gen-prototypes-are-trying-to-cram-in-face-id/",
+      "comment": "技术迭代快速，关注传感器布局创新。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 重申 Galaxy Z Fold 8 成功",
+      "summary": "Samsung在英国官方渠道再次确认Z Fold 8系列热销，并受iPhone Duo关注。",
+      "link": "https://9to5google.com/2026/10/22/galaxy-z-fold-8-hit-iphone-duo-boost/",
+      "comment": "官方宣传强化品牌竞争力。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "DeepSeek 完成千亿元人民币新一轮融资",
+      "summary": "AI初创DeepSeek获150亿美元融资，联想系投资者入局，预计将扩大研发团队。",
+      "link": "https://www.ithome.com/1/016/875.htm",
+      "comment": "大额融资暗示招聘需求上升，AI硬件岗位机会增多。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 18.5
+}
