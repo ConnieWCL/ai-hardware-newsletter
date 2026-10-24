@@ -1,0 +1,147 @@
+{
+  "date": "2026-10-24",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为 Mate 90 系列激活销量突破 52.8 万，连续多周领跑国产旗舰。",
+    "[国外] 苹果首款折叠 iPhone Duo 已正式交付，全球限购每人 2 台，现场提供 eSIM 激活。",
+    "[国外] 智能戒指领域专利争夺升级，Oura 再次起诉 Ultrahuman 侵权。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Oura 再次起诉 Ultrahuman 侵犯智能戒指专利",
+          "summary": "Oura 指控 Ultrahuman 的 Ring Pro 侵犯其两项智能戒指专利，诉讼在美国德克萨斯联邦法院提起，可能影响智能戒指市场格局。",
+          "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+          "comment": "专利争夺加剧，行业招聘将倾向有专利布局的公司。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate 90 系列上线全新睿影 XMAGE 影像服务",
+          "summary": "Mate 90 系列新增 AI 一键成片、智慧修图、3D 动态照片等功能，提升人像柔光表现。",
+          "link": "https://www.ithome.com/1/017/295.htm",
+          "comment": "AI 影像升级是华为差异化竞争关键。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 首发交付，全球限购每人 2 台，Apple Store 现场提供 eSIM 激活",
+          "summary": "苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日正式交付用户，首批订单预计 1 月送达，所有 Apple Store 安排运营商现场办理 eSIM。",
+          "link": "https://www.ithome.com/1/017/306.htm",
+          "comment": "折叠屏进入新阶段，供应链招聘需求将上升。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 首日用户反馈屏幕裂纹及 Safari 控件占位问题",
+          "summary": "首发当天即有用户在社交媒体曝光内屏裂纹，且 Safari 控件占用外屏过大，苹果已启动修复方案。",
+          "link": "https://www.ithome.com/1/017/299.htm",
+          "comment": "质量问题可能影响首批销量。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 首日越狱成功，开启 iOS 27.1 定制体验",
+          "summary": "安全公司 Calif.io 在 iPhone Duo 首发当天演示了对 iOS 27.1 系统的越狱，用户可实现深度定制。",
+          "link": "https://www.ithome.com/1/017/281.htm",
+          "comment": "越狱风险提示用户注意安全。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为 Mate 90 系列激活销量 52.8 万台，连续多周第一",
+          "summary": "第三方机构统计显示，Mate 90 系列自开售 18 天累计激活约 52.8 万台，保持国产旗舰销量榜首。",
+          "link": "https://www.ithome.com/1/017/310.htm",
+          "comment": "销量表现验证了华为在高端 AI 芯片上的竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone Duo 安全隐患：锁屏失效未修复",
+          "summary": "用户发现 iPhone Duo 在 iOS 27.1 版本中锁屏可能失效，官方尚未发布修复补丁。",
+          "link": "https://www.ithome.com/1/017/312.htm",
+          "comment": "安全漏洞可能导致用户信任下降。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Oura 再次起诉 Ultrahuman 侵犯智能戒指专利",
+      "summary": "Oura 指控 Ultrahuman 的 Ring Pro 侵犯其两项智能戒指专利，诉讼在美国德克萨斯联邦法院提起，可能影响智能戒指市场格局。",
+      "link": "https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/",
+      "comment": "专利争夺加剧，行业招聘将倾向有专利布局的公司。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate 90 系列上线全新睿影 XMAGE 影像服务",
+      "summary": "Mate 90 系列新增 AI 一键成片、智慧修图、3D 动态照片等功能，提升人像柔光表现。",
+      "link": "https://www.ithome.com/1/017/295.htm",
+      "comment": "AI 影像升级是华为差异化竞争关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 首发交付，全球限购每人 2 台，Apple Store 现场提供 eSIM 激活",
+      "summary": "苹果首款折叠屏手机 iPhone Duo 于 10 月 23 日正式交付用户，首批订单预计 1 月送达，所有 Apple Store 安排运营商现场办理 eSIM。",
+      "link": "https://www.ithome.com/1/017/306.htm",
+      "comment": "折叠屏进入新阶段，供应链招聘需求将上升。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 首日用户反馈屏幕裂纹及 Safari 控件占位问题",
+      "summary": "首发当天即有用户在社交媒体曝光内屏裂纹，且 Safari 控件占用外屏过大，苹果已启动修复方案。",
+      "link": "https://www.ithome.com/1/017/299.htm",
+      "comment": "质量问题可能影响首批销量。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 首日越狱成功，开启 iOS 27.1 定制体验",
+      "summary": "安全公司 Calif.io 在 iPhone Duo 首发当天演示了对 iOS 27.1 系统的越狱，用户可实现深度定制。",
+      "link": "https://www.ithome.com/1/017/281.htm",
+      "comment": "越狱风险提示用户注意安全。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate 90 系列激活销量 52.8 万台，连续多周第一",
+      "summary": "第三方机构统计显示，Mate 90 系列自开售 18 天累计激活约 52.8 万台，保持国产旗舰销量榜首。",
+      "link": "https://www.ithome.com/1/017/310.htm",
+      "comment": "销量表现验证了华为在高端 AI 芯片上的竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 安全隐患：锁屏失效未修复",
+      "summary": "用户发现 iPhone Duo 在 iOS 27.1 版本中锁屏可能失效，官方尚未发布修复补丁。",
+      "link": "https://www.ithome.com/1/017/312.htm",
+      "comment": "安全漏洞可能导致用户信任下降。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 22.1
+}
