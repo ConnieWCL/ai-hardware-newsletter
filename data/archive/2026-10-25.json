@@ -1,0 +1,207 @@
+{
+  "date": "2026-10-25",
+  "mode": "llm",
+  "candidates": 60,
+  "overview": [
+    "[国内] iPhone Duo 首批交付，用户反馈屏幕耐用性差，出现开裂投诉。",
+    "[国外] Apple 折叠屏 iPhone Duo 通过多款创意 App 展示潜力。",
+    "[国外] Apple 将在下周发布触控 MacBook，或借鉴 Lenovo 触控笔记本经验。",
+    "[国内] 三星计划明年初推出搭载 Exynos 2700 的 Galaxy S27 系列旗舰手机。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 正式交付用户",
+          "summary": "苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日进入交付，首批预购用户将在 1 月收到，零售店同步首发。",
+          "link": "http://www.geekpark.net/news/372858",
+          "comment": "折叠屏进入消费阶段，但后续质量问题需关注。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone Duo 内屏耐用性测试曝光",
+          "summary": "实测显示 iPhone Duo 在展开状态下坐压会导致内屏开裂，用户在开合不到 20 次后出现裂纹。",
+          "link": "https://www.ithome.com/1/017/545.htm",
+          "comment": "质量控制仍是折叠屏的关键瓶颈。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+          "summary": "拆机视频显示 Duo 采用双电池设计，总容量 4883mAh，取消实体 SIM，改为 eSIM，提升防水防尘。",
+          "link": "https://www.ithome.com/1/017/578.htm",
+          "comment": "高容量电池与无卡设计突显苹果对续航与一体化的追求。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "部分手机、平板产品线或停更，成本压力增大",
+          "summary": "业内爆料称多家手机和平板产品线将因成本难以回收而停更，2024 年已出现多起类似案例。",
+          "link": "https://www.ithome.com/1/017/505.htm",
+          "comment": "成本压制可能导致新品迭代放缓，招聘需求受影响。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "三星计划推出搭载 Exynos 2700 的 Galaxy S27 系列",
+          "summary": "三星内部测试显示自研 Exynos 2700 在跑分上已超越高通旗舰芯片，预计明年初上市。",
+          "link": "https://www.ithome.com/1/017/556.htm",
+          "comment": "自研芯片提升供应链安全，对国产供应商是潜在机会。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple 触控 MacBook 可能借鉴 Lenovo 触控笔记本经验",
+          "summary": "The Verge 报道，长久传闻的触控 MacBook 可能在下周发布，设计思路或参考 Lenovo 的触控笔记本。",
+          "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+          "comment": "若实现，将打开笔记本触控新局面，对外设生态有刺激。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "TechCrunch：iPhone Duo 的创意应用展示潜力",
+          "summary": "开发者已推出复古磁带播放器、虚拟笔记本、航班追踪等 App，展示折叠屏多任务与大屏优势。",
+          "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+          "comment": "生态丰富是折叠屏商业化的关键。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "9to5Google：Pixel 系列仍面临折叠屏老问题",
+          "summary": "节目回顾指出，尽管已七年，折叠屏仍普遍存在耐用性、折痕等老问题，iPhone Duo 也未能幸免。",
+          "link": "https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/",
+          "comment": "行业共性问题提示供应链改进空间。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "英国公布 6 亿英镑 AI 投资计划",
+          "summary": "英国政府启动超过 6 亿英镑的 AI 基金，旨在扶持本土 AI 初创企业与研发平台。",
+          "link": "http://www.geekpark.net/news/372860",
+          "comment": "对国内 AI 硬件企业进入欧洲市场提供资金与政策窗口。",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPhone Duo 游戏全屏适配不足引争议",
+          "summary": "《王者荣耀》《原神》暂未适配 Duo 全屏显示，导致大黑边被网友批为“公摊广告位”。",
+          "link": "https://www.ithome.com/1/017/538.htm",
+          "comment": "生态完善仍需时间，开发者支持是关键。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "PayPal 联合创始人批评后乔布斯时代苹果创新不足",
+          "summary": "Peter Thiel 认为自 2011 年乔布斯去世后，苹果缺乏颠覆性新产品。",
+          "link": "https://www.ithome.com/1/017/537.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "iPhone Duo 正式交付用户",
+      "summary": "苹果首款折叠屏手机 iPhone Duo 于 2026 年 10 月 23 日进入交付，首批预购用户将在 1 月收到，零售店同步首发。",
+      "link": "http://www.geekpark.net/news/372858",
+      "comment": "折叠屏进入消费阶段，但后续质量问题需关注。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 内屏耐用性测试曝光",
+      "summary": "实测显示 iPhone Duo 在展开状态下坐压会导致内屏开裂，用户在开合不到 20 次后出现裂纹。",
+      "link": "https://www.ithome.com/1/017/545.htm",
+      "comment": "质量控制仍是折叠屏的关键瓶颈。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 拆解：双电池 4883mAh，无实体 SIM 卡槽",
+      "summary": "拆机视频显示 Duo 采用双电池设计，总容量 4883mAh，取消实体 SIM，改为 eSIM，提升防水防尘。",
+      "link": "https://www.ithome.com/1/017/578.htm",
+      "comment": "高容量电池与无卡设计突显苹果对续航与一体化的追求。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "部分手机、平板产品线或停更，成本压力增大",
+      "summary": "业内爆料称多家手机和平板产品线将因成本难以回收而停更，2024 年已出现多起类似案例。",
+      "link": "https://www.ithome.com/1/017/505.htm",
+      "comment": "成本压制可能导致新品迭代放缓，招聘需求受影响。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "三星计划推出搭载 Exynos 2700 的 Galaxy S27 系列",
+      "summary": "三星内部测试显示自研 Exynos 2700 在跑分上已超越高通旗舰芯片，预计明年初上市。",
+      "link": "https://www.ithome.com/1/017/556.htm",
+      "comment": "自研芯片提升供应链安全，对国产供应商是潜在机会。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 触控 MacBook 可能借鉴 Lenovo 触控笔记本经验",
+      "summary": "The Verge 报道，长久传闻的触控 MacBook 可能在下周发布，设计思路或参考 Lenovo 的触控笔记本。",
+      "link": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "comment": "若实现，将打开笔记本触控新局面，对外设生态有刺激。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "TechCrunch：iPhone Duo 的创意应用展示潜力",
+      "summary": "开发者已推出复古磁带播放器、虚拟笔记本、航班追踪等 App，展示折叠屏多任务与大屏优势。",
+      "link": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "comment": "生态丰富是折叠屏商业化的关键。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "9to5Google：Pixel 系列仍面临折叠屏老问题",
+      "summary": "节目回顾指出，尽管已七年，折叠屏仍普遍存在耐用性、折痕等老问题，iPhone Duo 也未能幸免。",
+      "link": "https://9to5google.com/2026/10/23/pixelated-122-seven-years-late-same-foldable-problems/",
+      "comment": "行业共性问题提示供应链改进空间。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "英国公布 6 亿英镑 AI 投资计划",
+      "summary": "英国政府启动超过 6 亿英镑的 AI 基金，旨在扶持本土 AI 初创企业与研发平台。",
+      "link": "http://www.geekpark.net/news/372860",
+      "comment": "对国内 AI 硬件企业进入欧洲市场提供资金与政策窗口。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPhone Duo 游戏全屏适配不足引争议",
+      "summary": "《王者荣耀》《原神》暂未适配 Duo 全屏显示，导致大黑边被网友批为“公摊广告位”。",
+      "link": "https://www.ithome.com/1/017/538.htm",
+      "comment": "生态完善仍需时间，开发者支持是关键。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "PayPal 联合创始人批评后乔布斯时代苹果创新不足",
+      "summary": "Peter Thiel 认为自 2011 年乔布斯去世后，苹果缺乏颠覆性新产品。",
+      "link": "https://www.ithome.com/1/017/537.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 19.0
+}
