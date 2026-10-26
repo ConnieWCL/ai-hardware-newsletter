@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-26",
+  "mode": "llm",
+  "candidates": 59,
+  "overview": [
+    "[国内] 华为畅享90系列累计发货1000万，展示国产手机强劲需求。",
+    "[国内] 小米平板与18 Fold支持全新WPS for Pad，提升办公生态。",
+    "[国内] OPPO Find X10全新森绿配色上市，强化高端市场竞争。",
+    "[国内] vivo Y600预售，搭载10000mAh大电池，主打长续航。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "AI 可穿戴设备全景",
+          "summary": "TechCrunch列出最新AI可穿戴，包括Muse Charm、Bee、Friend等，聚焦健康监测与交互体验。",
+          "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+          "comment": "AI 生态向硬件渗透加速，适合关注跨平台兼容性。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Ray‑Ban Meta 智能眼镜隐私设置指南",
+          "summary": "Engadget提供四项关键隐私设置，帮助用户在佩戴Ray‑Ban Meta时防止数据泄露。",
+          "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
+          "comment": "隐私争议是智能眼镜商业化的主要障碍。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为畅享90系列累计发货突破1000万",
+          "summary": "上市7个月，华为畅享90系列累计出货1000万台，彰显中低端市场竞争力。",
+          "link": "https://www.ithome.com/1/017/771.htm",
+          "comment": "对求职者而言，华为终端业务仍在快速扩张。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米平板与18 Fold首发WPS for Pad",
+          "summary": "金山办公推出原生平板版WPS for Pad，已在小米应用商城上架，支持小米平板及18 Fold。",
+          "link": "https://www.ithome.com/1/017/815.htm",
+          "comment": "办公软件生态完善，为硬件生态加分。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Find X10 森绿配色发布",
+          "summary": "OPPO推出全新“森绿”配色的Find X10，10月30日开售，起售价5499元。",
+          "link": "https://www.ithome.com/1/017/770.htm",
+          "comment": "差异化配色提升产品辨识度。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo Y600 预售，配备10000mAh 大电池",
+          "summary": "vivo Y600主打万级长续航，标称10000mAh电池，预售价1699元起。",
+          "link": "https://www.ithome.com/1/017/810.htm",
+          "comment": "大容量电池迎合户外与低温场景需求。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "The Verge 拆解 iPhone Duo 揭露裂屏根源",
+          "summary": "iFixit 与 The Verge 对iPhone Duo进行拆解，指出铰链设计与屏幕粘合剂质量问题导致裂纹。",
+          "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+          "comment": "维修难度高，后期服务成本或上升。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Apple AirPods 在非Apple设备上功能受限",
+          "summary": "Engadget指出AirPods在Samsung Galaxy等非Apple设备上只能提供基础音频，失去空间音频等高级功能。",
+          "link": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+          "comment": "生态锁闭仍是Apple硬件的竞争壁垒。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "苹果折叠屏铰链故障排查官方文档发布",
+          "summary": "苹果公开iPhone Duo折叠屏铰链故障排查指南，显示公司已启动内部质量改进。",
+          "link": "http://www.geekpark.net/news/372863",
+          "comment": "技术透明度提升，但仍需硬件层面根本改进。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "英国宣布6亿英镑AI投资计划",
+          "summary": "英国政府公布超过6亿英镑的AI产业投资，预计将带动本地AI硬件研发岗位增长。",
+          "link": "http://www.geekpark.net/news/372860",
+          "comment": "对AI芯片与加速卡人才需求将显著上升。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "AI 可穿戴设备全景",
+      "summary": "TechCrunch列出最新AI可穿戴，包括Muse Charm、Bee、Friend等，聚焦健康监测与交互体验。",
+      "link": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "comment": "AI 生态向硬件渗透加速，适合关注跨平台兼容性。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Ray‑Ban Meta 智能眼镜隐私设置指南",
+      "summary": "Engadget提供四项关键隐私设置，帮助用户在佩戴Ray‑Ban Meta时防止数据泄露。",
+      "link": "https://www.engadget.com/2293112/meta-ray-ban-settings-change-before-wearing/",
+      "comment": "隐私争议是智能眼镜商业化的主要障碍。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "华为畅享90系列累计发货突破1000万",
+      "summary": "上市7个月，华为畅享90系列累计出货1000万台，彰显中低端市场竞争力。",
+      "link": "https://www.ithome.com/1/017/771.htm",
+      "comment": "对求职者而言，华为终端业务仍在快速扩张。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米平板与18 Fold首发WPS for Pad",
+      "summary": "金山办公推出原生平板版WPS for Pad，已在小米应用商城上架，支持小米平板及18 Fold。",
+      "link": "https://www.ithome.com/1/017/815.htm",
+      "comment": "办公软件生态完善，为硬件生态加分。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Find X10 森绿配色发布",
+      "summary": "OPPO推出全新“森绿”配色的Find X10，10月30日开售，起售价5499元。",
+      "link": "https://www.ithome.com/1/017/770.htm",
+      "comment": "差异化配色提升产品辨识度。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo Y600 预售，配备10000mAh 大电池",
+      "summary": "vivo Y600主打万级长续航，标称10000mAh电池，预售价1699元起。",
+      "link": "https://www.ithome.com/1/017/810.htm",
+      "comment": "大容量电池迎合户外与低温场景需求。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "The Verge 拆解 iPhone Duo 揭露裂屏根源",
+      "summary": "iFixit 与 The Verge 对iPhone Duo进行拆解，指出铰链设计与屏幕粘合剂质量问题导致裂纹。",
+      "link": "https://www.theverge.com/tech/1018233/ifixit-iphone-duo-teardown-repairability-hinge",
+      "comment": "维修难度高，后期服务成本或上升。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Apple AirPods 在非Apple设备上功能受限",
+      "summary": "Engadget指出AirPods在Samsung Galaxy等非Apple设备上只能提供基础音频，失去空间音频等高级功能。",
+      "link": "https://www.engadget.com/2293387/features-lost-use-apple-airpods-with-samsung-galaxy-phone/",
+      "comment": "生态锁闭仍是Apple硬件的竞争壁垒。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "苹果折叠屏铰链故障排查官方文档发布",
+      "summary": "苹果公开iPhone Duo折叠屏铰链故障排查指南，显示公司已启动内部质量改进。",
+      "link": "http://www.geekpark.net/news/372863",
+      "comment": "技术透明度提升，但仍需硬件层面根本改进。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "英国宣布6亿英镑AI投资计划",
+      "summary": "英国政府公布超过6亿英镑的AI产业投资，预计将带动本地AI硬件研发岗位增长。",
+      "link": "http://www.geekpark.net/news/372860",
+      "comment": "对AI芯片与加速卡人才需求将显著上升。",
+      "source": "geekpark",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 19.2
+}
