@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-27",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] iPhone Duo 推送 iOS 27.2，新增 Apple Pencil 支持与黑白 Apple Music 设计。",
+    "[国外] Apple 首款折叠 iPhone Duo 屏幕频现裂纹，用户投诉不断。",
+    "[国内] 雷鸟 iO+ AI 眼镜发布，搭载全彩光机，定位消费级 AR。",
+    "[国外] Even Realities G2 智能眼镜更新 Pro 模式，强化知识库功能。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "雷鸟 iO+ 第四代全彩 AI 眼镜",
+          "summary": "消费级 AR 眼镜，配备超小型全彩光机，支持双目全彩显示，定位轻量化智能穿戴。",
+          "link": "https://www.ithome.com/1/018/346.htm",
+          "comment": "国内首批全彩光机 AR 眼镜，具备差异化视觉体验。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Even Realities G2 智能眼镜 Pro 模式更新",
+          "summary": "新增 Conversate Pro 模式和知识库，提升交互智能化，面向企业与消费双重场景。",
+          "link": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+          "comment": "美国公司在智能眼镜软件生态布局加速。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Even Realities 新款智能眼镜系列",
+          "summary": "发布多款新造型与配件，强化时尚属性，兼容现有 G2 硬件平台。",
+          "link": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
+          "comment": "通过外观多样化抢占年轻消费群体。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Ultrahuman 对 Oura Ring Pro 禁售的法律回应",
+          "summary": "美国智能戒指厂商 Ultrahuman 发起诉讼，争取在全球市场继续销售 Ring Pro。",
+          "link": "https://www.androidauthority.com/oura-ultrahuman-ring-pro-lawsuit-response-3728047/",
+          "comment": "智能戒指竞争加剧，法律风险上升。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo iOS 27.2 正式版推送",
+          "summary": "iOS 27.2 为 iPhone Duo 带来 Apple Pencil 支持、黑白版 Apple Music UI 等专属功能。",
+          "link": "https://www.ithome.com/1/018/241.htm",
+          "comment": "虽为美国公司，但面向中国市场的国行更新，影响本土用户体验。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "三星 Galaxy Z Fold8 散热表现优于 iPhone Duo",
+          "summary": "Tom's Guide 实验室 20 分钟压力测试显示，Fold8 散热更佳，折叠手机热管理仍是竞争焦点。",
+          "link": "https://www.ithome.com/1/018/267.htm",
+          "comment": "三星在折叠屏散热技术上保持领先。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 屏幕破裂问题持续发酵",
+          "summary": "多位早期用户反馈折叠屏出现裂纹，TechCrunch 报道苹果已启动换机服务。",
+          "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+          "comment": "质量问题可能影响首代折叠机的市场接受度。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Ollama Mac 版离线 TTS 功能上线",
+          "summary": "本地运行的开源 AI 平台 Ollama 在 macOS 添加离线文本转语音，速度提升最高 35%。",
+          "link": "https://www.ithome.com/1/018/228.htm",
+          "comment": "本地化 AI 推进，降低数据泄露风险。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "DeepSeek 开源算子提升模型运行效率",
+          "summary": "同一模型在同芯片上换用 DeepSeek 优化算子，可实现数倍性能提升，降低 token 成本。",
+          "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+          "comment": "算子层面的创新将成为模型竞争新赛点。",
+          "source": "leiphone",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Anthropic 递交纳斯达克 IPO 申请",
+          "summary": "生成式 AI 独角兽 Anthropic 计划 11 月上市，估值超千亿美元，预计将大幅扩招研发团队。",
+          "link": "https://www.ithome.com/1/018/231.htm",
+          "comment": "AI 领域融资热度持续，人才需求旺盛。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "雷鸟 iO+ 第四代全彩 AI 眼镜",
+      "summary": "消费级 AR 眼镜，配备超小型全彩光机，支持双目全彩显示，定位轻量化智能穿戴。",
+      "link": "https://www.ithome.com/1/018/346.htm",
+      "comment": "国内首批全彩光机 AR 眼镜，具备差异化视觉体验。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Even Realities G2 智能眼镜 Pro 模式更新",
+      "summary": "新增 Conversate Pro 模式和知识库，提升交互智能化，面向企业与消费双重场景。",
+      "link": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "comment": "美国公司在智能眼镜软件生态布局加速。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Even Realities 新款智能眼镜系列",
+      "summary": "发布多款新造型与配件，强化时尚属性，兼容现有 G2 硬件平台。",
+      "link": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
+      "comment": "通过外观多样化抢占年轻消费群体。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Ultrahuman 对 Oura Ring Pro 禁售的法律回应",
+      "summary": "美国智能戒指厂商 Ultrahuman 发起诉讼，争取在全球市场继续销售 Ring Pro。",
+      "link": "https://www.androidauthority.com/oura-ultrahuman-ring-pro-lawsuit-response-3728047/",
+      "comment": "智能戒指竞争加剧，法律风险上升。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo iOS 27.2 正式版推送",
+      "summary": "iOS 27.2 为 iPhone Duo 带来 Apple Pencil 支持、黑白版 Apple Music UI 等专属功能。",
+      "link": "https://www.ithome.com/1/018/241.htm",
+      "comment": "虽为美国公司，但面向中国市场的国行更新，影响本土用户体验。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy Z Fold8 散热表现优于 iPhone Duo",
+      "summary": "Tom's Guide 实验室 20 分钟压力测试显示，Fold8 散热更佳，折叠手机热管理仍是竞争焦点。",
+      "link": "https://www.ithome.com/1/018/267.htm",
+      "comment": "三星在折叠屏散热技术上保持领先。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 屏幕破裂问题持续发酵",
+      "summary": "多位早期用户反馈折叠屏出现裂纹，TechCrunch 报道苹果已启动换机服务。",
+      "link": "https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/",
+      "comment": "质量问题可能影响首代折叠机的市场接受度。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Ollama Mac 版离线 TTS 功能上线",
+      "summary": "本地运行的开源 AI 平台 Ollama 在 macOS 添加离线文本转语音，速度提升最高 35%。",
+      "link": "https://www.ithome.com/1/018/228.htm",
+      "comment": "本地化 AI 推进，降低数据泄露风险。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "DeepSeek 开源算子提升模型运行效率",
+      "summary": "同一模型在同芯片上换用 DeepSeek 优化算子，可实现数倍性能提升，降低 token 成本。",
+      "link": "https://www.leiphone.com/category/industrynews/IaMw7vRrTCadlbCY.html",
+      "comment": "算子层面的创新将成为模型竞争新赛点。",
+      "source": "leiphone",
+      "region": "国外"
+    },
+    {
+      "title": "Anthropic 递交纳斯达克 IPO 申请",
+      "summary": "生成式 AI 独角兽 Anthropic 计划 11 月上市，估值超千亿美元，预计将大幅扩招研发团队。",
+      "link": "https://www.ithome.com/1/018/231.htm",
+      "comment": "AI 领域融资热度持续，人才需求旺盛。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 19.3
+}
