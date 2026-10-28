@@ -1,0 +1,281 @@
+{
+  "date": "2026-10-28",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] vivo 6.85\" 2K+144Hz 大屏旗舰即将曝光，定位高端全能屏幕旗舰。",
+    "[国内] Vivo X500 Pro Max 主打视频拍摄功能，继续强化影像生态。",
+    "[国内] Rokid 推出 Color 与 Glasses 2 AI 眼镜，强调全彩显示与语音交互。",
+    "[国外] Apple iPhone Duo 折叠屏首发，售价 1999 美元，面临屏幕开裂问题。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Rokid AI 眼镜与千问办公合作",
+          "summary": "Rokid AI 眼镜新品发布，用户可通过语音在眼镜上启动千问办公，实现“一句话发起任务”。",
+          "link": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+          "comment": "AI 眼镜与办公软件深度结合，提升移动办公效率。",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Rokid Glasses 2 首发体验",
+          "summary": "Rokid Glasses 2 主打全彩显示与舒适佩戴，针对日常不戴眼镜的用户提供沉浸式 AI 交互。",
+          "link": "https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "全彩+轻量化是其差异化卖点。",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "Rokid Color AI 眼镜评测",
+          "summary": "评测指出全彩显示让 AI 眼镜在日常使用场景下更具可读性，提升用户接受度。",
+          "link": "http://www.leikeji.com/article/80207",
+          "comment": "全彩是突破传统单色 AR 眼镜的关键。",
+          "source": "leikeji",
+          "region": "国内"
+        },
+        {
+          "title": "Even Realities G2 智能眼镜软件更新",
+          "summary": "G2 眼镜新增 Pro Mode 与知识库功能，提升专业场景下的 AI 辅助能力。",
+          "link": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+          "comment": "软件迭代强化了智能眼镜的生产力定位。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Even Realities 新款智能眼镜时尚版发布",
+          "summary": "推出多款新造型与配件，目标覆盖更广泛的消费群体，包括老年用户。",
+          "link": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
+          "comment": "时尚化是提升佩戴率的有效手段。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "vivo S 小迭代 6.85 英寸 2K+144Hz 四等边直屏",
+          "summary": "vivo 预计将推出搭载 6.85\" 2K+144Hz 四等边直屏的工程机，定位高端全能大屏手机。",
+          "link": "https://www.ithome.com/1/018/689.htm",
+          "comment": "大屏高刷新率是提升影音体验的关键。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo X500 Pro Max 摄像功能升级",
+          "summary": "X500 Pro Max 主打视频拍摄技巧，继续深化影像硬件与软件协同。",
+          "link": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+          "comment": "面向内容创作者的差异化卖点。",
+          "source": "engadget",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo 折叠屏首发",
+          "summary": "Apple 首款折叠屏 iPhone Duo 以 1999 美元起售，支持 Apple Pencil，开启折叠屏新纪元。",
+          "link": "http://www.geekpark.net/news/373002",
+          "comment": "高价位与首次折叠屏布局是其核心风险点。",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 屏幕开裂问题",
+          "summary": "上市后 iPhone Duo 屏幕出现开裂，业界担忧设计缺陷是否影响后续销量。",
+          "link": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
+          "comment": "质量问题可能削弱用户信任。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 促销",
+          "summary": "Z Fold 8 与 iPhone Duo 同形态，但保持库存并提供约 200 美元的折扣。",
+          "link": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
+          "comment": "价格优势或帮助其在折叠屏市场抢占份额。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Google Pixel 11 Pro Fold 对比评测",
+          "summary": "Pixel 11 Pro Fold 与 iPhone Duo 在折叠方式、摄像头布局等方面进行对比，突出 Android 生态优势。",
+          "link": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
+          "comment": "竞争格局日趋多元。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Ars Technica 对 iPhone Duo 的深度评测",
+          "summary": "评测认为 iPhone Duo 在体验上具备创新性，但对高价位和屏幕耐用性持保留态度。",
+          "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+          "comment": "专业媒体的中性评价为后续市场走向提供参考。",
+          "source": "arstechnica",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "OpenAI 推出 iCloud Mail 与 Calendar 插件",
+          "summary": "ChatGPT 插件可在获授权后管理苹果 iCloud 邮件和日程，提升 AI 办公能力。",
+          "link": "https://www.ithome.com/1/018/734.htm",
+          "comment": "跨平台 AI 办公的关键一步。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iOS 27.2 与 Apple Pencil 支持 iPhone Duo",
+          "summary": "iOS 27.2 更新加入 Apple Pencil 对 iPhone Duo 的支持，提升折叠屏绘图体验。",
+          "link": "https://www.ithome.com/1/018/722.htm",
+          "comment": "软硬件联动增强折叠屏生态。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "脑虎科技完成 7 亿元 B 轮融资",
+          "summary": "国产脑机接口公司脑虎科技获 7 亿元融资，领投方包括国投聚力、深创投等，预计将扩招研发团队。",
+          "link": "https://www.ithome.com/1/018/733.htm",
+          "comment": "资金注入意味着脑机接口研发岗位将大量增加。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Rokid AI 眼镜与千问办公合作",
+      "summary": "Rokid AI 眼镜新品发布，用户可通过语音在眼镜上启动千问办公，实现“一句话发起任务”。",
+      "link": "https://www.leiphone.com/category/industrynews/NDbYUsVKbYZZxXil.html",
+      "comment": "AI 眼镜与办公软件深度结合，提升移动办公效率。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Rokid Glasses 2 首发体验",
+      "summary": "Rokid Glasses 2 主打全彩显示与舒适佩戴，针对日常不戴眼镜的用户提供沉浸式 AI 交互。",
+      "link": "https://www.ifanr.com/1686154?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "全彩+轻量化是其差异化卖点。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "Rokid Color AI 眼镜评测",
+      "summary": "评测指出全彩显示让 AI 眼镜在日常使用场景下更具可读性，提升用户接受度。",
+      "link": "http://www.leikeji.com/article/80207",
+      "comment": "全彩是突破传统单色 AR 眼镜的关键。",
+      "source": "leikeji",
+      "region": "国内"
+    },
+    {
+      "title": "Even Realities G2 智能眼镜软件更新",
+      "summary": "G2 眼镜新增 Pro Mode 与知识库功能，提升专业场景下的 AI 辅助能力。",
+      "link": "https://9to5google.com/2026/10/26/even-realities-g2-glasses-update-adds-knowledge-based/",
+      "comment": "软件迭代强化了智能眼镜的生产力定位。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Even Realities 新款智能眼镜时尚版发布",
+      "summary": "推出多款新造型与配件，目标覆盖更广泛的消费群体，包括老年用户。",
+      "link": "https://9to5google.com/2026/10/26/even-your-abuelita-will-love-even-realities-new-smart-glasses-styles/",
+      "comment": "时尚化是提升佩戴率的有效手段。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "vivo S 小迭代 6.85 英寸 2K+144Hz 四等边直屏",
+      "summary": "vivo 预计将推出搭载 6.85\" 2K+144Hz 四等边直屏的工程机，定位高端全能大屏手机。",
+      "link": "https://www.ithome.com/1/018/689.htm",
+      "comment": "大屏高刷新率是提升影音体验的关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo X500 Pro Max 摄像功能升级",
+      "summary": "X500 Pro Max 主打视频拍摄技巧，继续深化影像硬件与软件协同。",
+      "link": "https://www.engadget.com/2297022/vivos-x500-pro-max-hands-on/",
+      "comment": "面向内容创作者的差异化卖点。",
+      "source": "engadget",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo 折叠屏首发",
+      "summary": "Apple 首款折叠屏 iPhone Duo 以 1999 美元起售，支持 Apple Pencil，开启折叠屏新纪元。",
+      "link": "http://www.geekpark.net/news/373002",
+      "comment": "高价位与首次折叠屏布局是其核心风险点。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 屏幕开裂问题",
+      "summary": "上市后 iPhone Duo 屏幕出现开裂，业界担忧设计缺陷是否影响后续销量。",
+      "link": "https://9to5google.com/2026/10/26/iphone-duo-broken-screens-galaxy-fold/",
+      "comment": "质量问题可能削弱用户信任。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 促销",
+      "summary": "Z Fold 8 与 iPhone Duo 同形态，但保持库存并提供约 200 美元的折扣。",
+      "link": "https://9to5google.com/2026/10/27/galaxy-z-fold-8-discount-iphone-duo-displays/",
+      "comment": "价格优势或帮助其在折叠屏市场抢占份额。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Google Pixel 11 Pro Fold 对比评测",
+      "summary": "Pixel 11 Pro Fold 与 iPhone Duo 在折叠方式、摄像头布局等方面进行对比，突出 Android 生态优势。",
+      "link": "https://www.engadget.com/2296032/apple-iphone-duo-vs-google-pixel-11-pro-fold/",
+      "comment": "竞争格局日趋多元。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Ars Technica 对 iPhone Duo 的深度评测",
+      "summary": "评测认为 iPhone Duo 在体验上具备创新性，但对高价位和屏幕耐用性持保留态度。",
+      "link": "https://arstechnica.com/gadgets/2026/10/apple-iphone-duo-review-two-screens-two-experiences-two-thousand-dollars/",
+      "comment": "专业媒体的中性评价为后续市场走向提供参考。",
+      "source": "arstechnica",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 推出 iCloud Mail 与 Calendar 插件",
+      "summary": "ChatGPT 插件可在获授权后管理苹果 iCloud 邮件和日程，提升 AI 办公能力。",
+      "link": "https://www.ithome.com/1/018/734.htm",
+      "comment": "跨平台 AI 办公的关键一步。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iOS 27.2 与 Apple Pencil 支持 iPhone Duo",
+      "summary": "iOS 27.2 更新加入 Apple Pencil 对 iPhone Duo 的支持，提升折叠屏绘图体验。",
+      "link": "https://www.ithome.com/1/018/722.htm",
+      "comment": "软硬件联动增强折叠屏生态。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "脑虎科技完成 7 亿元 B 轮融资",
+      "summary": "国产脑机接口公司脑虎科技获 7 亿元融资，领投方包括国投聚力、深创投等，预计将扩招研发团队。",
+      "link": "https://www.ithome.com/1/018/733.htm",
+      "comment": "资金注入意味着脑机接口研发岗位将大量增加。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 23.6
+}
