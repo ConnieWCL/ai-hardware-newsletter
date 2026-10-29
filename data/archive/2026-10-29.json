@@ -1,0 +1,249 @@
+{
+  "date": "2026-10-29",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为全新子品牌星芒首款阔直板手机曝光，6.39英寸、9系芯片，顶配16GB+1TB。",
+    "[国内] vivo启动OriginOS 7第二批公测，16款机型包括X200、iQOO 13等。",
+    "[国内] 苹果发布首款触屏MacBook Pro，起价22999元，最高超11万元。",
+    "[国外] 苹果iPhone Duo首年预计出货500万部，抢占全球折叠手机约25%份额。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "XREAL Aura 智能AR眼镜发布",
+          "summary": "首款运行Android XR系统的有线AR眼镜，配备150+专属XR体验，起售价1279美元，提供200美元首发折扣。",
+          "link": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
+          "comment": "面向高端XR用户，硬件成本高，预示AR生态将加速商业化。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Rokid Glasses 2 AI眼镜",
+          "summary": "全彩AI眼镜，具备高清显示、AI拍照与交互功能，定位日常佩戴，兼顾时尚与智能。",
+          "link": "https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "国内AI眼镜首批量产，提供就业机会，适合AI硬件研发岗位。",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "Rokid Color 全彩AI眼镜评测",
+          "summary": "评测指出全彩显示是AI眼镜的关键突破，提升使用场景与用户接受度。",
+          "link": "http://www.leikeji.com/article/80207",
+          "comment": "技术验证阶段，为后续量产提供参考。",
+          "source": "leikeji",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为星芒阔直板手机首曝",
+          "summary": "6.39英寸屏幕、搭载9系芯片，工程机顶配16GB+1TB，定位高端旗舰。",
+          "link": "https://www.ithome.com/1/019/299.htm",
+          "comment": "华为新子品牌或为AI芯片生态提供更多落地机会。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo OriginOS 7 第二批公测启动",
+          "summary": "包括X200、iQOO 13等16款机型参与，提供系统新特性体验。",
+          "link": "https://www.ithome.com/1/019/321.htm",
+          "comment": "系统升级将带来AI功能深化，值得关注软件团队招聘。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为畅享100手机发布",
+          "summary": "起售价1399元，定位中低端市场，搭载自研AI加速单元。",
+          "link": "https://www.ithome.com/1/019/280.htm",
+          "comment": "大规模量产，供应链招聘需求上升。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款触屏MacBook Pro发布",
+          "summary": "配备PROLED XDR双层OLED屏，起价22999元，最高配置超11万元。",
+          "link": "http://www.geekpark.net/news/373084",
+          "comment": "触控笔记本打开新市场，对高端笔记本供应链有冲击。",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "苹果iPhone Duo折叠手机首年出货预测",
+          "summary": "预计首年出货500万部，占全球折叠手机约24%。",
+          "link": "https://www.ithome.com/1/019/281.htm",
+          "comment": "折叠屏竞争加剧，供应链对柔性OLED需求激增。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 市场表现",
+          "summary": "在iPhone Duo出现后仍保持领先，传出将推出Fold 9 Plus/FE双版本以覆盖更多价位。",
+          "link": "https://www.androidauthority.com/samsung-galaxy-z-fold-9-plus-fe-leak-3728941/",
+          "comment": "多价位布局显示三星在折叠屏生态的深耕。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Switch 2 独占游戏《马力欧卡丁车世界》在 iPhone 18 Pro 演示",
+          "summary": "展示了跨平台运行的可能性，暗示未来游戏与移动端的深度融合。",
+          "link": "https://www.ithome.com/1/019/289.htm",
+          "comment": "对移动GPU性能提出更高要求。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "FuriosaAI 完成新一轮融资，估值升至29亿美元",
+          "summary": "韩国AI芯片初创公司估值翻四倍，目标挑战英伟达在AI加速器市场的领先地位。",
+          "link": "https://www.ithome.com/1/019/329.htm",
+          "comment": "AI芯片竞争加剧，国内企业可关注合作或人才流动。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "苹果 M6 芯片及新 iMac、MacBook Pro 发布",
+          "summary": "M6 采用更高效制程，提升AI计算性能，配合全新OLED显示屏。",
+          "link": "http://www.geekpark.net/news/373085",
+          "comment": "高效能芯片将推动AI本地推理需求。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Upwind 完成4亿美元融资，估值3.8亿美元",
+          "summary": "云安全创业公司放弃以同价收购Datadog，选择融资扩张团队。",
+          "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+          "comment": "融资后预计大规模招聘安全研发岗位。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "XREAL Aura 智能AR眼镜发布",
+      "summary": "首款运行Android XR系统的有线AR眼镜，配备150+专属XR体验，起售价1279美元，提供200美元首发折扣。",
+      "link": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
+      "comment": "面向高端XR用户，硬件成本高，预示AR生态将加速商业化。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Rokid Glasses 2 AI眼镜",
+      "summary": "全彩AI眼镜，具备高清显示、AI拍照与交互功能，定位日常佩戴，兼顾时尚与智能。",
+      "link": "https://www.ifanr.com/1686268?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "国内AI眼镜首批量产，提供就业机会，适合AI硬件研发岗位。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "Rokid Color 全彩AI眼镜评测",
+      "summary": "评测指出全彩显示是AI眼镜的关键突破，提升使用场景与用户接受度。",
+      "link": "http://www.leikeji.com/article/80207",
+      "comment": "技术验证阶段，为后续量产提供参考。",
+      "source": "leikeji",
+      "region": "国内"
+    },
+    {
+      "title": "华为星芒阔直板手机首曝",
+      "summary": "6.39英寸屏幕、搭载9系芯片，工程机顶配16GB+1TB，定位高端旗舰。",
+      "link": "https://www.ithome.com/1/019/299.htm",
+      "comment": "华为新子品牌或为AI芯片生态提供更多落地机会。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo OriginOS 7 第二批公测启动",
+      "summary": "包括X200、iQOO 13等16款机型参与，提供系统新特性体验。",
+      "link": "https://www.ithome.com/1/019/321.htm",
+      "comment": "系统升级将带来AI功能深化，值得关注软件团队招聘。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为畅享100手机发布",
+      "summary": "起售价1399元，定位中低端市场，搭载自研AI加速单元。",
+      "link": "https://www.ithome.com/1/019/280.htm",
+      "comment": "大规模量产，供应链招聘需求上升。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果首款触屏MacBook Pro发布",
+      "summary": "配备PROLED XDR双层OLED屏，起价22999元，最高配置超11万元。",
+      "link": "http://www.geekpark.net/news/373084",
+      "comment": "触控笔记本打开新市场，对高端笔记本供应链有冲击。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "苹果iPhone Duo折叠手机首年出货预测",
+      "summary": "预计首年出货500万部，占全球折叠手机约24%。",
+      "link": "https://www.ithome.com/1/019/281.htm",
+      "comment": "折叠屏竞争加剧，供应链对柔性OLED需求激增。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 市场表现",
+      "summary": "在iPhone Duo出现后仍保持领先，传出将推出Fold 9 Plus/FE双版本以覆盖更多价位。",
+      "link": "https://www.androidauthority.com/samsung-galaxy-z-fold-9-plus-fe-leak-3728941/",
+      "comment": "多价位布局显示三星在折叠屏生态的深耕。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Switch 2 独占游戏《马力欧卡丁车世界》在 iPhone 18 Pro 演示",
+      "summary": "展示了跨平台运行的可能性，暗示未来游戏与移动端的深度融合。",
+      "link": "https://www.ithome.com/1/019/289.htm",
+      "comment": "对移动GPU性能提出更高要求。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "FuriosaAI 完成新一轮融资，估值升至29亿美元",
+      "summary": "韩国AI芯片初创公司估值翻四倍，目标挑战英伟达在AI加速器市场的领先地位。",
+      "link": "https://www.ithome.com/1/019/329.htm",
+      "comment": "AI芯片竞争加剧，国内企业可关注合作或人才流动。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "苹果 M6 芯片及新 iMac、MacBook Pro 发布",
+      "summary": "M6 采用更高效制程，提升AI计算性能，配合全新OLED显示屏。",
+      "link": "http://www.geekpark.net/news/373085",
+      "comment": "高效能芯片将推动AI本地推理需求。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "Upwind 完成4亿美元融资，估值3.8亿美元",
+      "summary": "云安全创业公司放弃以同价收购Datadog，选择融资扩张团队。",
+      "link": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+      "comment": "融资后预计大规模招聘安全研发岗位。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.2
+}
