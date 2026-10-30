@@ -1,0 +1,217 @@
+{
+  "date": "2026-10-30",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] Rokid 推出两款新款智能眼镜，抢占 CES 2027 AR 市场。",
+    "[国内] 新一代无创超声脑机接口技术亮相，或实现长期非侵入式神经调控。",
+    "[国内] 小米澎湃 OS 4 正式版推送至 17 系列，提升 AI 计算与功耗管理。",
+    "[国外] 苹果发布首款触屏 MacBook Pro，配备 PROLED XDR OLED 屏，最高售价 11 万元。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Rokid 推出两款新型智能眼镜，挑战 Meta Ray‑Ban Displays",
+          "summary": "Rokid 在 CES 2027 上发布两款 AR 眼镜，采用自研光学模组和 AI 交互，定位企业与消费双场景，预计 Q1 进入市场。",
+          "link": "https://www.androidauthority.com/rokid-unveils-two-new-smart-glasses-3729627/",
+          "comment": "Rokid 继续布局国内外 AR 市场，招聘硬件研发与算法人才。",
+          "source": "androidauthority",
+          "region": "国内"
+        },
+        {
+          "title": "新一代无创超声脑机接口技术亮相",
+          "summary": "中国科学院深圳先进院等团队展示无需开颅的超声脑机接口，可持续四周干预，或帮助“植物人”恢复意识。",
+          "link": "https://www.ithome.com/1/019/844.htm",
+          "comment": "该技术若商业化，将带动神经接口芯片与系统集成公司招聘。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "XREAL Aura AR 眼镜即将发售，首批提供 150+ XR 体验",
+          "summary": "首款运行 Android XR 系统的有线 AR 眼镜，售价约 1,100 美元，支持多场景沉浸式内容，11 月开启预售并提供 200 美元折扣。",
+          "link": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
+          "comment": "美国公司，面向全球市场，招聘 XR 硬件与内容开发工程师。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米澎湃 OS 4 第二批正式版开启推送",
+          "summary": "覆盖小米 17 Max、17T Pro 等机型，提升 AI 推理性能与功耗管理，支持最新 AI 应用。",
+          "link": "https://www.ithome.com/1/019/891.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米米家车载吸尘器便携版开售",
+          "summary": "20000Pa 大吸力，折叠机身，售价 269 元，定位车内多场景清洁。",
+          "link": "https://www.ithome.com/1/019/909.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款触屏 MacBook Pro 发布，最高售价 11 万元",
+          "summary": "配备双层串联 OLED 的 PROLED XDR 显示屏，首次加入触控与灵动岛，定位高端创意专业用户。",
+          "link": "http://www.geekpark.net/news/373085",
+          "comment": "",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy W27 折叠手机正式发布",
+          "summary": "2026 年推出的高端折叠机型，采用超薄柔性 AMOLED，定位高价位商务用户。",
+          "link": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 预告 2027 年 Galaxy S27 与全新折叠系列",
+          "summary": "在财报电话会议中透露 S27 将搭载新一代 Snapdragon 8 系列，折叠产品线将继续扩张。",
+          "link": "https://9to5google.com/2026/10/29/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "集邦咨询预测苹果触控 MacBook Pro 2027 年出货 120~150 万台",
+          "summary": "该机型将推动全球 OLED 笔记本出货增长 42.3%，显示屏供应链迎来新一轮需求高峰。",
+          "link": "https://www.ithome.com/1/019/846.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Mistral AI 开放 Large 4 模型权重，参数 1T",
+          "summary": "法国公司发布 1 万亿参数的大型语言模型，降低编程智能体 Token 消耗，推动国产 AI 芯片生态对标。",
+          "link": "https://www.ithome.com/1/019/865.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "富士康全球 240+ 生产基地准备满足 iPhone Duo 需求",
+          "summary": "鸿海表示将扩充产线并招聘数千名装配与测试工程师，以支撑折叠 iPhone 的大规模生产。",
+          "link": "https://www.ithome.com/1/019/860.htm",
+          "comment": "产能扩张直接带来大量硬件制造岗位。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Rokid 推出两款新型智能眼镜，挑战 Meta Ray‑Ban Displays",
+      "summary": "Rokid 在 CES 2027 上发布两款 AR 眼镜，采用自研光学模组和 AI 交互，定位企业与消费双场景，预计 Q1 进入市场。",
+      "link": "https://www.androidauthority.com/rokid-unveils-two-new-smart-glasses-3729627/",
+      "comment": "Rokid 继续布局国内外 AR 市场，招聘硬件研发与算法人才。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "新一代无创超声脑机接口技术亮相",
+      "summary": "中国科学院深圳先进院等团队展示无需开颅的超声脑机接口，可持续四周干预，或帮助“植物人”恢复意识。",
+      "link": "https://www.ithome.com/1/019/844.htm",
+      "comment": "该技术若商业化，将带动神经接口芯片与系统集成公司招聘。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "XREAL Aura AR 眼镜即将发售，首批提供 150+ XR 体验",
+      "summary": "首款运行 Android XR 系统的有线 AR 眼镜，售价约 1,100 美元，支持多场景沉浸式内容，11 月开启预售并提供 200 美元折扣。",
+      "link": "https://9to5google.com/2026/10/28/xreal-aura-is-coming-in-november-with-a-special-200-off-launch-discount/",
+      "comment": "美国公司，面向全球市场，招聘 XR 硬件与内容开发工程师。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "小米澎湃 OS 4 第二批正式版开启推送",
+      "summary": "覆盖小米 17 Max、17T Pro 等机型，提升 AI 推理性能与功耗管理，支持最新 AI 应用。",
+      "link": "https://www.ithome.com/1/019/891.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米米家车载吸尘器便携版开售",
+      "summary": "20000Pa 大吸力，折叠机身，售价 269 元，定位车内多场景清洁。",
+      "link": "https://www.ithome.com/1/019/909.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果首款触屏 MacBook Pro 发布，最高售价 11 万元",
+      "summary": "配备双层串联 OLED 的 PROLED XDR 显示屏，首次加入触控与灵动岛，定位高端创意专业用户。",
+      "link": "http://www.geekpark.net/news/373085",
+      "comment": "",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy W27 折叠手机正式发布",
+      "summary": "2026 年推出的高端折叠机型，采用超薄柔性 AMOLED，定位高价位商务用户。",
+      "link": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 预告 2027 年 Galaxy S27 与全新折叠系列",
+      "summary": "在财报电话会议中透露 S27 将搭载新一代 Snapdragon 8 系列，折叠产品线将继续扩张。",
+      "link": "https://9to5google.com/2026/10/29/samsung-teases-galaxy-s27-plans-foldable-lineup-expansion-more/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "集邦咨询预测苹果触控 MacBook Pro 2027 年出货 120~150 万台",
+      "summary": "该机型将推动全球 OLED 笔记本出货增长 42.3%，显示屏供应链迎来新一轮需求高峰。",
+      "link": "https://www.ithome.com/1/019/846.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Mistral AI 开放 Large 4 模型权重，参数 1T",
+      "summary": "法国公司发布 1 万亿参数的大型语言模型，降低编程智能体 Token 消耗，推动国产 AI 芯片生态对标。",
+      "link": "https://www.ithome.com/1/019/865.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "富士康全球 240+ 生产基地准备满足 iPhone Duo 需求",
+      "summary": "鸿海表示将扩充产线并招聘数千名装配与测试工程师，以支撑折叠 iPhone 的大规模生产。",
+      "link": "https://www.ithome.com/1/019/860.htm",
+      "comment": "产能扩张直接带来大量硬件制造岗位。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 36.2
+}
