@@ -1,0 +1,201 @@
+{
+  "date": "2026-10-31",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 苹果官宣 Apple 智能入华，首批功能将于 11 月 4 日随 iOS 开发者 Beta 开放测试。",
+    "[国内] 小米 MIX Flip 2 小折叠手机上市，官方售价 5999 元，促销价低至 3199 元。",
+    "[国外] Samsung 发布全新 Galaxy Z Fold 8 Ultra，中国专供版定价更高，定位高端折叠旗舰。",
+    "[国外] Samsung 推出全新折叠机型 Galaxy W27，定位 2027 年前的实验性高价产品。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Rokid 新款智能眼镜亮相 CES",
+          "summary": "Rokid 在 CES 推出两款 AR 智能眼镜，采用轻量光学模组和自研 NPU，定位企业与消费双场景，计划进军欧美市场。",
+          "link": "https://www.androidauthority.com/rokid-unveils-two-new-smart-glasses-3729627/",
+          "comment": "国内企业出海，意味着研发团队将扩大，值得关注招聘信息。",
+          "source": "androidauthority",
+          "region": "国内"
+        },
+        {
+          "title": "Viture Phantom Blade Zero 智能眼镜发布",
+          "summary": "Viture 推出 Phantom Blade Zero，金属+皮革外壳，配备高分辨率波导显示和内置 AI 语音助手，定位高端 AR 体验。",
+          "link": "https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here/",
+          "comment": "国外高端 AR 眼镜竞争加剧，对比国内方案需关注成本与供应链。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 MIX Flip 2 小折叠手机上市",
+          "summary": "搭载 Snapdragon 8 至尊版，12+256GB 版官方售价 5999 元，京东 11.11 促销价 3199 元，定位轻薄高性价比折叠机。",
+          "link": "https://www.ithome.com/1/020/418.htm",
+          "comment": "价格亲民，或抢占二线折叠市场。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Apple 智能功能入华，接入阿里千问",
+          "summary": "Apple 在中国官网发布公告，11 月 4 日起在 iPhone 18 Pro 等机型开放 AI 助手测试，12 月随 iOS 27.3 正式上线。",
+          "link": "https://www.ithome.com/1/020/393.htm",
+          "comment": "虽为国外公司，但此举是国外产品在华的关键节点。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy Z Fold 8 Ultra 中国专供版发布",
+          "summary": "全新 Fold 8 Ultra 采用更大内屏和高通骁龙 8 Gen 3，机身更薄，定位高端商务折叠，售价高于标准版约 2000 元。",
+          "link": "https://www.androidauthority.com/samsung-w27-3729821/",
+          "comment": "折叠屏成本仍高，价格策略侧重高端用户。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy W27 折叠机型曝光",
+          "summary": "Samsung 计划在 2027 年前推出 Galaxy W27，采用超薄柔性 OLED，定位实验性高价产品，预计售价超过 12000 美元。",
+          "link": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
+          "comment": "极致成本示例，提醒关注供应链压力。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "The Verge：Apple 设备生态日益混乱",
+          "summary": "报道指出 Apple 设备多屏化趋势，包括 iPhone、MacBook 触屏化等，暗示未来硬件形态将更趋多样。",
+          "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+          "comment": "多屏布局为 AI 硬件提供新交互场景。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "华为 Mate 60 Pro 处理器首次揭秘",
+          "summary": "华为公开 Mate 60 Pro 搭载自研麒麟 9000S 5nm 级芯片，集成高效 NPU，提升 AI 推理性能。",
+          "link": "https://www.ithome.com/1/020/401.htm",
+          "comment": "国产高端芯片回归，提升本土 AI 硬件竞争力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "AndroidAuthority：折叠手机年度拥有成本分析",
+          "summary": "对比 Galaxy Z Fold 8 与 iPhone Duo，全年使用成本包括折旧、维修和高额保费，折叠机实际成本远高于标价。",
+          "link": "https://www.androidauthority.com/galaxy-z-fold-8-vs-iphone-duo-cost-of-ownership-3726590/",
+          "comment": "成本压力是折叠屏普及的主要瓶颈。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "快手旗下可灵 AI 完成约 198 亿元增资",
+          "summary": "可灵 AI 融资后将扩大研发团队，重点布局 AI 语音与硬件交互产品。",
+          "link": "https://www.ithome.com/1/020/406.htm",
+          "comment": "大额增资直接转化为研发岗位，AI 硬件人才需求上升。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Rokid 新款智能眼镜亮相 CES",
+      "summary": "Rokid 在 CES 推出两款 AR 智能眼镜，采用轻量光学模组和自研 NPU，定位企业与消费双场景，计划进军欧美市场。",
+      "link": "https://www.androidauthority.com/rokid-unveils-two-new-smart-glasses-3729627/",
+      "comment": "国内企业出海，意味着研发团队将扩大，值得关注招聘信息。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "Viture Phantom Blade Zero 智能眼镜发布",
+      "summary": "Viture 推出 Phantom Blade Zero，金属+皮革外壳，配备高分辨率波导显示和内置 AI 语音助手，定位高端 AR 体验。",
+      "link": "https://9to5google.com/2026/10/30/the-official-phantom-blade-zero-smart-glasses-from-viture-are-here/",
+      "comment": "国外高端 AR 眼镜竞争加剧，对比国内方案需关注成本与供应链。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "小米 MIX Flip 2 小折叠手机上市",
+      "summary": "搭载 Snapdragon 8 至尊版，12+256GB 版官方售价 5999 元，京东 11.11 促销价 3199 元，定位轻薄高性价比折叠机。",
+      "link": "https://www.ithome.com/1/020/418.htm",
+      "comment": "价格亲民，或抢占二线折叠市场。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple 智能功能入华，接入阿里千问",
+      "summary": "Apple 在中国官网发布公告，11 月 4 日起在 iPhone 18 Pro 等机型开放 AI 助手测试，12 月随 iOS 27.3 正式上线。",
+      "link": "https://www.ithome.com/1/020/393.htm",
+      "comment": "虽为国外公司，但此举是国外产品在华的关键节点。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 Ultra 中国专供版发布",
+      "summary": "全新 Fold 8 Ultra 采用更大内屏和高通骁龙 8 Gen 3，机身更薄，定位高端商务折叠，售价高于标准版约 2000 元。",
+      "link": "https://www.androidauthority.com/samsung-w27-3729821/",
+      "comment": "折叠屏成本仍高，价格策略侧重高端用户。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy W27 折叠机型曝光",
+      "summary": "Samsung 计划在 2027 年前推出 Galaxy W27，采用超薄柔性 OLED，定位实验性高价产品，预计售价超过 12000 美元。",
+      "link": "https://9to5google.com/2026/10/29/samsung-galaxy-w27-foldable/",
+      "comment": "极致成本示例，提醒关注供应链压力。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "The Verge：Apple 设备生态日益混乱",
+      "summary": "报道指出 Apple 设备多屏化趋势，包括 iPhone、MacBook 触屏化等，暗示未来硬件形态将更趋多样。",
+      "link": "https://www.theverge.com/podcast/1023194/the-delightfully-messy-state-of-apple-gadgets",
+      "comment": "多屏布局为 AI 硬件提供新交互场景。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate 60 Pro 处理器首次揭秘",
+      "summary": "华为公开 Mate 60 Pro 搭载自研麒麟 9000S 5nm 级芯片，集成高效 NPU，提升 AI 推理性能。",
+      "link": "https://www.ithome.com/1/020/401.htm",
+      "comment": "国产高端芯片回归，提升本土 AI 硬件竞争力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "AndroidAuthority：折叠手机年度拥有成本分析",
+      "summary": "对比 Galaxy Z Fold 8 与 iPhone Duo，全年使用成本包括折旧、维修和高额保费，折叠机实际成本远高于标价。",
+      "link": "https://www.androidauthority.com/galaxy-z-fold-8-vs-iphone-duo-cost-of-ownership-3726590/",
+      "comment": "成本压力是折叠屏普及的主要瓶颈。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "快手旗下可灵 AI 完成约 198 亿元增资",
+      "summary": "可灵 AI 融资后将扩大研发团队，重点布局 AI 语音与硬件交互产品。",
+      "link": "https://www.ithome.com/1/020/406.htm",
+      "comment": "大额增资直接转化为研发岗位，AI 硬件人才需求上升。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 34.6
+}
