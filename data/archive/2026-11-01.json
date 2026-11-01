@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-01",
+  "mode": "llm",
+  "candidates": 79,
+  "overview": [
+    "[国内] 金标联盟发布 SharedView Kit，荣耀、OPPO、vivo、小米联合推动一镜到底无缝动画。",
+    "[国内] OPPO Reno17 系列首发 6 秒全焦段 4K 超清长实况，提升视频拍摄体验。",
+    "[国内] 小米 SU7 Ultra 车机实车曝光，定位高端智能座舱。",
+    "[国内] 高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动，提升游戏性能。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta 与傅利叶合作的人形机器人原型 Max",
+          "summary": "Meta 与中国公司傅利叶联合研发的 Max 人形机器人原型，身高约 5 英尺，研发周期仅三个月，展示 AI 机器人在交互与感知方面的突破。",
+          "link": "https://www.ithome.com/1/020/636.htm",
+          "comment": "对机器人研发人才需求大，相关岗位值得关注。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Neuralink 脑机接口产品 Blindsight（盲视）",
+          "summary": "Neuralink 宣布第二代脑机接口 Blindsight 已完成工程研发，待监管批准后可帮助失明者恢复视觉，标志脑机接口进入临床验证阶段。",
+          "link": "https://www.ithome.com/1/020/630.htm",
+          "comment": "脑机接口技术成熟度提升，相关芯片与算法岗位需求上升。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 智能功能在中国官网上线",
+          "summary": "Apple 在中国官网新增 Apple 智能介绍页面，首批功能将在 11 月开放测试，集成阿里巴巴千问大模型，提升 iOS 语音交互能力。",
+          "link": "http://www.geekpark.net/news/373238",
+          "comment": "AI 助手生态扩张，语音模型研发团队招聘旺盛。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画",
+          "summary": "荣耀、OPPO、vivo、小米四大厂商联合推动 SharedView Kit，实现跨应用无缝动画和一镜到底拍摄，提升用户交互流畅度。",
+          "link": "https://www.ithome.com/1/020/634.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Reno17 系列 6 秒全焦段 4K 超清长实况",
+          "summary": "OPPO Reno17 首次将实况拍摄时长提升至 6 秒，支持全焦段 4K 超清，强化视频创作能力。",
+          "link": "https://www.ithome.com/1/020/628.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 SU7 Ultra 车机实车曝光",
+          "summary": "小米 SU7 Ultra 车机搭载高分辨率显示与自研 NPU，定位高端智能座舱，预计十月上市。",
+          "link": "https://www.ithome.com/1/020/641.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动",
+          "summary": "针对骁龙 X 系列 PC 处理器的 Adreno GPU Windows 驱动 2026.10.1 版发布，优化多款主流游戏的帧率与功耗。",
+          "link": "https://www.ithome.com/1/020/667.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米汽车 2026 年 10 月交付量突破 5 万台",
+          "summary": "小米汽车十月交付 5 万余台，显示其在智能电动车市场的快速渗透与供应链布局成效。",
+          "link": "https://www.ithome.com/1/020/656.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy Z Fold 8 广告嘲讽 iPhone Duo",
+          "summary": "Samsung 在新广告中调侃 iPhone Duo 的折叠屏缺陷，突出 Galaxy Z Fold 8 的耐用性与多任务体验。",
+          "link": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 触控屏 MacBook Pro 预售",
+          "summary": "Apple 在美国官网推出配备触控屏的 MacBook Pro，定位创意专业用户，售价约 2500 美元起。",
+          "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Nothing Headphone (1) Pro 头戴式耳机上市",
+          "summary": "Nothing 推出三单元主动降噪耳机，售价 2999 元，主打极简设计与高保真音质。",
+          "link": "https://www.ithome.com/1/020/623.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "DeepSeek 完成 1055 亿元融资",
+          "summary": "DeepSeek 获得第二轮融资，总估值 6155 亿元，计划扩充 AI 服务器研发与运营团队。",
+          "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "鸿海布局 AI 服务器，目标全球半壁江山",
+          "summary": "鸿海董事长刘扬伟透露，未来数年将在美国扩大 AI 服务器产能，抢占全球市场份额。",
+          "link": "https://www.ithome.com/1/020/627.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "DeepSeek 提出 Super-agent 双层架构",
+          "summary": "DeepSeek 发布面向工程实践的 Super-agent 设计，采用 Router 与 Worker 双层结构，提升自主决策能力。",
+          "link": "https://www.ithome.com/1/020/615.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta 与傅利叶合作的人形机器人原型 Max",
+      "summary": "Meta 与中国公司傅利叶联合研发的 Max 人形机器人原型，身高约 5 英尺，研发周期仅三个月，展示 AI 机器人在交互与感知方面的突破。",
+      "link": "https://www.ithome.com/1/020/636.htm",
+      "comment": "对机器人研发人才需求大，相关岗位值得关注。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Neuralink 脑机接口产品 Blindsight（盲视）",
+      "summary": "Neuralink 宣布第二代脑机接口 Blindsight 已完成工程研发，待监管批准后可帮助失明者恢复视觉，标志脑机接口进入临床验证阶段。",
+      "link": "https://www.ithome.com/1/020/630.htm",
+      "comment": "脑机接口技术成熟度提升，相关芯片与算法岗位需求上升。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 智能功能在中国官网上线",
+      "summary": "Apple 在中国官网新增 Apple 智能介绍页面，首批功能将在 11 月开放测试，集成阿里巴巴千问大模型，提升 iOS 语音交互能力。",
+      "link": "http://www.geekpark.net/news/373238",
+      "comment": "AI 助手生态扩张，语音模型研发团队招聘旺盛。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "金标联盟发布 SharedView Kit 一镜到底 / 无缝动画",
+      "summary": "荣耀、OPPO、vivo、小米四大厂商联合推动 SharedView Kit，实现跨应用无缝动画和一镜到底拍摄，提升用户交互流畅度。",
+      "link": "https://www.ithome.com/1/020/634.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Reno17 系列 6 秒全焦段 4K 超清长实况",
+      "summary": "OPPO Reno17 首次将实况拍摄时长提升至 6 秒，支持全焦段 4K 超清，强化视频创作能力。",
+      "link": "https://www.ithome.com/1/020/628.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 SU7 Ultra 车机实车曝光",
+      "summary": "小米 SU7 Ultra 车机搭载高分辨率显示与自研 NPU，定位高端智能座舱，预计十月上市。",
+      "link": "https://www.ithome.com/1/020/641.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "高通发布骁龙 X 系列 PC 处理器 Windows 显卡驱动",
+      "summary": "针对骁龙 X 系列 PC 处理器的 Adreno GPU Windows 驱动 2026.10.1 版发布，优化多款主流游戏的帧率与功耗。",
+      "link": "https://www.ithome.com/1/020/667.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米汽车 2026 年 10 月交付量突破 5 万台",
+      "summary": "小米汽车十月交付 5 万余台，显示其在智能电动车市场的快速渗透与供应链布局成效。",
+      "link": "https://www.ithome.com/1/020/656.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 广告嘲讽 iPhone Duo",
+      "summary": "Samsung 在新广告中调侃 iPhone Duo 的折叠屏缺陷，突出 Galaxy Z Fold 8 的耐用性与多任务体验。",
+      "link": "https://9to5google.com/2026/10/30/samsung-mocks-iphone-duo-crackgate-galaxy-z-fold-8/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 触控屏 MacBook Pro 预售",
+      "summary": "Apple 在美国官网推出配备触控屏的 MacBook Pro，定位创意专业用户，售价约 2500 美元起。",
+      "link": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Nothing Headphone (1) Pro 头戴式耳机上市",
+      "summary": "Nothing 推出三单元主动降噪耳机，售价 2999 元，主打极简设计与高保真音质。",
+      "link": "https://www.ithome.com/1/020/623.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "DeepSeek 完成 1055 亿元融资",
+      "summary": "DeepSeek 获得第二轮融资，总估值 6155 亿元，计划扩充 AI 服务器研发与运营团队。",
+      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "鸿海布局 AI 服务器，目标全球半壁江山",
+      "summary": "鸿海董事长刘扬伟透露，未来数年将在美国扩大 AI 服务器产能，抢占全球市场份额。",
+      "link": "https://www.ithome.com/1/020/627.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "DeepSeek 提出 Super-agent 双层架构",
+      "summary": "DeepSeek 发布面向工程实践的 Super-agent 设计，采用 Router 与 Worker 双层结构，提升自主决策能力。",
+      "link": "https://www.ithome.com/1/020/615.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 24.3
+}
