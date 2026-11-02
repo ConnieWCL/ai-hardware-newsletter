@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-02",
+  "mode": "llm",
+  "candidates": 55,
+  "overview": [
+    "[国内] 华为星芒 6.39\" 1.5K 直屏手机曝光，主打极窄四等边设计，定位高端线上渠道。",
+    "[国外] 苹果首款触屏 MacBook Pro 采用保守设计，未带来突破性创新。",
+    "[国内] 今日宜休首款智能戒指聚焦睡眠监测，强调多维健康管理。",
+    "[国外] Samsung 将于 12 月推出首款 AI 智能眼镜，抢占 Meta 市场。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "今日宜休智能戒指",
+          "summary": "首款智能戒指聚焦睡眠监测，创始人强调睡眠需多维健康管理。",
+          "link": "https://www.ithome.com/1/020/855.htm",
+          "comment": "适合关注可穿戴健康的 AI 硬件岗位。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Samsung AI 智能眼镜",
+          "summary": "计划 12 月中旬在韩国和美国发布，命名暂定为 Intelligent Eyewear，抢占 Meta 市场。",
+          "link": "https://www.ithome.com/1/020/866.htm",
+          "comment": "AR/VR 方向的竞争加剧，值得关注硬件平台兼容性。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "FFR 机器人",
+          "summary": "10 月销量 351 台，累计出货 1168 台，首次突破千台，保持正毛利交付。",
+          "link": "https://www.ithome.com/1/020/894.htm",
+          "comment": "机器人即服务（RaaS）模式在国内逐步落地。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为星芒 6.39 英寸 1.5K LTPS 直屏手机",
+          "summary": "极窄四等边边框设计，电源键紫色，主攻线上渠道，定位高端。",
+          "link": "https://www.ithome.com/1/020/865.htm",
+          "comment": "华为在高刷新率屏幕上继续发力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "vivo X300 12GB+256GB",
+          "summary": "搭载天玑 9500 处理器，国补价从 4399 降至 2893 元，定位中高端。",
+          "link": "https://www.ithome.com/1/020/831.htm",
+          "comment": "价格策略显示国内厂商在 11 月促销季的激进布局。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "海贝 HiBy R6III SE 便携 Hi‑Fi 播放器",
+          "summary": "配备四颗 CS43198 DAC，尺寸 129.4×73.1×15.6 mm，售价 1798 元。",
+          "link": "https://www.ithome.com/1/020/836.htm",
+          "comment": "高端音频市场细分需求仍在增长。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果首款触屏 MacBook Pro",
+          "summary": "采用 M5 Pro/M5 Max 芯片，设计保守，未带来突破性创新。",
+          "link": "https://www.ithome.com/1/020/842.htm",
+          "comment": "苹果进入触控笔记本市场的首步，仍保持传统设计语言。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "苹果 OLED 屏幕 iPad Air 与均热板 iPad Pro 计划",
+          "summary": "预计明年上半年推出配备 OLED 屏幕的 iPad Air 与搭载均热板的 iPad Pro。",
+          "link": "https://www.ithome.com/1/020/843.htm",
+          "comment": "显示技术升级将提升平板的 AI 计算散热能力。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Pixel 11 Pro Fold",
+          "summary": "Google 推出坚固矩形折叠手机，竞争激烈的折叠市场再添新秀。",
+          "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+          "comment": "折叠形态仍是高端市场的差异化卖点。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "HomePod Mini 2 首次亮相",
+          "summary": "新款 $149 HomePod Mini 2 具备三大亮点与一项失望，继续布局智能音箱生态。",
+          "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+          "comment": "低价位智能音箱仍是 Apple 打通家庭 AI 的入口。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Watch 陶瓷 vs 钛金属耐用性对比",
+          "summary": "评测两种材质的耐用性，帮助消费者在高端智能手表上做出选择。",
+          "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+          "comment": "材料创新是提升可穿戴设备寿命的关键。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "DeepSeek Super‑Agent 架构发布",
+          "summary": "DeepSeek 推出全新 Agent 架构，旨在实现更自主的 AI Agent 系统。",
+          "link": "http://www.geekpark.net/news/373243",
+          "comment": "对 AI 助手底层技术有重要参考价值。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "美团 LongCat-2.5 多模态模型",
+          "summary": "1.6 万亿参数模型，单 token 激活约 480 亿参数，强化原生视觉理解。",
+          "link": "https://www.ithome.com/1/020/873.htm",
+          "comment": "大模型在长程智能体任务上的应用前景广阔。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Apple CEO 表态不为 AI 本身而推出 AI 产品",
+          "summary": "Apple 新任 CEO 强调公司不想“为 AI 而 AI”，更注重实际场景落地。",
+          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "comment": "反映业界对 AI 过度炒作的审慎态度。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "今日宜休智能戒指",
+      "summary": "首款智能戒指聚焦睡眠监测，创始人强调睡眠需多维健康管理。",
+      "link": "https://www.ithome.com/1/020/855.htm",
+      "comment": "适合关注可穿戴健康的 AI 硬件岗位。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung AI 智能眼镜",
+      "summary": "计划 12 月中旬在韩国和美国发布，命名暂定为 Intelligent Eyewear，抢占 Meta 市场。",
+      "link": "https://www.ithome.com/1/020/866.htm",
+      "comment": "AR/VR 方向的竞争加剧，值得关注硬件平台兼容性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "FFR 机器人",
+      "summary": "10 月销量 351 台，累计出货 1168 台，首次突破千台，保持正毛利交付。",
+      "link": "https://www.ithome.com/1/020/894.htm",
+      "comment": "机器人即服务（RaaS）模式在国内逐步落地。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为星芒 6.39 英寸 1.5K LTPS 直屏手机",
+      "summary": "极窄四等边边框设计，电源键紫色，主攻线上渠道，定位高端。",
+      "link": "https://www.ithome.com/1/020/865.htm",
+      "comment": "华为在高刷新率屏幕上继续发力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "vivo X300 12GB+256GB",
+      "summary": "搭载天玑 9500 处理器，国补价从 4399 降至 2893 元，定位中高端。",
+      "link": "https://www.ithome.com/1/020/831.htm",
+      "comment": "价格策略显示国内厂商在 11 月促销季的激进布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "海贝 HiBy R6III SE 便携 Hi‑Fi 播放器",
+      "summary": "配备四颗 CS43198 DAC，尺寸 129.4×73.1×15.6 mm，售价 1798 元。",
+      "link": "https://www.ithome.com/1/020/836.htm",
+      "comment": "高端音频市场细分需求仍在增长。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果首款触屏 MacBook Pro",
+      "summary": "采用 M5 Pro/M5 Max 芯片，设计保守，未带来突破性创新。",
+      "link": "https://www.ithome.com/1/020/842.htm",
+      "comment": "苹果进入触控笔记本市场的首步，仍保持传统设计语言。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "苹果 OLED 屏幕 iPad Air 与均热板 iPad Pro 计划",
+      "summary": "预计明年上半年推出配备 OLED 屏幕的 iPad Air 与搭载均热板的 iPad Pro。",
+      "link": "https://www.ithome.com/1/020/843.htm",
+      "comment": "显示技术升级将提升平板的 AI 计算散热能力。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Pixel 11 Pro Fold",
+      "summary": "Google 推出坚固矩形折叠手机，竞争激烈的折叠市场再添新秀。",
+      "link": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+      "comment": "折叠形态仍是高端市场的差异化卖点。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "HomePod Mini 2 首次亮相",
+      "summary": "新款 $149 HomePod Mini 2 具备三大亮点与一项失望，继续布局智能音箱生态。",
+      "link": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+      "comment": "低价位智能音箱仍是 Apple 打通家庭 AI 的入口。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Watch 陶瓷 vs 钛金属耐用性对比",
+      "summary": "评测两种材质的耐用性，帮助消费者在高端智能手表上做出选择。",
+      "link": "https://www.engadget.com/2300397/apple-watch-ceramic-vs-titanium-which-is-better-material-overall-durability/",
+      "comment": "材料创新是提升可穿戴设备寿命的关键。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "DeepSeek Super‑Agent 架构发布",
+      "summary": "DeepSeek 推出全新 Agent 架构，旨在实现更自主的 AI Agent 系统。",
+      "link": "http://www.geekpark.net/news/373243",
+      "comment": "对 AI 助手底层技术有重要参考价值。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "美团 LongCat-2.5 多模态模型",
+      "summary": "1.6 万亿参数模型，单 token 激活约 480 亿参数，强化原生视觉理解。",
+      "link": "https://www.ithome.com/1/020/873.htm",
+      "comment": "大模型在长程智能体任务上的应用前景广阔。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple CEO 表态不为 AI 本身而推出 AI 产品",
+      "summary": "Apple 新任 CEO 强调公司不想“为 AI 而 AI”，更注重实际场景落地。",
+      "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "comment": "反映业界对 AI 过度炒作的审慎态度。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.4
+}
