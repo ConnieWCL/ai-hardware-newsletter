@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-03",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 苹果 iPhone Duo 交货延迟，供货紧张仍未缓解",
+    "[国外] Samsung 将于12月推出 Android XR 智能眼镜",
+    "[国内] 极米记得AI眼镜全阵容亮相，聚焦硬件与交互体验",
+    "[国外] Meta 将在2027年3月停止 Quest 2/Pro 系统更新"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "极米记得AI眼镜全阵容发布",
+          "summary": "极米在INNO100首“硬”礼上推出AI眼镜、智能眼镜等新形态硬件，强调光学与AI融合的沉浸体验。",
+          "link": "https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html",
+          "comment": "适合AI视觉与交互研发岗位的技术栈积累",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Samsung Android XR 智能眼镜即将上市",
+          "summary": "三星计划在12月发布Android XR智能眼镜，采用轻量化镜框与可换镜片设计，定位高端AR消费市场。",
+          "link": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+          "comment": "关注显示驱动与低功耗芯片的机会",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Amazfit 智能戒指升级",
+          "summary": "Amazfit推出全新HybridCharge智能戒指，提升续航并加入健康监测功能，定位轻量化可穿戴。",
+          "link": "https://www.androidauthority.com/amazfit-helio-ring-hybridcharge-update-3730719/",
+          "comment": "可关注低功耗传感与BLE协议实现",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Quest 2/Pro 将于2027年3月停止系统更新",
+          "summary": "Meta宣布其2020/2022发布的两款VR头显将在2027年3月后不再收到系统更新，标志VR硬件生命周期进入新阶段。",
+          "link": "https://www.ithome.com/1/021/334.htm",
+          "comment": "对VR硬件维护与迭代策略有启示",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "MacBook Neo 教育市场大订单",
+          "summary": "苹果向菲律宾教育市场交付17万台MacBook Neo，定位低价教育版笔记本，强化入门级市场渗透。",
+          "link": "https://www.ithome.com/1/021/297.htm",
+          "comment": "关注低成本芯片与散热方案",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 产能爬坡进展顺利",
+          "summary": "苹果CEO特努斯称折叠屏iPhone Duo产能提升顺利，屏幕问题占比极小，但交付仍受供需紧张影响。",
+          "link": "https://www.ithome.com/1/021/284.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 首次开机锁定显示缩放",
+          "summary": "用户首次开机后无法更改Display Zoom设置，显示系统在折叠屏交互上仍有细节待优化。",
+          "link": "https://www.ithome.com/1/021/328.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Apple HomeView OS 高度封闭",
+          "summary": "HomeView智能家居中枢系统限制第三方开发，未提供App Store，显示苹果在生态闭环上的持续布局。",
+          "link": "https://www.ithome.com/1/021/300.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "美团 LongCat-2.5 大模型全国产算力训练",
+          "summary": "美团发布1.6万亿参数的长程多模态模型LongCat-2.5，全部在国产算力平台完成训练，展示国内AI算力生态成熟。",
+          "link": "https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html",
+          "comment": "",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "DeepSeek 最新融资曝光",
+          "summary": "DeepSeek 获得新一轮融资，投资方包括vivo、美团等，暗示后续将扩招研发与算力团队。",
+          "link": "https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html",
+          "comment": "",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "极米记得AI眼镜全阵容发布",
+      "summary": "极米在INNO100首“硬”礼上推出AI眼镜、智能眼镜等新形态硬件，强调光学与AI融合的沉浸体验。",
+      "link": "https://www.leiphone.com/category/weiwu/AfQerzZ1HwVzZ2yZ.html",
+      "comment": "适合AI视觉与交互研发岗位的技术栈积累",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Android XR 智能眼镜即将上市",
+      "summary": "三星计划在12月发布Android XR智能眼镜，采用轻量化镜框与可换镜片设计，定位高端AR消费市场。",
+      "link": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+      "comment": "关注显示驱动与低功耗芯片的机会",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Amazfit 智能戒指升级",
+      "summary": "Amazfit推出全新HybridCharge智能戒指，提升续航并加入健康监测功能，定位轻量化可穿戴。",
+      "link": "https://www.androidauthority.com/amazfit-helio-ring-hybridcharge-update-3730719/",
+      "comment": "可关注低功耗传感与BLE协议实现",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Quest 2/Pro 将于2027年3月停止系统更新",
+      "summary": "Meta宣布其2020/2022发布的两款VR头显将在2027年3月后不再收到系统更新，标志VR硬件生命周期进入新阶段。",
+      "link": "https://www.ithome.com/1/021/334.htm",
+      "comment": "对VR硬件维护与迭代策略有启示",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "MacBook Neo 教育市场大订单",
+      "summary": "苹果向菲律宾教育市场交付17万台MacBook Neo，定位低价教育版笔记本，强化入门级市场渗透。",
+      "link": "https://www.ithome.com/1/021/297.htm",
+      "comment": "关注低成本芯片与散热方案",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 产能爬坡进展顺利",
+      "summary": "苹果CEO特努斯称折叠屏iPhone Duo产能提升顺利，屏幕问题占比极小，但交付仍受供需紧张影响。",
+      "link": "https://www.ithome.com/1/021/284.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 首次开机锁定显示缩放",
+      "summary": "用户首次开机后无法更改Display Zoom设置，显示系统在折叠屏交互上仍有细节待优化。",
+      "link": "https://www.ithome.com/1/021/328.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple HomeView OS 高度封闭",
+      "summary": "HomeView智能家居中枢系统限制第三方开发，未提供App Store，显示苹果在生态闭环上的持续布局。",
+      "link": "https://www.ithome.com/1/021/300.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "美团 LongCat-2.5 大模型全国产算力训练",
+      "summary": "美团发布1.6万亿参数的长程多模态模型LongCat-2.5，全部在国产算力平台完成训练，展示国内AI算力生态成熟。",
+      "link": "https://www.leiphone.com/category/industrynews/mUPVr3RF0MHNmn3t.html",
+      "comment": "",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "DeepSeek 最新融资曝光",
+      "summary": "DeepSeek 获得新一轮融资，投资方包括vivo、美团等，暗示后续将扩招研发与算力团队。",
+      "link": "https://www.leiphone.com/category/zaobao/hsSSzyalKJd6vnkf.html",
+      "comment": "",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 69.9
+}
