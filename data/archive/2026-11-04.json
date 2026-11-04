@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-04",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] iOS 27.3 国行版首批 Apple 智能功能上线，实时翻译、Siri 入口等提升 AI 体验。",
+    "[国外] Samsung 将于12月发布首款 Android XR 智能眼镜，开启可穿戴 AI 新赛道。",
+    "[国内] iPhone Duo 折叠机型在 iOS 27.3 Beta 中加入单手便捷访问，提升折叠屏交互。",
+    "[国外] Galaxy Z Fold 8 销量因 iPhone Duo 争议而上扬，折叠手机需求回暖。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Samsung Android XR 智能眼镜即将上市",
+          "summary": "Samsung 计划于12月在美国和韩国发布首款 Android XR 智能眼镜，采用轻量化设计，支持 AI 视觉交互。",
+          "link": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-usa-available-3731079/",
+          "comment": "进入消费级 XR 市场，抢占 AI 视觉硬件先机。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Android XR ‘Intelligent Eyewear’ 将在12月发布",
+          "summary": "据 9to5Google 报道，Samsung 的智能眼镜将以 Gentle Monster 与 Warby Parker 联名款式推出，定位高端时尚。",
+          "link": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+          "comment": "与时尚品牌合作，提升可穿戴 AI 设备的消费接受度。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "MOFT 为 iPhone Duo 推出折纸式多功能手机壳",
+          "summary": "MOFT 设计的折纸式壳体兼具保护与支架功能，帮助折叠屏用户实现免手持操作。",
+          "link": "https://www.ithome.com/1/021/914.htm",
+          "comment": "针对折叠手机的配件创新，提升用户体验。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iOS 27.3 国行版首批 Apple 智能功能上线",
+          "summary": "iOS 27.3 Beta 为国行 iPhone 带来实时翻译、AirPods 实时翻译、相机 Siri 入口等 AI 功能。",
+          "link": "https://www.ithome.com/1/021/867.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone Duo 折叠机型单手便捷访问功能发布",
+          "summary": "在 iOS 27.3 Beta 中加入 Reachability，提升折叠屏单手操作体验。",
+          "link": "https://www.ithome.com/1/021/868.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "AirPods 5 推送 Beta 固件 9B5045a",
+          "summary": "新固件加入实时翻译等 AI 功能，提升耳机的智能交互能力。",
+          "link": "https://www.ithome.com/1/021/870.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Razer Raiju V3 Pro Signature Edition 手柄发布",
+          "summary": "限量 1337 件的镁合金外骨骼手柄，面向高端游戏玩家。",
+          "link": "https://www.ithome.com/1/021/910.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Galaxy Z Fold 8 销量因 iPhone Duo 争议而激增",
+          "summary": "iPhone Duo 发布争议导致部分用户转向 Samsung 折叠机型，销量出现显著增长。",
+          "link": "https://9to5google.com/2026/11/03/galaxy-z-fold-8-sales-spike-iphone-duo-release/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Netflix AI Discover 标签页上线",
+          "summary": "基于 AI 的新标签页根据用户情绪提供内容推荐，提升观看决策效率。",
+          "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+          "comment": "",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Netflix AI 推荐功能助力内容发现",
+          "summary": "AI 生成的主题标签帮助用户快速定位感兴趣的节目。",
+          "link": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "iOS 27.3 Beta 引入 Siri 入口与视觉智能",
+          "summary": "iPadOS 27.3 在相机应用中加入 Siri 标签，提升 AI 视觉交互能力。",
+          "link": "https://www.ithome.com/1/021/883.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Samsung Android XR 智能眼镜即将上市",
+      "summary": "Samsung 计划于12月在美国和韩国发布首款 Android XR 智能眼镜，采用轻量化设计，支持 AI 视觉交互。",
+      "link": "https://www.androidauthority.com/samsung-android-xr-smart-glasses-usa-available-3731079/",
+      "comment": "进入消费级 XR 市场，抢占 AI 视觉硬件先机。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Android XR ‘Intelligent Eyewear’ 将在12月发布",
+      "summary": "据 9to5Google 报道，Samsung 的智能眼镜将以 Gentle Monster 与 Warby Parker 联名款式推出，定位高端时尚。",
+      "link": "https://9to5google.com/2026/11/02/samsungs-android-xr-intelligent-eyewear-reportedly-launches-in-december/",
+      "comment": "与时尚品牌合作，提升可穿戴 AI 设备的消费接受度。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "MOFT 为 iPhone Duo 推出折纸式多功能手机壳",
+      "summary": "MOFT 设计的折纸式壳体兼具保护与支架功能，帮助折叠屏用户实现免手持操作。",
+      "link": "https://www.ithome.com/1/021/914.htm",
+      "comment": "针对折叠手机的配件创新，提升用户体验。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iOS 27.3 国行版首批 Apple 智能功能上线",
+      "summary": "iOS 27.3 Beta 为国行 iPhone 带来实时翻译、AirPods 实时翻译、相机 Siri 入口等 AI 功能。",
+      "link": "https://www.ithome.com/1/021/867.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 折叠机型单手便捷访问功能发布",
+      "summary": "在 iOS 27.3 Beta 中加入 Reachability，提升折叠屏单手操作体验。",
+      "link": "https://www.ithome.com/1/021/868.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "AirPods 5 推送 Beta 固件 9B5045a",
+      "summary": "新固件加入实时翻译等 AI 功能，提升耳机的智能交互能力。",
+      "link": "https://www.ithome.com/1/021/870.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Razer Raiju V3 Pro Signature Edition 手柄发布",
+      "summary": "限量 1337 件的镁合金外骨骼手柄，面向高端游戏玩家。",
+      "link": "https://www.ithome.com/1/021/910.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Galaxy Z Fold 8 销量因 iPhone Duo 争议而激增",
+      "summary": "iPhone Duo 发布争议导致部分用户转向 Samsung 折叠机型，销量出现显著增长。",
+      "link": "https://9to5google.com/2026/11/03/galaxy-z-fold-8-sales-spike-iphone-duo-release/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Netflix AI Discover 标签页上线",
+      "summary": "基于 AI 的新标签页根据用户情绪提供内容推荐，提升观看决策效率。",
+      "link": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/",
+      "comment": "",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Netflix AI 推荐功能助力内容发现",
+      "summary": "AI 生成的主题标签帮助用户快速定位感兴趣的节目。",
+      "link": "https://www.engadget.com/2305778/netflix-thinks-ai-might-save-you-from-scrolling-aimlessly-for-something-to-watch/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "iOS 27.3 Beta 引入 Siri 入口与视觉智能",
+      "summary": "iPadOS 27.3 在相机应用中加入 Siri 标签，提升 AI 视觉交互能力。",
+      "link": "https://www.ithome.com/1/021/883.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 19.8
+}
