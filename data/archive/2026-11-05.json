@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-05",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米系 7 寸天玑性能机配备 11000mAh 大电池，预计将以 REDMI 名义发布。",
+    "[国内] OPPO Reno17 系列将于 11 月 9 日亮相，主打全焦段 4K 超清长实况。",
+    "[国内] 荣耀 700 系列采用双 8 系列芯片，Pro 版搭载 Snapdragon 8 Gen5，提升性能与影像。",
+    "[国内] 后摩智能完成数十亿元 B 轮融资，端侧大模型 AI 芯片进入规模化兑现期，预计将扩招研发团队。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "SteamVR 更新提升图像质量",
+          "summary": "Valve 发布 SteamVR Beta 更新，提升所有兼容独立头显的流媒体画质，改善用户沉浸感。",
+          "link": "https://roadtovr.com/steamvr-beta-update-image-quality-quest-frame-pico/",
+          "comment": "对 VR 硬件厂商是一次软硬件协同的机会。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "Apple TV 4K 原生运行 Switch 游戏",
+          "summary": "开源项目 TVPort 让 Apple TV 4K 能以 60FPS 原生运行《超级马力欧：奥德赛》，展示主机跨平台潜力。",
+          "link": "https://www.ithome.com/1/022/510.htm",
+          "comment": "显示 Apple 在软硬件生态整合上的新尝试。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "7 寸天玑性能机配 11000mAh 大电池",
+          "summary": "某厂子系 7 寸 2K 超高刷天玑机，电池容量 11000mAh（40.72Wh），预计以 REDMI 名义发布。",
+          "link": "https://www.ithome.com/1/022/505.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Reno17 系列官宣",
+          "summary": "OPPO 宣布 Reno17 系列将于 11 月 9 日发布，主打全焦段 4K 超清长实况拍摄。",
+          "link": "https://www.ithome.com/1/022/537.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀 700 系列双 8 芯片",
+          "summary": "荣耀 700 系列采用同档唯一双 8 芯片，Pro 版搭载 Snapdragon 8 Gen5，提升性能、续航与影像。",
+          "link": "https://www.ithome.com/1/022/518.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone 18 Pro 与 Pixel 11 Pro 摄影风格对比",
+          "summary": "评测对比两款旗舰手机的照片滤镜与风格，iPhone 在滤镜一致性上更胜一筹。",
+          "link": "https://www.androidauthority.com/iphone-18-pro-photography-styles-vs-pixel-11-pro-camera-looks-3730359/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "折叠手机形态调查报告",
+          "summary": "Android Authority 调查折叠手机的长宽比趋势，微软、三星、苹果等公司表达兴趣。",
+          "link": "https://www.androidauthority.com/foldable-phone-form-factor-aspect-ratio-poll-results-3731476/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Galaxy Z Fold 8 销量激增",
+          "summary": "受 iPhone Duo 发布争议影响，Galaxy Z Fold 8 销量出现显著增长，显示高端折叠机需求回暖。",
+          "link": "https://9to5google.com/2026/11/03/galaxy-z-fold-8-sales-spike-iphone-duo-release/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "macOS 27.3 引入实时活动功能",
+          "summary": "macOS 27.3 开发者预览版在菜单栏加入 iPhone 的实时活动，提升跨设备交互体验。",
+          "link": "https://www.ithome.com/1/022/494.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "App Store 订阅挽留功能上线",
+          "summary": "Apple 为 App Store 开发者提供“订阅挽留”选项，用户取消订阅时可出现优惠提示。",
+          "link": "https://www.ithome.com/1/022/516.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "后摩智能完成数十亿元 B 轮融资",
+          "summary": "后摩智能获数十亿元 B 轮资金，专注端侧大模型 AI 芯片，预计随融资扩招研发与生产团队。",
+          "link": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+          "comment": "",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "SteamVR 更新提升图像质量",
+      "summary": "Valve 发布 SteamVR Beta 更新，提升所有兼容独立头显的流媒体画质，改善用户沉浸感。",
+      "link": "https://roadtovr.com/steamvr-beta-update-image-quality-quest-frame-pico/",
+      "comment": "对 VR 硬件厂商是一次软硬件协同的机会。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "Apple TV 4K 原生运行 Switch 游戏",
+      "summary": "开源项目 TVPort 让 Apple TV 4K 能以 60FPS 原生运行《超级马力欧：奥德赛》，展示主机跨平台潜力。",
+      "link": "https://www.ithome.com/1/022/510.htm",
+      "comment": "显示 Apple 在软硬件生态整合上的新尝试。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "7 寸天玑性能机配 11000mAh 大电池",
+      "summary": "某厂子系 7 寸 2K 超高刷天玑机，电池容量 11000mAh（40.72Wh），预计以 REDMI 名义发布。",
+      "link": "https://www.ithome.com/1/022/505.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Reno17 系列官宣",
+      "summary": "OPPO 宣布 Reno17 系列将于 11 月 9 日发布，主打全焦段 4K 超清长实况拍摄。",
+      "link": "https://www.ithome.com/1/022/537.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀 700 系列双 8 芯片",
+      "summary": "荣耀 700 系列采用同档唯一双 8 芯片，Pro 版搭载 Snapdragon 8 Gen5，提升性能、续航与影像。",
+      "link": "https://www.ithome.com/1/022/518.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone 18 Pro 与 Pixel 11 Pro 摄影风格对比",
+      "summary": "评测对比两款旗舰手机的照片滤镜与风格，iPhone 在滤镜一致性上更胜一筹。",
+      "link": "https://www.androidauthority.com/iphone-18-pro-photography-styles-vs-pixel-11-pro-camera-looks-3730359/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "折叠手机形态调查报告",
+      "summary": "Android Authority 调查折叠手机的长宽比趋势，微软、三星、苹果等公司表达兴趣。",
+      "link": "https://www.androidauthority.com/foldable-phone-form-factor-aspect-ratio-poll-results-3731476/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Galaxy Z Fold 8 销量激增",
+      "summary": "受 iPhone Duo 发布争议影响，Galaxy Z Fold 8 销量出现显著增长，显示高端折叠机需求回暖。",
+      "link": "https://9to5google.com/2026/11/03/galaxy-z-fold-8-sales-spike-iphone-duo-release/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "macOS 27.3 引入实时活动功能",
+      "summary": "macOS 27.3 开发者预览版在菜单栏加入 iPhone 的实时活动，提升跨设备交互体验。",
+      "link": "https://www.ithome.com/1/022/494.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "App Store 订阅挽留功能上线",
+      "summary": "Apple 为 App Store 开发者提供“订阅挽留”选项，用户取消订阅时可出现优惠提示。",
+      "link": "https://www.ithome.com/1/022/516.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "后摩智能完成数十亿元 B 轮融资",
+      "summary": "后摩智能获数十亿元 B 轮资金，专注端侧大模型 AI 芯片，预计随融资扩招研发与生产团队。",
+      "link": "https://www.leiphone.com/category/industrynews/cyDQKpjtzDEPhrr8.html",
+      "comment": "",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 43.8
+}
