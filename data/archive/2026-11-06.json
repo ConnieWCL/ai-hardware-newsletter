@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-06",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] OPPO 与 vivo 超高像素相机布局曝光，200MP 主摄成像升级。",
+    "[国外] Apple 全系新品发布，M6 芯片 iMac、MacBook Pro 触屏版亮相。",
+    "[国外] Samsung Galaxy Z Fold 8 黑五促销降价 300 美元。",
+    "[国外] Qualcomm 骁龙 8 Elite Extreme 支持 Android Linux 终端。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Oura Ring 5 折扣上市",
+          "summary": "新一代 Oura Ring 5 智能戒指在亚马逊降价 13%，提供全天健康监测。",
+          "link": "https://www.androidauthority.com/oura-ring-5-deal-3732141/",
+          "comment": "健康可穿戴仍是增长热点，关注硬件成本与供应链。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy Studio 头戴式耳机 FCC 认证",
+          "summary": "三星高端头戴式无线耳机获 FCC 认证，预计 2027 年初随 Galaxy S27 发布，对标 AirPods Max。",
+          "link": "https://www.ithome.com/1/023/033.htm",
+          "comment": "高端音频布局显示公司在 AI 音频交互上的布局。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "OPPO Find X10 Ultra 与 vivo X500 Ultra 相机规格泄露",
+          "summary": "两款 Ultra 机型均采用 200MP 主摄，OPPO 还配 50MP 10 倍光学变焦，vivo 保持 200MP 主摄。",
+          "link": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/",
+          "comment": "千元级旗舰继续追求高像素，成本与功耗平衡是关键。",
+          "source": "androidauthority",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPad mini 8（A20 Pro）正式开售",
+          "summary": "iPad mini 8 搭载 A20 Pro 芯片，起售价 5499 元（国补后约 4999 元），定位轻薄娱乐与学习。",
+          "link": "https://www.ithome.com/1/023/021.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple M6 芯片 iMac 与 MacBook Pro 开售",
+          "summary": "全新 M6 芯片 iMac 起价 12499 元，MacBook Pro 触屏版起价 22999 元，提供更高能效与 AI 加速。",
+          "link": "https://www.ithome.com/1/023/022.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 黑五降价 300 美元",
+          "summary": "Galaxy Z Fold 8 现价 1599.99 美元，配合双存储促销，提升折叠屏性价比。",
+          "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Apple HomeView 智能家居中枢配备 8GB 内存",
+          "summary": "HomeView 搭载 A18 芯片与 8GB RAM，定位高性能 AI 中枢，面向智能家居生态。",
+          "link": "https://www.ithome.com/1/023/036.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "骁龙 8 Elite Extreme 支持 Android Linux 终端",
+          "summary": "红魔 12 Pro 实测可运行 Linux Terminal，标志高通芯片已原生支持 Linux 子系统。",
+          "link": "https://www.ithome.com/1/023/058.htm",
+          "comment": "为开发者提供更强的本地化 AI 与边缘计算能力。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Unity 私有化谈判曝光",
+          "summary": "Unity 与包括 Silver Lake、沙特 PIF 在内的投资者进行私有化收购谈判，估值约 250 亿美元。",
+          "link": "https://www.ithome.com/1/023/067.htm",
+          "comment": "私有化后可能加大研发投入，带来大量 AI 引擎相关岗位。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Qoder 获得领先科技奖，抢占 AI 编程市场",
+          "summary": "Qoder 在乌镇世界互联网大会领先科技奖中获奖，成为中国 AI 编程平台第一，预计将获新一轮融资并扩招研发团队。",
+          "link": "http://www.geekpark.net/news/373542",
+          "comment": "国内 AI 开发工具链需求上升，招聘信号明显。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Oura Ring 5 折扣上市",
+      "summary": "新一代 Oura Ring 5 智能戒指在亚马逊降价 13%，提供全天健康监测。",
+      "link": "https://www.androidauthority.com/oura-ring-5-deal-3732141/",
+      "comment": "健康可穿戴仍是增长热点，关注硬件成本与供应链。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy Studio 头戴式耳机 FCC 认证",
+      "summary": "三星高端头戴式无线耳机获 FCC 认证，预计 2027 年初随 Galaxy S27 发布，对标 AirPods Max。",
+      "link": "https://www.ithome.com/1/023/033.htm",
+      "comment": "高端音频布局显示公司在 AI 音频交互上的布局。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "OPPO Find X10 Ultra 与 vivo X500 Ultra 相机规格泄露",
+      "summary": "两款 Ultra 机型均采用 200MP 主摄，OPPO 还配 50MP 10 倍光学变焦，vivo 保持 200MP 主摄。",
+      "link": "https://www.androidauthority.com/oppo-find-x10-ultra-vivo-x500-ultra-camera-specs-leak-3731990/",
+      "comment": "千元级旗舰继续追求高像素，成本与功耗平衡是关键。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPad mini 8（A20 Pro）正式开售",
+      "summary": "iPad mini 8 搭载 A20 Pro 芯片，起售价 5499 元（国补后约 4999 元），定位轻薄娱乐与学习。",
+      "link": "https://www.ithome.com/1/023/021.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple M6 芯片 iMac 与 MacBook Pro 开售",
+      "summary": "全新 M6 芯片 iMac 起价 12499 元，MacBook Pro 触屏版起价 22999 元，提供更高能效与 AI 加速。",
+      "link": "https://www.ithome.com/1/023/022.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 黑五降价 300 美元",
+      "summary": "Galaxy Z Fold 8 现价 1599.99 美元，配合双存储促销，提升折叠屏性价比。",
+      "link": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Apple HomeView 智能家居中枢配备 8GB 内存",
+      "summary": "HomeView 搭载 A18 芯片与 8GB RAM，定位高性能 AI 中枢，面向智能家居生态。",
+      "link": "https://www.ithome.com/1/023/036.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "骁龙 8 Elite Extreme 支持 Android Linux 终端",
+      "summary": "红魔 12 Pro 实测可运行 Linux Terminal，标志高通芯片已原生支持 Linux 子系统。",
+      "link": "https://www.ithome.com/1/023/058.htm",
+      "comment": "为开发者提供更强的本地化 AI 与边缘计算能力。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Unity 私有化谈判曝光",
+      "summary": "Unity 与包括 Silver Lake、沙特 PIF 在内的投资者进行私有化收购谈判，估值约 250 亿美元。",
+      "link": "https://www.ithome.com/1/023/067.htm",
+      "comment": "私有化后可能加大研发投入，带来大量 AI 引擎相关岗位。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Qoder 获得领先科技奖，抢占 AI 编程市场",
+      "summary": "Qoder 在乌镇世界互联网大会领先科技奖中获奖，成为中国 AI 编程平台第一，预计将获新一轮融资并扩招研发团队。",
+      "link": "http://www.geekpark.net/news/373542",
+      "comment": "国内 AI 开发工具链需求上升，招聘信号明显。",
+      "source": "geekpark",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 20.8
+}
