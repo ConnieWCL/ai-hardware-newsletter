@@ -1,0 +1,228 @@
+{
+  "date": "2026-11-07",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为推出首创压电风冷散热支架，定位高性能移动散热解决方案。",
+    "[国内] 小米18标准版通过3C认证，配备100W快充，预计下月亮相。",
+    "[国内] iQOO 7英寸中端机已开模，搭载超万毫安时电池，计划2027年中发布。",
+    "[国内] 脑机接口参考架构国际标准正式发布，标志中国在该领域的标准化领先。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "UNI‑DOGGIE消费级机器狗",
+          "summary": "由宇树科技与巨星传奇联合推出的机器狗，售价43900元，面向高端娱乐与教育市场。",
+          "link": "https://www.ithome.com/1/023/636.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Oura Ring 5智能戒指",
+          "summary": "2026年版健康追踪戒指，亚马逊首降13%，提供24/7健康监测功能。",
+          "link": "https://www.androidauthority.com/oura-ring-5-deal-3732141/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Ray‑Ban Meta Audio智能眼镜",
+          "summary": "Meta与Ray‑Ban合作的AI眼镜，去除摄像头以降低隐私争议，定位高端AR音频交互。",
+          "link": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Android XR眼镜",
+          "summary": "Google生态合作伙伴的XR眼镜确认12月发布，主打沉浸式AR体验与轻量化设计。",
+          "link": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "脑机接口参考架构国际标准发布",
+          "summary": "中国牵头制定的脑机接口参考架构标准正式发布，奠定国际技术规范基础。",
+          "link": "https://www.ithome.com/1/023/631.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为风驰压电风冷散热支架",
+          "summary": "首创压电风冷散热技术，售价299元，适用于高性能移动设备散热。",
+          "link": "https://www.ithome.com/1/023/644.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米18标准版手机",
+          "summary": "通过3C认证，支持100W快充，预计下月正式发布。",
+          "link": "https://www.ithome.com/1/023/652.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iQOO 7英寸中端机",
+          "summary": "已完成开模，配备超万毫安时电池，计划2027年中上市。",
+          "link": "https://www.ithome.com/1/023/556.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果 iPhone Duo 折叠屏手机适配情况",
+          "summary": "折叠机型已面向消费者发售，部分主流App仍未完成内屏适配。",
+          "link": "https://www.ithome.com/1/023/616.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Watch Ultra 2 评测",
+          "summary": "新一代智能手表以超长电池续航设立行业新标杆。",
+          "link": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
+          "comment": "",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "OpenAI 完成 110 亿美元首轮融资",
+          "summary": "估值 1.25 万亿美元，融资后预计大幅扩招 AI 研发与安全团队。",
+          "link": "https://www.ithome.com/1/023/612.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "妙动科技获红杉龙珠 460 万美元众筹",
+          "summary": "新一轮融资将用于加速 AI 机器人与硬件产品研发，暗示招聘需求上升。",
+          "link": "https://www.leiphone.com/category/weiwu/UDrzYpgEJMY4zajC.html",
+          "comment": "",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "UNI‑DOGGIE消费级机器狗",
+      "summary": "由宇树科技与巨星传奇联合推出的机器狗，售价43900元，面向高端娱乐与教育市场。",
+      "link": "https://www.ithome.com/1/023/636.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Oura Ring 5智能戒指",
+      "summary": "2026年版健康追踪戒指，亚马逊首降13%，提供24/7健康监测功能。",
+      "link": "https://www.androidauthority.com/oura-ring-5-deal-3732141/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Ray‑Ban Meta Audio智能眼镜",
+      "summary": "Meta与Ray‑Ban合作的AI眼镜，去除摄像头以降低隐私争议，定位高端AR音频交互。",
+      "link": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Android XR眼镜",
+      "summary": "Google生态合作伙伴的XR眼镜确认12月发布，主打沉浸式AR体验与轻量化设计。",
+      "link": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "脑机接口参考架构国际标准发布",
+      "summary": "中国牵头制定的脑机接口参考架构标准正式发布，奠定国际技术规范基础。",
+      "link": "https://www.ithome.com/1/023/631.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为风驰压电风冷散热支架",
+      "summary": "首创压电风冷散热技术，售价299元，适用于高性能移动设备散热。",
+      "link": "https://www.ithome.com/1/023/644.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米18标准版手机",
+      "summary": "通过3C认证，支持100W快充，预计下月正式发布。",
+      "link": "https://www.ithome.com/1/023/652.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iQOO 7英寸中端机",
+      "summary": "已完成开模，配备超万毫安时电池，计划2027年中上市。",
+      "link": "https://www.ithome.com/1/023/556.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果 iPhone Duo 折叠屏手机适配情况",
+      "summary": "折叠机型已面向消费者发售，部分主流App仍未完成内屏适配。",
+      "link": "https://www.ithome.com/1/023/616.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Watch Ultra 2 评测",
+      "summary": "新一代智能手表以超长电池续航设立行业新标杆。",
+      "link": "https://www.engadget.com/2306413/samsung-galaxy-watch-ultra-2-review-2026/",
+      "comment": "",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 完成 110 亿美元首轮融资",
+      "summary": "估值 1.25 万亿美元，融资后预计大幅扩招 AI 研发与安全团队。",
+      "link": "https://www.ithome.com/1/023/612.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "妙动科技获红杉龙珠 460 万美元众筹",
+      "summary": "新一轮融资将用于加速 AI 机器人与硬件产品研发，暗示招聘需求上升。",
+      "link": "https://www.leiphone.com/category/weiwu/UDrzYpgEJMY4zajC.html",
+      "comment": "",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 35.8
+}
