@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-08",
+  "mode": "llm",
+  "candidates": 56,
+  "overview": [
+    "[国内] 华为鸿蒙成功刷入 MacBook Pro，展示跨平台生态潜力。",
+    "[国内] Cool X Wide 首款阔直板手机发布，搭载联发科 G99，定位性价比。",
+    "[国内] 漫步者 HECATE GT3 TWS 降噪耳机上市，主打 -50dB 深度混合降噪。",
+    "[国内] 联想 Legion E510 游戏耳机降至 48.99 美元，提供 USB‑C 与 7.1 环绕声。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Android XR 眼镜正式确定 12 月发布",
+          "summary": "Google 生态合作伙伴确认 Android XR 眼镜将在 12 月上市，主打轻量化设计和开放平台。",
+          "link": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+          "comment": "首次面向大众的 Android XR 生态，值得关注软硬件生态链机会。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Ray‑Ban Meta Audio 眼镜评测",
+          "summary": "Meta 与 Ray‑Ban 合作的 Audio 眼镜去除摄像头，专注音频播放与降噪，价格偏高。",
+          "link": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+          "comment": "定位高端音频消费品，价格可能限制主流渗透。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "酷派 COOL X Wide 阔直板手机正式开售",
+          "summary": "搭载联发科曦力 G99 芯片，提供 8/12GB RAM 与 128/256GB 存储，售价 999‑1399 元。",
+          "link": "https://www.ithome.com/1/023/829.htm",
+          "comment": "国内首款阔直板形态，填补细分市场空白。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "漫步者 HECATE GT3 TWS 降噪耳机上市",
+          "summary": "采用 -50dB 深度混合降噪，售价 265 元，补贴后 238.5 元。",
+          "link": "https://www.ithome.com/1/023/812.htm",
+          "comment": "性价比突出，适合游戏与通勤场景。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "联想 Legion E510 游戏耳机降价至 48.99 美元",
+          "summary": "提供 USB‑C 接口与 7.1 环绕声，定位入门级游戏耳机。",
+          "link": "https://www.androidauthority.com/lenovo-legion-e510-earbuds-deal-3732651/",
+          "comment": "价格优势明显，可作为入门级电竞配件。",
+          "source": "androidauthority",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Pixel 11 Pro 系列提前黑五促销",
+          "summary": "Pixel 11 Pro、Pro XL、Pro Fold 最高可享 450 美元折扣，抢占高端 Android 市场。",
+          "link": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
+          "comment": "价格优惠或提升 Pixel 在高端市场的渗透率。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy SmartTag 3 上线",
+          "summary": "单颗售价 29 美元，提供四件装套装，定位低价智能追踪器。",
+          "link": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
+          "comment": "低价策略有望抢占物联网追踪细分。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "GitHub 推出 Rubicon 存储架构",
+          "summary": "新架构支持单仓库 5000 个智能体并发协作，秒处理 7200 次推送，提升大规模协同效率。",
+          "link": "https://www.ithome.com/1/023/823.htm",
+          "comment": "对企业级 AI 工作流和代码协作平台意义重大。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "企业级 AI 智能体开始对经营结果负责",
+          "summary": "从办公提效到核心业务，智能体的 KPI 体系逐步建立，推动 AI 向业务价值转化。",
+          "link": "http://www.geekpark.net/news/373642",
+          "comment": "企业招聘将倾向具备 AI Agent 开发经验的候选人。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "OpenAI 再融资 11 亿美元，估值 1.25 万亿美元",
+          "summary": "最新一轮融资为公司注入巨额资金，预计同步扩大研发与产品团队。",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+          "comment": "AI 领域大规模招聘，求职者可关注 OpenAI 及其合作伙伴岗位。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Anthropic 推进 IPO，最高募资 1000 亿美元",
+          "summary": "尽管市场波动，Anthropic 仍计划上市，准备在估值下降后扩大团队规模。",
+          "link": "https://www.ithome.com/1/023/854.htm",
+          "comment": "AI 研发岗位需求将显著上升，适合有深度学习背景的求职者。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Android XR 眼镜正式确定 12 月发布",
+      "summary": "Google 生态合作伙伴确认 Android XR 眼镜将在 12 月上市，主打轻量化设计和开放平台。",
+      "link": "https://9to5google.com/2026/11/06/android-xr-glasses-release-date-window-confirmed/",
+      "comment": "首次面向大众的 Android XR 生态，值得关注软硬件生态链机会。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Ray‑Ban Meta Audio 眼镜评测",
+      "summary": "Meta 与 Ray‑Ban 合作的 Audio 眼镜去除摄像头，专注音频播放与降噪，价格偏高。",
+      "link": "https://9to5google.com/2026/11/06/ray-ban-meta-audio-review/",
+      "comment": "定位高端音频消费品，价格可能限制主流渗透。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "酷派 COOL X Wide 阔直板手机正式开售",
+      "summary": "搭载联发科曦力 G99 芯片，提供 8/12GB RAM 与 128/256GB 存储，售价 999‑1399 元。",
+      "link": "https://www.ithome.com/1/023/829.htm",
+      "comment": "国内首款阔直板形态，填补细分市场空白。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "漫步者 HECATE GT3 TWS 降噪耳机上市",
+      "summary": "采用 -50dB 深度混合降噪，售价 265 元，补贴后 238.5 元。",
+      "link": "https://www.ithome.com/1/023/812.htm",
+      "comment": "性价比突出，适合游戏与通勤场景。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "联想 Legion E510 游戏耳机降价至 48.99 美元",
+      "summary": "提供 USB‑C 接口与 7.1 环绕声，定位入门级游戏耳机。",
+      "link": "https://www.androidauthority.com/lenovo-legion-e510-earbuds-deal-3732651/",
+      "comment": "价格优势明显，可作为入门级电竞配件。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "Pixel 11 Pro 系列提前黑五促销",
+      "summary": "Pixel 11 Pro、Pro XL、Pro Fold 最高可享 450 美元折扣，抢占高端 Android 市场。",
+      "link": "https://9to5google.com/2026/11/06/deals-best-buy-early-black-friday-galaxy-s26-smarttag-3/",
+      "comment": "价格优惠或提升 Pixel 在高端市场的渗透率。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy SmartTag 3 上线",
+      "summary": "单颗售价 29 美元，提供四件装套装，定位低价智能追踪器。",
+      "link": "https://9to5google.com/2026/11/06/galaxy-smarttag-3-available-from-samsung/",
+      "comment": "低价策略有望抢占物联网追踪细分。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "GitHub 推出 Rubicon 存储架构",
+      "summary": "新架构支持单仓库 5000 个智能体并发协作，秒处理 7200 次推送，提升大规模协同效率。",
+      "link": "https://www.ithome.com/1/023/823.htm",
+      "comment": "对企业级 AI 工作流和代码协作平台意义重大。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "企业级 AI 智能体开始对经营结果负责",
+      "summary": "从办公提效到核心业务，智能体的 KPI 体系逐步建立，推动 AI 向业务价值转化。",
+      "link": "http://www.geekpark.net/news/373642",
+      "comment": "企业招聘将倾向具备 AI Agent 开发经验的候选人。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "OpenAI 再融资 11 亿美元，估值 1.25 万亿美元",
+      "summary": "最新一轮融资为公司注入巨额资金，预计同步扩大研发与产品团队。",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "comment": "AI 领域大规模招聘，求职者可关注 OpenAI 及其合作伙伴岗位。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Anthropic 推进 IPO，最高募资 1000 亿美元",
+      "summary": "尽管市场波动，Anthropic 仍计划上市，准备在估值下降后扩大团队规模。",
+      "link": "https://www.ithome.com/1/023/854.htm",
+      "comment": "AI 研发岗位需求将显著上升，适合有深度学习背景的求职者。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 23.1
+}
