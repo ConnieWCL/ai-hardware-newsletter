@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-09",
+  "mode": "llm",
+  "candidates": 50,
+  "overview": [
+    "[国内] OPPO 11 月 16 日发布 Reno17 系列手机，定位高端拍照旗舰。",
+    "[国内] OPPO 同日发布 Watch 5，主打轻薄方形表盘。",
+    "[国内] 松下推出 RB‑HJ800 无线耳机，续航 100 h，支持折叠收纳。",
+    "[国外] Apple 将 13‑寸 M5 MacBook Air 价格降至 1,099.99 美元，创七月以来最低。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "OPPO Reno17 系列手机首秀",
+          "summary": "OPPO 11 月 16 日发布 Reno17 系列，采用全新外观设计，由宋雨琦代言，定位高端拍照旗舰。",
+          "link": "https://www.ithome.com/1/024/024.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Watch 5 智能手表发布",
+          "summary": "OPPO Watch 5 采用轻薄方形表盘，侧边边框更窄，定位时尚运动用户，11 月 16 日同步发布。",
+          "link": "https://www.ithome.com/1/024/060.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "松下 RB‑HJ800 无线耳机",
+          "summary": "松下推出头戴式无线耳机 RB‑HJ800，具备 100 h（关闭降噪）续航，支持两种折叠收纳方式，适合长时聆听。",
+          "link": "https://www.ithome.com/1/024/050.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple M5 MacBook Air 价格下调",
+          "summary": "13‑寸 M5 MacBook Air 现价 1,099.99 美元，为自 7 月以来最低价，吸引预算型轻薄本用户。",
+          "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Apple M6 MacBook Pro 体验评测",
+          "summary": "M6 MacBook Pro 搭载新一代 M 系列芯片，性能大幅提升，定位创作者专业工作站。",
+          "link": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "",
+          "source": "ifanr",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Siri AI 团队或大调整",
+          "summary": "据 Bloomberg 报道，负责 Siri AI 项目的工程副总裁罗克韦尔正考虑离职，暗示团队可能重组。",
+          "link": "https://www.ithome.com/1/024/014.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple 加速 Siri 代理化",
+          "summary": "Mark Gurman 报道，Apple CEO Ternus 正逼迫 AI 负责人加快 Siri 向更具主动性的 AI 代理转型。",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "iOS 27.3 beta 暗示 HomeView 将支持聊天机器人",
+          "summary": "Beta 代码显示 Apple 可能在 HomeView 智能家居中心加入聊天机器人功能，提升交互体验。",
+          "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "终端侧 AI 从单点应用走向智能体体验",
+          "summary": "Qualcomm 中国区 AI 产品技术负责人万卫星称，终端侧 AI 正进入智能体阶段，重点从大模型向场景化应用转变。",
+          "link": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+          "comment": "",
+          "source": "leiphone",
+          "region": "国内"
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang 备忘录全文",
+          "summary": "Nvidia 公布内部备忘录，阐述 AI 业务治理与伦理审查的最新要求。",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+          "comment": "",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "蚂蚁集团 AI 助手灵光用户突破 2000 万",
+          "summary": "灵光 2.0 上线一周即帮助用户管理 116 万项事务，显示 AI 助手业务快速增长，可能带来招聘扩张。",
+          "link": "https://www.ithome.com/1/024/010.htm",
+          "comment": "用户规模激增暗示团队将扩招研发与运营岗位。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "OPPO Reno17 系列手机首秀",
+      "summary": "OPPO 11 月 16 日发布 Reno17 系列，采用全新外观设计，由宋雨琦代言，定位高端拍照旗舰。",
+      "link": "https://www.ithome.com/1/024/024.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Watch 5 智能手表发布",
+      "summary": "OPPO Watch 5 采用轻薄方形表盘，侧边边框更窄，定位时尚运动用户，11 月 16 日同步发布。",
+      "link": "https://www.ithome.com/1/024/060.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "松下 RB‑HJ800 无线耳机",
+      "summary": "松下推出头戴式无线耳机 RB‑HJ800，具备 100 h（关闭降噪）续航，支持两种折叠收纳方式，适合长时聆听。",
+      "link": "https://www.ithome.com/1/024/050.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple M5 MacBook Air 价格下调",
+      "summary": "13‑寸 M5 MacBook Air 现价 1,099.99 美元，为自 7 月以来最低价，吸引预算型轻薄本用户。",
+      "link": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Apple M6 MacBook Pro 体验评测",
+      "summary": "M6 MacBook Pro 搭载新一代 M 系列芯片，性能大幅提升，定位创作者专业工作站。",
+      "link": "https://www.ifanr.com/1688127?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "",
+      "source": "ifanr",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Siri AI 团队或大调整",
+      "summary": "据 Bloomberg 报道，负责 Siri AI 项目的工程副总裁罗克韦尔正考虑离职，暗示团队可能重组。",
+      "link": "https://www.ithome.com/1/024/014.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple 加速 Siri 代理化",
+      "summary": "Mark Gurman 报道，Apple CEO Ternus 正逼迫 AI 负责人加快 Siri 向更具主动性的 AI 代理转型。",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "iOS 27.3 beta 暗示 HomeView 将支持聊天机器人",
+      "summary": "Beta 代码显示 Apple 可能在 HomeView 智能家居中心加入聊天机器人功能，提升交互体验。",
+      "link": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "终端侧 AI 从单点应用走向智能体体验",
+      "summary": "Qualcomm 中国区 AI 产品技术负责人万卫星称，终端侧 AI 正进入智能体阶段，重点从大模型向场景化应用转变。",
+      "link": "https://www.leiphone.com/category/chips/aOKsujJpdDvRKj5S.html",
+      "comment": "",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang 备忘录全文",
+      "summary": "Nvidia 公布内部备忘录，阐述 AI 业务治理与伦理审查的最新要求。",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "comment": "",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "蚂蚁集团 AI 助手灵光用户突破 2000 万",
+      "summary": "灵光 2.0 上线一周即帮助用户管理 116 万项事务，显示 AI 助手业务快速增长，可能带来招聘扩张。",
+      "link": "https://www.ithome.com/1/024/010.htm",
+      "comment": "用户规模激增暗示团队将扩招研发与运营岗位。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 19.0
+}
