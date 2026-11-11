@@ -1,0 +1,175 @@
+{
+  "date": "2026-11-11",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为余承东官宣全新子品牌 OSTA O1 Pro 阔直板手机，定位高端商务旗舰。",
+    "[国内] 华为发布首款鸿蒙折叠笔记本 MateBook Fold S，11 月 14 日开启预订。",
+    "[国外] Google 推出 Pixel Tag 低价 Android 追踪器，直接竞争 Apple AirTag。",
+    "[国外] 苹果子公司 Claris 测试 Harbor 应用，将 Mac 变身本地 AI 服务器。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 OSTA O1 Pro 阔直板手机发布",
+          "summary": "华为子品牌 OSTA 推出全新 O1 Pro 阔直板机，搭载鸿蒙系统，定位高端商务，预计售价在 5,999 元左右。",
+          "link": "https://www.ithome.com/1/025/300.htm",
+          "comment": "余承东亲自官宣，彰显华为在高端手机市场的持续布局。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为鸿蒙折叠笔记本 MateBook Fold S 预订开启",
+          "summary": "华为推出首款鸿蒙折叠笔记本 MateBook Fold S，采用 13.5 英寸可折叠 OLED 屏，搭载自研 NPU，11 月 14 日开启预订。",
+          "link": "https://www.ithome.com/1/025/307.htm",
+          "comment": "折叠电脑是华为布局新形态硬件的关键一步。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Google Pixel Tag 追踪器上市",
+          "summary": "Google 推出 30 美元的 Pixel Tag，支持 UWB 与蓝牙，可在 Android 设备上追踪物品，直接对标 Apple AirTag。",
+          "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+          "comment": "低价策略有望抢占 Android 生态的追踪市场。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Claris 测试 Harbor 本地 AI 服务器应用",
+          "summary": "Apple 全资子公司 Claris 正在测试 Harbor，将搭载 Apple Silicon 的 Mac 变为本地 AI 推理服务器，支持单机或多机部署。",
+          "link": "https://www.ithome.com/1/025/225.htm",
+          "comment": "为开发者提供私有化 AI 计算环境，提升安全性。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "KORA OS 首批适配 Snapdragon X2 Elite",
+          "summary": "KORA Systems 发布原生 AI 操作系统 KORA OS，首批在高通骁龙 X2 Elite 芯片上运行，强调自下而上的 AI 能力。",
+          "link": "https://www.ithome.com/1/025/226.htm",
+          "comment": "抢占 AI PC 市场的系统层面竞争。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple AirPods 9B47 固件更新",
+          "summary": "Apple 为 AirPods Pro 2/3、AirPods 4/5、AirPods Max 2 推送 9B47 固件，提升降噪算法并优化功耗。",
+          "link": "https://www.ithome.com/1/025/210.htm",
+          "comment": "持续迭代固件保持硬件竞争力。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iCloud 全球性故障恢复",
+          "summary": "11 月 11 日 iCloud 多项服务出现中断，影响登录、照片同步等，数小时后全部恢复。",
+          "link": "https://www.ithome.com/1/025/227.htm",
+          "comment": "提醒云服务可靠性仍是用户关注焦点。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Anthropic 启动最高 643.5 亿美元 IPO",
+          "summary": "AI 初创 Anthropic 宣布最高 643.5 亿美元的 IPO 计划，预计融资后将大幅扩招研发团队。",
+          "link": "https://www.ithome.com/1/025/224.htm",
+          "comment": "大规模融资预示 AI 基础模型人才需求激增。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Oura 收购 AI 医疗聊天机器人 Counsel Health",
+          "summary": "健康穿戴公司 Oura 以 6.25 亿美元收购 Counsel Health，旨扩展 AI 诊疗功能并招聘 AI 医疗专家。",
+          "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+          "comment": "并购带来技术叠加和岗位增长。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为 OSTA O1 Pro 阔直板手机发布",
+      "summary": "华为子品牌 OSTA 推出全新 O1 Pro 阔直板机，搭载鸿蒙系统，定位高端商务，预计售价在 5,999 元左右。",
+      "link": "https://www.ithome.com/1/025/300.htm",
+      "comment": "余承东亲自官宣，彰显华为在高端手机市场的持续布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为鸿蒙折叠笔记本 MateBook Fold S 预订开启",
+      "summary": "华为推出首款鸿蒙折叠笔记本 MateBook Fold S，采用 13.5 英寸可折叠 OLED 屏，搭载自研 NPU，11 月 14 日开启预订。",
+      "link": "https://www.ithome.com/1/025/307.htm",
+      "comment": "折叠电脑是华为布局新形态硬件的关键一步。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Google Pixel Tag 追踪器上市",
+      "summary": "Google 推出 30 美元的 Pixel Tag，支持 UWB 与蓝牙，可在 Android 设备上追踪物品，直接对标 Apple AirTag。",
+      "link": "https://www.theverge.com/tech/1030766/google-pixel-tag-tracker-find-hub-uwb-bluetooth-sounding",
+      "comment": "低价策略有望抢占 Android 生态的追踪市场。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Claris 测试 Harbor 本地 AI 服务器应用",
+      "summary": "Apple 全资子公司 Claris 正在测试 Harbor，将搭载 Apple Silicon 的 Mac 变为本地 AI 推理服务器，支持单机或多机部署。",
+      "link": "https://www.ithome.com/1/025/225.htm",
+      "comment": "为开发者提供私有化 AI 计算环境，提升安全性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "KORA OS 首批适配 Snapdragon X2 Elite",
+      "summary": "KORA Systems 发布原生 AI 操作系统 KORA OS，首批在高通骁龙 X2 Elite 芯片上运行，强调自下而上的 AI 能力。",
+      "link": "https://www.ithome.com/1/025/226.htm",
+      "comment": "抢占 AI PC 市场的系统层面竞争。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple AirPods 9B47 固件更新",
+      "summary": "Apple 为 AirPods Pro 2/3、AirPods 4/5、AirPods Max 2 推送 9B47 固件，提升降噪算法并优化功耗。",
+      "link": "https://www.ithome.com/1/025/210.htm",
+      "comment": "持续迭代固件保持硬件竞争力。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iCloud 全球性故障恢复",
+      "summary": "11 月 11 日 iCloud 多项服务出现中断，影响登录、照片同步等，数小时后全部恢复。",
+      "link": "https://www.ithome.com/1/025/227.htm",
+      "comment": "提醒云服务可靠性仍是用户关注焦点。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Anthropic 启动最高 643.5 亿美元 IPO",
+      "summary": "AI 初创 Anthropic 宣布最高 643.5 亿美元的 IPO 计划，预计融资后将大幅扩招研发团队。",
+      "link": "https://www.ithome.com/1/025/224.htm",
+      "comment": "大规模融资预示 AI 基础模型人才需求激增。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Oura 收购 AI 医疗聊天机器人 Counsel Health",
+      "summary": "健康穿戴公司 Oura 以 6.25 亿美元收购 Counsel Health，旨扩展 AI 诊疗功能并招聘 AI 医疗专家。",
+      "link": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+      "comment": "并购带来技术叠加和岗位增长。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 20.6
+}
