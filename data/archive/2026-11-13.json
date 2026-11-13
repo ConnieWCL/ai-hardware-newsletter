@@ -1,0 +1,249 @@
+{
+  "date": "2026-11-13",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate XT 2折叠屏新品发布，定价22999元，主打灵盾防窥屏与高配内存。",
+    "[国内] 小米新机REDMI Note18系列通过3C认证，支持67W有线快充，预计下月上市。",
+    "[国外] Samsung Galaxy SmartTag 3低至20美元，定位低价物联网追踪器，抢占Pixel Tag市场。",
+    "[国外] Google Intelligent Eyewear智能眼镜发布，售价395美元起，支持iOS Made‑for‑iPhone认证。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Google Intelligent Eyewear 智能眼镜",
+          "summary": "Google推出第二代Android XR智能眼镜，支持iOS Made‑for‑iPhone，售价395美元起，提供语音交互与空间音频。",
+          "link": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
+          "comment": "跨平台兼容提升生态渗透，适合AI硬件团队关注软硬件协同。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy SmartTag 3 低价物联网追踪器",
+          "summary": "Samsung将Galaxy SmartTag 3售价降至20美元，提供蓝牙追踪与AI定位功能，抢占低价市场。",
+          "link": "https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/",
+          "comment": "低成本硬件方案可为AI定位算法提供海量数据。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Oura Ring 4 智能戒指降价",
+          "summary": "Oura Ring 4在美国平台降至249美元，提供睡眠、心率、体温监测，性价比提升。",
+          "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+          "comment": "健康监测芯片的成本下降，为可穿戴AI提供机会。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "Beni 跟拍机器人",
+          "summary": "Beni是一款AI陪伴机器人，具备自动拍照、跟随功能，已在国内上线销售。",
+          "link": "http://www.geekpark.net/news/373860",
+          "comment": "机器人与AI视觉结合，是新兴交互硬件的典型案例。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "Nothing AI 录音卡",
+          "summary": "Nothing推出首款AI录音卡，外形类似传统录音笔，内置实时降噪与语音转文字功能。",
+          "link": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
+          "comment": "AI前端处理在小型硬件中的落地，值得关注。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate XT 2 非凡大师三折叠手机",
+          "summary": "华为发布Mate XT 2折叠屏手机，配备16GB+512GB灵盾防窥屏，售价22999元，提供锦紫、玄黑、皓白三色。",
+          "link": "https://www.ithome.com/1/026/486.htm",
+          "comment": "高配内存与防窥技术突显差异化竞争。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 REDMI Note18 系列",
+          "summary": "小米新机通过3C认证，支持67W有线快充，预计为REDMI Note18系列，定位中高端性价比。",
+          "link": "https://www.ithome.com/1/026/488.htm",
+          "comment": "快充技术提升用户体验，适合AI加速芯片的功耗管理研究。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "三星 W27 折叠屏手机",
+          "summary": "三星与中国电信合作推出W27折叠屏手机，提供16GB+512GB和16GB+1TB两款，售价分别为18999元和21999元。",
+          "link": "https://www.ithome.com/1/026/507.htm",
+          "comment": "高配版容量达1TB，显示存储成本在折叠屏中的重要性。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Apple HomeView 智能家庭中枢",
+          "summary": "苹果发布首款HomeView智能家庭中枢及新款Apple TV 4K，已在澳新地区发货。",
+          "link": "https://www.ithome.com/1/026/476.htm",
+          "comment": "AI语音控制与家庭IoT深度融合，提供跨平台案例。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Android XR Glasses from Warby Parker & Gentle Monster",
+          "summary": "Gentle Monster 与 Warby Parker 合作推出首款Android XR智能眼镜，预计12月10日发售。",
+          "link": "https://roadtovr.com/android-xr-warby-parker-gentle-monster-release-date-price/",
+          "comment": "时尚与XR硬件结合，拓展AI视觉消费场景。",
+          "source": "roadtovr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星 Galaxy Watch 新专利：检测腹部脂肪",
+          "summary": "三星获批专利，利用多传感器融合检测佩戴者内脏脂肪，提升健康监测精度。",
+          "link": "https://www.ithome.com/1/026/463.htm",
+          "comment": "传感器融合算法可为AI健康模型提供新数据来源。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "OpenAI 最新一轮私募融资 150 亿美元",
+          "summary": "OpenAI完成150亿美元融资，估值1.25万亿美元，预计将扩大研发与招聘规模。",
+          "link": "https://www.ithome.com/1/026/495.htm",
+          "comment": "大规模融资暗示AI硬件研发需求上升，招聘机会增多。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "英伟达创始人黄仁勋辞职",
+          "summary": "英伟达CEO黄仁勋辞职，引发对公司AI芯片研发与开源支持的关注。",
+          "link": "https://www.ithome.com/1/026/492.htm",
+          "comment": "管理层变动可能影响芯片供应链招聘计划。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Google Intelligent Eyewear 智能眼镜",
+      "summary": "Google推出第二代Android XR智能眼镜，支持iOS Made‑for‑iPhone，售价395美元起，提供语音交互与空间音频。",
+      "link": "https://9to5google.com/2026/11/12/google-intelligent-eyewear-glasses/",
+      "comment": "跨平台兼容提升生态渗透，适合AI硬件团队关注软硬件协同。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy SmartTag 3 低价物联网追踪器",
+      "summary": "Samsung将Galaxy SmartTag 3售价降至20美元，提供蓝牙追踪与AI定位功能，抢占低价市场。",
+      "link": "https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/",
+      "comment": "低成本硬件方案可为AI定位算法提供海量数据。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Oura Ring 4 智能戒指降价",
+      "summary": "Oura Ring 4在美国平台降至249美元，提供睡眠、心率、体温监测，性价比提升。",
+      "link": "https://www.theverge.com/gadgets/1032311/oura-ring-4-smart-ring-deal-sale",
+      "comment": "健康监测芯片的成本下降，为可穿戴AI提供机会。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "Beni 跟拍机器人",
+      "summary": "Beni是一款AI陪伴机器人，具备自动拍照、跟随功能，已在国内上线销售。",
+      "link": "http://www.geekpark.net/news/373860",
+      "comment": "机器人与AI视觉结合，是新兴交互硬件的典型案例。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "Nothing AI 录音卡",
+      "summary": "Nothing推出首款AI录音卡，外形类似传统录音笔，内置实时降噪与语音转文字功能。",
+      "link": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
+      "comment": "AI前端处理在小型硬件中的落地，值得关注。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate XT 2 非凡大师三折叠手机",
+      "summary": "华为发布Mate XT 2折叠屏手机，配备16GB+512GB灵盾防窥屏，售价22999元，提供锦紫、玄黑、皓白三色。",
+      "link": "https://www.ithome.com/1/026/486.htm",
+      "comment": "高配内存与防窥技术突显差异化竞争。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 REDMI Note18 系列",
+      "summary": "小米新机通过3C认证，支持67W有线快充，预计为REDMI Note18系列，定位中高端性价比。",
+      "link": "https://www.ithome.com/1/026/488.htm",
+      "comment": "快充技术提升用户体验，适合AI加速芯片的功耗管理研究。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "三星 W27 折叠屏手机",
+      "summary": "三星与中国电信合作推出W27折叠屏手机，提供16GB+512GB和16GB+1TB两款，售价分别为18999元和21999元。",
+      "link": "https://www.ithome.com/1/026/507.htm",
+      "comment": "高配版容量达1TB，显示存储成本在折叠屏中的重要性。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Apple HomeView 智能家庭中枢",
+      "summary": "苹果发布首款HomeView智能家庭中枢及新款Apple TV 4K，已在澳新地区发货。",
+      "link": "https://www.ithome.com/1/026/476.htm",
+      "comment": "AI语音控制与家庭IoT深度融合，提供跨平台案例。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Android XR Glasses from Warby Parker & Gentle Monster",
+      "summary": "Gentle Monster 与 Warby Parker 合作推出首款Android XR智能眼镜，预计12月10日发售。",
+      "link": "https://roadtovr.com/android-xr-warby-parker-gentle-monster-release-date-price/",
+      "comment": "时尚与XR硬件结合，拓展AI视觉消费场景。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy Watch 新专利：检测腹部脂肪",
+      "summary": "三星获批专利，利用多传感器融合检测佩戴者内脏脂肪，提升健康监测精度。",
+      "link": "https://www.ithome.com/1/026/463.htm",
+      "comment": "传感器融合算法可为AI健康模型提供新数据来源。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OpenAI 最新一轮私募融资 150 亿美元",
+      "summary": "OpenAI完成150亿美元融资，估值1.25万亿美元，预计将扩大研发与招聘规模。",
+      "link": "https://www.ithome.com/1/026/495.htm",
+      "comment": "大规模融资暗示AI硬件研发需求上升，招聘机会增多。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "英伟达创始人黄仁勋辞职",
+      "summary": "英伟达CEO黄仁勋辞职，引发对公司AI芯片研发与开源支持的关注。",
+      "link": "https://www.ithome.com/1/026/492.htm",
+      "comment": "管理层变动可能影响芯片供应链招聘计划。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 22.4
+}
