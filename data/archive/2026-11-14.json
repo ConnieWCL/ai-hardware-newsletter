@@ -1,0 +1,180 @@
+{
+  "date": "2026-11-14",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为持续推送 HarmonyOS 7 系统升级，强化沉浸式交互与 AI 快捷功能。",
+    "[国内] 麒麟 9050 系列芯片曝光，9核灵犀 CPU 将提升 AI 计算性能。",
+    "[国内] 智慧消防公司菲思拓获超千万融资，AI 主动灭火方案进入快速扩张期。",
+    "[国外] Samsung Galaxy SmartTag 3 低至 20 美元，定位轻量化物联网追踪。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Samsung Galaxy SmartTag 3 低价发售",
+          "summary": "Samsung 推出的 Galaxy SmartTag 3 现价约 20 美元，主打低功耗蓝牙追踪，适用于物品定位与智能家居联动。",
+          "link": "https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/",
+          "comment": "价格优势或抢占低端物联网市场。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Nothing AI 录音器外观曝光",
+          "summary": "Nothing 预告其首款无屏 AI 录音器，外形类似传统录音笔，搭载实时转写与噪声抑制 AI 功能。",
+          "link": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
+          "comment": "聚焦内容创作者与会议记录需求。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Android XR 眼镜及配件价格分析",
+          "summary": "首批 Android XR 眼镜上市，基础版售价高，配件如手势控制手环进一步推高整体成本。",
+          "link": "https://9to5google.com/2026/11/12/android-xr-glasses-add-on-prices/",
+          "comment": "高价位可能限制大众普及。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Android XR 眼镜手势控制 Wearable",
+          "summary": "Pixel Watch 与 Fitbit Air 将支持对 Android XR 眼镜的手势控制，实现跨设备交互。",
+          "link": "https://9to5google.com/2026/11/12/android-xr-will-support-piel-watch-and-fitbit-air-control/",
+          "comment": "生态互通提升使用便利性。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Blackmagic Ambisonic 麦克风面向 Vision Pro",
+          "summary": "Blackmagic Design 推出专业级 Ambisonic 麦克风，专为 Apple Vision Pro 捕捉空间音频设计。",
+          "link": "https://roadtovr.com/blackmagic-ambisonic-mic-vision-pro/",
+          "comment": "填补 AR/VR 高端音频采集空白。",
+          "source": "roadtovr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为多机型升级至 HarmonyOS 7.0.0.111",
+          "summary": "Nova 12 系列、Nova Flip、畅享 90 系列等机型获 HarmonyOS 7 更新，新增沉浸光感粒子动效与 AI 小艺快捷栏预览。",
+          "link": "https://www.ithome.com/1/026/991.htm",
+          "comment": "系统迭代提升用户体验，巩固生态。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为 HarmonyOS 7 小艺 AI 快捷栏即将上线",
+          "summary": "华为计划于 11 月中旬在首批设备（含 Pura X View）推出小艺 AI 快捷栏，提供 AI 助手快速入口。",
+          "link": "https://www.ithome.com/1/026/962.htm",
+          "comment": "强化 AI 场景渗透。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "麒麟 9050 系列芯片详细参数曝光",
+          "summary": "华为公布麒麟 9050 系列搭载 9 核 16 线程灵犀 CPU，支持内存压缩加速，提升 AI 推理与多任务性能。",
+          "link": "https://www.ithome.com/1/026/993.htm",
+          "comment": "新一代高效能芯片为自研生态提供算力支撑。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "智慧消防公司菲思拓获超千万融资",
+          "summary": "专注 AI 主动灭火的菲思拓完成超千万人民币融资，计划扩充研发与市场团队。",
+          "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+          "comment": "资金注入将带来更多 AI 硬件岗位。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Samsung Galaxy SmartTag 3 低价发售",
+      "summary": "Samsung 推出的 Galaxy SmartTag 3 现价约 20 美元，主打低功耗蓝牙追踪，适用于物品定位与智能家居联动。",
+      "link": "https://9to5google.com/2026/11/12/samsungs-galaxy-smarttag-3-deal/",
+      "comment": "价格优势或抢占低端物联网市场。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Nothing AI 录音器外观曝光",
+      "summary": "Nothing 预告其首款无屏 AI 录音器，外形类似传统录音笔，搭载实时转写与噪声抑制 AI 功能。",
+      "link": "https://9to5google.com/2026/11/12/nothings-screen-less-new-gadget-really-looks-like-yet-another-ai-recorder/",
+      "comment": "聚焦内容创作者与会议记录需求。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Android XR 眼镜及配件价格分析",
+      "summary": "首批 Android XR 眼镜上市，基础版售价高，配件如手势控制手环进一步推高整体成本。",
+      "link": "https://9to5google.com/2026/11/12/android-xr-glasses-add-on-prices/",
+      "comment": "高价位可能限制大众普及。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Android XR 眼镜手势控制 Wearable",
+      "summary": "Pixel Watch 与 Fitbit Air 将支持对 Android XR 眼镜的手势控制，实现跨设备交互。",
+      "link": "https://9to5google.com/2026/11/12/android-xr-will-support-piel-watch-and-fitbit-air-control/",
+      "comment": "生态互通提升使用便利性。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Blackmagic Ambisonic 麦克风面向 Vision Pro",
+      "summary": "Blackmagic Design 推出专业级 Ambisonic 麦克风，专为 Apple Vision Pro 捕捉空间音频设计。",
+      "link": "https://roadtovr.com/blackmagic-ambisonic-mic-vision-pro/",
+      "comment": "填补 AR/VR 高端音频采集空白。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "华为多机型升级至 HarmonyOS 7.0.0.111",
+      "summary": "Nova 12 系列、Nova Flip、畅享 90 系列等机型获 HarmonyOS 7 更新，新增沉浸光感粒子动效与 AI 小艺快捷栏预览。",
+      "link": "https://www.ithome.com/1/026/991.htm",
+      "comment": "系统迭代提升用户体验，巩固生态。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为 HarmonyOS 7 小艺 AI 快捷栏即将上线",
+      "summary": "华为计划于 11 月中旬在首批设备（含 Pura X View）推出小艺 AI 快捷栏，提供 AI 助手快速入口。",
+      "link": "https://www.ithome.com/1/026/962.htm",
+      "comment": "强化 AI 场景渗透。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "麒麟 9050 系列芯片详细参数曝光",
+      "summary": "华为公布麒麟 9050 系列搭载 9 核 16 线程灵犀 CPU，支持内存压缩加速，提升 AI 推理与多任务性能。",
+      "link": "https://www.ithome.com/1/026/993.htm",
+      "comment": "新一代高效能芯片为自研生态提供算力支撑。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "智慧消防公司菲思拓获超千万融资",
+      "summary": "专注 AI 主动灭火的菲思拓完成超千万人民币融资，计划扩充研发与市场团队。",
+      "link": "https://www.leiphone.com/category/weiwu/c3euXbtYsl0O6fm2.html",
+      "comment": "资金注入将带来更多 AI 硬件岗位。",
+      "source": "leiphone",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 21.8
+}
