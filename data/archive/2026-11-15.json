@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-15",
+  "mode": "llm",
+  "candidates": 51,
+  "overview": [
+    "[国内] 华为Mate X8折叠屏手机即将发布，屏幕、拍照、性能再突破。",
+    "[国内] 华为MateBook Fold S小折叠电脑开启预订，最高配置32GB/1TB。",
+    "[国内] 超聚变数字技术完成IPO，标志华为服务器业务独立上市。",
+    "[国外] Apple iPhone Duo折叠机型设置指南，提升使用便捷性。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate X8折叠屏手机即将发布",
+          "summary": "余承东宣布Mate X系列进入第八年，Mate X8将在屏幕、拍照和性能上实现新突破，预计将采用更轻薄折叠设计。",
+          "link": "https://www.ithome.com/1/027/274.htm",
+          "comment": "继续巩固华为在高端折叠屏市场的领先地位。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为MateBook Fold S小折叠电脑开启预订",
+          "summary": "首款鸿蒙小折叠电脑，折叠态10.2英寸、展开态14.7英寸，最高配置32GB内存+1TB SSD，提供黑白蓝三色。",
+          "link": "https://www.ithome.com/1/027/263.htm",
+          "comment": "面向移动办公和创意工作者，填补国产轻薄折叠PC空白。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple iPhone Duo使用技巧全攻略",
+          "summary": "针对即将上市的折叠iPhone Duo，提供Touch ID快捷键、音量键智能化等9项设置，提升折叠机使用体验。",
+          "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+          "comment": "折叠手机仍在探索阶段，实用技巧有助于早期用户接受。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Nothing Ear (3a) 真无线耳机降价至69美元",
+          "summary": "Nothing推出入门级Ear (3a)耳机，现价69美元，提供30%折扣，主打轻量化设计和透明外观。",
+          "link": "https://www.androidauthority.com/nothing-ear-3a-deal-3735098/",
+          "comment": "价格下调有望抢占预算耳机市场份额。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Google Pixel 11 Pro新增HiLight消息高亮功能",
+          "summary": "Pixel 11 Pro的HiLight功能扩展至WhatsApp消息，实现重要信息的视觉突出，提升跨平台沟通效率。",
+          "link": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+          "comment": "功能迭代显示Google在软件生态上持续投入。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Google Pixel推出Family Hub家庭共享功能",
+          "summary": "Pixel系列新增Family Hub设置，用户可在设置页统一管理家庭成员设备、共享媒体和家长控制。",
+          "link": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+          "comment": "强化生态粘性，提升多设备家庭使用体验。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "LG U+进军AI Token业务，降低企业AI转型成本",
+          "summary": "韩国运营商LG U+计划明年推出自主研发的AI Token服务，帮助企业在AI转型（AX）中降低算力和成本。",
+          "link": "https://www.ithome.com/1/027/262.htm",
+          "comment": "AI即服务化趋势加速，Token模式或成为算力计费新标杆。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "华为智能车灯独立功能声明",
+          "summary": "华为智能汽车解决方案BU回应车灯控制争议，确认原车拨杆闪灯为独立功能，不受高精度ADB主动干预。",
+          "link": "https://www.ithome.com/1/027/264.htm",
+          "comment": "展示华为在车载软硬件分层上的安全设计能力。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "超聚变数字技术完成创业板IPO",
+          "summary": "前华为X86服务器业务独立公司超聚变获批上市，募集资金将用于算力平台扩张和研发投入。",
+          "link": "https://www.ithome.com/1/027/255.htm",
+          "comment": "上市后预计大幅扩招服务器研发和销售团队。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "LangChain完成3亿美元C轮融资，估值30亿美元",
+          "summary": "AI代理平台LangChain获3亿美元融资，客户已达7,000家，计划扩大研发和市场团队。",
+          "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+          "comment": "融资后将加速全球AI开发者生态布局。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Nvidia创始人黄仁勋离职冲击AI创业投资",
+          "summary": "黄仁勋离职后，Nvidia对AI初创企业的资金支持出现不确定性，业界担忧后续融资环境收紧。",
+          "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+          "comment": "可能导致AI创业公司重新寻找多元化资金渠道。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为Mate X8折叠屏手机即将发布",
+      "summary": "余承东宣布Mate X系列进入第八年，Mate X8将在屏幕、拍照和性能上实现新突破，预计将采用更轻薄折叠设计。",
+      "link": "https://www.ithome.com/1/027/274.htm",
+      "comment": "继续巩固华为在高端折叠屏市场的领先地位。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为MateBook Fold S小折叠电脑开启预订",
+      "summary": "首款鸿蒙小折叠电脑，折叠态10.2英寸、展开态14.7英寸，最高配置32GB内存+1TB SSD，提供黑白蓝三色。",
+      "link": "https://www.ithome.com/1/027/263.htm",
+      "comment": "面向移动办公和创意工作者，填补国产轻薄折叠PC空白。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple iPhone Duo使用技巧全攻略",
+      "summary": "针对即将上市的折叠iPhone Duo，提供Touch ID快捷键、音量键智能化等9项设置，提升折叠机使用体验。",
+      "link": "https://techcrunch.com/2026/11/14/got-an-iphone-duo-these-9-settings-make-it-easier-to-use/",
+      "comment": "折叠手机仍在探索阶段，实用技巧有助于早期用户接受。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Nothing Ear (3a) 真无线耳机降价至69美元",
+      "summary": "Nothing推出入门级Ear (3a)耳机，现价69美元，提供30%折扣，主打轻量化设计和透明外观。",
+      "link": "https://www.androidauthority.com/nothing-ear-3a-deal-3735098/",
+      "comment": "价格下调有望抢占预算耳机市场份额。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Google Pixel 11 Pro新增HiLight消息高亮功能",
+      "summary": "Pixel 11 Pro的HiLight功能扩展至WhatsApp消息，实现重要信息的视觉突出，提升跨平台沟通效率。",
+      "link": "https://9to5google.com/2026/11/13/pixel-11-pro-hilight-whatsapp/",
+      "comment": "功能迭代显示Google在软件生态上持续投入。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Google Pixel推出Family Hub家庭共享功能",
+      "summary": "Pixel系列新增Family Hub设置，用户可在设置页统一管理家庭成员设备、共享媒体和家长控制。",
+      "link": "https://9to5google.com/2026/11/14/google-pixel-family-hub-feature-rolled-out/",
+      "comment": "强化生态粘性，提升多设备家庭使用体验。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "LG U+进军AI Token业务，降低企业AI转型成本",
+      "summary": "韩国运营商LG U+计划明年推出自主研发的AI Token服务，帮助企业在AI转型（AX）中降低算力和成本。",
+      "link": "https://www.ithome.com/1/027/262.htm",
+      "comment": "AI即服务化趋势加速，Token模式或成为算力计费新标杆。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为智能车灯独立功能声明",
+      "summary": "华为智能汽车解决方案BU回应车灯控制争议，确认原车拨杆闪灯为独立功能，不受高精度ADB主动干预。",
+      "link": "https://www.ithome.com/1/027/264.htm",
+      "comment": "展示华为在车载软硬件分层上的安全设计能力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "超聚变数字技术完成创业板IPO",
+      "summary": "前华为X86服务器业务独立公司超聚变获批上市，募集资金将用于算力平台扩张和研发投入。",
+      "link": "https://www.ithome.com/1/027/255.htm",
+      "comment": "上市后预计大幅扩招服务器研发和销售团队。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "LangChain完成3亿美元C轮融资，估值30亿美元",
+      "summary": "AI代理平台LangChain获3亿美元融资，客户已达7,000家，计划扩大研发和市场团队。",
+      "link": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "comment": "融资后将加速全球AI开发者生态布局。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Nvidia创始人黄仁勋离职冲击AI创业投资",
+      "summary": "黄仁勋离职后，Nvidia对AI初创企业的资金支持出现不确定性，业界担忧后续融资环境收紧。",
+      "link": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "comment": "可能导致AI创业公司重新寻找多元化资金渠道。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 26.6
+}
