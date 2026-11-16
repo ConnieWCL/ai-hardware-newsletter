@@ -1,0 +1,132 @@
+{
+  "date": "2026-11-16",
+  "mode": "llm",
+  "candidates": 47,
+  "overview": [
+    "[国内] 华为Mate X8大折叠旗舰即将发布，预示高端折叠手机竞争加剧。",
+    "[国内] 小米阔直板手机概念曝光，6.3‑6.4英寸极窄边框或成新趋势。",
+    "[国外] 苹果计划2027年WWDC发布首款智能眼镜，聚焦Siri语音交互。",
+    "[国外] iPhone Duo 2折叠屏将尝试集成面容ID，提升安全体验。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "苹果智能眼镜原型机曝光",
+          "summary": "据彭博记者透露，苹果计划在2027年WWDC发布首款智能眼镜，代号“N50”，主打Siri语音交互，年底开始出货。",
+          "link": "https://www.ithome.com/1/027/466.htm",
+          "comment": "首次进军AR硬件，可能开启Apple Vision新生态。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 2折叠屏面容ID研发",
+          "summary": "苹果工程师正尝试将面容ID集成到即将于明年秋季发布的iPhone Duo 2折叠屏手机中，技术实现仍有变数。",
+          "link": "https://www.ithome.com/1/027/482.htm",
+          "comment": "面容ID入折叠屏是安全交互的关键突破。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate X8大折叠旗舰发布会定档",
+          "summary": "华为宣布Mate X8及全场景新品发布会将于11月24日举行，Mate X系列已进入第8代，强调更大、更薄、更强。",
+          "link": "https://www.ithome.com/1/027/511.htm",
+          "comment": "继续巩固华为在高端折叠市场的领先地位。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米阔直板手机概念曝光",
+          "summary": "泄露的方案显示，手机尺寸为6.3‑6.4英寸，比例16:9，采用1mm极窄四等边边框，支持BT.2020色域。",
+          "link": "https://www.ithome.com/1/027/495.htm",
+          "comment": "极窄边框或成为2025年高端直板手机的标配。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Apple推出AI健康使用研究App",
+          "summary": "苹果发布新App用于收集用户在AI健康工具中的交互数据，旨在提升AI健康助理的有效性。",
+          "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+          "comment": "体现Apple在AI健康生态的深耕布局。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星在德克萨斯为SpaceX生产卫星MCU",
+          "summary": "三星计划在奥斯汀扩建芯片工厂，为SpaceX星链卫星生产STM32V8微控制器，目标2030年投产。",
+          "link": "https://www.ithome.com/1/027/465.htm",
+          "comment": "显示三星在航天芯片市场的布局，可能带动高可靠性MCU需求。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "苹果智能眼镜原型机曝光",
+      "summary": "据彭博记者透露，苹果计划在2027年WWDC发布首款智能眼镜，代号“N50”，主打Siri语音交互，年底开始出货。",
+      "link": "https://www.ithome.com/1/027/466.htm",
+      "comment": "首次进军AR硬件，可能开启Apple Vision新生态。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 2折叠屏面容ID研发",
+      "summary": "苹果工程师正尝试将面容ID集成到即将于明年秋季发布的iPhone Duo 2折叠屏手机中，技术实现仍有变数。",
+      "link": "https://www.ithome.com/1/027/482.htm",
+      "comment": "面容ID入折叠屏是安全交互的关键突破。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate X8大折叠旗舰发布会定档",
+      "summary": "华为宣布Mate X8及全场景新品发布会将于11月24日举行，Mate X系列已进入第8代，强调更大、更薄、更强。",
+      "link": "https://www.ithome.com/1/027/511.htm",
+      "comment": "继续巩固华为在高端折叠市场的领先地位。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米阔直板手机概念曝光",
+      "summary": "泄露的方案显示，手机尺寸为6.3‑6.4英寸，比例16:9，采用1mm极窄四等边边框，支持BT.2020色域。",
+      "link": "https://www.ithome.com/1/027/495.htm",
+      "comment": "极窄边框或成为2025年高端直板手机的标配。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Apple推出AI健康使用研究App",
+      "summary": "苹果发布新App用于收集用户在AI健康工具中的交互数据，旨在提升AI健康助理的有效性。",
+      "link": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "comment": "体现Apple在AI健康生态的深耕布局。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "三星在德克萨斯为SpaceX生产卫星MCU",
+      "summary": "三星计划在奥斯汀扩建芯片工厂，为SpaceX星链卫星生产STM32V8微控制器，目标2030年投产。",
+      "link": "https://www.ithome.com/1/027/465.htm",
+      "comment": "显示三星在航天芯片市场的布局，可能带动高可靠性MCU需求。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 34.4
+}
