@@ -1,0 +1,233 @@
+{
+  "date": "2026-11-18",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米 18 Pro 系列国际版发布，背屏设计首入欧洲，起售价 1,399 欧元。",
+    "[国内] 华为智选车尚界 Z7T 星野套装即将上市，聚焦车内 AI 交互体验。",
+    "[国外] XREAL Aura 评测：去除头显的 Android XR 眼镜，定位轻量化消费级。",
+    "[国外] Google 与 Gentle Monster 合作的 Intelligent Eyewear 已售罄，抢先体验 Android XR。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "XREAL Aura 评测：轻量化 Android XR 眼镜",
+          "summary": "XREAL 推出 Aura，去除传统头显，仅为轻便眼镜形态，定位日常 AR 使用，适合对沉浸感要求不高的消费群体。",
+          "link": "https://9to5google.com/2026/11/17/xreal-aura-review-android-xr-glasses/",
+          "comment": "关注轻量化趋势，适合移动办公与导航场景。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Google 与 Gentle Monster 合作的 Intelligent Eyewear 已售罄",
+          "summary": "首批合作款 Android XR 眼镜在发布后即被抢购一空，展示了时尚品牌与硬件的跨界合作潜力。",
+          "link": "https://9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out/",
+          "comment": "时尚与技术结合，可为 AI 眼镜打开新消费入口。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Black Friday 智能眼镜促销",
+          "summary": "Ray‑Ban Meta Gen 2、Meta Glasses、Oakley 系列等多款智能眼镜最高 25% 折扣，推动消费端渗透。",
+          "link": "https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/",
+          "comment": "折扣季是提升智能眼镜市场认知的关键窗口。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple N50 智能眼镜硬件已定型，Siri 成核心交互",
+          "summary": "据报道，Apple 已完成代号 N50 的智能眼镜硬件研发，重点将 Siri 语音交互置于系统核心，预计 2027 年发布。",
+          "link": "https://roadtovr.com/apple-finalizes-smart-glasses-siri-support-report/",
+          "comment": "苹果进军 AR 眼镜或将重新定义生态闭环。",
+          "source": "roadtovr",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 18 Pro 系列国际版正式发布",
+          "summary": "在巴黎发布会亮相，背屏设计首入海外市场，起售价 1,399 欧元（约 10,278 元人民币），定位高端旗舰。",
+          "link": "https://www.ithome.com/1/028/564.htm",
+          "comment": "背屏创新或成为差异化卖点，助力小米海外高端布局。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为智选车尚界 Z7T 星野套装即将上市",
+          "summary": "华为鸿蒙智行发布的 Z7T 星野套装将于 11 月 20 日亮相，聚焦车内 AI 交互与智能座舱体验。",
+          "link": "https://www.ithome.com/1/028/572.htm",
+          "comment": "车载 AI 生态继续深化，体现华为软硬件一体化布局。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "iPhone Duo 适配 Apple Store 完成",
+          "summary": "Apple Store 6.10 版本更新后，已支持 iPhone Duo，提升用户在新形态手机上的购物体验。",
+          "link": "https://www.ithome.com/1/028/573.htm",
+          "comment": "虽属苹果，但适配国产双屏手机，体现跨境兼容趋势。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy Watch 9 降价至 269 美元",
+          "summary": "三星最新智能手表降至 269 美元，提供健康监测与独立 LTE 版本，定位性价比路线。",
+          "link": "https://9to5google.com/2026/11/17/galaxy-watch-9-deal-269-dollars/",
+          "comment": "价格竞争加剧，传统可穿戴进入大众市场。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 迎来黑五最低价",
+          "summary": "折叠屏旗舰在黑五前降价，吸引对折叠技术仍有需求的高端用户。",
+          "link": "https://9to5google.com/2026/11/16/samsungs-galaxy-z-fold-8-returns-to-its-lowest-price-yet-ahead-of-black-friday/",
+          "comment": "折叠屏仍是高端创新标杆。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "微软自研 AI 加速器 Maia 200 投产",
+          "summary": "第二代自研芯片 Maia 200 已进入规模化生产，单瓦 token 性能提升 1.7 倍，已在数据中心运行大模型。",
+          "link": "https://www.ithome.com/1/028/597.htm",
+          "comment": "自研芯片提升算力效率，对 AI 供应链招聘有拉动。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "微软联合多家组织推进 AI 透明度计划",
+          "summary": "在 Ignite 大会上，微软携手 40 多家企业发布 AI 透明度倡议，覆盖闭源与开源模型的观察、验证与控制。",
+          "link": "https://www.ithome.com/1/028/603.htm",
+          "comment": "标准化将催生合规相关岗位需求。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Genesis AI 完成 5 亿美元 A 轮融资",
+          "summary": "法国通用机器人公司 Genesis AI 获得 5 亿美元融资，估值 35 亿美元，暗示将扩充研发与生产团队。",
+          "link": "https://www.ithome.com/1/028/605.htm",
+          "comment": "机器人与 AI 硬件公司融资往往伴随大规模招聘。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "XREAL Aura 评测：轻量化 Android XR 眼镜",
+      "summary": "XREAL 推出 Aura，去除传统头显，仅为轻便眼镜形态，定位日常 AR 使用，适合对沉浸感要求不高的消费群体。",
+      "link": "https://9to5google.com/2026/11/17/xreal-aura-review-android-xr-glasses/",
+      "comment": "关注轻量化趋势，适合移动办公与导航场景。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Google 与 Gentle Monster 合作的 Intelligent Eyewear 已售罄",
+      "summary": "首批合作款 Android XR 眼镜在发布后即被抢购一空，展示了时尚品牌与硬件的跨界合作潜力。",
+      "link": "https://9to5google.com/2026/11/16/google-intelligent-eyewear-gentle-monster-android-xr-sold-out/",
+      "comment": "时尚与技术结合，可为 AI 眼镜打开新消费入口。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Black Friday 智能眼镜促销",
+      "summary": "Ray‑Ban Meta Gen 2、Meta Glasses、Oakley 系列等多款智能眼镜最高 25% 折扣，推动消费端渗透。",
+      "link": "https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/",
+      "comment": "折扣季是提升智能眼镜市场认知的关键窗口。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple N50 智能眼镜硬件已定型，Siri 成核心交互",
+      "summary": "据报道，Apple 已完成代号 N50 的智能眼镜硬件研发，重点将 Siri 语音交互置于系统核心，预计 2027 年发布。",
+      "link": "https://roadtovr.com/apple-finalizes-smart-glasses-siri-support-report/",
+      "comment": "苹果进军 AR 眼镜或将重新定义生态闭环。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "小米 18 Pro 系列国际版正式发布",
+      "summary": "在巴黎发布会亮相，背屏设计首入海外市场，起售价 1,399 欧元（约 10,278 元人民币），定位高端旗舰。",
+      "link": "https://www.ithome.com/1/028/564.htm",
+      "comment": "背屏创新或成为差异化卖点，助力小米海外高端布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为智选车尚界 Z7T 星野套装即将上市",
+      "summary": "华为鸿蒙智行发布的 Z7T 星野套装将于 11 月 20 日亮相，聚焦车内 AI 交互与智能座舱体验。",
+      "link": "https://www.ithome.com/1/028/572.htm",
+      "comment": "车载 AI 生态继续深化，体现华为软硬件一体化布局。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 适配 Apple Store 完成",
+      "summary": "Apple Store 6.10 版本更新后，已支持 iPhone Duo，提升用户在新形态手机上的购物体验。",
+      "link": "https://www.ithome.com/1/028/573.htm",
+      "comment": "虽属苹果，但适配国产双屏手机，体现跨境兼容趋势。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Watch 9 降价至 269 美元",
+      "summary": "三星最新智能手表降至 269 美元，提供健康监测与独立 LTE 版本，定位性价比路线。",
+      "link": "https://9to5google.com/2026/11/17/galaxy-watch-9-deal-269-dollars/",
+      "comment": "价格竞争加剧，传统可穿戴进入大众市场。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 迎来黑五最低价",
+      "summary": "折叠屏旗舰在黑五前降价，吸引对折叠技术仍有需求的高端用户。",
+      "link": "https://9to5google.com/2026/11/16/samsungs-galaxy-z-fold-8-returns-to-its-lowest-price-yet-ahead-of-black-friday/",
+      "comment": "折叠屏仍是高端创新标杆。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "微软自研 AI 加速器 Maia 200 投产",
+      "summary": "第二代自研芯片 Maia 200 已进入规模化生产，单瓦 token 性能提升 1.7 倍，已在数据中心运行大模型。",
+      "link": "https://www.ithome.com/1/028/597.htm",
+      "comment": "自研芯片提升算力效率，对 AI 供应链招聘有拉动。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "微软联合多家组织推进 AI 透明度计划",
+      "summary": "在 Ignite 大会上，微软携手 40 多家企业发布 AI 透明度倡议，覆盖闭源与开源模型的观察、验证与控制。",
+      "link": "https://www.ithome.com/1/028/603.htm",
+      "comment": "标准化将催生合规相关岗位需求。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Genesis AI 完成 5 亿美元 A 轮融资",
+      "summary": "法国通用机器人公司 Genesis AI 获得 5 亿美元融资，估值 35 亿美元，暗示将扩充研发与生产团队。",
+      "link": "https://www.ithome.com/1/028/605.htm",
+      "comment": "机器人与 AI 硬件公司融资往往伴随大规模招聘。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 31.2
+}
