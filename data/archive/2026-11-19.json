@@ -1,0 +1,265 @@
+{
+  "date": "2026-11-19",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate90 Air将于11月24日发布，定位最薄Mate直板机。",
+    "[国内] 小米18标准版预计12月发布，起售价5699元。",
+    "[国内] 机械革命推出RTX Spark X10迷你主机，1.25L体积定位企业AI桌面。",
+    "[国外] Meta推出智能眼镜促销，最高25%折扣。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta智能眼镜促销",
+          "summary": "Meta（Ray‑Ban）推出Gen 2等系列智能眼镜，最高25%折扣，主打AR显示与AI助理功能。",
+          "link": "https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/",
+          "comment": "折扣力度大，适合预算有限的AI硬件岗位候选人关注。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Studio 头戴式耳机曝光",
+          "summary": "三星首款头戴式耳机Galaxy Studio配备870mAh电池，支持佩戴检测，预计搭载AI降噪。",
+          "link": "https://www.ithome.com/1/029/175.htm",
+          "comment": "首次进军头显类硬件，值得关注其AI音频算法。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Xreal Aura AR眼镜评测",
+          "summary": "Xreal Aura售价1099美元，硬件规格扎实，但受限于Google半成品的Android XR平台，体验受限。",
+          "link": "https://www.engadget.com/2320945/xreal-aura-review/",
+          "comment": "高价位与平台限制是关键痛点。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Meta智能眼镜隐私LED改进探讨",
+          "summary": "针对Meta智能眼镜的隐私争议，业界建议通过LED指示灯设计提升用户可见性。",
+          "link": "https://9to5google.com/2026/11/18/could-meta-fix-its-glasses-privacy-issues-with-an-led-redesign/",
+          "comment": "隐私设计是AI穿戴设备的必备考量。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate90 Air轻薄旗舰定档",
+          "summary": "华为宣布最薄Mate直板机Mate90 Air，将于11月24日发布，主打轻薄机身与全场景AI功能。",
+          "link": "https://www.ithome.com/1/029/151.htm",
+          "comment": "机身厚度创新，可作为AI硬件集成的参考。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米18标准版预计12月发布",
+          "summary": "小米18标准版预计12月上市，起售价5699元，沿用小米数字标准版小机身，搭载最新高通平台。",
+          "link": "https://www.ithome.com/1/029/120.htm",
+          "comment": "高性价比机型，供应链招聘需求可能上升。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "机械革命RTX Spark X10迷你主机亮相",
+          "summary": "机械革命发布基于NVIDIA RTX Spark芯片的X10迷你主机，体积1.25L，功耗140W，定位企业AI桌面。",
+          "link": "https://www.ithome.com/1/029/180.htm",
+          "comment": "小体积高算力，适合边缘AI部署。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Google Pixel重新发布App Lock功能",
+          "summary": "Google Pixel在Beta版中重新推出App Lock功能，提升隐私安全。",
+          "link": "https://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
+          "comment": "安全功能升级对AI隐私模型有启示。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Galaxy Watch 9特价促销",
+          "summary": "三星Galaxy Watch 9在美国降至269美元，提供额外50美元信用。",
+          "link": "https://9to5google.com/2026/11/17/galaxy-watch-9-deal-269-dollars/",
+          "comment": "价格下调可能刺激可穿戴AI设备需求。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "YouTube Music推出Ask Music功能",
+          "summary": "YouTube Music在Android和iOS上上线Ask Music入口，结合Gemini AI实现语音点歌。",
+          "link": "https://9to5google.com/2026/11/18/youtube-music-ask-gemini-2/",
+          "comment": "AI语音交互在音乐场景的落地示例。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "微软与英特尔深化Azure芯片合作",
+          "summary": "微软与英特尔签署长期协议，Azure成为首个使用Intel EMIB封装的云芯片客户，提前锁定Diamond Rapids产能。",
+          "link": "https://www.ithome.com/1/029/122.htm",
+          "comment": "云端AI算力布局，对硬件研发岗位有利。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "英伟达驱动异常导致SSD写入激增",
+          "summary": "NVIDIA GeForce 621.24驱动在空闲时异常写入SSD，最高可达30GB/小时，可能缩短SSD寿命。",
+          "link": "https://www.ithome.com/1/029/169.htm",
+          "comment": "驱动优化是AI工作站可靠性关键。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Anthropic完成史上最大IPO",
+          "summary": "AI公司Anthropic以每股83美元定价IPO，募资约944亿美元，估值约1.5万亿美元。",
+          "link": "https://www.ithome.com/1/029/132.htm",
+          "comment": "大规模融资预示AI研发团队扩招，招聘机会增多。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Payhawk获2亿美元融资估值20亿美元",
+          "summary": "企业财务管理平台Payhawk完成2.8亿美元融资，估值达20亿美元，计划扩充产品与销售团队。",
+          "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+          "comment": "财务AI工具公司扩张，招聘需求上升。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta智能眼镜促销",
+      "summary": "Meta（Ray‑Ban）推出Gen 2等系列智能眼镜，最高25%折扣，主打AR显示与AI助理功能。",
+      "link": "https://9to5google.com/2026/11/17/metas-secret-black-friday-sale-just-started-and-it-offers-up-to-25-off-the-companys-smart-glasses/",
+      "comment": "折扣力度大，适合预算有限的AI硬件岗位候选人关注。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Studio 头戴式耳机曝光",
+      "summary": "三星首款头戴式耳机Galaxy Studio配备870mAh电池，支持佩戴检测，预计搭载AI降噪。",
+      "link": "https://www.ithome.com/1/029/175.htm",
+      "comment": "首次进军头显类硬件，值得关注其AI音频算法。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Xreal Aura AR眼镜评测",
+      "summary": "Xreal Aura售价1099美元，硬件规格扎实，但受限于Google半成品的Android XR平台，体验受限。",
+      "link": "https://www.engadget.com/2320945/xreal-aura-review/",
+      "comment": "高价位与平台限制是关键痛点。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Meta智能眼镜隐私LED改进探讨",
+      "summary": "针对Meta智能眼镜的隐私争议，业界建议通过LED指示灯设计提升用户可见性。",
+      "link": "https://9to5google.com/2026/11/18/could-meta-fix-its-glasses-privacy-issues-with-an-led-redesign/",
+      "comment": "隐私设计是AI穿戴设备的必备考量。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "华为Mate90 Air轻薄旗舰定档",
+      "summary": "华为宣布最薄Mate直板机Mate90 Air，将于11月24日发布，主打轻薄机身与全场景AI功能。",
+      "link": "https://www.ithome.com/1/029/151.htm",
+      "comment": "机身厚度创新，可作为AI硬件集成的参考。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米18标准版预计12月发布",
+      "summary": "小米18标准版预计12月上市，起售价5699元，沿用小米数字标准版小机身，搭载最新高通平台。",
+      "link": "https://www.ithome.com/1/029/120.htm",
+      "comment": "高性价比机型，供应链招聘需求可能上升。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "机械革命RTX Spark X10迷你主机亮相",
+      "summary": "机械革命发布基于NVIDIA RTX Spark芯片的X10迷你主机，体积1.25L，功耗140W，定位企业AI桌面。",
+      "link": "https://www.ithome.com/1/029/180.htm",
+      "comment": "小体积高算力，适合边缘AI部署。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Google Pixel重新发布App Lock功能",
+      "summary": "Google Pixel在Beta版中重新推出App Lock功能，提升隐私安全。",
+      "link": "https://9to5google.com/2026/11/18/google-pixel-app-lock-release-beta/",
+      "comment": "安全功能升级对AI隐私模型有启示。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Galaxy Watch 9特价促销",
+      "summary": "三星Galaxy Watch 9在美国降至269美元，提供额外50美元信用。",
+      "link": "https://9to5google.com/2026/11/17/galaxy-watch-9-deal-269-dollars/",
+      "comment": "价格下调可能刺激可穿戴AI设备需求。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "YouTube Music推出Ask Music功能",
+      "summary": "YouTube Music在Android和iOS上上线Ask Music入口，结合Gemini AI实现语音点歌。",
+      "link": "https://9to5google.com/2026/11/18/youtube-music-ask-gemini-2/",
+      "comment": "AI语音交互在音乐场景的落地示例。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "微软与英特尔深化Azure芯片合作",
+      "summary": "微软与英特尔签署长期协议，Azure成为首个使用Intel EMIB封装的云芯片客户，提前锁定Diamond Rapids产能。",
+      "link": "https://www.ithome.com/1/029/122.htm",
+      "comment": "云端AI算力布局，对硬件研发岗位有利。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "英伟达驱动异常导致SSD写入激增",
+      "summary": "NVIDIA GeForce 621.24驱动在空闲时异常写入SSD，最高可达30GB/小时，可能缩短SSD寿命。",
+      "link": "https://www.ithome.com/1/029/169.htm",
+      "comment": "驱动优化是AI工作站可靠性关键。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Anthropic完成史上最大IPO",
+      "summary": "AI公司Anthropic以每股83美元定价IPO，募资约944亿美元，估值约1.5万亿美元。",
+      "link": "https://www.ithome.com/1/029/132.htm",
+      "comment": "大规模融资预示AI研发团队扩招，招聘机会增多。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Payhawk获2亿美元融资估值20亿美元",
+      "summary": "企业财务管理平台Payhawk完成2.8亿美元融资，估值达20亿美元，计划扩充产品与销售团队。",
+      "link": "https://techcrunch.com/2026/11/18/spend-management-platform-payhawk-announces-280m-raise-2b-valuation/",
+      "comment": "财务AI工具公司扩张，招聘需求上升。",
+      "source": "techcrunch",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 26.6
+}
