@@ -1,0 +1,217 @@
+{
+  "date": "2026-11-21",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为星芒 OSTA O1 Pro 5499 元起发布，定位首款为 AI 而生的鸿蒙手机。",
+    "[国内] 紫光展锐推出 UNISOC UniSwap Ultra 多维智存引擎，提升 UFS 扩容灵活性。",
+    "[国内] 荣耀前团队创业 AI 交互吊坠获李泽湘投资，暗示 AI 可穿戴硬件招聘需求。",
+    "[国外] Meta Ray‑Ban Meta Gen 2 智能眼镜黑五降价至 306 美元，强化 AI 视觉交互。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Meta Ray‑Ban Meta Gen 2 智能眼镜",
+          "summary": "黑五期间降至 306 美元，提供极化镜片和 AI 视觉功能，定位高端消费级 AR 眼镜。",
+          "link": "https://www.androidauthority.com/ray-ban-meta-wayfarer-gen-2-deal-3737770/",
+          "comment": "AI 视觉交互是 Meta 重点，价格下降有望打开更广泛市场。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Muse Charm 语音伴侣设备",
+          "summary": "预计售价约 300 美元，主打 AI 语音交互和情感陪伴，计划近期发布。",
+          "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+          "comment": "提供 AI 软硬件一体化方案，对 AI 硬件研发人才需求大。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Viture 与 Nintendo Switch 2 兼容的智能显示眼镜",
+          "summary": "黑五促销最高降价 160 美元，支持 Switch 2 移动底座，实现游戏 AR 体验。",
+          "link": "https://9to5google.com/2026/11/20/viture-black-friday-sale/",
+          "comment": "游戏与 AR 融合的场景为硬件创新提供新方向。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "XREAL 多款 AR 眼镜黑五特惠",
+          "summary": "多款 XREAL AR 眼镜降至历史最低价，强化轻量化显示和手势交互。",
+          "link": "https://9to5google.com/2026/11/19/all-my-favorite-xreal-glasses-are-at-their-lowest-price-ever-this-week/",
+          "comment": "低价策略有望扩大消费基数，提升研发投入。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "荣耀前团队创业 AI 交互吊坠获投资",
+          "summary": "由前荣耀员工创立的 AI 交互吊坠项目获李泽湘早期投资，聚焦 AI 语音与姿态感知。",
+          "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
+          "comment": "新形态可穿戴硬件的创业热度提升，暗示招聘需求。",
+          "source": "leiphone",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为星芒 OSTA O1 Pro 首款为 AI 而生的鸿蒙手机",
+          "summary": "起售价 5499 元（国补后 4999 元），6.39 英寸屏，搭载鸿蒙系统 AI 加速芯片，定位 AI 生态入口。",
+          "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "AI 为核心卖点，抢占 AI 手机细分市场。",
+          "source": "ifanr",
+          "region": "国内"
+        },
+        {
+          "title": "华为享界 V8 上市两小时大定 2216 台",
+          "summary": "高端旗舰手机，凭借强劲性能和 AI 影像快速获得市场认可。",
+          "link": "https://www.ithome.com/1/030/229.htm",
+          "comment": "销量表现验证华为高端机型的市场潜力。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Samsung Galaxy Watch 8 低价促销",
+          "summary": "亚马逊售价约 200 美元，提供 Wear OS、健康监测功能，性价比突出。",
+          "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
+          "comment": "低价策略有助于 Wear OS 生态扩张。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Motorola Razr Flex 折叠手机泄露",
+          "summary": "采用宽折叠形态，预计搭载未发布的 Snapdragon SM8845 Pro 芯片，定位高端折叠市场。",
+          "link": "https://9to5google.com/2026/11/19/motorola-razr-flex-leak-image-specs/",
+          "comment": "新芯片与折叠形态结合，显示高通对折叠市场的持续投入。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "紫光展锐发布 UNISOC UniSwap Ultra 多维智存引擎",
+          "summary": "通过芯片级深度优化，实现 UFS 闪存空间灵活扩容，支持多档位扩容方案。",
+          "link": "https://www.ithome.com/1/030/317.htm",
+          "comment": "提升存储灵活性，对 AI 终端算力与功耗平衡有帮助。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "林俊旸 AI 初创公司估值升至 50 亿美元",
+          "summary": "语用科技完成新一轮融资，估值翻倍至 50 亿美元，暗示后续扩招研发与产品团队。",
+          "link": "http://www.geekpark.net/news/374299",
+          "comment": "大额融资后对 AI 硬件研发人才需求将显著上升。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Meta Ray‑Ban Meta Gen 2 智能眼镜",
+      "summary": "黑五期间降至 306 美元，提供极化镜片和 AI 视觉功能，定位高端消费级 AR 眼镜。",
+      "link": "https://www.androidauthority.com/ray-ban-meta-wayfarer-gen-2-deal-3737770/",
+      "comment": "AI 视觉交互是 Meta 重点，价格下降有望打开更广泛市场。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Muse Charm 语音伴侣设备",
+      "summary": "预计售价约 300 美元，主打 AI 语音交互和情感陪伴，计划近期发布。",
+      "link": "https://techcrunch.com/2026/11/19/metas-new-muse-charm-device-may-cost-300/",
+      "comment": "提供 AI 软硬件一体化方案，对 AI 硬件研发人才需求大。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Viture 与 Nintendo Switch 2 兼容的智能显示眼镜",
+      "summary": "黑五促销最高降价 160 美元，支持 Switch 2 移动底座，实现游戏 AR 体验。",
+      "link": "https://9to5google.com/2026/11/20/viture-black-friday-sale/",
+      "comment": "游戏与 AR 融合的场景为硬件创新提供新方向。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "XREAL 多款 AR 眼镜黑五特惠",
+      "summary": "多款 XREAL AR 眼镜降至历史最低价，强化轻量化显示和手势交互。",
+      "link": "https://9to5google.com/2026/11/19/all-my-favorite-xreal-glasses-are-at-their-lowest-price-ever-this-week/",
+      "comment": "低价策略有望扩大消费基数，提升研发投入。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "荣耀前团队创业 AI 交互吊坠获投资",
+      "summary": "由前荣耀员工创立的 AI 交互吊坠项目获李泽湘早期投资，聚焦 AI 语音与姿态感知。",
+      "link": "https://www.leiphone.com/category/weiwu/cmj50XKwCB4drkus.html",
+      "comment": "新形态可穿戴硬件的创业热度提升，暗示招聘需求。",
+      "source": "leiphone",
+      "region": "国内"
+    },
+    {
+      "title": "华为星芒 OSTA O1 Pro 首款为 AI 而生的鸿蒙手机",
+      "summary": "起售价 5499 元（国补后 4999 元），6.39 英寸屏，搭载鸿蒙系统 AI 加速芯片，定位 AI 生态入口。",
+      "link": "https://www.ifanr.com/1690759?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "AI 为核心卖点，抢占 AI 手机细分市场。",
+      "source": "ifanr",
+      "region": "国内"
+    },
+    {
+      "title": "华为享界 V8 上市两小时大定 2216 台",
+      "summary": "高端旗舰手机，凭借强劲性能和 AI 影像快速获得市场认可。",
+      "link": "https://www.ithome.com/1/030/229.htm",
+      "comment": "销量表现验证华为高端机型的市场潜力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Samsung Galaxy Watch 8 低价促销",
+      "summary": "亚马逊售价约 200 美元，提供 Wear OS、健康监测功能，性价比突出。",
+      "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
+      "comment": "低价策略有助于 Wear OS 生态扩张。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Motorola Razr Flex 折叠手机泄露",
+      "summary": "采用宽折叠形态，预计搭载未发布的 Snapdragon SM8845 Pro 芯片，定位高端折叠市场。",
+      "link": "https://9to5google.com/2026/11/19/motorola-razr-flex-leak-image-specs/",
+      "comment": "新芯片与折叠形态结合，显示高通对折叠市场的持续投入。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "紫光展锐发布 UNISOC UniSwap Ultra 多维智存引擎",
+      "summary": "通过芯片级深度优化，实现 UFS 闪存空间灵活扩容，支持多档位扩容方案。",
+      "link": "https://www.ithome.com/1/030/317.htm",
+      "comment": "提升存储灵活性，对 AI 终端算力与功耗平衡有帮助。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "林俊旸 AI 初创公司估值升至 50 亿美元",
+      "summary": "语用科技完成新一轮融资，估值翻倍至 50 亿美元，暗示后续扩招研发与产品团队。",
+      "link": "http://www.geekpark.net/news/374299",
+      "comment": "大额融资后对 AI 硬件研发人才需求将显著上升。",
+      "source": "geekpark",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 21.3
+}
