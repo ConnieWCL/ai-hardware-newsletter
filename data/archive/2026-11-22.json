@@ -1,0 +1,260 @@
+{
+  "date": "2026-11-22",
+  "mode": "llm",
+  "candidates": 79,
+  "overview": [
+    "[国内] 华为Mate 90 Air将于11月24日发布，搭载全新麒麟9020芯片，机身厚度仅6.58mm，主打极致轻薄。",
+    "[国内] 华为WATCH Air智能手表将于同日亮相，厚度6.9mm，定位商务轻薄型。",
+    "[国内] 荣耀发布GaN Max 120W双口充电器，重量仅103.9g，随荣耀700系列同步上市。",
+    "[国内] OPPO Reno 17系列首日预订量达前代2.7倍，开售后销量领跑同期安卓单品。"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate 90 Air搭载麒麟9020芯片，厚度6.58mm",
+          "summary": "华为本周官宣最薄直板机Mate 90 Air，采用全新麒麟9020，机身仅6.58mm，定位高端轻薄旗舰。",
+          "link": "https://www.ithome.com/1/030/439.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为WATCH Air智能手表 6.9mm 超薄机身",
+          "summary": "华为将于11月24日发布史上最薄智能手表WATCH Air，厚度6.9mm，主打商务穿搭友好。",
+          "link": "https://www.ithome.com/1/030/534.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀GaN Max 120W双口充电器 103.9g 超轻",
+          "summary": "荣耀中国区智慧生活部推出重量仅103.9g的GaN Max 120W双口充电器，随荣耀700系列同步发布。",
+          "link": "https://www.ithome.com/1/030/470.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "OPPO Reno 17系列销量超预期 成为安卓单品第一",
+          "summary": "OPPO Reno 17首日预订量是前代的2.7倍，开售后销量领先同期所有安卓手机，夺得单品榜首。",
+          "link": "https://www.ithome.com/1/030/513.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "DOOGEE Wide Core阔屏手机 配备T7250与6500mAh电池",
+          "summary": "DOOGEE新款Wide Core采用紫光展锐T7250处理器，配备6500mAh大电池，延续Note60 W系列的高性价比定位。",
+          "link": "https://www.ithome.com/1/030/530.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Meta Ray‑Ban Gen 2智能眼镜降价至306美元",
+          "summary": "Meta与Ray‑Ban合作的Gen 2智能眼镜在黑五期间降价至306美元，提供极佳的光学与AR功能。",
+          "link": "https://www.androidauthority.com/ray-ban-meta-wayfarer-gen-2-deal-3737770/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Viture智能显示眼镜兼容Nintendo Switch 2",
+          "summary": "Viture推出的智能显示眼镜支持Switch 2的Mobile Dock Mini，黑五最高优惠160美元。",
+          "link": "https://9to5google.com/2026/11/20/viture-black-friday-sale/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Watch 8 现价200美元",
+          "summary": "亚马逊将Galaxy Watch 8价格降至200美元，性价比大幅提升，吸引预算型用户。",
+          "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung Galaxy Z Fold 8 折叠手机新特性",
+          "summary": "Galaxy Z Fold 8发布，强调更轻薄的折叠铰链、增强多任务协同与更高刷新率显示屏。",
+          "link": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 可能复制 iPhone Dynamic Island 交互",
+          "summary": "泄漏视频显示Samsung正研发类似iPhone Dynamic Island的交互特性，或在下一代旗舰中实现。",
+          "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "腾讯混元4模型算力提升与生态布局",
+          "summary": "腾讯混元大模型负责人姚顺雨在Reddit AMA中透露混元4模型算力大幅提升，并计划开放更多API。",
+          "link": "http://www.geekpark.net/news/374301",
+          "comment": "",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "因科美SL10音箱通过OpenHarmony 5.1兼容性测评",
+          "summary": "因科美SL10搭载Hi3372GBCV100芯片，预装OpenHarmony 5.1系统，成为首款通过官方测评的智能音箱。",
+          "link": "https://www.ithome.com/1/030/525.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "Windows 11 改进蓝牙耳机开麦音质",
+          "summary": "微软计划在Win11更新中优化蓝牙耳机开启麦克风时的音质，解决长期用户抱怨。",
+          "link": "https://www.ithome.com/1/030/535.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Pragmatik Labs 估值升至50亿美元 获新一轮融资",
+          "summary": "阿里前AI负责人林俊旸创办的Pragmatik Labs完成新融资，估值达50亿美元，预计将大规模招聘AI芯片研发人才。",
+          "link": "http://www.geekpark.net/news/374299",
+          "comment": "",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为Mate 90 Air搭载麒麟9020芯片，厚度6.58mm",
+      "summary": "华为本周官宣最薄直板机Mate 90 Air，采用全新麒麟9020，机身仅6.58mm，定位高端轻薄旗舰。",
+      "link": "https://www.ithome.com/1/030/439.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为WATCH Air智能手表 6.9mm 超薄机身",
+      "summary": "华为将于11月24日发布史上最薄智能手表WATCH Air，厚度6.9mm，主打商务穿搭友好。",
+      "link": "https://www.ithome.com/1/030/534.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀GaN Max 120W双口充电器 103.9g 超轻",
+      "summary": "荣耀中国区智慧生活部推出重量仅103.9g的GaN Max 120W双口充电器，随荣耀700系列同步发布。",
+      "link": "https://www.ithome.com/1/030/470.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "OPPO Reno 17系列销量超预期 成为安卓单品第一",
+      "summary": "OPPO Reno 17首日预订量是前代的2.7倍，开售后销量领先同期所有安卓手机，夺得单品榜首。",
+      "link": "https://www.ithome.com/1/030/513.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "DOOGEE Wide Core阔屏手机 配备T7250与6500mAh电池",
+      "summary": "DOOGEE新款Wide Core采用紫光展锐T7250处理器，配备6500mAh大电池，延续Note60 W系列的高性价比定位。",
+      "link": "https://www.ithome.com/1/030/530.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Meta Ray‑Ban Gen 2智能眼镜降价至306美元",
+      "summary": "Meta与Ray‑Ban合作的Gen 2智能眼镜在黑五期间降价至306美元，提供极佳的光学与AR功能。",
+      "link": "https://www.androidauthority.com/ray-ban-meta-wayfarer-gen-2-deal-3737770/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Viture智能显示眼镜兼容Nintendo Switch 2",
+      "summary": "Viture推出的智能显示眼镜支持Switch 2的Mobile Dock Mini，黑五最高优惠160美元。",
+      "link": "https://9to5google.com/2026/11/20/viture-black-friday-sale/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Watch 8 现价200美元",
+      "summary": "亚马逊将Galaxy Watch 8价格降至200美元，性价比大幅提升，吸引预算型用户。",
+      "link": "https://9to5google.com/2026/11/20/the-galaxy-watch-8-is-a-steal-at-just-200-right-now-on-amazon/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung Galaxy Z Fold 8 折叠手机新特性",
+      "summary": "Galaxy Z Fold 8发布，强调更轻薄的折叠铰链、增强多任务协同与更高刷新率显示屏。",
+      "link": "https://9to5google.com/2026/11/21/galaxy-z-fold-8-features-what-you-can-do/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 可能复制 iPhone Dynamic Island 交互",
+      "summary": "泄漏视频显示Samsung正研发类似iPhone Dynamic Island的交互特性，或在下一代旗舰中实现。",
+      "link": "https://9to5google.com/2026/11/20/samsung-iphone-dynamic-island-feature-leak/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "腾讯混元4模型算力提升与生态布局",
+      "summary": "腾讯混元大模型负责人姚顺雨在Reddit AMA中透露混元4模型算力大幅提升，并计划开放更多API。",
+      "link": "http://www.geekpark.net/news/374301",
+      "comment": "",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "因科美SL10音箱通过OpenHarmony 5.1兼容性测评",
+      "summary": "因科美SL10搭载Hi3372GBCV100芯片，预装OpenHarmony 5.1系统，成为首款通过官方测评的智能音箱。",
+      "link": "https://www.ithome.com/1/030/525.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Windows 11 改进蓝牙耳机开麦音质",
+      "summary": "微软计划在Win11更新中优化蓝牙耳机开启麦克风时的音质，解决长期用户抱怨。",
+      "link": "https://www.ithome.com/1/030/535.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Pragmatik Labs 估值升至50亿美元 获新一轮融资",
+      "summary": "阿里前AI负责人林俊旸创办的Pragmatik Labs完成新融资，估值达50亿美元，预计将大规模招聘AI芯片研发人才。",
+      "link": "http://www.geekpark.net/news/374299",
+      "comment": "",
+      "source": "geekpark",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 36.5
+}
