@@ -1,0 +1,185 @@
+{
+  "date": "2026-11-23",
+  "mode": "llm",
+  "candidates": 50,
+  "overview": [
+    "[国内] 华为Mate 90 Air曝光，搭载麒麟9020芯片，7寸1.5K+120Hz屏，定位高端AI影像旗舰。",
+    "[国内] 小米汽车官宣广州车展发布会，聚焦澎程N70增程SUV，展示新能源布局。",
+    "[国内] 一加16《凡人》联名礼盒限量发售，提升高配机型附加值。",
+    "[国外] 苹果计划在2027年上半年推出iPhone 18e、入门级iPad及MacBook Neo，布局AI Agent生态。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "AI眼镜可作远程提词器使用",
+          "summary": "Engadget 报道，AI 智能眼镜通过语音识别和显示技术，可实时显示提词内容，帮助创作者在拍摄时保持视线。",
+          "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+          "comment": "适用于内容创作和远程会议，提升效率。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate 90 Air 手机影像配置曝光",
+          "summary": "华为Mate 90 Air 将搭载麒麟9020芯片，配备 50MP 主摄、8MP 超广角、12MP 长焦及红枫镜头，7英寸 1.5K+120Hz 曲面屏。",
+          "link": "https://www.ithome.com/1/030/750.htm",
+          "comment": "高像素组合与强芯片，强化AI摄影能力。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米汽车广州车展发布会官宣",
+          "summary": "小米汽车副总裁李肖爽将在11月27日广州车展发布澎程 N70 增程SUV，聚焦新能源与智能座舱。",
+          "link": "https://www.ithome.com/1/030/751.htm",
+          "comment": "显示小米在汽车智能化布局的加速。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加 16《凡人》动画联名礼盒限量开售",
+          "summary": "购买一加 16 16GB+512GB 版加价269元即可获《凡人》联名礼盒，提升高配机型的粉丝粘性。",
+          "link": "https://www.ithome.com/1/030/753.htm",
+          "comment": "通过IP联名提升产品溢价。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果计划2027年上半年推出 iPhone 18e、入门级 iPad 与 MacBook Neo",
+          "summary": "彭博记者古尔曼透露，苹果将在2027年2-3月的 iOS 27.4 周期内发布入门级 iPad、iPhone 18e 与全新轻薄笔记本 MacBook Neo，以抢占 AI Agent 市场。",
+          "link": "https://www.ithome.com/1/030/719.htm",
+          "comment": "低价位产品布局AI生态，可能冲击国产品牌。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴",
+          "summary": "iPhone Duo 于10月23日上市，原价15999元起，现通过拼多多等平台百亿补贴，降价约千元至14499元。",
+          "link": "https://www.ithome.com/1/030/710.htm",
+          "comment": "折叠屏进入大众市场，价格竞争激烈。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "混元 4 模型与算力 AMA 回顾",
+          "summary": "腾讯首席 AI 科学家姚顺雨在 Reddit AMA 中介绍混元 4 大模型的算力需求、刷榜机制及 RSI 评估方法。",
+          "link": "http://www.geekpark.net/news/374301",
+          "comment": "展示国产大模型在算力优化上的最新进展。",
+          "source": "geekpark",
+          "region": "国内"
+        },
+        {
+          "title": "OpenAI 首席科学家警示 AI 加速进化",
+          "summary": "OpenAI 首席科学家雅库布·帕霍茨基称 AI 最早可能在2027年加速自我进化，呼吁行业设限。",
+          "link": "http://www.geekpark.net/news/374304",
+          "comment": "对全球AI安全政策有重要指示。",
+          "source": "geekpark",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "Nomadic 完成 600 万美元种子轮融资",
+          "summary": "四旋翼无人机 Nomadic 获得 600 万美元融资，计划扩充研发团队并加速高压电线充电技术落地。",
+          "link": "https://www.ithome.com/1/030/708.htm",
+          "comment": "融资后将招聘硬件研发与算法工程师，适合硬件方向求职者关注。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "AI眼镜可作远程提词器使用",
+      "summary": "Engadget 报道，AI 智能眼镜通过语音识别和显示技术，可实时显示提词内容，帮助创作者在拍摄时保持视线。",
+      "link": "https://www.engadget.com/2319553/how-to-use-ai-glasses-as-teleprompter/",
+      "comment": "适用于内容创作和远程会议，提升效率。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate 90 Air 手机影像配置曝光",
+      "summary": "华为Mate 90 Air 将搭载麒麟9020芯片，配备 50MP 主摄、8MP 超广角、12MP 长焦及红枫镜头，7英寸 1.5K+120Hz 曲面屏。",
+      "link": "https://www.ithome.com/1/030/750.htm",
+      "comment": "高像素组合与强芯片，强化AI摄影能力。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米汽车广州车展发布会官宣",
+      "summary": "小米汽车副总裁李肖爽将在11月27日广州车展发布澎程 N70 增程SUV，聚焦新能源与智能座舱。",
+      "link": "https://www.ithome.com/1/030/751.htm",
+      "comment": "显示小米在汽车智能化布局的加速。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加 16《凡人》动画联名礼盒限量开售",
+      "summary": "购买一加 16 16GB+512GB 版加价269元即可获《凡人》联名礼盒，提升高配机型的粉丝粘性。",
+      "link": "https://www.ithome.com/1/030/753.htm",
+      "comment": "通过IP联名提升产品溢价。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果计划2027年上半年推出 iPhone 18e、入门级 iPad 与 MacBook Neo",
+      "summary": "彭博记者古尔曼透露，苹果将在2027年2-3月的 iOS 27.4 周期内发布入门级 iPad、iPhone 18e 与全新轻薄笔记本 MacBook Neo，以抢占 AI Agent 市场。",
+      "link": "https://www.ithome.com/1/030/719.htm",
+      "comment": "低价位产品布局AI生态，可能冲击国产品牌。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "苹果首款折叠屏手机 iPhone Duo 开启百亿补贴",
+      "summary": "iPhone Duo 于10月23日上市，原价15999元起，现通过拼多多等平台百亿补贴，降价约千元至14499元。",
+      "link": "https://www.ithome.com/1/030/710.htm",
+      "comment": "折叠屏进入大众市场，价格竞争激烈。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "混元 4 模型与算力 AMA 回顾",
+      "summary": "腾讯首席 AI 科学家姚顺雨在 Reddit AMA 中介绍混元 4 大模型的算力需求、刷榜机制及 RSI 评估方法。",
+      "link": "http://www.geekpark.net/news/374301",
+      "comment": "展示国产大模型在算力优化上的最新进展。",
+      "source": "geekpark",
+      "region": "国内"
+    },
+    {
+      "title": "OpenAI 首席科学家警示 AI 加速进化",
+      "summary": "OpenAI 首席科学家雅库布·帕霍茨基称 AI 最早可能在2027年加速自我进化，呼吁行业设限。",
+      "link": "http://www.geekpark.net/news/374304",
+      "comment": "对全球AI安全政策有重要指示。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "Nomadic 完成 600 万美元种子轮融资",
+      "summary": "四旋翼无人机 Nomadic 获得 600 万美元融资，计划扩充研发团队并加速高压电线充电技术落地。",
+      "link": "https://www.ithome.com/1/030/708.htm",
+      "comment": "融资后将招聘硬件研发与算法工程师，适合硬件方向求职者关注。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 55.9
+}
