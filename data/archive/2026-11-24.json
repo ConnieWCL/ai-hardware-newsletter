@@ -1,0 +1,244 @@
+{
+  "date": "2026-11-24",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate 90 Air 搭载全新麒麟9020，首发鸿蒙7.0，标志国产AI芯片再突破。",
+    "[国内] 华为Watch Air 轻薄定位，支持多项健康监测，抢占可穿戴细分。",
+    "[国外] Samsung推出Galaxy Z Fold 8、Ultra、Flip 8全系指南，折叠屏竞争加剧。",
+    "[国外] Apple Watch Series 12 黑五降价，价格逼近入门级智能手表。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Nothing Ear (note) AI 录音耳机",
+          "summary": "Nothing 12月8日发布的Ear (note) 将AI语音转写与降噪集成于耳机，定位高端录音与会议场景。",
+          "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+          "comment": "AI 录音功能切入专业市场，具备差异化竞争力。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Oura Ring 5 智能戒指",
+          "summary": "黑五期间Oura Ring 5 直降100美元，提供睡眠、活动、体温等AI健康监测。",
+          "link": "https://9to5google.com/2026/11/23/oura-ring-5-black-friday-week-2026-deal/",
+          "comment": "环形形态继续细分可穿戴市场，适合健康管理岗位关注。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "RayNeo AI+AR 眼镜",
+          "summary": "RayNeo 推出日常AI眼镜售价389美元，提供空间游戏模式，兼具AR与健康监测。",
+          "link": "https://www.androidauthority.com/rayneo-black-friday-sale-2026-3736164/",
+          "comment": "AR+AI融合的轻量化方案，值得关注国产AR眼镜的技术路线。",
+          "source": "androidauthority",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 Mate 90 Air 真机曝光",
+          "summary": "Mate 90 Air 搭载麒麟9020处理器，预装鸿蒙7.0.0.115 SP13，定位高端AI手机。",
+          "link": "https://www.ithome.com/1/031/336.htm",
+          "comment": "麒麟9020是华为自研AI芯片的最新迭代，性能与功耗平衡值得关注。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "华为 WATCH Air 智能手表亮相",
+          "summary": "轻薄新标杆，提供血管健康、尿酸等专项监测，三色可选。",
+          "link": "https://www.ithome.com/1/031/332.htm",
+          "comment": "健康监测项目的细分化是华为在可穿戴领域的差异化打法。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加 16 ×《凡人》联名礼盒延期",
+          "summary": "因部分物料良率低导致礼盒备货不足，发售时间待定。",
+          "link": "https://www.ithome.com/1/031/307.htm",
+          "comment": "供应链良率问题暴露高端定制品的产能风险。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "三星 Galaxy Z Fold 8、Ultra、Flip 8 选型指南",
+          "summary": "全系折叠屏新机发布，尺寸、摄像头与续航各有侧重。",
+          "link": "https://9to5google.com/2026/11/23/samsung-folding-phone-guide/",
+          "comment": "折叠屏进入成熟期，竞争焦点转向功耗与耐用性。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Apple Watch Series 12 降价促销",
+          "summary": "黑五期间价格创历史新低，吸引首次入门用户。",
+          "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+          "comment": "低价策略可能压缩供应链利润空间。",
+          "source": "the-verge",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy Watch 10 推迟至2027年后发布",
+          "summary": "公司计划改为两年一次大幅升级，以降低“RAMageddon”成本。",
+          "link": "https://9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report/",
+          "comment": "发布节奏放缓或为提升硬件创新空间。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Lenovo Legion Tab Gen 5 黑五折扣",
+          "summary": "原价约900美元的高端平板在促销期间降至更易接受的价位。",
+          "link": "https://9to5google.com/2026/11/23/lenovo-legion-tab-gen-5-black-friday-discount/",
+          "comment": "平板市场仍受高价阻碍，促销是提升渗透率的关键。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "三星 2026 年 Galaxy Tab 系列选购指南",
+          "summary": "从入门到旗舰，多款平板定位清晰，适配不同使用场景。",
+          "link": "https://9to5google.com/2026/11/23/which-2026-samsung-galaxy-tab-should-you-buy/",
+          "comment": "平板产品线的细分化为AI教育与企业应用提供硬件基础。",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "AI 服务器交付前提价 45%",
+          "summary": "部分AI服务器供应商在交付前涨价，单订单成本上升近半。",
+          "link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "comment": "",
+          "source": "ifanr",
+          "region": "国外"
+        },
+        {
+          "title": "蚂蚁集团加码AI硬件布局",
+          "summary": "新App与AI硬件同步发布，背后涉及数亿元融资用于研发与招聘。",
+          "link": "http://www.leikeji.com/article/80731",
+          "comment": "",
+          "source": "leikeji",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Nothing Ear (note) AI 录音耳机",
+      "summary": "Nothing 12月8日发布的Ear (note) 将AI语音转写与降噪集成于耳机，定位高端录音与会议场景。",
+      "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+      "comment": "AI 录音功能切入专业市场，具备差异化竞争力。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Oura Ring 5 智能戒指",
+      "summary": "黑五期间Oura Ring 5 直降100美元，提供睡眠、活动、体温等AI健康监测。",
+      "link": "https://9to5google.com/2026/11/23/oura-ring-5-black-friday-week-2026-deal/",
+      "comment": "环形形态继续细分可穿戴市场，适合健康管理岗位关注。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "RayNeo AI+AR 眼镜",
+      "summary": "RayNeo 推出日常AI眼镜售价389美元，提供空间游戏模式，兼具AR与健康监测。",
+      "link": "https://www.androidauthority.com/rayneo-black-friday-sale-2026-3736164/",
+      "comment": "AR+AI融合的轻量化方案，值得关注国产AR眼镜的技术路线。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "华为 Mate 90 Air 真机曝光",
+      "summary": "Mate 90 Air 搭载麒麟9020处理器，预装鸿蒙7.0.0.115 SP13，定位高端AI手机。",
+      "link": "https://www.ithome.com/1/031/336.htm",
+      "comment": "麒麟9020是华为自研AI芯片的最新迭代，性能与功耗平衡值得关注。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "华为 WATCH Air 智能手表亮相",
+      "summary": "轻薄新标杆，提供血管健康、尿酸等专项监测，三色可选。",
+      "link": "https://www.ithome.com/1/031/332.htm",
+      "comment": "健康监测项目的细分化是华为在可穿戴领域的差异化打法。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加 16 ×《凡人》联名礼盒延期",
+      "summary": "因部分物料良率低导致礼盒备货不足，发售时间待定。",
+      "link": "https://www.ithome.com/1/031/307.htm",
+      "comment": "供应链良率问题暴露高端定制品的产能风险。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "三星 Galaxy Z Fold 8、Ultra、Flip 8 选型指南",
+      "summary": "全系折叠屏新机发布，尺寸、摄像头与续航各有侧重。",
+      "link": "https://9to5google.com/2026/11/23/samsung-folding-phone-guide/",
+      "comment": "折叠屏进入成熟期，竞争焦点转向功耗与耐用性。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Apple Watch Series 12 降价促销",
+      "summary": "黑五期间价格创历史新低，吸引首次入门用户。",
+      "link": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+      "comment": "低价策略可能压缩供应链利润空间。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy Watch 10 推迟至2027年后发布",
+      "summary": "公司计划改为两年一次大幅升级，以降低“RAMageddon”成本。",
+      "link": "https://9to5google.com/2026/11/23/samsung-galaxy-watch-10-new-schedule-report/",
+      "comment": "发布节奏放缓或为提升硬件创新空间。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Lenovo Legion Tab Gen 5 黑五折扣",
+      "summary": "原价约900美元的高端平板在促销期间降至更易接受的价位。",
+      "link": "https://9to5google.com/2026/11/23/lenovo-legion-tab-gen-5-black-friday-discount/",
+      "comment": "平板市场仍受高价阻碍，促销是提升渗透率的关键。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "三星 2026 年 Galaxy Tab 系列选购指南",
+      "summary": "从入门到旗舰，多款平板定位清晰，适配不同使用场景。",
+      "link": "https://9to5google.com/2026/11/23/which-2026-samsung-galaxy-tab-should-you-buy/",
+      "comment": "平板产品线的细分化为AI教育与企业应用提供硬件基础。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "AI 服务器交付前提价 45%",
+      "summary": "部分AI服务器供应商在交付前涨价，单订单成本上升近半。",
+      "link": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+      "comment": "",
+      "source": "ifanr",
+      "region": "国外"
+    },
+    {
+      "title": "蚂蚁集团加码AI硬件布局",
+      "summary": "新App与AI硬件同步发布，背后涉及数亿元融资用于研发与招聘。",
+      "link": "http://www.leikeji.com/article/80731",
+      "comment": "",
+      "source": "leikeji",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 48.3
+}
