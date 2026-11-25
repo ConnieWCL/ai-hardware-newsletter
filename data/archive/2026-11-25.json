@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-25",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为Mate X8折叠屏发布，硬件规格逼近三星；",
+    "[国内] 小米2026年出货目标下调至约1.2亿台，受存储芯片成本高企影响；",
+    "[国外] Nothing Ear (note) AI录音耳机将于12月8日上市，主打AI实时转写；",
+    "[国外] Beats Studio Buds Plus降至历史最低价，兼容Apple与Android；"
+  ],
+  "sections": [
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为Mate X8折叠屏手机发布",
+          "summary": "华为推出Mate X8，大幅提升折叠平整度并加入虚拟触控板，定位高端旗舰。",
+          "link": "https://www.androidauthority.com/huawei-mate-x8-foldable-launched-3738728/",
+          "comment": "硬件规格有望挑战三星和谷歌的折叠旗舰。",
+          "source": "androidauthority",
+          "region": "国内"
+        },
+        {
+          "title": "荣耀Magic 9 Lite+ 5G手机曝光",
+          "summary": "配备9530mAh大电池、8.08mm超薄机身和1.08亿像素主摄，定位中高端市场。",
+          "link": "https://www.ithome.com/1/031/939.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "一加Nord 7手机曝光",
+          "summary": "搭载9000mAh电池、80W快充和天玑8500芯片，主打长续航与高性能。",
+          "link": "https://www.ithome.com/1/031/954.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米2026年智能手机出货目标下调",
+          "summary": "受存储芯片成本高企影响，小米将2026年出货目标定为约1.2亿台，低于原计划。",
+          "link": "https://www.ithome.com/1/031/950.htm",
+          "comment": "供应链成本压力显现，需关注后续价格策略。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "Nothing Ear (note) AI录音耳机即将发售",
+          "summary": "内置AI实时转写功能的耳机，12月8日上市，定位创意工作者。",
+          "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Beats Studio Buds Plus大幅降价",
+          "summary": "降至历史最低价，兼容Apple和Android生态，主打降噪与音质。",
+          "link": "https://www.androidauthority.com/beats-studio-buds-plus-black-friday-deal-3739072/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "CMF Buds 2a入门级ANC耳机特价",
+          "summary": "价格跌至17.89美元，提供基础主动降噪，面向预算用户。",
+          "link": "https://www.androidauthority.com/cmf-buds-2a-deal-3738909/",
+          "comment": "",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "Lenovo Legion Tab Gen 5黑五特价",
+          "summary": "原价900美元的高端平板降价促销，适合游戏与生产力需求。",
+          "link": "https://9to5google.com/2026/11/23/lenovo-legion-tab-gen-5-black-friday-discount/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Pixel 11黑五特惠价692美元",
+          "summary": "谷歌旗舰Pixel 11在黑五期间降至692美元，抢占高端手机折扣市场。",
+          "link": "https://9to5google.com/2026/11/24/black-friday-deals-pixel-11-watch-5-galaxy-buds-4-pro/",
+          "comment": "",
+          "source": "9to5google",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "Elon Musk透露AI5芯片将优先用于Optimus机器人",
+          "summary": "特斯拉下一代AI5芯片将先部署在类人机器人及AI训练系统，暗示芯片算力提升。",
+          "link": "https://www.ithome.com/1/031/915.htm",
+          "comment": "",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "华为Mate X8折叠屏手机发布",
+      "summary": "华为推出Mate X8，大幅提升折叠平整度并加入虚拟触控板，定位高端旗舰。",
+      "link": "https://www.androidauthority.com/huawei-mate-x8-foldable-launched-3738728/",
+      "comment": "硬件规格有望挑战三星和谷歌的折叠旗舰。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "荣耀Magic 9 Lite+ 5G手机曝光",
+      "summary": "配备9530mAh大电池、8.08mm超薄机身和1.08亿像素主摄，定位中高端市场。",
+      "link": "https://www.ithome.com/1/031/939.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "一加Nord 7手机曝光",
+      "summary": "搭载9000mAh电池、80W快充和天玑8500芯片，主打长续航与高性能。",
+      "link": "https://www.ithome.com/1/031/954.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米2026年智能手机出货目标下调",
+      "summary": "受存储芯片成本高企影响，小米将2026年出货目标定为约1.2亿台，低于原计划。",
+      "link": "https://www.ithome.com/1/031/950.htm",
+      "comment": "供应链成本压力显现，需关注后续价格策略。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "Nothing Ear (note) AI录音耳机即将发售",
+      "summary": "内置AI实时转写功能的耳机，12月8日上市，定位创意工作者。",
+      "link": "https://9to5google.com/2026/11/23/nothing-ear-note-ai-recorder-teaser/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Beats Studio Buds Plus大幅降价",
+      "summary": "降至历史最低价，兼容Apple和Android生态，主打降噪与音质。",
+      "link": "https://www.androidauthority.com/beats-studio-buds-plus-black-friday-deal-3739072/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "CMF Buds 2a入门级ANC耳机特价",
+      "summary": "价格跌至17.89美元，提供基础主动降噪，面向预算用户。",
+      "link": "https://www.androidauthority.com/cmf-buds-2a-deal-3738909/",
+      "comment": "",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "Lenovo Legion Tab Gen 5黑五特价",
+      "summary": "原价900美元的高端平板降价促销，适合游戏与生产力需求。",
+      "link": "https://9to5google.com/2026/11/23/lenovo-legion-tab-gen-5-black-friday-discount/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Pixel 11黑五特惠价692美元",
+      "summary": "谷歌旗舰Pixel 11在黑五期间降至692美元，抢占高端手机折扣市场。",
+      "link": "https://9to5google.com/2026/11/24/black-friday-deals-pixel-11-watch-5-galaxy-buds-4-pro/",
+      "comment": "",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Elon Musk透露AI5芯片将优先用于Optimus机器人",
+      "summary": "特斯拉下一代AI5芯片将先部署在类人机器人及AI训练系统，暗示芯片算力提升。",
+      "link": "https://www.ithome.com/1/031/915.htm",
+      "comment": "",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 19.8
+}
