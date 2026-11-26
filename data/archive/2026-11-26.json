@@ -1,0 +1,148 @@
+{
+  "date": "2026-11-26",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] vivo 可能将推出搭载 2nm 天玑 9600 Pro 的旗舰手机 X500s，聚焦高性能 AI 计算。",
+    "[国内] 三星 Galaxy S27 Pro 手机壳曝光，后摄模组采用横向矩阵布局，提升散热与拍摄稳定性。",
+    "[国外] Nothing 将于 12 月 8 日发布 AI 录音耳机 Ear (note)，内置 AI 笔记功能。",
+    "[国外] Valve 推出 SteamOS 0.5.11 候选版，升级 SteamVR 2.19.5，提升无线 VR 头显体验。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Nothing Ear (note) AI 录音耳机",
+          "summary": "Nothing 将于 12 月 8 日发布内置 AI 笔记功能的 Ear (note) 耳机，支持实时转写与关键词检索。",
+          "link": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+          "comment": "面向内容创作者的 AI 录音硬件，填补耳机+笔记的细分市场。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "Valve SteamOS 0.5.11 与 SteamVR 2.19.5 更新",
+          "summary": "Valve 为 Steam Frame 无线 VR 头显发布 SteamOS 0.5.11 候选版，升级 SteamVR，优化透视与串流性能。",
+          "link": "https://www.ithome.com/1/032/536.htm",
+          "comment": "提升 PC 端 VR 体验，推动高端无线头显生态。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "vivo 预计发布搭载 2nm 天玑 9600 Pro 的 X500s",
+          "summary": "据 IT之家爆料，vivo 将使用联发科 2nm 天玑 9600 Pro 芯片，提供独家定制 AI 加速，定位高端旗舰。",
+          "link": "https://www.ithome.com/1/032/566.htm",
+          "comment": "2nm 制程将显著提升功耗效率，对 AI 任务尤为友好。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "三星 Galaxy S27 Pro 手机壳曝光",
+          "summary": "Thinborne 发布适配 Galaxy S27 系列的手机壳，后摄模组采用横向矩阵方案，提升散热与拍摄稳定性。",
+          "link": "https://www.ithome.com/1/032/561.htm",
+          "comment": "虽为配件，但体现高端手机摄像模组的硬件创新。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "荣耀首款宽幅折叠屏手机预告",
+          "summary": "荣耀计划于 2027 年 3 月推出首款宽幅折叠屏手机，采用全新无缝铰链，定位高端商务。",
+          "link": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
+          "comment": "折叠屏竞争加剧，荣耀以宽幅布局差异化。",
+          "source": "androidauthority",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三部委发布《新一代通信网建设实施方案》",
+          "summary": "工信部等三部委提出网络运维新范式，探索大小模型、人机、机机协同，推动网络大模型落地。",
+          "link": "https://www.ithome.com/1/032/562.htm",
+          "comment": "为 AI 边缘算力与网络协同提供政策支撑。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "融资与招聘信号",
+      "items": [
+        {
+          "title": "ElevenLabs 2027 年融资谈判",
+          "summary": "AI 语音初创公司 ElevenLabs 正在进行新一轮融资，目标估值 330 亿美元，计划扩招研发团队。",
+          "link": "https://www.ithome.com/1/032/548.htm",
+          "comment": "大额融资暗示 AI 语音硬件（如智能音箱）需求增长。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Nothing Ear (note) AI 录音耳机",
+      "summary": "Nothing 将于 12 月 8 日发布内置 AI 笔记功能的 Ear (note) 耳机，支持实时转写与关键词检索。",
+      "link": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+      "comment": "面向内容创作者的 AI 录音硬件，填补耳机+笔记的细分市场。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "Valve SteamOS 0.5.11 与 SteamVR 2.19.5 更新",
+      "summary": "Valve 为 Steam Frame 无线 VR 头显发布 SteamOS 0.5.11 候选版，升级 SteamVR，优化透视与串流性能。",
+      "link": "https://www.ithome.com/1/032/536.htm",
+      "comment": "提升 PC 端 VR 体验，推动高端无线头显生态。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "vivo 预计发布搭载 2nm 天玑 9600 Pro 的 X500s",
+      "summary": "据 IT之家爆料，vivo 将使用联发科 2nm 天玑 9600 Pro 芯片，提供独家定制 AI 加速，定位高端旗舰。",
+      "link": "https://www.ithome.com/1/032/566.htm",
+      "comment": "2nm 制程将显著提升功耗效率，对 AI 任务尤为友好。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "三星 Galaxy S27 Pro 手机壳曝光",
+      "summary": "Thinborne 发布适配 Galaxy S27 系列的手机壳，后摄模组采用横向矩阵方案，提升散热与拍摄稳定性。",
+      "link": "https://www.ithome.com/1/032/561.htm",
+      "comment": "虽为配件，但体现高端手机摄像模组的硬件创新。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "荣耀首款宽幅折叠屏手机预告",
+      "summary": "荣耀计划于 2027 年 3 月推出首款宽幅折叠屏手机，采用全新无缝铰链，定位高端商务。",
+      "link": "https://www.androidauthority.com/honor-wide-foldable-march-2027-launch-creaseless-display-3738885/",
+      "comment": "折叠屏竞争加剧，荣耀以宽幅布局差异化。",
+      "source": "androidauthority",
+      "region": "国内"
+    },
+    {
+      "title": "三部委发布《新一代通信网建设实施方案》",
+      "summary": "工信部等三部委提出网络运维新范式，探索大小模型、人机、机机协同，推动网络大模型落地。",
+      "link": "https://www.ithome.com/1/032/562.htm",
+      "comment": "为 AI 边缘算力与网络协同提供政策支撑。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "ElevenLabs 2027 年融资谈判",
+      "summary": "AI 语音初创公司 ElevenLabs 正在进行新一轮融资，目标估值 330 亿美元，计划扩招研发团队。",
+      "link": "https://www.ithome.com/1/032/548.htm",
+      "comment": "大额融资暗示 AI 语音硬件（如智能音箱）需求增长。",
+      "source": "ithome",
+      "region": "国外"
+    }
+  ],
+  "elapsed_sec": 34.9
+}
