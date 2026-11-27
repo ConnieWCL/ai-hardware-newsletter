@@ -1,0 +1,196 @@
+{
+  "date": "2026-11-27",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 华为首款鸿蒙小折叠电脑 MateBook Fold S 今日开售，起售价 14999 元，定位高端商务折叠笔记本。",
+    "[国内] 小米在广州车展发布 HyperOS 1.20，加入因果链与车端世界模型，提升车载 AI 能力。",
+    "[国外] 苹果正研发巨型可折叠 iPad（Project J312），展开后屏幕尺寸达 19~20 英寸，或成史上最大平板。",
+    "[国外] Samsung 正在测试名为 SPAC 的私有云框架，旨在为 Galaxy AI 提供类似 Apple 私有云的服务。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Nothing Ear (note) AI 录音耳机",
+          "summary": "Nothing 将于 12 月 8 日推出内置 AI 记笔记功能的 Ear (note) 耳机，兼具耳机与录音卡双重属性。",
+          "link": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+          "comment": "开启耳机即录音的全新交互模式，适合内容创作者。",
+          "source": "engadget",
+          "region": "国外"
+        },
+        {
+          "title": "iPhone Duo 折叠手机使用体验",
+          "summary": "TechCrunch 报道作者使用一月的 iPhone Duo，发现其大屏折叠提升阅读与生产力，改变日常使用习惯。",
+          "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+          "comment": "折叠手机在实际场景中的价值逐步显现。",
+          "source": "techcrunch",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "华为 MateBook Fold S 小折叠电脑",
+          "summary": "华为首款鸿蒙小折叠电脑，14.7 英寸 OLED 屏，搭载麒麟 XE90 芯片，起售价 14999 元（国补后 13499 元）。",
+          "link": "https://www.ithome.com/1/033/182.htm",
+          "comment": "定位高端商务，填补国产折叠笔记本空白。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 MIX Fold 2 终止软件支持",
+          "summary": "小米官方更新 EOS 列表，MIX Fold 2 将于近期停止系统更新，提醒用户关注后续换机计划。",
+          "link": "https://www.ithome.com/1/033/146.htm",
+          "comment": "折叠机型生命周期缩短，暗示行业加速迭代。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米 HyperOS 1.20 发布",
+          "summary": "在广州车展上，小米发布 HAD 最新版本 HyperOS 1.20，加入因果链与车端世界模型，提升车载 AI 推理能力。",
+          "link": "https://www.ithome.com/1/033/179.htm",
+          "comment": "车载系统软硬件深度融合的关键一步。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外 · 新品发布与规格拆解",
+      "items": [
+        {
+          "title": "苹果巨型折叠 iPad 项目曝光",
+          "summary": "Mark Gurman 披露苹果内部 Project J312，目标是推出展开后 19~20 英寸的巨型折叠 iPad，定位高端生产力设备。",
+          "link": "https://www.ithome.com/1/033/162.htm",
+          "comment": "若实现，将刷新平板尺寸上限。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "三星 Galaxy S27 Pro/Ultra 机模曝光",
+          "summary": "YouTube 博主展示 S27 Pro 与 S27 Ultra 机模，采用矩阵相机岛设计，暗示新一代高像素摄像系统。",
+          "link": "https://www.ithome.com/1/033/136.htm",
+          "comment": "相机模组布局创新，提升拍摄体验。",
+          "source": "ithome",
+          "region": "国外"
+        },
+        {
+          "title": "Engadget 黑五精选 10 款硬件促销",
+          "summary": "Engadget 汇总 10 款热销硬件，包括 Samsung 折叠旗舰与 Apple 相关产品，均已进入黑五折扣。",
+          "link": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+          "comment": "折叠屏与 AI 设备进入消费主流。",
+          "source": "engadget",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "三星 SPAC 私有云框架曝光",
+          "summary": "Android Authority 通过 One UI 9.5 Beta 代码发现 SPAC 框架，旨在为 Galaxy AI 提供类似 Apple 私有云的匿名云处理。",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
+          "comment": "提升 Android 端 AI 隐私与算力分配。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "智谱 GLM-5.5 延期辟谣",
+          "summary": "智谱高管澄清 GLM-5.5 跳票传闻为假，表示性能仍在 Fable 级别，国产 AI 卡进展顺利。",
+          "link": "http://www.geekpark.net/news/374546",
+          "comment": "国产大模型研发保持稳健。",
+          "source": "geekpark",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Nothing Ear (note) AI 录音耳机",
+      "summary": "Nothing 将于 12 月 8 日推出内置 AI 记笔记功能的 Ear (note) 耳机，兼具耳机与录音卡双重属性。",
+      "link": "https://www.engadget.com/2328122/nothings-ear-note-is-a-pair-of-earbuds-with-built-in-ai-notetaking/",
+      "comment": "开启耳机即录音的全新交互模式，适合内容创作者。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "iPhone Duo 折叠手机使用体验",
+      "summary": "TechCrunch 报道作者使用一月的 iPhone Duo，发现其大屏折叠提升阅读与生产力，改变日常使用习惯。",
+      "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "comment": "折叠手机在实际场景中的价值逐步显现。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "华为 MateBook Fold S 小折叠电脑",
+      "summary": "华为首款鸿蒙小折叠电脑，14.7 英寸 OLED 屏，搭载麒麟 XE90 芯片，起售价 14999 元（国补后 13499 元）。",
+      "link": "https://www.ithome.com/1/033/182.htm",
+      "comment": "定位高端商务，填补国产折叠笔记本空白。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 MIX Fold 2 终止软件支持",
+      "summary": "小米官方更新 EOS 列表，MIX Fold 2 将于近期停止系统更新，提醒用户关注后续换机计划。",
+      "link": "https://www.ithome.com/1/033/146.htm",
+      "comment": "折叠机型生命周期缩短，暗示行业加速迭代。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米 HyperOS 1.20 发布",
+      "summary": "在广州车展上，小米发布 HAD 最新版本 HyperOS 1.20，加入因果链与车端世界模型，提升车载 AI 推理能力。",
+      "link": "https://www.ithome.com/1/033/179.htm",
+      "comment": "车载系统软硬件深度融合的关键一步。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "苹果巨型折叠 iPad 项目曝光",
+      "summary": "Mark Gurman 披露苹果内部 Project J312，目标是推出展开后 19~20 英寸的巨型折叠 iPad，定位高端生产力设备。",
+      "link": "https://www.ithome.com/1/033/162.htm",
+      "comment": "若实现，将刷新平板尺寸上限。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "三星 Galaxy S27 Pro/Ultra 机模曝光",
+      "summary": "YouTube 博主展示 S27 Pro 与 S27 Ultra 机模，采用矩阵相机岛设计，暗示新一代高像素摄像系统。",
+      "link": "https://www.ithome.com/1/033/136.htm",
+      "comment": "相机模组布局创新，提升拍摄体验。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "Engadget 黑五精选 10 款硬件促销",
+      "summary": "Engadget 汇总 10 款热销硬件，包括 Samsung 折叠旗舰与 Apple 相关产品，均已进入黑五折扣。",
+      "link": "https://www.engadget.com/2328876/black-friday-2026-deals-on-reviewed-gadgets/",
+      "comment": "折叠屏与 AI 设备进入消费主流。",
+      "source": "engadget",
+      "region": "国外"
+    },
+    {
+      "title": "三星 SPAC 私有云框架曝光",
+      "summary": "Android Authority 通过 One UI 9.5 Beta 代码发现 SPAC 框架，旨在为 Galaxy AI 提供类似 Apple 私有云的匿名云处理。",
+      "link": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
+      "comment": "提升 Android 端 AI 隐私与算力分配。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "智谱 GLM-5.5 延期辟谣",
+      "summary": "智谱高管澄清 GLM-5.5 跳票传闻为假，表示性能仍在 Fable 级别，国产 AI 卡进展顺利。",
+      "link": "http://www.geekpark.net/news/374546",
+      "comment": "国产大模型研发保持稳健。",
+      "source": "geekpark",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 31.9
+}
