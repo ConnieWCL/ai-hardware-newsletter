@@ -1,0 +1,212 @@
+{
+  "date": "2026-11-28",
+  "mode": "llm",
+  "candidates": 100,
+  "overview": [
+    "[国内] 小米 REDMI Turbo 6 系列通过 3C 认证，支持 100W 有线快充，展示国产高功率充电技术。",
+    "[国内] 小米澎程 OTA 1.20 推出 iPhone 数字钥匙功能，提升跨平台互联体验。",
+    "[国内] 智元精灵 G2 机器人在产线承担喇叭 BOX 安装，实现并线生产，标志工业机器人在细分装配环节的落地。",
+    "[国外] 苹果 iOS 27.3 Beta 透露 Siri AI 每日 20 次云端请求上限，展示 AI 使用频次管控策略。"
+  ],
+  "sections": [
+    {
+      "name": "新形态智能硬件",
+      "items": [
+        {
+          "title": "Xreal 智能显示眼镜全线黑五特惠",
+          "summary": "Xreal 所有型号的 AR/VR 智能眼镜进入黑五促销，价格大幅下降，提升消费入口。",
+          "link": "https://9to5google.com/2026/11/27/all-xreal-glasses-black-friday-sale-2026/",
+          "comment": "价格压低有望加速海外市场渗透。",
+          "source": "9to5google",
+          "region": "国外"
+        },
+        {
+          "title": "Meta Quest 3S 与 Pimax 等 VR 头显黑五折扣",
+          "summary": "Meta Quest 3S、Pimax 以及 Bigscreen Beyond 2 等主流 VR 头显在黑五期间提供显著折扣，推动消费升级。",
+          "link": "https://roadtovr.com/black-friday-cyber-monday-vr-deals-quest-pimax-bigscreen-2026/",
+          "comment": "折扣期是抢占 VR 市场份额的关键窗口。",
+          "source": "roadtovr",
+          "region": "国外"
+        },
+        {
+          "title": "Apple iPad Mini 首次大幅降价",
+          "summary": "iPad Mini 在黑五期间首次出现百元级降价，降低入门门槛，可能刺激教育与轻量办公需求。",
+          "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+          "comment": "价格策略显示 Apple 在细分平板市场的渗透意图。",
+          "source": "the-verge",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "国内·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "小米 REDMI Turbo 6 系列通过 3C 认证，支持 100W 有线快充",
+          "summary": "新机型 M407CF 获得国家 3C 认证，配备 100W 有线快充适配器，彰显小米在高功率充电技术上的突破。",
+          "link": "https://www.ithome.com/1/033/799.htm",
+          "comment": "快充是国产手机竞争的关键差异点。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "小米澎程 OTA 1.20 全量推送，新增 iPhone 数字钥匙功能",
+          "summary": "本次 OTA 适配 N70、N90 全系车型，加入 iPhone 数字钥匙并降低城区领航辅助门槛至 100 公里。",
+          "link": "https://www.ithome.com/1/033/747.htm",
+          "comment": "跨平台钥匙功能提升生态黏性。",
+          "source": "ithome",
+          "region": "国内"
+        },
+        {
+          "title": "智元精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务",
+          "summary": "机器人已从质检上下料扩展至精密装配，实现并线生产，标志工业机器人在细分装配环节的落地。",
+          "link": "https://www.ithome.com/1/033/744.htm",
+          "comment": "机器人多功能化提升产线柔性。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    },
+    {
+      "name": "国外·新品发布与规格拆解",
+      "items": [
+        {
+          "title": "iPhone Duo 折叠机型使用报告：阅读、戒除刷屏",
+          "summary": "用户在使用 iPhone Duo 一个月后，发现其折叠形态提升阅读体验并帮助减少无意义的刷屏。",
+          "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+          "comment": "折叠屏在提升生产力方面的潜力初现。",
+          "source": "techcrunch",
+          "region": "国外"
+        },
+        {
+          "title": "Samsung 私有云 SPAC 框架用于 Galaxy AI 请求",
+          "summary": "One UI 9.5 Beta 代码显示 Samsung 正在研发名为 SPAC 的私有云框架，以匿名化方式处理 Galaxy AI 请求。",
+          "link": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
+          "comment": "与 Apple 私有云策略形成竞争格局。",
+          "source": "androidauthority",
+          "region": "国外"
+        },
+        {
+          "title": "iOS 27.3 Beta 揭示 Siri AI 每日 20 次云端请求上限",
+          "summary": "通过 iOS 27.3 Beta 2 开发者预览，发现 Apple 为 Siri AI 设置每日 20 次的云端请求配额。",
+          "link": "https://www.ithome.com/1/033/795.htm",
+          "comment": "配额限制可能影响 AI 功能的日常渗透。",
+          "source": "ithome",
+          "region": "国外"
+        }
+      ]
+    },
+    {
+      "name": "技术与芯片动向",
+      "items": [
+        {
+          "title": "OpenAI 反诉苹果窃密，指控阻碍 AI 硬件合作",
+          "summary": "OpenAI 在加州联邦法院起诉苹果窃取商业机密并阻碍其与硬件供应商的合作，凸显 AI 硬件生态的竞争激烈。",
+          "link": "http://www.geekpark.net/news/374621",
+          "comment": "诉讼可能影响苹果未来的 AI 芯片布局。",
+          "source": "geekpark",
+          "region": "国外"
+        },
+        {
+          "title": "社区移植《GTA 6》至 Apple M 系列芯片 Mac，1080P 最高 6FPS",
+          "summary": "开发者在 Apple M 芯片上成功运行《GTA 6》部分场景，展示 M 系列在高负载图形计算上的潜力。",
+          "link": "https://www.ithome.com/1/033/778.htm",
+          "comment": "证明 Apple Silicon 在游戏移植方面的可行性。",
+          "source": "ithome",
+          "region": "国内"
+        }
+      ]
+    }
+  ],
+  "items": [
+    {
+      "title": "Xreal 智能显示眼镜全线黑五特惠",
+      "summary": "Xreal 所有型号的 AR/VR 智能眼镜进入黑五促销，价格大幅下降，提升消费入口。",
+      "link": "https://9to5google.com/2026/11/27/all-xreal-glasses-black-friday-sale-2026/",
+      "comment": "价格压低有望加速海外市场渗透。",
+      "source": "9to5google",
+      "region": "国外"
+    },
+    {
+      "title": "Meta Quest 3S 与 Pimax 等 VR 头显黑五折扣",
+      "summary": "Meta Quest 3S、Pimax 以及 Bigscreen Beyond 2 等主流 VR 头显在黑五期间提供显著折扣，推动消费升级。",
+      "link": "https://roadtovr.com/black-friday-cyber-monday-vr-deals-quest-pimax-bigscreen-2026/",
+      "comment": "折扣期是抢占 VR 市场份额的关键窗口。",
+      "source": "roadtovr",
+      "region": "国外"
+    },
+    {
+      "title": "Apple iPad Mini 首次大幅降价",
+      "summary": "iPad Mini 在黑五期间首次出现百元级降价，降低入门门槛，可能刺激教育与轻量办公需求。",
+      "link": "https://www.theverge.com/gadgets/1042705/ipad-mini-black-friday-deal-sale-2026",
+      "comment": "价格策略显示 Apple 在细分平板市场的渗透意图。",
+      "source": "the-verge",
+      "region": "国外"
+    },
+    {
+      "title": "小米 REDMI Turbo 6 系列通过 3C 认证，支持 100W 有线快充",
+      "summary": "新机型 M407CF 获得国家 3C 认证，配备 100W 有线快充适配器，彰显小米在高功率充电技术上的突破。",
+      "link": "https://www.ithome.com/1/033/799.htm",
+      "comment": "快充是国产手机竞争的关键差异点。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "小米澎程 OTA 1.20 全量推送，新增 iPhone 数字钥匙功能",
+      "summary": "本次 OTA 适配 N70、N90 全系车型，加入 iPhone 数字钥匙并降低城区领航辅助门槛至 100 公里。",
+      "link": "https://www.ithome.com/1/033/747.htm",
+      "comment": "跨平台钥匙功能提升生态黏性。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "智元精灵 G2 机器人在龙旗科技产线正式承担喇叭 BOX 安装任务",
+      "summary": "机器人已从质检上下料扩展至精密装配，实现并线生产，标志工业机器人在细分装配环节的落地。",
+      "link": "https://www.ithome.com/1/033/744.htm",
+      "comment": "机器人多功能化提升产线柔性。",
+      "source": "ithome",
+      "region": "国内"
+    },
+    {
+      "title": "iPhone Duo 折叠机型使用报告：阅读、戒除刷屏",
+      "summary": "用户在使用 iPhone Duo 一个月后，发现其折叠形态提升阅读体验并帮助减少无意义的刷屏。",
+      "link": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "comment": "折叠屏在提升生产力方面的潜力初现。",
+      "source": "techcrunch",
+      "region": "国外"
+    },
+    {
+      "title": "Samsung 私有云 SPAC 框架用于 Galaxy AI 请求",
+      "summary": "One UI 9.5 Beta 代码显示 Samsung 正在研发名为 SPAC 的私有云框架，以匿名化方式处理 Galaxy AI 请求。",
+      "link": "https://www.androidauthority.com/samsung-one-ui-9-5-spac-private-cloud-galaxy-ai-apk-teardown-3739743/",
+      "comment": "与 Apple 私有云策略形成竞争格局。",
+      "source": "androidauthority",
+      "region": "国外"
+    },
+    {
+      "title": "iOS 27.3 Beta 揭示 Siri AI 每日 20 次云端请求上限",
+      "summary": "通过 iOS 27.3 Beta 2 开发者预览，发现 Apple 为 Siri AI 设置每日 20 次的云端请求配额。",
+      "link": "https://www.ithome.com/1/033/795.htm",
+      "comment": "配额限制可能影响 AI 功能的日常渗透。",
+      "source": "ithome",
+      "region": "国外"
+    },
+    {
+      "title": "OpenAI 反诉苹果窃密，指控阻碍 AI 硬件合作",
+      "summary": "OpenAI 在加州联邦法院起诉苹果窃取商业机密并阻碍其与硬件供应商的合作，凸显 AI 硬件生态的竞争激烈。",
+      "link": "http://www.geekpark.net/news/374621",
+      "comment": "诉讼可能影响苹果未来的 AI 芯片布局。",
+      "source": "geekpark",
+      "region": "国外"
+    },
+    {
+      "title": "社区移植《GTA 6》至 Apple M 系列芯片 Mac，1080P 最高 6FPS",
+      "summary": "开发者在 Apple M 芯片上成功运行《GTA 6》部分场景，展示 M 系列在高负载图形计算上的潜力。",
+      "link": "https://www.ithome.com/1/033/778.htm",
+      "comment": "证明 Apple Silicon 在游戏移植方面的可行性。",
+      "source": "ithome",
+      "region": "国内"
+    }
+  ],
+  "elapsed_sec": 28.6
+}
